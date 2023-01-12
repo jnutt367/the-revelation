@@ -14,8 +14,8 @@ export default function Home() {
       <main className={styles.main}>
       
         <h1 className={styles.title}>
-        <a>1</a>
-         <a href="https://en.wikipedia.org/wiki/1_Thessalonians_1">Thessalonians</a>
+      
+         <a href="https://en.wikipedia.org/wiki/1_Thessalonians_1">I Thessalonians</a>
         </h1>
         <div className={styles.hero}>
        <Image 
