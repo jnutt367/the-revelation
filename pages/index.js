@@ -39,7 +39,7 @@ export default function Home() {
             <h2>Chapter 1 &darr;</h2>
             <p>1 Paul, Silas[a] and Timothy,
 
-To the church of the Thessalonians in God the Father and the Lord Jesus Christ:
+To the church of the Thessalonians in God the Father & the Lord Jesus Christ:
 
 Grace and peace to you.
 
