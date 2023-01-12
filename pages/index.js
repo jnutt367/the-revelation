@@ -17,28 +17,22 @@ export default function Home() {
         <a>1</a>
          <a href="https://en.wikipedia.org/wiki/1_Thessalonians_1">Thessalonians</a>
         </h1>
-        <div className={styles.flex}>
-           
-
-<a className={styles.code} href="https://the-holy-bible.vercel.app">HOME</a>
-            <a href="https://index-olive-two.vercel.app/">
-            <button className={styles.code}>
-                INDEX
-            </button>
-            </a>
-        </div>
-        <p className={styles.description}>
-        
-          <code className={styles.publisher}>&darr; Scroll &darr;</code>
-        </p>
-
-
-        <p className={styles.h2}>
-        <span className={styles.span}> &darr; Romans 1:16 &rarr; </span>
-          For I am not ashamed of the  gospel, because it is the power
-          of God that brings salvation to everyone who believes. First the Jew & then the Gentile
-        </p>
-    
+        <div className={styles.hero}>
+       <Image 
+                                src="/first-thessalonians.jpg"
+                                alt="Jesus teaching"
+                                height={900}
+                                width={2000}
+                                priority
+                              />
+                          
+       <a href="https://the-holy-bible.vercel.app/">
+            <button className={styles.button}>HOME</button>
+       </a>
+         <a href="https://the-holy-bible.vercel.app/">
+            <button className={styles.button}>BOOKMARK</button>
+       </a>           
+     
 
         <div className={styles.grid}>
           <div className={styles.card}>
@@ -121,6 +115,7 @@ Final Instructions
 </div>
 
         </div>
+</div>
       </main>
 
       <footer className={styles.footer}>
