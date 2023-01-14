@@ -15,7 +15,7 @@ export default function Home() {
       
         <h1 className={styles.title}>
       
-         <a href="https://en.wikipedia.org/wiki/1_Thessalonians_1">The Book Of</a>
+       The Book Of
         </h1>
         <div className={styles.hero}>
        <Image 
