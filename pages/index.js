@@ -15,11 +15,11 @@ export default function Home() {
       
         <h1 className={styles.title}>
       
-       The Book Of
+      I THESSALONIANS
         </h1>
         <div className={styles.hero}>
        <Image 
-                                src="/1_Thessalonians.jpg"
+                                src="/pexels-photo-4200823.webp"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
