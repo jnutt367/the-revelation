@@ -182,7 +182,7 @@
 
 .card {
     color: white;
-    margin: 1rem;
+    margin: 1.5rem;
     padding: 1.5rem;
     text-align: left;
     max-height: 300px;
@@ -191,7 +191,7 @@
     border: 1px solid #eaeaea;
     border-radius: 10px;
     transition: color 1s ease, border-color 0.15s ease;
-    max-width: 100%;
+    max-width: 500px;
     font-family: monospace;
 }
 
@@ -285,7 +285,7 @@
     }
     .card {
        margin: 0;
-       margin-top: 1rem;
+       margin-top: 5rem;
        max-width: 100%;
     }
 }
