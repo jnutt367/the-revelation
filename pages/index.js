@@ -68,7 +68,7 @@ export default function Home() {
                </div>
         <div className={styles.grid}>
           <div className={styles.card}>
-            <h2>Chapter 1 &darr;</h2>
+            <h2 className={styles.chapter}>I Thess... Chapter I</h2>
             <p>1 Paul, Silas[a] and Timothy,
 
 To the church of the Thessalonians in God the Father & the Lord Jesus Christ:
@@ -82,7 +82,7 @@ Thanksgiving for the Thessalonians’ Faith
           </div>
 
           <div className={styles.card}>
-            <h2>Chapter 2 &rarr;</h2>
+           <h2 className={styles.chapter}>I Thess... Chapter II</h2>
             <p>Paul’s Ministry in Thessalonica
 2 You know, brothers and sisters, that our visit to you was not without results. 2 We had previously suffered and been treated outrageously in Philippi, as you know, but with the help of our God we dared to tell you his gospel in the face of strong opposition. 3 For the appeal we make does not spring from error or impure motives, nor are we trying to trick you. 4 On the contrary, we speak as those approved by God to be entrusted with the gospel. We are not trying to please people but God, who tests our hearts. 5 You know we never used flattery, nor did we put on a mask to cover up greed—God is our witness. 6 We were not looking for praise from people, not from you or anyone else, even though as apostles of Christ we could have asserted our authority. 7 Instead, we were like young children[a] among you.
 
@@ -95,7 +95,7 @@ Paul’s Longing to See the Thessalonians
           </div>
 
           <div className={styles.card}>
-            <h2>Chapter 3 &darr;</h2>
+           <h2 className={styles.chapter}>I Thess... Chapter II</h2>
             <p>3 So when we could stand it no longer, we thought it best to be left by ourselves in Athens. 2 We sent Timothy, who is our brother and co-worker in God’s service in spreading the gospel of Christ, to strengthen and encourage you in your faith, 3 so that no one would be unsettled by these trials. For you know quite well that we are destined for them. 4 In fact, when we were with you, we kept telling you that we would be persecuted. And it turned out that way, as you well know. 5 For this reason, when I could stand it no longer, I sent to find out about your faith. I was afraid that in some way the tempter had tempted you and that our labors might have been in vain.
 
 Timothy’s Encouraging Report
@@ -107,7 +107,7 @@ Timothy’s Encouraging Report
           <div
             className={styles.card}
           >
-            <h2>Chapter 4 &darr;</h2>
+           <h2 className={styles.chapter}>I Thess... Chapter IV</h2>
             <p>
             Living to Please God
 4 As for other matters, brothers and sisters, we instructed you how to live in order to please God, as in fact you are living. Now we ask you and urge you in the Lord Jesus to do this more and more. 2 For you know what instructions we gave you by the authority of the Lord Jesus.
@@ -124,7 +124,7 @@ Believers Who Have Died
           </div>
 <div className={styles.card}>
 
-<h2>Chapter 5 &darr;</h2>
+<h2 className={styles.chapter}>I Thess... Chapter V</h2>
 <p>
 The Day of the Lord
 5 Now, brothers and sisters, about times and dates we do not need to write to you, 2 for you know very well that the day of the Lord will come like a thief in the night. 3 While people are saying, “Peace and safety,” destruction will come on them suddenly, as labor pains on a pregnant woman, and they will not escape.
