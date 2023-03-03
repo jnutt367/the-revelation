@@ -38,8 +38,8 @@ export default function Home() {
              <Image 
                                 src="/chevron-left.svg"
                                 alt="left"
-                                 height={75}
-                                width={75}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
@@ -48,8 +48,8 @@ export default function Home() {
             <Image 
                                 src="/chevron-down.svg"
                                 alt="down"
-                                 height={75}
-                                width={75}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
@@ -58,8 +58,8 @@ export default function Home() {
            <Image 
                                 src="/chevron-right.svg"
                                 alt="right"
-                                 height={75}
-                                width={75}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
