@@ -71,81 +71,129 @@ export default function Home() {
                 </div>        
       <div className={styles.grid}>
           <div className={styles.card}>
-            <h2 className={styles.chapter}>I Thess... Chapter I</h2>
-            <p>1 Paul, Silas[a] and Timothy,
+            <h2 className={styles.chapter}>The Revelation Chpt I</h2>
+            <p>
+              The revelation from Jesus Christ, which God gave him to show his servants what must soon take place. He made it known by sending his angel to his servant John, 2 who testifies to everything he saw—that is, the word of God and the testimony of Jesus Christ. 3 
+Blessed is the one who reads aloud the words of this prophecy, and blessed are those who hear it and take to heart what is written in it, because the time is near.
 
-To the church of the Thessalonians in God the Father & the Lord Jesus Christ:
+Greetings and Doxology
+4 John,
 
-Grace and peace to you.
+To the seven churches in the province of Asia:
 
-Thanksgiving for the Thessalonians’ Faith
-2 We always thank God for all of you and continually mention you in our prayers. 3 We remember before our God and Father your work produced by faith, your labor prompted by love, and your endurance inspired by hope in our Lord Jesus Christ.
+Grace and peace to you from him who is, and who was, and who is to come, and from the seven spirits[a] before his throne, 5 and from Jesus Christ, who is the faithful witness, the firstborn from the dead, and the ruler of the kings of the earth.
 
-4 For we know, brothers and sisters[b] loved by God, that he has chosen you, 5 because our gospel came to you not simply with words but also with power, with the Holy Spirit and deep conviction. You know how we lived among you for your sake. 6 You became imitators of us and of the Lord, for you welcomed the message in the midst of severe suffering with the joy given by the Holy Spirit. 7 And so you became a model to all the believers in Macedonia and Achaia. 8 The Lord’s message rang out from you not only in Macedonia and Achaia—your faith in God has become known everywhere. Therefore we do not need to say anything about it, 9 for they themselves report what kind of reception you gave us. They tell how you turned to God from idols to serve the living and true God, 10 and to wait for his Son from heaven, whom he raised from the dead—Jesus, who rescues us from the coming wrath.</p>
-          </div>
+To him who loves us and has freed us from our sins by his blood, 6 and has made us to be a kingdom and priests to serve his God and Father—to him be glory and power for ever and ever! Amen.
+
+7 “Look, he is coming with the clouds,”[b]
+    and “every eye will see him,
+even those who pierced him”;
+    and all peoples on earth “will mourn because of him.”[c]
+So shall it be! Amen.
+
+8 “I am the Alpha and the Omega,” says the Lord God, “who is, and who was, and who is to come, the Almighty.”
+
+John’s Vision of Christ
+9 I, John, your brother and companion in the suffering and kingdom and patient endurance that are ours in Jesus, was on the island of Patmos because of the word of God and the testimony of Jesus. 10 On the Lord’s Day I was in the Spirit, and I heard behind me a loud voice like a trumpet, 11 which said: “Write on a scroll what you see and send it to the seven churches: to Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia and Laodicea.”
+
+12 I turned around to see the voice that was speaking to me. And when I turned I saw seven golden lampstands, 13 and among the lampstands was someone like a son of man,[d] dressed in a robe reaching down to his feet and with a golden sash around his chest. 14 The hair on his head was white like wool, as white as snow, and his eyes were like blazing fire. 15 His feet were like bronze glowing in a furnace, and his voice was like the sound of rushing waters. 16 In his right hand he held seven stars, and coming out of his mouth was a sharp, double-edged sword. His face was like the sun shining in all its brilliance.
+
+17 When I saw him, I fell at his feet as though dead. Then he placed his right hand on me and said: “Do not be afraid. I am the First and the Last. 18 I am the Living One; I was dead, and now look, I am alive for ever and ever! And I hold the keys of death and Hades.
+
+19 “Write, therefore, what you have seen, what is now and what will take place later. 20 The mystery of the seven stars that you saw in my right hand and of the seven golden lampstands is this: The seven stars are the angels[e] of the seven churches, and the seven lampstands are the seven churches.
+              </p>
+              </div>
 
           <div className={styles.card}>
-           <h2 className={styles.chapter}>I Thess... Chapter II</h2>
-            <p>Paul’s Ministry in Thessalonica
-2 You know, brothers and sisters, that our visit to you was not without results. 2 We had previously suffered and been treated outrageously in Philippi, as you know, but with the help of our God we dared to tell you his gospel in the face of strong opposition. 3 For the appeal we make does not spring from error or impure motives, nor are we trying to trick you. 4 On the contrary, we speak as those approved by God to be entrusted with the gospel. We are not trying to please people but God, who tests our hearts. 5 You know we never used flattery, nor did we put on a mask to cover up greed—God is our witness. 6 We were not looking for praise from people, not from you or anyone else, even though as apostles of Christ we could have asserted our authority. 7 Instead, we were like young children[a] among you.
+           <h2 className={styles.chapter}>The Revelation Chpt II</h2>
+            <p>To the Church in Ephesus
+2 “To the angel[a] of the church in Ephesus write:
 
-Just as a nursing mother cares for her children, 8 so we cared for you. Because we loved you so much, we were delighted to share with you not only the gospel of God but our lives as well. 9 Surely you remember, brothers and sisters, our toil and hardship; we worked night and day in order not to be a burden to anyone while we preached the gospel of God to you. 10 You are witnesses, and so is God, of how holy, righteous and blameless we were among you who believed. 11 For you know that we dealt with each of you as a father deals with his own children, 12 encouraging, comforting and urging you to live lives worthy of God, who calls you into his kingdom and glory.
+These are the words of him who holds the seven stars in his right hand and walks among the seven golden lampstands. 2 I know your deeds, your hard work and your perseverance. I know that you cannot tolerate wicked people, that you have tested those who claim to be apostles but are not, and have found them false. 3 You have persevered and have endured hardships for my name, and have not grown weary.
 
-13 And we also thank God continually because, when you received the word of God, which you heard from us, you accepted it not as a human word, but as it actually is, the word of God, which is indeed at work in you who believe. 14 For you, brothers and sisters, became imitators of God’s churches in Judea, which are in Christ Jesus: You suffered from your own people the same things those churches suffered from the Jews 15 who killed the Lord Jesus and the prophets and also drove us out. They displease God and are hostile to everyone 16 in their effort to keep us from speaking to the Gentiles so that they may be saved. In this way they always heap up their sins to the limit. The wrath of God has come upon them at last.[b]
+4 Yet I hold this against you: You have forsaken the love you had at first. 5 Consider how far you have fallen! Repent and do the things you did at first. If you do not repent, I will come to you and remove your lampstand from its place. 6 But you have this in your favor: You hate the practices of the Nicolaitans, which I also hate.
 
-Paul’s Longing to See the Thessalonians
-17 But, brothers and sisters, when we were orphaned by being separated from you for a short time (in person, not in thought), out of our intense longing we made every effort to see you. 18 For we wanted to come to you—certainly I, Paul, did, again and again—but Satan blocked our way. 19 For what is our hope, our joy, or the crown in which we will glory in the presence of our Lord Jesus when he comes? Is it not you? 20 Indeed, you are our glory and joy.</p>
-          </div>
+7 Whoever has ears, let them hear what the Spirit says to the churches. To the one who is victorious, I will give the right to eat from the tree of life, which is in the paradise of God.
 
-          <div className={styles.card}>
-           <h2 className={styles.chapter}>I Thess... Chapter II</h2>
-            <p>3 So when we could stand it no longer, we thought it best to be left by ourselves in Athens. 2 We sent Timothy, who is our brother and co-worker in God’s service in spreading the gospel of Christ, to strengthen and encourage you in your faith, 3 so that no one would be unsettled by these trials. For you know quite well that we are destined for them. 4 In fact, when we were with you, we kept telling you that we would be persecuted. And it turned out that way, as you well know. 5 For this reason, when I could stand it no longer, I sent to find out about your faith. I was afraid that in some way the tempter had tempted you and that our labors might have been in vain.
+To the Church in Smyrna
+8 “To the angel of the church in Smyrna write:
 
-Timothy’s Encouraging Report
-6 But Timothy has just now come to us from you and has brought good news about your faith and love. He has told us that you always have pleasant memories of us and that you long to see us, just as we also long to see you. 7 Therefore, brothers and sisters, in all our distress and persecution we were encouraged about you because of your faith. 8 For now we really live, since you are standing firm in the Lord. 9 How can we thank God enough for you in return for all the joy we have in the presence of our God because of you? 10 Night and day we pray most earnestly that we may see you again and supply what is lacking in your faith.
+These are the words of him who is the First and the Last, who died and came to life again. 9 I know your afflictions and your poverty—yet you are rich! I know about the slander of those who say they are Jews and are not, but are a synagogue of Satan. 10 Do not be afraid of what you are about to suffer. I tell you, the devil will put some of you in prison to test you, and you will suffer persecution for ten days. Be faithful, even to the point of death, and I will give you life as your victor’s crown.
 
-11 Now may our God and Father himself and our Lord Jesus clear the way for us to come to you. 12 May the Lord make your love increase and overflow for each other and for everyone else, just as ours does for you. 13 May he strengthen your hearts so that you will be blameless and holy in the presence of our God and Father when our Lord Jesus comes with all his holy ones.</p>
+11 Whoever has ears, let them hear what the Spirit says to the churches. The one who is victorious will not be hurt at all by the second death.
+
+To the Church in Pergamum
+12 “To the angel of the church in Pergamum write:
+
+These are the words of him who has the sharp, double-edged sword. 13 I know where you live—where Satan has his throne. Yet you remain true to my name. You did not renounce your faith in me, not even in the days of Antipas, my faithful witness, who was put to death in your city—where Satan lives.
+
+14 Nevertheless, I have a few things against you: There are some among you who hold to the teaching of Balaam, who taught Balak to entice the Israelites to sin so that they ate food sacrificed to idols and committed sexual immorality. 15 Likewise, you also have those who hold to the teaching of the Nicolaitans. 16 Repent therefore! Otherwise, I will soon come to you and will fight against them with the sword of my mouth.
+
+17 Whoever has ears, let them hear what the Spirit says to the churches. To the one who is victorious, I will give some of the hidden manna. I will also give that person a white stone with a new name written on it, known only to the one who receives it.
+
+To the Church in Thyatira
+18 “To the angel of the church in Thyatira write:
+
+These are the words of the Son of God, whose eyes are like blazing fire and whose feet are like burnished bronze. 19 I know your deeds, your love and faith, your service and perseverance, and that you are now doing more than you did at first.
+
+20 Nevertheless, I have this against you: You tolerate that woman Jezebel, who calls herself a prophet. By her teaching she misleads my servants into sexual immorality and the eating of food sacrificed to idols. 21 I have given her time to repent of her immorality, but she is unwilling. 22 So I will cast her on a bed of suffering, and I will make those who commit adultery with her suffer intensely, unless they repent of her ways. 23 I will strike her children dead. Then all the churches will know that I am he who searches hearts and minds, and I will repay each of you according to your deeds.
+
+24 Now I say to the rest of you in Thyatira, to you who do not hold to her teaching and have not learned Satan’s so-called deep secrets, ‘I will not impose any other burden on you, 25 except to hold on to what you have until I come.’
+
+26 To the one who is victorious and does my will to the end, I will give authority over the nations— 27 that one ‘will rule them with an iron scepter and will dash them to pieces like pottery’[b]—just as I have received authority from my Father. 28 I will also give that one the morning star. 29 Whoever has ears, let them hear what the Spirit says to the churches.</p>
           </div>
 
           <div
             className={styles.card}
           >
-           <h2 className={styles.chapter}>I Thess... Chapter IV</h2>
+           <h2 className={styles.chapter}>The Revelation Chpt III</h2>
             <p>
-            Living to Please God
-4 As for other matters, brothers and sisters, we instructed you how to live in order to please God, as in fact you are living. Now we ask you and urge you in the Lord Jesus to do this more and more. 2 For you know what instructions we gave you by the authority of the Lord Jesus.
+            To the Church in Sardis
+3 “To the angel[a] of the church in Sardis write:
 
-3 It is God’s will that you should be sanctified: that you should avoid sexual immorality; 4 that each of you should learn to control your own body[a] in a way that is holy and honorable, 5 not in passionate lust like the pagans, who do not know God; 6 and that in this matter no one should wrong or take advantage of a brother or sister.[b] The Lord will punish all those who commit such sins, as we told you and warned you before. 7 For God did not call us to be impure, but to live a holy life. 8 Therefore, anyone who rejects this instruction does not reject a human being but God, the very God who gives you his Holy Spirit.
+These are the words of him who holds the seven spirits[b] of God and the seven stars. I know your deeds; you have a reputation of being alive, but you are dead. 2 Wake up! Strengthen what remains and is about to die, for I have found your deeds unfinished in the sight of my God. 3 Remember, therefore, what you have received and heard; hold it fast, and repent. But if you do not wake up, I will come like a thief, and you will not know at what time I will come to you.
 
-9 Now about your love for one another we do not need to write to you, for you yourselves have been taught by God to love each other. 10 And in fact, you do love all of God’s family throughout Macedonia. Yet we urge you, brothers and sisters, to do so more and more, 11 and to make it your ambition to lead a quiet life: You should mind your own business and work with your hands, just as we told you, 12 so that your daily life may win the respect of outsiders and so that you will not be dependent on anybody.
+4 Yet you have a few people in Sardis who have not soiled their clothes. They will walk with me, dressed in white, for they are worthy. 5 The one who is victorious will, like them, be dressed in white. I will never blot out the name of that person from the book of life, but will acknowledge that name before my Father and his angels. 6 Whoever has ears, let them hear what the Spirit says to the churches.
 
-Believers Who Have Died
-13 Brothers and sisters, we do not want you to be uninformed about those who sleep in death, so that you do not grieve like the rest of mankind, who have no hope. 14 For we believe that Jesus died and rose again, and so we believe that God will bring with Jesus those who have fallen asleep in him. 15 According to the Lord’s word, we tell you that we who are still alive, who are left until the coming of the Lord, will certainly not precede those who have fallen asleep. 16 For the Lord himself will come down from heaven, with a loud command, with the voice of the archangel and with the trumpet call of God, and the dead in Christ will rise first. 17 After that, we who are still alive and are left will be caught up together with them in the clouds to meet the Lord in the air. And so we will be with the Lord forever. 18 Therefore encourage one another with these words.
+To the Church in Philadelphia
+7 “To the angel of the church in Philadelphia write:
 
+These are the words of him who is holy and true, who holds the key of David. What he opens no one can shut, and what he shuts no one can open. 8 I know your deeds. See, I have placed before you an open door that no one can shut. I know that you have little strength, yet you have kept my word and have not denied my name. 9 I will make those who are of the synagogue of Satan, who claim to be Jews though they are not, but are liars—I will make them come and fall down at your feet and acknowledge that I have loved you. 10 Since you have kept my command to endure patiently, I will also keep you from the hour of trial that is going to come on the whole world to test the inhabitants of the earth.
 
+11 I am coming soon. Hold on to what you have, so that no one will take your crown. 12 The one who is victorious I will make a pillar in the temple of my God. Never again will they leave it. I will write on them the name of my God and the name of the city of my God, the new Jerusalem, which is coming down out of heaven from my God; and I will also write on them my new name. 13 Whoever has ears, let them hear what the Spirit says to the churches.
+
+To the Church in Laodicea
+14 “To the angel of the church in Laodicea write:
+
+These are the words of the Amen, the faithful and true witness, the ruler of God’s creation. 15 I know your deeds, that you are neither cold nor hot. I wish you were either one or the other! 16 So, because you are lukewarm—neither hot nor cold—I am about to spit you out of my mouth. 17 You say, ‘I am rich; I have acquired wealth and do not need a thing.’ But you do not realize that you are wretched, pitiful, poor, blind and naked. 18 I counsel you to buy from me gold refined in the fire, so you can become rich; and white clothes to wear, so you can cover your shameful nakedness; and salve to put on your eyes, so you can see.
+
+19 Those whom I love I rebuke and discipline. So be earnest and repent. 20 Here I am! I stand at the door and knock. If anyone hears my voice and opens the door, I will come in and eat with that person, and they with me.
+
+21 To the one who is victorious, I will give the right to sit with me on my throne, just as I was victorious and sat down with my Father on his throne. 22 Whoever has ears, let them hear what the Spirit says to the churches.”
             </p>
           </div>
 <div className={styles.card}>
 
-<h2 className={styles.chapter}>I Thess... Chapter V</h2>
+<h2 className={styles.chapter}>The Revelation Chpt IV</h2>
 <p>
-The Day of the Lord
-5 Now, brothers and sisters, about times and dates we do not need to write to you, 2 for you know very well that the day of the Lord will come like a thief in the night. 3 While people are saying, “Peace and safety,” destruction will come on them suddenly, as labor pains on a pregnant woman, and they will not escape.
+The Throne in Heaven
+4 After this I looked, and there before me was a door standing open in heaven. And the voice I had first heard speaking to me like a trumpet said, “Come up here, and I will show you what must take place after this.” 2 At once I was in the Spirit, and there before me was a throne in heaven with someone sitting on it. 3 And the one who sat there had the appearance of jasper and ruby. A rainbow that shone like an emerald encircled the throne. 4 Surrounding the throne were twenty-four other thrones, and seated on them were twenty-four elders. They were dressed in white and had crowns of gold on their heads. 5 From the throne came flashes of lightning, rumblings and peals of thunder. In front of the throne, seven lamps were blazing. These are the seven spirits[a] of God. 6 Also in front of the throne there was what looked like a sea of glass, clear as crystal.
 
-4 But you, brothers and sisters, are not in darkness so that this day should surprise you like a thief. 5 You are all children of the light and children of the day. We do not belong to the night or to the darkness. 6 So then, let us not be like others, who are asleep, but let us be awake and sober. 7 For those who sleep, sleep at night, and those who get drunk, get drunk at night. 8 But since we belong to the day, let us be sober, putting on faith and love as a breastplate, and the hope of salvation as a helmet. 9 For God did not appoint us to suffer wrath but to receive salvation through our Lord Jesus Christ. 10 He died for us so that, whether we are awake or asleep, we may live together with him. 11 Therefore encourage one another and build each other up, just as in fact you are doing.
+In the center, around the throne, were four living creatures, and they were covered with eyes, in front and in back. 7 The first living creature was like a lion, the second was like an ox, the third had a face like a man, the fourth was like a flying eagle. 8 Each of the four living creatures had six wings and was covered with eyes all around, even under its wings. Day and night they never stop saying:
 
-Final Instructions
-12 Now we ask you, brothers and sisters, to acknowledge those who work hard among you, who care for you in the Lord and who admonish you. 13 Hold them in the highest regard in love because of their work. Live in peace with each other. 14 And we urge you, brothers and sisters, warn those who are idle and disruptive, encourage the disheartened, help the weak, be patient with everyone. 15 Make sure that nobody pays back wrong for wrong, but always strive to do what is good for each other and for everyone else.
+“‘Holy, holy, holy
 
-16 Rejoice always, 17 pray continually, 18 give thanks in all circumstances; for this is God’s will for you in Christ Jesus.
+is the Lord God Almighty,’[b]
 
-19 Do not quench the Spirit. 20 Do not treat prophecies with contempt 21 but test them all; hold on to what is good, 22 reject every kind of evil.
+who was, and is, and is to come.”
 
-23 May God himself, the God of peace, sanctify you through and through. May your whole spirit, soul and body be kept blameless at the coming of our Lord Jesus Christ. 24 The one who calls you is faithful, and he will do it.
+9 Whenever the living creatures give glory, honor and thanks to him who sits on the throne and who lives for ever and ever, 10 the twenty-four elders fall down before him who sits on the throne and worship him who lives for ever and ever. They lay their crowns before the throne and say:
 
-25 Brothers and sisters, pray for us. 26 Greet all God’s people with a holy kiss. 27 I charge you before the Lord to have this letter read to all the brothers and sisters.
-
-28 The grace of our Lord Jesus Christ be with you.
+11 “You are worthy, our Lord and God,
+    to receive glory and honor and power,
+for you created all things,
+    and by your will they were created
+    and have their being.”
 </p>
 </div>
 
