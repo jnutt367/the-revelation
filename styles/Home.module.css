@@ -272,7 +272,7 @@
 }
 
 .card {
-      background-image: url(/blue_letter_bible.jpeg);
+    background-image: url(/blue_letter_bible.jpeg);
     background-repeat: no-repeat;
     background-position: center;
     background-position-x: center;
@@ -290,8 +290,8 @@
     text-align: left;
     max-height: 350px;
     max-width: 400px;
-    background-color: black;
-    overflow: scroll;
+    background-color: white;
+    overflow: hidden;
     text-decoration: none;
     border: 3px solid #eaeaea;
     transition: color 0.15s ease, border-color 2s ease;
