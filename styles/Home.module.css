@@ -80,7 +80,7 @@
     display: grid;
     place-items: center;
     max-height: 700px; 
-    border: 50px 0 10px solid #OOBFFF;
+    border: 50px 0 10px solid #66D3FA;
     opacity: 1;
 }
 .footer {
@@ -219,7 +219,7 @@
 }
 
 .nav {
-    background-color: #ED7014;
+    background-color: #66D3FA;
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -298,7 +298,7 @@
     font-family: monospace;
 }
 .chapter {
-    background-color: #OOBFFF;
+    background-color: #66D3FA;
     color: black;
     opacity: 1;
     position: sticky;
@@ -323,7 +323,7 @@
     display: inline;
     color: black;
     opacity: 1;
-    border: 6px solid #OOBFFF;
+    border: 6px solid #66D3FA;
     background-image: url(/paper.jpg);
     background-repeat: no-repeat;
     background-size: cover;
