@@ -26,7 +26,7 @@ export default function Home() {
         </h1>
          <div  className={styles.image}>
        <Image 
-                                src="/healing.jpg"
+                                src="/blur_letter_bible.jpeg"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
@@ -66,7 +66,10 @@ export default function Home() {
         </a> 
          
                </div>
-        <div className={styles.grid}>
+                <div className={styles.iframe}>
+                      <iframe width="100%" height="315" src="https://www.youtube.com/embed/5nvVVcYD-0w" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div>        
+      <div className={styles.grid}>
           <div className={styles.card}>
             <h2 className={styles.chapter}>I Thess... Chapter I</h2>
             <p>1 Paul, Silas[a] and Timothy,
