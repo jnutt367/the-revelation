@@ -32,7 +32,7 @@ export default function Home() {
                                 width={2000}
                                 priority
                               />
-          </div>
+        
                       <div className={styles.nav}>           
       <a href="https://colossians.vercel.app/">
              <Image 
@@ -66,9 +66,11 @@ export default function Home() {
         </a> 
          
                </div>
+  
                 <div className={styles.iframe}>
                       <iframe width="100%" height="315" src="https://www.youtube.com/embed/5nvVVcYD-0w" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                </div>        
+                </div> 
+</div>
       <div className={styles.grid}>
           <div className={styles.card}>
             <h2 className={styles.chapter}>The Revelation Chpt I</h2>
