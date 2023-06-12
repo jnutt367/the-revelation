@@ -368,9 +368,456 @@ for you created all things,
                                           
                                         </p>
                                   </div>
-                                  
+                                  <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>The Revelation Chpt X </h2>
+                                        <p>
+                                          The Angel and the Little Scroll
+                                          10 Then I saw another mighty angel coming down from heaven. He was robed in a cloud, with a rainbow above his head; his face was like the sun, and his legs were like fiery pillars. 2 He was holding a little scroll, which lay open in his hand. He planted his right foot on the sea and his left foot on the land, 3 and he gave a loud shout like the roar of a lion. When he shouted, the voices of the seven thunders spoke. 4 And when the seven thunders spoke, I was about to write; but I heard a voice from heaven say, “Seal up what the seven thunders have said and do not write it down.”
+
+                                          5 Then the angel I had seen standing on the sea and on the land raised his right hand to heaven. 6 And he swore by him who lives for ever and ever, who created the heavens and all that is in them, the earth and all that is in it, and the sea and all that is in it, and said, “There will be no more delay! 7 But in the days when the seventh angel is about to sound his trumpet, the mystery of God will be accomplished, just as he announced to his servants the prophets.”
+
+                                          8 Then the voice that I had heard from heaven spoke to me once more: “Go, take the scroll that lies open in the hand of the angel who is standing on the sea and on the land.”
+
+                                          9 So I went to the angel and asked him to give me the little scroll. He said to me, “Take it and eat it. It will turn your stomach sour, but ‘in your mouth it will be as sweet as honey.’[a]” 10 I took the little scroll from the angel’s hand and ate it. It tasted as sweet as honey in my mouth, but when I had eaten it, my stomach turned sour. 11 Then I was told, “You must prophesy again about many peoples, nations, languages and kings.”
+                                        </p>
+                                  </div>
+
+                                   <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>The Revelation Chpt XI </h2>
+                                        <p>
+                                                                                          The Two Witnesses
+                                                11 I was given a reed like a measuring rod and was told, “Go and measure the temple of God and the altar, with its worshipers. 2 But exclude the outer court; do not measure it, because it has been given to the Gentiles. They will trample on the holy city for 42 months. 3 And I will appoint my two witnesses, and they will prophesy for 1,260 days, clothed in sackcloth.” 4 They are “the two olive trees” and the two lampstands, and “they stand before the Lord of the earth.”[a] 5 If anyone tries to harm them, fire comes from their mouths and devours their enemies. This is how anyone who wants to harm them must die. 6 They have power to shut up the heavens so that it will not rain during the time they are prophesying; and they have power to turn the waters into blood and to strike the earth with every kind of plague as often as they want.
+
+                                                7 Now when they have finished their testimony, the beast that comes up from the Abyss will attack them, and overpower and kill them. 8 Their bodies will lie in the public square of the great city—which is figuratively called Sodom and Egypt—where also their Lord was crucified. 9 For three and a half days some from every people, tribe, language and nation will gaze on their bodies and refuse them burial. 10 The inhabitants of the earth will gloat over them and will celebrate by sending each other gifts, because these two prophets had tormented those who live on the earth.
+
+                                                11 But after the three and a half days the breath[b] of life from God entered them, and they stood on their feet, and terror struck those who saw them. 12 Then they heard a loud voice from heaven saying to them, “Come up here.” And they went up to heaven in a cloud, while their enemies looked on.
+
+                                                13 At that very hour there was a severe earthquake and a tenth of the city collapsed. Seven thousand people were killed in the earthquake, and the survivors were terrified and gave glory to the God of heaven.
+
+                                                14 The second woe has passed; the third woe is coming soon.
+
+                                                The Seventh Trumpet
+                                                15 The seventh angel sounded his trumpet, and there were loud voices in heaven, which said:
+
+                                                “The kingdom of the world has become
+                                                    the kingdom of our Lord and of his Messiah,
+                                                    and he will reign for ever and ever.”
+
+                                                16 And the twenty-four elders, who were seated on their thrones before God, fell on their faces and worshiped God, 17 saying:
+
+                                                “We give thanks to you, Lord God Almighty,
+                                                    the One who is and who was,
+                                                because you have taken your great power
+                                                    and have begun to reign.
+                                                18 The nations were angry,
+                                                    and your wrath has come.
+                                                The time has come for judging the dead,
+                                                    and for rewarding your servants the prophets
+                                                and your people who revere your name,
+                                                    both great and small—
+                                                and for destroying those who destroy the earth.”
+
+                                                19 Then God’s temple in heaven was opened, and within his temple was seen the ark of his covenant. And there came flashes of lightning, rumblings, peals of thunder, an earthquake and a severe hailstorm.                                       
+                                                  </p>
+                                    </div>
+
+                                     <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>The Revelation Chpt XII </h2>
+                                        <p>
+                                                                                              The Woman and the Dragon
+                                                    12 A great sign appeared in heaven: a woman clothed with the sun, with the moon under her feet and a crown of twelve stars on her head. 2 She was pregnant and cried out in pain as she was about to give birth. 3 Then another sign appeared in heaven: an enormous red dragon with seven heads and ten horns and seven crowns on its heads. 4 Its tail swept a third of the stars out of the sky and flung them to the earth. The dragon stood in front of the woman who was about to give birth, so that it might devour her child the moment he was born. 5 She gave birth to a son, a male child, who “will rule all the nations with an iron scepter.”[a] And her child was snatched up to God and to his throne. 6 The woman fled into the wilderness to a place prepared for her by God, where she might be taken care of for 1,260 days.
+
+                                                    7 Then war broke out in heaven. Michael and his angels fought against the dragon, and the dragon and his angels fought back. 8 But he was not strong enough, and they lost their place in heaven. 9 The great dragon was hurled down—that ancient serpent called the devil, or Satan, who leads the whole world astray. He was hurled to the earth, and his angels with him.
+
+                                                    10 Then I heard a loud voice in heaven say:
+
+                                                    “Now have come the salvation and the power
+                                                        and the kingdom of our God,
+                                                        and the authority of his Messiah.
+                                                    For the accuser of our brothers and sisters,
+                                                        who accuses them before our God day and night,
+                                                        has been hurled down.
+                                                    11 They triumphed over him
+                                                        by the blood of the Lamb
+                                                        and by the word of their testimony;
+                                                    they did not love their lives so much
+                                                        as to shrink from death.
+                                                    12 Therefore rejoice, you heavens
+                                                        and you who dwell in them!
+                                                    But woe to the earth and the sea,
+                                                        because the devil has gone down to you!
+                                                    He is filled with fury,
+                                                        because he knows that his time is short.”
+
+                                                    13 When the dragon saw that he had been hurled to the earth, he pursued the woman who had given birth to the male child. 14 The woman was given the two wings of a great eagle, so that she might fly to the place prepared for her in the wilderness, where she would be taken care of for a time, times and half a time, out of the serpent’s reach. 15 Then from his mouth the serpent spewed water like a river, to overtake the woman and sweep her away with the torrent. 16 But the earth helped the woman by opening its mouth and swallowing the river that the dragon had spewed out of his mouth. 17 Then the dragon was enraged at the woman and went off to wage war against the rest of her offspring—those who keep God’s commands and hold fast their testimony about Jesus.
+                                                      </p>
+                                    </div>
+
+                                     <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>The Revelation Chpt XIII </h2>
+                                        <p>
+                                                                                            The Beast out of the Sea
+                                                  13 The dragon[a] stood on the shore of the sea. And I saw a beast coming out of the sea. It had ten horns and seven heads, with ten crowns on its horns, and on each head a blasphemous name. 2 The beast I saw resembled a leopard, but had feet like those of a bear and a mouth like that of a lion. The dragon gave the beast his power and his throne and great authority. 3 One of the heads of the beast seemed to have had a fatal wound, but the fatal wound had been healed. The whole world was filled with wonder and followed the beast. 4 People worshiped the dragon because he had given authority to the beast, and they also worshiped the beast and asked, “Who is like the beast? Who can wage war against it?”
+
+                                                  5 The beast was given a mouth to utter proud words and blasphemies and to exercise its authority for forty-two months. 6 It opened its mouth to blaspheme God, and to slander his name and his dwelling place and those who live in heaven. 7 It was given power to wage war against God’s holy people and to conquer them. And it was given authority over every tribe, people, language and nation. 8 All inhabitants of the earth will worship the beast—all whose names have not been written in the Lamb’s book of life, the Lamb who was slain from the creation of the world.[b]
+
+                                                  9 Whoever has ears, let them hear.
+
+                                                  10 “If anyone is to go into captivity,
+                                                      into captivity they will go.
+                                                  If anyone is to be killed[c] with the sword,
+                                                      with the sword they will be killed.”[d]
+
+                                                  This calls for patient endurance and faithfulness on the part of God’s people.
+
+                                                  The Beast out of the Earth
+                                                  11 Then I saw a second beast, coming out of the earth. It had two horns like a lamb, but it spoke like a dragon. 12 It exercised all the authority of the first beast on its behalf, and made the earth and its inhabitants worship the first beast, whose fatal wound had been healed. 13 And it performed great signs, even causing fire to come down from heaven to the earth in full view of the people. 14 Because of the signs it was given power to perform on behalf of the first beast, it deceived the inhabitants of the earth. It ordered them to set up an image in honor of the beast who was wounded by the sword and yet lived. 15 The second beast was given power to give breath to the image of the first beast, so that the image could speak and cause all who refused to worship the image to be killed. 16 It also forced all people, great and small, rich and poor, free and slave, to receive a mark on their right hands or on their foreheads, 17 so that they could not buy or sell unless they had the mark, which is the name of the beast or the number of its name.
+
+                                                  18 This calls for wisdom. Let the person who has insight calculate the number of the beast, for it is the number of a man.[e] That number is 666.
+                                                  </p>
+                                    </div>
+
+                                   <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>The Revelation Chpt XIV </h2>
+                                        <p>
+                                                                                              The Lamb and the 144,000
+                                                    14 Then I looked, and there before me was the Lamb, standing on Mount Zion, and with him 144,000 who had his name and his Father’s name written on their foreheads. 2 And I heard a sound from heaven like the roar of rushing waters and like a loud peal of thunder. The sound I heard was like that of harpists playing their harps. 3 And they sang a new song before the throne and before the four living creatures and the elders. No one could learn the song except the 144,000 who had been redeemed from the earth. 4 These are those who did not defile themselves with women, for they remained virgins. They follow the Lamb wherever he goes. They were purchased from among mankind and offered as firstfruits to God and the Lamb. 5 No lie was found in their mouths; they are blameless.
+
+                                                    The Three Angels
+                                                    6 Then I saw another angel flying in midair, and he had the eternal gospel to proclaim to those who live on the earth—to every nation, tribe, language and people. 7 He said in a loud voice, “Fear God and give him glory, because the hour of his judgment has come. Worship him who made the heavens, the earth, the sea and the springs of water.”
+
+                                                    8 A second angel followed and said, “‘Fallen! Fallen is Babylon the Great,’[a] which made all the nations drink the maddening wine of her adulteries.”
+
+                                                    9 A third angel followed them and said in a loud voice: “If anyone worships the beast and its image and receives its mark on their forehead or on their hand, 10 they, too, will drink the wine of God’s fury, which has been poured full strength into the cup of his wrath. They will be tormented with burning sulfur in the presence of the holy angels and of the Lamb. 11 And the smoke of their torment will rise for ever and ever. There will be no rest day or night for those who worship the beast and its image, or for anyone who receives the mark of its name.” 12 This calls for patient endurance on the part of the people of God who keep his commands and remain faithful to Jesus.
+
+                                                    13 Then I heard a voice from heaven say, “Write this: Blessed are the dead who die in the Lord from now on.”
+
+                                                    “Yes,” says the Spirit, “they will rest from their labor, for their deeds will follow them.”
+
+                                                    Harvesting the Earth and Trampling the Winepress
+                                                    14 I looked, and there before me was a white cloud, and seated on the cloud was one like a son of man[b] with a crown of gold on his head and a sharp sickle in his hand. 15 Then another angel came out of the temple and called in a loud voice to him who was sitting on the cloud, “Take your sickle and reap, because the time to reap has come, for the harvest of the earth is ripe.” 16 So he who was seated on the cloud swung his sickle over the earth, and the earth was harvested.
+
+                                                    17 Another angel came out of the temple in heaven, and he too had a sharp sickle. 18 Still another angel, who had charge of the fire, came from the altar and called in a loud voice to him who had the sharp sickle, “Take your sharp sickle and gather the clusters of grapes from the earth’s vine, because its grapes are ripe.” 19 The angel swung his sickle on the earth, gathered its grapes and threw them into the great winepress of God’s wrath. 20 They were trampled in the winepress outside the city, and blood flowed out of the press, rising as high as the horses’ bridles for a distance of 1,600 stadia.
+                                                      </p>
+                                    </div>
+
+                                   <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>The Revelation Chpt XV </h2>
+                                        <p>
+                                                                                    Seven Angels With Seven Plagues
+                                          15 I saw in heaven another great and marvelous sign: seven angels with the seven last plagues—last, because with them God’s wrath is completed. 2 And I saw what looked like a sea of glass glowing with fire and, standing beside the sea, those who had been victorious over the beast and its image and over the number of its name. They held harps given them by God 3 and sang the song of God’s servant Moses and of the Lamb:
+
+                                          “Great and marvelous are your deeds,
+                                              Lord God Almighty.
+                                          Just and true are your ways,
+                                              King of the nations.[a]
+                                          4 Who will not fear you, Lord,
+                                              and bring glory to your name?
+                                          For you alone are holy.
+                                          All nations will come
+                                              and worship before you,
+                                          for your righteous acts have been revealed.”[b]
+
+                                          5 After this I looked, and I saw in heaven the temple—that is, the tabernacle of the covenant law—and it was opened. 6 Out of the temple came the seven angels with the seven plagues. They were dressed in clean, shining linen and wore golden sashes around their chests. 7 Then one of the four living creatures gave to the seven angels seven golden bowls filled with the wrath of God, who lives for ever and ever. 8 And the temple was filled with smoke from the glory of God and from his power, and no one could enter the temple until the seven plagues of the seven angels were completed.
+                                            </p>
+                                    </div>
 
 
+                                   <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>The Revelation Chpt XVI </h2>
+                                        <p>
+                                                                                                The Seven Bowls of God’s Wrath
+                                                      16 Then I heard a loud voice from the temple saying to the seven angels, “Go, pour out the seven bowls of God’s wrath on the earth.”
+
+                                                      2 The first angel went and poured out his bowl on the land, and ugly, festering sores broke out on the people who had the mark of the beast and worshiped its image.
+
+                                                      3 The second angel poured out his bowl on the sea, and it turned into blood like that of a dead person, and every living thing in the sea died.
+
+                                                      4 The third angel poured out his bowl on the rivers and springs of water, and they became blood. 5 Then I heard the angel in charge of the waters say:
+
+                                                      “You are just in these judgments, O Holy One,
+                                                          you who are and who were;
+                                                      6 for they have shed the blood of your holy people and your prophets,
+                                                          and you have given them blood to drink as they deserve.”
+
+                                                      7 And I heard the altar respond:
+
+                                                      “Yes, Lord God Almighty,
+                                                          true and just are your judgments.”
+
+                                                      8 The fourth angel poured out his bowl on the sun, and the sun was allowed to scorch people with fire. 9 They were seared by the intense heat and they cursed the name of God, who had control over these plagues, but they refused to repent and glorify him.
+
+                                                      10 The fifth angel poured out his bowl on the throne of the beast, and its kingdom was plunged into darkness. People gnawed their tongues in agony 11 and cursed the God of heaven because of their pains and their sores, but they refused to repent of what they had done.
+
+                                                      12 The sixth angel poured out his bowl on the great river Euphrates, and its water was dried up to prepare the way for the kings from the East. 13 Then I saw three impure spirits that looked like frogs; they came out of the mouth of the dragon, out of the mouth of the beast and out of the mouth of the false prophet. 14 They are demonic spirits that perform signs, and they go out to the kings of the whole world, to gather them for the battle on the great day of God Almighty.
+
+                                                      15 “Look, I come like a thief! Blessed is the one who stays awake and remains clothed, so as not to go naked and be shamefully exposed.”
+
+                                                      16 Then they gathered the kings together to the place that in Hebrew is called Armageddon.
+
+                                                      17 The seventh angel poured out his bowl into the air, and out of the temple came a loud voice from the throne, saying, “It is done!” 18 Then there came flashes of lightning, rumblings, peals of thunder and a severe earthquake. No earthquake like it has ever occurred since mankind has been on earth, so tremendous was the quake. 19 The great city split into three parts, and the cities of the nations collapsed. God remembered Babylon the Great and gave her the cup filled with the wine of the fury of his wrath. 20 Every island fled away and the mountains could not be found. 21 From the sky huge hailstones, each weighing about a hundred pounds,[a] fell on people. And they cursed God on account of the plague of hail, because the plague was so terrible.
+
+
+                                                          </p>
+                                    </div>
+
+                                     <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>The Revelation Chpt XVII </h2>
+                                        <p>
+                                                      Babylon, the Prostitute on the Beast
+                                                17 One of the seven angels who had the seven bowls came and said to me, “Come, I will show you the punishment of the great prostitute, who sits by many waters. 2 With her the kings of the earth committed adultery, and the inhabitants of the earth were intoxicated with the wine of her adulteries.”
+
+                                                3 Then the angel carried me away in the Spirit into a wilderness. There I saw a woman sitting on a scarlet beast that was covered with blasphemous names and had seven heads and ten horns. 4 The woman was dressed in purple and scarlet, and was glittering with gold, precious stones and pearls. She held a golden cup in her hand, filled with abominable things and the filth of her adulteries. 5 The name written on her forehead was a mystery:
+
+                                                babylon the great
+
+                                                the mother of prostitutes
+
+                                                and of the abominations of the earth.
+
+                                                6 I saw that the woman was drunk with the blood of God’s holy people, the blood of those who bore testimony to Jesus.
+
+                                                When I saw her, I was greatly astonished. 7 Then the angel said to me: “Why are you astonished? I will explain to you the mystery of the woman and of the beast she rides, which has the seven heads and ten horns. 8 The beast, which you saw, once was, now is not, and yet will come up out of the Abyss and go to its destruction. The inhabitants of the earth whose names have not been written in the book of life from the creation of the world will be astonished when they see the beast, because it once was, now is not, and yet will come.
+
+                                                9 “This calls for a mind with wisdom. The seven heads are seven hills on which the woman sits. 10 They are also seven kings. Five have fallen, one is, the other has not yet come; but when he does come, he must remain for only a little while. 11 The beast who once was, and now is not, is an eighth king. He belongs to the seven and is going to his destruction.
+
+                                                12 “The ten horns you saw are ten kings who have not yet received a kingdom, but who for one hour will receive authority as kings along with the beast. 13 They have one purpose and will give their power and authority to the beast. 14 They will wage war against the Lamb, but the Lamb will triumph over them because he is Lord of lords and King of kings—and with him will be his called, chosen and faithful followers.”
+
+                                                15 Then the angel said to me, “The waters you saw, where the prostitute sits, are peoples, multitudes, nations and languages. 16 The beast and the ten horns you saw will hate the prostitute. They will bring her to ruin and leave her naked; they will eat her flesh and burn her with fire. 17 For God has put it into their hearts to accomplish his purpose by agreeing to hand over to the beast their royal authority, until God’s words are fulfilled. 18 The woman you saw is the great city that rules over the kings of the earth.”
+                                                  </p>
+                                    </div>
+
+                                     <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>The Revelation Chpt XVIII </h2>
+                                        <p>
+                                          Lament Over Fallen Babylon
+                                                18 After this I saw another angel coming down from heaven. He had great authority, and the earth was illuminated by his splendor. 2 With a mighty voice he shouted:
+
+                                                “‘Fallen! Fallen is Babylon the Great!’[a]
+                                                    She has become a dwelling for demons
+                                                and a haunt for every impure spirit,
+                                                    a haunt for every unclean bird,
+                                                    a haunt for every unclean and detestable animal.
+                                                3 For all the nations have drunk
+                                                    the maddening wine of her adulteries.
+                                                The kings of the earth committed adultery with her,
+                                                    and the merchants of the earth grew rich from her excessive luxuries.”
+
+                                                Warning to Escape Babylon’s Judgment
+                                                4 Then I heard another voice from heaven say:
+
+                                                “‘Come out of her, my people,’[b]
+                                                    so that you will not share in her sins,
+                                                    so that you will not receive any of her plagues;
+                                                5 for her sins are piled up to heaven,
+                                                    and God has remembered her crimes.
+                                                6 Give back to her as she has given;
+                                                    pay her back double for what she has done.
+                                                    Pour her a double portion from her own cup.
+                                                7 Give her as much torment and grief
+                                                    as the glory and luxury she gave herself.
+                                                In her heart she boasts,
+                                                    ‘I sit enthroned as queen.
+                                                I am not a widow;[c]
+                                                    I will never mourn.’
+                                                8 Therefore in one day her plagues will overtake her:
+                                                    death, mourning and famine.
+                                                She will be consumed by fire,
+                                                    for mighty is the Lord God who judges her.
+
+                                                Threefold Woe Over Babylon’s Fall
+                                                9 “When the kings of the earth who committed adultery with her and shared her luxury see the smoke of her burning, they will weep and mourn over her. 10 Terrified at her torment, they will stand far off and cry:
+
+                                                “‘Woe! Woe to you, great city,
+                                                    you mighty city of Babylon!
+                                                In one hour your doom has come!’
+
+                                                11 “The merchants of the earth will weep and mourn over her because no one buys their cargoes anymore— 12 cargoes of gold, silver, precious stones and pearls; fine linen, purple, silk and scarlet cloth; every sort of citron wood, and articles of every kind made of ivory, costly wood, bronze, iron and marble; 13 cargoes of cinnamon and spice, of incense, myrrh and frankincense, of wine and olive oil, of fine flour and wheat; cattle and sheep; horses and carriages; and human beings sold as slaves.
+
+                                                14 “They will say, ‘The fruit you longed for is gone from you. All your luxury and splendor have vanished, never to be recovered.’ 15 The merchants who sold these things and gained their wealth from her will stand far off, terrified at her torment. They will weep and mourn 16 and cry out:
+
+                                                “‘Woe! Woe to you, great city,
+                                                    dressed in fine linen, purple and scarlet,
+                                                    and glittering with gold, precious stones and pearls!
+                                                17 In one hour such great wealth has been brought to ruin!’
+
+                                                “Every sea captain, and all who travel by ship, the sailors, and all who earn their living from the sea, will stand far off. 18 When they see the smoke of her burning, they will exclaim, ‘Was there ever a city like this great city?’ 19 They will throw dust on their heads, and with weeping and mourning cry out:
+
+                                                “‘Woe! Woe to you, great city,
+                                                    where all who had ships on the sea
+                                                    became rich through her wealth!
+                                                In one hour she has been brought to ruin!’
+
+                                                20 “Rejoice over her, you heavens!
+                                                    Rejoice, you people of God!
+                                                    Rejoice, apostles and prophets!
+                                                For God has judged her
+                                                    with the judgment she imposed on you.”
+
+                                                The Finality of Babylon’s Doom
+                                                21 Then a mighty angel picked up a boulder the size of a large millstone and threw it into the sea, and said:
+
+                                                “With such violence
+                                                    the great city of Babylon will be thrown down,
+                                                    never to be found again.
+                                                22 The music of harpists and musicians, pipers and trumpeters,
+                                                    will never be heard in you again.
+                                                No worker of any trade
+                                                    will ever be found in you again.
+                                                The sound of a millstone
+                                                    will never be heard in you again.
+                                                23 The light of a lamp
+                                                    will never shine in you again.
+                                                The voice of bridegroom and bride
+                                                    will never be heard in you again.
+                                                Your merchants were the world’s important people.
+                                                    By your magic spell all the nations were led astray.
+                                                24 In her was found the blood of prophets and of God’s holy people,
+                                                    of all who have been slaughtered on the earth.”
+                                                </p>
+                                    </div>
+
+                                   <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>The Revelation Chpt XIX </h2>
+                                        <p>
+                                                                                          Threefold Hallelujah Over Babylon’s Fall
+                                                19 After this I heard what sounded like the roar of a great multitude in heaven shouting:
+
+                                                “Hallelujah!
+                                                Salvation and glory and power belong to our God,
+                                                2     for true and just are his judgments.
+                                                He has condemned the great prostitute
+                                                    who corrupted the earth by her adulteries.
+                                                He has avenged on her the blood of his servants.”
+
+                                                3 And again they shouted:
+
+                                                “Hallelujah!
+                                                The smoke from her goes up for ever and ever.”
+
+                                                4 The twenty-four elders and the four living creatures fell down and worshiped God, who was seated on the throne. And they cried:
+
+                                                “Amen, Hallelujah!”
+
+                                                5 Then a voice came from the throne, saying:
+
+                                                “Praise our God,
+                                                    all you his servants,
+                                                you who fear him,
+                                                    both great and small!”
+
+                                                6 Then I heard what sounded like a great multitude, like the roar of rushing waters and like loud peals of thunder, shouting:
+
+                                                “Hallelujah!
+                                                    For our Lord God Almighty reigns.
+                                                7 Let us rejoice and be glad
+                                                    and give him glory!
+                                                For the wedding of the Lamb has come,
+                                                    and his bride has made herself ready.
+                                                8 Fine linen, bright and clean,
+                                                    was given her to wear.”
+
+                                                (Fine linen stands for the righteous acts of God’s holy people.)
+
+                                                9 Then the angel said to me, “Write this: Blessed are those who are invited to the wedding supper of the Lamb!” And he added, “These are the true words of God.”
+
+                                                10 At this I fell at his feet to worship him. But he said to me, “Don’t do that! I am a fellow servant with you and with your brothers and sisters who hold to the testimony of Jesus. Worship God! For it is the Spirit of prophecy who bears testimony to Jesus.”
+
+                                                The Heavenly Warrior Defeats the Beast
+                                                11 I saw heaven standing open and there before me was a white horse, whose rider is called Faithful and True. With justice he judges and wages war. 12 His eyes are like blazing fire, and on his head are many crowns. He has a name written on him that no one knows but he himself. 13 He is dressed in a robe dipped in blood, and his name is the Word of God. 14 The armies of heaven were following him, riding on white horses and dressed in fine linen, white and clean. 15 Coming out of his mouth is a sharp sword with which to strike down the nations. “He will rule them with an iron scepter.”[a] He treads the winepress of the fury of the wrath of God Almighty. 16 On his robe and on his thigh he has this name written:
+
+                                                king of kings and lord of lords.
+
+                                                17 And I saw an angel standing in the sun, who cried in a loud voice to all the birds flying in midair, “Come, gather together for the great supper of God, 18 so that you may eat the flesh of kings, generals, and the mighty, of horses and their riders, and the flesh of all people, free and slave, great and small.”
+
+                                                19 Then I saw the beast and the kings of the earth and their armies gathered together to wage war against the rider on the horse and his army. 20 But the beast was captured, and with it the false prophet who had performed the signs on its behalf. With these signs he had deluded those who had received the mark of the beast and worshiped its image. The two of them were thrown alive into the fiery lake of burning sulfur. 21 The rest were killed with the sword coming out of the mouth of the rider on the horse, and all the birds gorged themselves on their flesh.
+
+
+                                                  </p>
+                                    </div>
+
+                                   <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>The Revelation Chpt XX </h2>
+                                        <p>
+                                                                                            The Thousand Years
+                                                  20 And I saw an angel coming down out of heaven, having the key to the Abyss and holding in his hand a great chain. 2 He seized the dragon, that ancient serpent, who is the devil, or Satan, and bound him for a thousand years. 3 He threw him into the Abyss, and locked and sealed it over him, to keep him from deceiving the nations anymore until the thousand years were ended. After that, he must be set free for a short time.
+
+                                                  4 I saw thrones on which were seated those who had been given authority to judge. And I saw the souls of those who had been beheaded because of their testimony about Jesus and because of the word of God. They[a] had not worshiped the beast or its image and had not received its mark on their foreheads or their hands. They came to life and reigned with Christ a thousand years. 5 (The rest of the dead did not come to life until the thousand years were ended.) This is the first resurrection. 6 Blessed and holy are those who share in the first resurrection. The second death has no power over them, but they will be priests of God and of Christ and will reign with him for a thousand years.
+
+                                                  The Judgment of Satan
+                                                  7 When the thousand years are over, Satan will be released from his prison 8 and will go out to deceive the nations in the four corners of the earth—Gog and Magog—and to gather them for battle. In number they are like the sand on the seashore. 9 They marched across the breadth of the earth and surrounded the camp of God’s people, the city he loves. But fire came down from heaven and devoured them. 10 And the devil, who deceived them, was thrown into the lake of burning sulfur, where the beast and the false prophet had been thrown. They will be tormented day and night for ever and ever.
+
+                                                  The Judgment of the Dead
+                                                  11 Then I saw a great white throne and him who was seated on it. The earth and the heavens fled from his presence, and there was no place for them. 12 And I saw the dead, great and small, standing before the throne, and books were opened. Another book was opened, which is the book of life. The dead were judged according to what they had done as recorded in the books. 13 The sea gave up the dead that were in it, and death and Hades gave up the dead that were in them, and each person was judged according to what they had done. 14 Then death and Hades were thrown into the lake of fire. The lake of fire is the second death. 15 Anyone whose name was not found written in the book of life was thrown into the lake of fire.
+
+                                          </p>
+                                    </div>
+
+                                     <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>The Revelation Chpt XXI </h2>
+                                        <p>
+                                                                                      A New Heaven and a New Earth
+                                            21 Then I saw “a new heaven and a new earth,”[a] for the first heaven and the first earth had passed away, and there was no longer any sea. 2 I saw the Holy City, the new Jerusalem, coming down out of heaven from God, prepared as a bride beautifully dressed for her husband. 3 And I heard a loud voice from the throne saying, “Look! God’s dwelling place is now among the people, and he will dwell with them. They will be his people, and God himself will be with them and be their God. 4 ‘He will wipe every tear from their eyes. There will be no more death’[b] or mourning or crying or pain, for the old order of things has passed away.”
+
+                                            5 He who was seated on the throne said, “I am making everything new!” Then he said, “Write this down, for these words are trustworthy and true.”
+
+                                            6 He said to me: “It is done. I am the Alpha and the Omega, the Beginning and the End. To the thirsty I will give water without cost from the spring of the water of life. 7 Those who are victorious will inherit all this, and I will be their God and they will be my children. 8 But the cowardly, the unbelieving, the vile, the murderers, the sexually immoral, those who practice magic arts, the idolaters and all liars—they will be consigned to the fiery lake of burning sulfur. This is the second death.”
+
+                                            The New Jerusalem, the Bride of the Lamb
+                                            9 One of the seven angels who had the seven bowls full of the seven last plagues came and said to me, “Come, I will show you the bride, the wife of the Lamb.” 10 And he carried me away in the Spirit to a mountain great and high, and showed me the Holy City, Jerusalem, coming down out of heaven from God. 11 It shone with the glory of God, and its brilliance was like that of a very precious jewel, like a jasper, clear as crystal. 12 It had a great, high wall with twelve gates, and with twelve angels at the gates. On the gates were written the names of the twelve tribes of Israel. 13 There were three gates on the east, three on the north, three on the south and three on the west. 14 The wall of the city had twelve foundations, and on them were the names of the twelve apostles of the Lamb.
+
+                                            15 The angel who talked with me had a measuring rod of gold to measure the city, its gates and its walls. 16 The city was laid out like a square, as long as it was wide. He measured the city with the rod and found it to be 12,000 stadia[c] in length, and as wide and high as it is long. 17 The angel measured the wall using human measurement, and it was 144 cubits[d] thick.[e] 18 The wall was made of jasper, and the city of pure gold, as pure as glass. 19 The foundations of the city walls were decorated with every kind of precious stone. The first foundation was jasper, the second sapphire, the third agate, the fourth emerald, 20 the fifth onyx, the sixth ruby, the seventh chrysolite, the eighth beryl, the ninth topaz, the tenth turquoise, the eleventh jacinth, and the twelfth amethyst.[f] 21 The twelve gates were twelve pearls, each gate made of a single pearl. The great street of the city was of gold, as pure as transparent glass.
+
+                                            22 I did not see a temple in the city, because the Lord God Almighty and the Lamb are its temple. 23 The city does not need the sun or the moon to shine on it, for the glory of God gives it light, and the Lamb is its lamp. 24 The nations will walk by its light, and the kings of the earth will bring their splendor into it. 25 On no day will its gates ever be shut, for there will be no night there. 26 The glory and honor of the nations will be brought into it. 27 Nothing impure will ever enter it, nor will anyone who does what is shameful or deceitful, but only those whose names are written in the Lamb’s book of life.                                          </p>
+                                    </div>
+
+                                     <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>The Revelation Chpt XXII </h2>
+                                        <p>
+                                                                                                  Eden Restored
+                                                        22 Then the angel showed me the river of the water of life, as clear as crystal, flowing from the throne of God and of the Lamb 2 down the middle of the great street of the city. On each side of the river stood the tree of life, bearing twelve crops of fruit, yielding its fruit every month. And the leaves of the tree are for the healing of the nations. 3 No longer will there be any curse. The throne of God and of the Lamb will be in the city, and his servants will serve him. 4 They will see his face, and his name will be on their foreheads. 5 There will be no more night. They will not need the light of a lamp or the light of the sun, for the Lord God will give them light. And they will reign for ever and ever.
+
+                                                        John and the Angel
+                                                        6 The angel said to me, “These words are trustworthy and true. The Lord, the God who inspires the prophets, sent his angel to show his servants the things that must soon take place.”
+
+                                                        7 “Look, I am coming soon! Blessed is the one who keeps the words of the prophecy written in this scroll.”
+
+                                                        8 I, John, am the one who heard and saw these things. And when I had heard and seen them, I fell down to worship at the feet of the angel who had been showing them to me. 9 But he said to me, “Don’t do that! I am a fellow servant with you and with your fellow prophets and with all who keep the words of this scroll. Worship God!”
+
+                                                        10 Then he told me, “Do not seal up the words of the prophecy of this scroll, because the time is near. 11 Let the one who does wrong continue to do wrong; let the vile person continue to be vile; let the one who does right continue to do right; and let the holy person continue to be holy.”
+
+                                                        Epilogue: Invitation and Warning
+                                                        12 “Look, I am coming soon! My reward is with me, and I will give to each person according to what they have done. 13 I am the Alpha and the Omega, the First and the Last, the Beginning and the End.
+
+                                                        14 “Blessed are those who wash their robes, that they may have the right to the tree of life and may go through the gates into the city. 15 Outside are the dogs, those who practice magic arts, the sexually immoral, the murderers, the idolaters and everyone who loves and practices falsehood.
+
+                                                        16 “I, Jesus, have sent my angel to give you[a] this testimony for the churches. I am the Root and the Offspring of David, and the bright Morning Star.”
+
+                                                        17 The Spirit and the bride say, “Come!” And let the one who hears say, “Come!” Let the one who is thirsty come; and let the one who wishes take the free gift of the water of life.
+
+                                                        18 I warn everyone who hears the words of the prophecy of this scroll: If anyone adds anything to them, God will add to that person the plagues described in this scroll. 19 And if anyone takes words away from this scroll of prophecy, God will take away from that person any share in the tree of life and in the Holy City, which are described in this scroll.
+
+                                                        20 He who testifies to these things says, “Yes, I am coming soon.”
+
+                                                        Amen. Come, Lord Jesus.
+
+                                                        21 The grace of the Lord Jesus be with God’s people. Amen.
+                                                          </p>
+                                    </div>
+                                
                       </div>
                 </div>
       </main>
