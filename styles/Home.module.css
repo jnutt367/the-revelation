@@ -245,7 +245,6 @@
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    max-width: 1400px;
 }
 
 .h2 {
@@ -399,8 +398,7 @@
         padding-right: 200px;     
     }
      .grid {
-        grid-template-columns: 200px 200px 200px;
-        
+        grid-template-columns: 200px 200px 200px;  
     }
     
 }
