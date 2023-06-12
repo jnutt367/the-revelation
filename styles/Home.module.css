@@ -71,7 +71,9 @@
   max-width: 900px; 
   top: 10px;
 }
-
+.iframe {
+    border: 50px 0 10px solid #66D3FA;   
+}
 
 .image {
     margin-top: -50px;
