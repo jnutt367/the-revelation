@@ -68,6 +68,7 @@
   padding: 4rem 0;  
   background-size: cover;
   position:relative;
+  max-width: 900px; 
   top: 10px;
 }
 
@@ -93,7 +94,6 @@
 .hero {
   position:relative;
   top: -105px;
-  max-width: 900px;
 }
 .arrow {
     border-radius: 50%;
