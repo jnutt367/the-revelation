@@ -197,8 +197,182 @@ for you created all things,
 </p>
 </div>
 
-        </div>
-</div>
+                                      <div className={styles.card}>
+
+                                      <h2 className={styles.chapter}>The Revelation Chpt V</h2>
+                                      <p>
+
+                                      The Scroll and the Lamb
+                                      5 Then I saw in the right hand of him who sat on the throne a scroll with writing on both sides and sealed with seven seals. 2 And I saw a mighty angel proclaiming in a loud voice, “Who is worthy to break the seals and open the scroll?” 3 But no one in heaven or on earth or under the earth could open the scroll or even look inside it. 4 I wept and wept because no one was found who was worthy to open the scroll or look inside. 5 Then one of the elders said to me, “Do not weep! See, the Lion of the tribe of Judah, the Root of David, has triumphed. He is able to open the scroll and its seven seals.”
+
+                                      6 Then I saw a Lamb, looking as if it had been slain, standing at the center of the throne, encircled by the four living creatures and the elders. The Lamb had seven horns and seven eyes, which are the seven spirits[a] of God sent out into all the earth. 7 He went and took the scroll from the right hand of him who sat on the throne. 8 And when he had taken it, the four living creatures and the twenty-four elders fell down before the Lamb. Each one had a harp and they were holding golden bowls full of incense, which are the prayers of God’s people. 9 And they sang a new song, saying:
+
+                                      “You are worthy to take the scroll
+                                          and to open its seals,
+                                      because you were slain,
+                                          and with your blood you purchased for God
+                                          persons from every tribe and language and people and nation.
+                                      10 You have made them to be a kingdom and priests to serve our God,
+                                          and they will reign[b] on the earth.”
+
+                                      11 Then I looked and heard the voice of many angels, numbering thousands upon thousands, and ten thousand times ten thousand. They encircled the throne and the living creatures and the elders. 12 In a loud voice they were saying:
+
+                                      “Worthy is the Lamb, who was slain,
+                                          to receive power and wealth and wisdom and strength
+                                          and honor and glory and praise!”
+
+                                      13 Then I heard every creature in heaven and on earth and under the earth and on the sea, and all that is in them, saying:
+
+                                      “To him who sits on the throne and to the Lamb
+                                          be praise and honor and glory and power,
+                                      for ever and ever!”
+
+                                      14 The four living creatures said, “Amen,” and the elders fell down and worshiped.     
+                                        </p>
+                                      </div>
+  
+                                        <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>The Revelation Chpt VI</h2>
+                                        <p>
+                                          The Seals
+                              6 I watched as the Lamb opened the first of the seven seals. Then I heard one of the four living creatures say in a voice like thunder, “Come!” 2 I looked, and there before me was a white horse! Its rider held a bow, and he was given a crown, and he rode out as a conqueror bent on conquest.
+
+                              3 When the Lamb opened the second seal, I heard the second living creature say, “Come!” 4 Then another horse came out, a fiery red one. Its rider was given power to take peace from the earth and to make people kill each other. To him was given a large sword.
+
+                              5 When the Lamb opened the third seal, I heard the third living creature say, “Come!” I looked, and there before me was a black horse! Its rider was holding a pair of scales in his hand. 6 Then I heard what sounded like a voice among the four living creatures, saying, “Two pounds[a] of wheat for a day’s wages,[b] and six pounds[c] of barley for a day’s wages,[d] and do not damage the oil and the wine!”
+
+                              7 When the Lamb opened the fourth seal, I heard the voice of the fourth living creature say, “Come!” 8 I looked, and there before me was a pale horse! Its rider was named Death, and Hades was following close behind him. They were given power over a fourth of the earth to kill by sword, famine and plague, and by the wild beasts of the earth.
+
+                              9 When he opened the fifth seal, I saw under the altar the souls of those who had been slain because of the word of God and the testimony they had maintained. 10 They called out in a loud voice, “How long, Sovereign Lord, holy and true, until you judge the inhabitants of the earth and avenge our blood?” 11 Then each of them was given a white robe, and they were told to wait a little longer, until the full number of their fellow servants, their brothers and sisters,[e] were killed just as they had been.
+
+                              12 I watched as he opened the sixth seal. There was a great earthquake. The sun turned black like sackcloth made of goat hair, the whole moon turned blood red, 13 and the stars in the sky fell to earth, as figs drop from a fig tree when shaken by a strong wind. 14 The heavens receded like a scroll being rolled up, and every mountain and island was removed from its place.
+
+                              15 Then the kings of the earth, the princes, the generals, the rich, the mighty, and everyone else, both slave and free, hid in caves and among the rocks of the mountains. 16 They called to the mountains and the rocks, “Fall on us and hide us[f] from the face of him who sits on the throne and from the wrath of the Lamb! 17 For the great day of their[g] wrath has come, and who can withstand it?”
+                                        </p>
+                                        </div>
+
+                              <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>The Revelation Chpt VI</h2>
+                                        <p>
+                                                                                  144,000 Sealed
+                                          7 After this I saw four angels standing at the four corners of the earth, holding back the four winds of the earth to prevent any wind from blowing on the land or on the sea or on any tree. 2 Then I saw another angel coming up from the east, having the seal of the living God. He called out in a loud voice to the four angels who had been given power to harm the land and the sea: 3 “Do not harm the land or the sea or the trees until we put a seal on the foreheads of the servants of our God.” 4 Then I heard the number of those who were sealed: 144,000 from all the tribes of Israel.
+
+                                          5 From the tribe of Judah 12,000 were sealed,
+
+                                          from the tribe of Reuben 12,000,
+
+                                          from the tribe of Gad 12,000,
+
+                                          6 from the tribe of Asher 12,000,
+
+                                          from the tribe of Naphtali 12,000,
+
+                                          from the tribe of Manasseh 12,000,
+
+                                          7 from the tribe of Simeon 12,000,
+
+                                          from the tribe of Levi 12,000,
+
+                                          from the tribe of Issachar 12,000,
+
+                                          8 from the tribe of Zebulun 12,000,
+
+                                          from the tribe of Joseph 12,000,
+
+                                          from the tribe of Benjamin 12,000.
+
+                                          The Great Multitude in White Robes
+                                          9 After this I looked, and there before me was a great multitude that no one could count, from every nation, tribe, people and language, standing before the throne and before the Lamb. They were wearing white robes and were holding palm branches in their hands. 10 And they cried out in a loud voice:
+
+                                          “Salvation belongs to our God,
+                                          who sits on the throne,
+                                          and to the Lamb.”
+
+                                          11 All the angels were standing around the throne and around the elders and the four living creatures. They fell down on their faces before the throne and worshiped God, 12 saying:
+
+                                          “Amen!
+                                          Praise and glory
+                                          and wisdom and thanks and honor
+                                          and power and strength
+                                          be to our God for ever and ever.
+                                          Amen!”
+
+                                          13 Then one of the elders asked me, “These in white robes—who are they, and where did they come from?”
+
+                                          14 I answered, “Sir, you know.”
+
+                                          And he said, “These are they who have come out of the great tribulation; they have washed their robes and made them white in the blood of the Lamb. 15 Therefore,
+
+                                          “they are before the throne of God
+                                              and serve him day and night in his temple;
+                                          and he who sits on the throne
+                                              will shelter them with his presence.
+                                          16 ‘Never again will they hunger;
+                                              never again will they thirst.
+                                          The sun will not beat down on them,’[a]
+                                              nor any scorching heat.
+                                          17 For the Lamb at the center of the throne
+                                              will be their shepherd;
+                                          ‘he will lead them to springs of living water.’[b]
+                                              ‘And God will wipe away every tear from their eyes.’[c]”  
+                                                                                    </p>
+                                                                           </div>
+                                    <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>The Revelation Chpt VII </h2>
+                                        <p>
+
+                                        The Seventh Seal and the Golden Censer
+                                        8 When he opened the seventh seal, there was silence in heaven for about half an hour.
+
+                                        2 And I saw the seven angels who stand before God, and seven trumpets were given to them.
+
+                                        3 Another angel, who had a golden censer, came and stood at the altar. He was given much incense to offer, with the prayers of all God’s people, on the golden altar in front of the throne. 4 The smoke of the incense, together with the prayers of God’s people, went up before God from the angel’s hand. 5 Then the angel took the censer, filled it with fire from the altar, and hurled it on the earth; and there came peals of thunder, rumblings, flashes of lightning and an earthquake.
+
+                                        The Trumpets
+                                        6 Then the seven angels who had the seven trumpets prepared to sound them.
+
+                                        7 The first angel sounded his trumpet, and there came hail and fire mixed with blood, and it was hurled down on the earth. A third of the earth was burned up, a third of the trees were burned up, and all the green grass was burned up.
+
+                                        8 The second angel sounded his trumpet, and something like a huge mountain, all ablaze, was thrown into the sea. A third of the sea turned into blood, 9 a third of the living creatures in the sea died, and a third of the ships were destroyed.
+
+                                        10 The third angel sounded his trumpet, and a great star, blazing like a torch, fell from the sky on a third of the rivers and on the springs of water— 11 the name of the star is Wormwood.[a] A third of the waters turned bitter, and many people died from the waters that had become bitter.
+
+                                        12 The fourth angel sounded his trumpet, and a third of the sun was struck, a third of the moon, and a third of the stars, so that a third of them turned dark. A third of the day was without light, and also a third of the night.
+
+                                        13 As I watched, I heard an eagle that was flying in midair call out in a loud voice: “Woe! Woe! Woe to the inhabitants of the earth, because of the trumpet blasts about to be sounded by the other three angels!”
+ 
+                                        </p>
+                                  </div>
+
+
+
+
+                                <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>The Revelation Chpt IX</h2>
+                                        <p>
+                                          9 The fifth angel sounded his trumpet, and I saw a star that had fallen from the sky to the earth. The star was given the key to the shaft of the Abyss. 2 When he opened the Abyss, smoke rose from it like the smoke from a gigantic furnace. The sun and sky were darkened by the smoke from the Abyss. 3 And out of the smoke locusts came down on the earth and were given power like that of scorpions of the earth. 4 They were told not to harm the grass of the earth or any plant or tree, but only those people who did not have the seal of God on their foreheads. 5 They were not allowed to kill them but only to torture them for five months. And the agony they suffered was like that of the sting of a scorpion when it strikes. 6 During those days people will seek death but will not find it; they will long to die, but death will elude them.
+
+                                              7 The locusts looked like horses prepared for battle. On their heads they wore something like crowns of gold, and their faces resembled human faces. 8 Their hair was like women’s hair, and their teeth were like lions’ teeth. 9 They had breastplates like breastplates of iron, and the sound of their wings was like the thundering of many horses and chariots rushing into battle. 10 They had tails with stingers, like scorpions, and in their tails they had power to torment people for five months. 11 They had as king over them the angel of the Abyss, whose name in Hebrew is Abaddon and in Greek is Apollyon (that is, Destroyer).
+
+                                              12 The first woe is past; two other woes are yet to come.
+
+                                              13 The sixth angel sounded his trumpet, and I heard a voice coming from the four horns of the golden altar that is before God. 14 It said to the sixth angel who had the trumpet, “Release the four angels who are bound at the great river Euphrates.” 15 And the four angels who had been kept ready for this very hour and day and month and year were released to kill a third of mankind. 16 The number of the mounted troops was twice ten thousand times ten thousand. I heard their number.
+
+                                              17 The horses and riders I saw in my vision looked like this: Their breastplates were fiery red, dark blue, and yellow as sulfur. The heads of the horses resembled the heads of lions, and out of their mouths came fire, smoke and sulfur. 18 A third of mankind was killed by the three plagues of fire, smoke and sulfur that came out of their mouths. 19 The power of the horses was in their mouths and in their tails; for their tails were like snakes, having heads with which they inflict injury.
+
+                                              20 The rest of mankind who were not killed by these plagues still did not repent of the work of their hands; they did not stop worshiping demons, and idols of gold, silver, bronze, stone and wood—idols that cannot see or hear or walk. 21 Nor did they repent of their murders, their magic arts, their sexual immorality or their thefts.
+                                          
+                                        </p>
+                                  </div>
+                                  
+
+
+                      </div>
+                </div>
       </main>
 
       <footer className={styles.footer}>
