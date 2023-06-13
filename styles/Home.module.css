@@ -402,7 +402,10 @@
      .grid {
         grid-template-columns: 200px 200px 200px;  
     }
-    
+    .card {
+        max-height: 500px;
+        max-width: 500px;
+    }
 }
    
 
