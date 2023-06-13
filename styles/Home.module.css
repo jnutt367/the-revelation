@@ -6,7 +6,7 @@
 }
 */
 .container {
-  background-color: white;
+  background-color: #66D3FA;
   color: black;
   width: 100%;
   display: grid;
@@ -405,6 +405,9 @@
     .card {
         max-height: 500px;
         max-width: 500px;
+    }
+    .main {
+     max-width: 1400px; 
     }
 }
    
