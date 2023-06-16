@@ -400,14 +400,12 @@
     }
      .grid {
         grid-template-columns: 200px 200px 200px;  
-        max-width: 100%;
+        max-width: 2000px;
     }
     .card {
         max-height: 500px;
     }
-    .main {
-     max-width: 1200px; 
-    }
+  
 }
    
 
