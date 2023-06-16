@@ -96,6 +96,9 @@
   position:relative;
   top: -105px;
   max-width: 1200px;
+  display: grid;
+  align-items: center;
+  justify-content: center;
 }
 .arrow {
     border-radius: 50%;
