@@ -95,6 +95,7 @@
 .hero {
   position:relative;
   top: -105px;
+  max-width: 1200px;
 }
 .arrow {
     border-radius: 50%;
