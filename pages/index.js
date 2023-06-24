@@ -26,7 +26,7 @@ export default function Home() {
         </h1>
          <div  className={styles.image}>
        <Image 
-                                src="/risen_18.png"
+                                src="/risen_22.png"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
@@ -38,8 +38,8 @@ export default function Home() {
              <Image 
                                 src="/chevron-left.svg"
                                 alt="left"
-                                 height={25}
-                                width={25}
+                                 height={75}
+                                width={75}
                                 priority
                               />
        </a>
@@ -48,8 +48,8 @@ export default function Home() {
             <Image 
                                 src="/chevron-down.svg"
                                 alt="down"
-                                 height={25}
-                                width={25}
+                                 height={75}
+                                width={75}
                                 priority
                               />
            
@@ -58,8 +58,8 @@ export default function Home() {
            <Image 
                                 src="/chevron-right.svg"
                                 alt="right"
-                                 height={25}
-                                width={25}
+                                 height={75}
+                                width={75}
                                 priority
                               />
            
