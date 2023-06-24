@@ -33,6 +33,9 @@ export default function Home() {
                                 priority
                               />
         </div>
+<p className={styles.parables}>
+        Description of the the revelation of Jesus Christ in a vision to John, on the Island of Patmos, while he was in exile for the Word                                  
+</p>
                       <div className={styles.nav}>           
       <a href="https://colossians.vercel.app/">
              <Image 
@@ -70,7 +73,7 @@ export default function Home() {
                 <div className={styles.iframe}>
                       <iframe width="100%" height="315" src="https://www.youtube.com/embed/5nvVVcYD-0w" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div> 
-  </div>
+ 
       <div className={styles.grid}>
           <div className={styles.card}>
             <h2 className={styles.chapter}>The Revelation Chpt I</h2>
@@ -819,7 +822,7 @@ for you created all things,
                                                         21 The grace of the Lord Jesus be with God’s people. Amen.
                                                           </p>
                                     </div>
-                                
+                            </div>
                       </div>
               
       </main>
