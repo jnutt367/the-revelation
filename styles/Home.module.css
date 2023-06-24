@@ -271,7 +271,7 @@
 }
 
 .nav {
-    background-color:880808;
+    background-color: #880808;
     color: white;
     opacity: 1;
     padding: 5px;
@@ -294,7 +294,7 @@
 }
 
 .grid {
-    background-color:880808;
+    background-color: #880808;
     color: white;
     display: flex;
     align-items: center;
@@ -326,7 +326,7 @@
 }
 
 .card {
-    background-image: url(/risen_18.png);
+    background-image: url(/risen_24.png);
     background-repeat: no-repeat;
     background-position: center;
     background-position-x: center;
@@ -354,7 +354,7 @@
     box-shadow: lightblue 0px 5px 15px;
 }
 .chapter {
-    background-color:880808;
+    background-color: #880808;
     color: white;
     opacity: 0.8;
     opacity: 1;
