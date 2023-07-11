@@ -27,7 +27,7 @@ export default function Home() {
          <div  className={styles.image}>
        <Image 
                                 src="/the_revelation.png"
-                                alt="Jesus teaching"
+                                alt="image of the revealtion of jesus to john"
                                 height={900}
                                 width={2000}
                                 priority
@@ -39,30 +39,30 @@ export default function Home() {
                       <div className={styles.nav}>           
       <a href="https://colossians.vercel.app/">
              <Image 
-                                src="/chevron-left.svg"
+                                src="/previous.webp"
                                 alt="left"
                                  height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
        </a>
 
          <a href="#PayPalButton">
             <Image 
-                                src="/chevron-down.svg"
-                                alt="down"
+                                src="/upward_pointing.webp"
+                                alt="home"
                                  height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
            
         </a> 
          <a href="https://second-thessalonians.vercel.app/">
            <Image 
-                                src="/chevron-right.svg"
+                                src="/next.webp"
                                 alt="right"
                                  height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
            
@@ -71,7 +71,7 @@ export default function Home() {
                </div>
   
                 <div className={styles.iframe}>
-                      <iframe width="100%" height="315" src="https://www.youtube.com/embed/5nvVVcYD-0w" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                      <iframe width="100%" height="315" src="https://www.youtube.com/embed/5nvVVcYD-0w?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div> 
  
       <div className={styles.grid}>
