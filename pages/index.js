@@ -57,7 +57,7 @@ export default function Home() {
                               />
            
         </a> 
-         <a href="https://second-thessalonians.vercel.app/">
+         <a href="https://the-word-of-god.vercel.app/">
            <Image 
                                 src="/next.webp"
                                 alt="right"
