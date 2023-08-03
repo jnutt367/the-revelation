@@ -37,7 +37,7 @@ export default function Home() {
         Description of the the revelation of Jesus Christ in a vision to John, on the Island of Patmos, while he was in exile for the Word                                  
 </p>
                       <div className={styles.nav}>           
-      <a href="https://colossians.vercel.app/">
+      <a href="https://galatians.vercel.app/#first_peter">
              <Image 
                                 src="/previous.webp"
                                 alt="left"
