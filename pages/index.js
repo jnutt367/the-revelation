@@ -1430,16 +1430,7 @@ But as the terebinth and oak
                                 
                                        </p>
                                                                            </div>
-                                    <div className={styles.card}>
-
-                                        <h2 className={styles.chapter}>Isaiah Chpt VII </h2>
-                                        <p>
-
-
-                                                
-                                        </p>
-                                  </div>
-
+                                  
 
 
 
@@ -1448,15 +1439,94 @@ But as the terebinth and oak
                                         <h2 className={styles.chapter}>Isaiah Chpt VII</h2>
                                         <p>
 
-                                          
+                               The Sign of Immanuel
+7 When Ahaz son of Jotham, the son of Uzziah, was king of Judah, King Rezin of Aram and Pekah son of Remaliah king of Israel marched up to fight against Jerusalem, but they could not overpower it.
+
+2 Now the house of David was told, “Aram has allied itself with[a] Ephraim”; so the hearts of Ahaz and his people were shaken, as the trees of the forest are shaken by the wind.
+
+3 Then the Lord said to Isaiah, “Go out, you and your son Shear-Jashub,[b] to meet Ahaz at the end of the aqueduct of the Upper Pool, on the road to the Launderer’s Field. 4 Say to him, ‘Be careful, keep calm and don’t be afraid. Do not lose heart because of these two smoldering stubs of firewood—because of the fierce anger of Rezin and Aram and of the son of Remaliah. 5 Aram, Ephraim and Remaliah’s son have plotted your ruin, saying, 6 “Let us invade Judah; let us tear it apart and divide it among ourselves, and make the son of Tabeel king over it.” 7 Yet this is what the Sovereign Lord says:
+
+“‘It will not take place,
+    it will not happen,
+8 for the head of Aram is Damascus,
+    and the head of Damascus is only Rezin.
+Within sixty-five years
+    Ephraim will be too shattered to be a people.
+9 The head of Ephraim is Samaria,
+    and the head of Samaria is only Remaliah’s son.
+If you do not stand firm in your faith,
+    you will not stand at all.’”
+
+10 Again the Lord spoke to Ahaz, 11 “Ask the Lord your God for a sign, whether in the deepest depths or in the highest heights.”
+
+12 But Ahaz said, “I will not ask; I will not put the Lord to the test.”
+
+13 Then Isaiah said, “Hear now, you house of David! Is it not enough to try the patience of humans? Will you try the patience of my God also? 14 Therefore the Lord himself will give you[c] a sign: The virgin[d] will conceive and give birth to a son, and[e] will call him Immanuel.[f] 15 He will be eating curds and honey when he knows enough to reject the wrong and choose the right, 16 for before the boy knows enough to reject the wrong and choose the right, the land of the two kings you dread will be laid waste. 17 The Lord will bring on you and on your people and on the house of your father a time unlike any since Ephraim broke away from Judah—he will bring the king of Assyria.”
+
+Assyria, the Lord’s Instrument
+18 In that day the Lord will whistle for flies from the Nile delta in Egypt and for bees from the land of Assyria. 19 They will all come and settle in the steep ravines and in the crevices in the rocks, on all the thornbushes and at all the water holes. 20 In that day the Lord will use a razor hired from beyond the Euphrates River—the king of Assyria—to shave your head and private parts, and to cut off your beard also. 21 In that day, a person will keep alive a young cow and two goats. 22 And because of the abundance of the milk they give, there will be curds to eat. All who remain in the land will eat curds and honey. 23 In that day, in every place where there were a thousand vines worth a thousand silver shekels,[g] there will be only briers and thorns. 24 Hunters will go there with bow and arrow, for the land will be covered with briers and thorns. 25 As for all the hills once cultivated by the hoe, you will no longer go there for fear of the briers and thorns; they will become places where cattle are turned loose and where sheep run.
                                         </p>
                                   </div>
                                   <div className={styles.card}>
 
                                         <h2 className={styles.chapter}>Isaiah Chpt VIII </h2>
                                         <p>
-                           
-                                          
+                          Isaiah and His Children as Signs
+8 The Lord said to me, “Take a large scroll and write on it with an ordinary pen: Maher-Shalal-Hash-Baz.”[a] 2 So I called in Uriah the priest and Zechariah son of Jeberekiah as reliable witnesses for me. 3 Then I made love to the prophetess, and she conceived and gave birth to a son. And the Lord said to me, “Name him Maher-Shalal-Hash-Baz. 4 For before the boy knows how to say ‘My father’ or ‘My mother,’ the wealth of Damascus and the plunder of Samaria will be carried off by the king of Assyria.”
+
+5 The Lord spoke to me again:
+
+6 “Because this people has rejected
+    the gently flowing waters of Shiloah
+and rejoices over Rezin
+    and the son of Remaliah,
+7 therefore the Lord is about to bring against them
+    the mighty floodwaters of the Euphrates—
+    the king of Assyria with all his pomp.
+It will overflow all its channels,
+    run over all its banks
+8 and sweep on into Judah, swirling over it,
+    passing through it and reaching up to the neck.
+Its outspread wings will cover the breadth of your land,
+    Immanuel[b]!”
+
+9 Raise the war cry,[c] you nations, and be shattered!
+    Listen, all you distant lands.
+Prepare for battle, and be shattered!
+    Prepare for battle, and be shattered!
+10 Devise your strategy, but it will be thwarted;
+    propose your plan, but it will not stand,
+    for God is with us.[d]
+
+11 This is what the Lord says to me with his strong hand upon me, warning me not to follow the way of this people:
+
+12 “Do not call conspiracy
+    everything this people calls a conspiracy;
+do not fear what they fear,
+    and do not dread it.
+13 The Lord Almighty is the one you are to regard as holy,
+    he is the one you are to fear,
+    he is the one you are to dread.
+14 He will be a holy place;
+    for both Israel and Judah he will be
+a stone that causes people to stumble
+    and a rock that makes them fall.
+And for the people of Jerusalem he will be
+    a trap and a snare.
+15 Many of them will stumble;
+    they will fall and be broken,
+    they will be snared and captured.”
+
+16 Bind up this testimony of warning
+    and seal up God’s instruction among my disciples.
+17 I will wait for the Lord,
+    who is hiding his face from the descendants of Jacob.
+I will put my trust in him.
+
+18 Here am I, and the children the Lord has given me. We are signs and symbols in Israel from the Lord Almighty, who dwells on Mount Zion.
+
+The Darkness Turns to Light
+19 When someone tells you to consult mediums and spiritists, who whisper and mutter, should not a people inquire of their God? Why consult the dead on behalf of the living? 20 Consult God’s instruction and the testimony of warning. If anyone does not speak according to this word, they have no light of dawn. 21 Distressed and hungry, they will roam through the land; when they are famished, they will become enraged and, looking upward, will curse their king and their God. 22 Then they will look toward the earth and see only distress and darkness and fearful gloom, and they will be thrust into utter darkness.                      
                                           </p>
                                   </div>
 
@@ -1464,7 +1534,96 @@ But as the terebinth and oak
 
                                         <h2 className={styles.chapter}>Isaiah Chpt IX </h2>
                                         <p>
-                                              
+9 Nevertheless, there will be no more gloom for those who were in distress. In the past he humbled the land of Zebulun and the land of Naphtali, but in the future he will honor Galilee of the nations, by the Way of the Sea, beyond the Jordan—
+
+2 The people walking in darkness
+    have seen a great light;
+on those living in the land of deep darkness
+    a light has dawned.
+3 You have enlarged the nation
+    and increased their joy;
+they rejoice before you
+    as people rejoice at the harvest,
+as warriors rejoice
+    when dividing the plunder.
+4 For as in the day of Midian’s defeat,
+    you have shattered
+the yoke that burdens them,
+    the bar across their shoulders,
+    the rod of their oppressor.
+5 Every warrior’s boot used in battle
+    and every garment rolled in blood
+will be destined for burning,
+    will be fuel for the fire.
+6 For to us a child is born,
+    to us a son is given,
+    and the government will be on his shoulders.
+And he will be called
+    Wonderful Counselor, Mighty God,
+    Everlasting Father, Prince of Peace.
+7 Of the greatness of his government and peace
+    there will be no end.
+He will reign on David’s throne
+    and over his kingdom,
+establishing and upholding it
+    with justice and righteousness
+    from that time on and forever.
+The zeal of the Lord Almighty
+    will accomplish this.
+
+The Lord’s Anger Against Israel
+8 The Lord has sent a message against Jacob;
+    it will fall on Israel.
+9 All the people will know it—
+    Ephraim and the inhabitants of Samaria—
+who say with pride
+    and arrogance of heart,
+10 “The bricks have fallen down,
+    but we will rebuild with dressed stone;
+the fig trees have been felled,
+    but we will replace them with cedars.”
+11 But the Lord has strengthened Rezin’s foes against them
+    and has spurred their enemies on.
+12 Arameans from the east and Philistines from the west
+    have devoured Israel with open mouth.
+
+Yet for all this, his anger is not turned away,
+    his hand is still upraised.
+
+13 But the people have not returned to him who struck them,
+    nor have they sought the Lord Almighty.
+14 So the Lord will cut off from Israel both head and tail,
+    both palm branch and reed in a single day;
+15 the elders and dignitaries are the head,
+    the prophets who teach lies are the tail.
+16 Those who guide this people mislead them,
+    and those who are guided are led astray.
+17 Therefore the Lord will take no pleasure in the young men,
+    nor will he pity the fatherless and widows,
+for everyone is ungodly and wicked,
+    every mouth speaks folly.
+
+Yet for all this, his anger is not turned away,
+    his hand is still upraised.
+
+18 Surely wickedness burns like a fire;
+    it consumes briers and thorns,
+it sets the forest thickets ablaze,
+    so that it rolls upward in a column of smoke.
+19 By the wrath of the Lord Almighty
+    the land will be scorched
+and the people will be fuel for the fire;
+    they will not spare one another.
+20 On the right they will devour,
+    but still be hungry;
+on the left they will eat,
+    but not be satisfied.
+Each will feed on the flesh of their own offspring[b]:
+21     Manasseh will feed on Ephraim, and Ephraim on Manasseh;
+    together they will turn against Judah.
+
+Yet for all this, his anger is not turned away,
+    his hand is still upraised.
                                             
                                         </p>
                                     </div>
@@ -1474,7 +1633,131 @@ But as the terebinth and oak
                                         <h2 className={styles.chapter}>Isaiah Chpt X</h2>
                                         <p>
                                              
-                                                  
+10 Woe to those who make unjust laws,
+    to those who issue oppressive decrees,
+2 to deprive the poor of their rights
+    and withhold justice from the oppressed of my people,
+making widows their prey
+    and robbing the fatherless.
+3 What will you do on the day of reckoning,
+    when disaster comes from afar?
+To whom will you run for help?
+    Where will you leave your riches?
+4 Nothing will remain but to cringe among the captives
+    or fall among the slain.
+
+Yet for all this, his anger is not turned away,
+    his hand is still upraised.
+
+God’s Judgment on Assyria
+5 “Woe to the Assyrian, the rod of my anger,
+    in whose hand is the club of my wrath!
+6 I send him against a godless nation,
+    I dispatch him against a people who anger me,
+to seize loot and snatch plunder,
+    and to trample them down like mud in the streets.
+7 But this is not what he intends,
+    this is not what he has in mind;
+his purpose is to destroy,
+    to put an end to many nations.
+8 ‘Are not my commanders all kings?’ he says.
+9     ‘Has not Kalno fared like Carchemish?
+Is not Hamath like Arpad,
+    and Samaria like Damascus?
+10 As my hand seized the kingdoms of the idols,
+    kingdoms whose images excelled those of Jerusalem and Samaria—
+11 shall I not deal with Jerusalem and her images
+    as I dealt with Samaria and her idols?’”
+
+12 When the Lord has finished all his work against Mount Zion and Jerusalem, he will say, “I will punish the king of Assyria for the willful pride of his heart and the haughty look in his eyes. 13 For he says:
+
+“‘By the strength of my hand I have done this,
+    and by my wisdom, because I have understanding.
+I removed the boundaries of nations,
+    I plundered their treasures;
+    like a mighty one I subdued[a] their kings.
+14 As one reaches into a nest,
+    so my hand reached for the wealth of the nations;
+as people gather abandoned eggs,
+    so I gathered all the countries;
+not one flapped a wing,
+    or opened its mouth to chirp.’”
+
+15 Does the ax raise itself above the person who swings it,
+    or the saw boast against the one who uses it?
+As if a rod were to wield the person who lifts it up,
+    or a club brandish the one who is not wood!
+16 Therefore, the Lord, the Lord Almighty,
+    will send a wasting disease upon his sturdy warriors;
+under his pomp a fire will be kindled
+    like a blazing flame.
+17 The Light of Israel will become a fire,
+    their Holy One a flame;
+in a single day it will burn and consume
+    his thorns and his briers.
+18 The splendor of his forests and fertile fields
+    it will completely destroy,
+    as when a sick person wastes away.
+19 And the remaining trees of his forests will be so few
+    that a child could write them down.
+
+The Remnant of Israel
+20 In that day the remnant of Israel,
+    the survivors of Jacob,
+will no longer rely on him
+    who struck them down
+but will truly rely on the Lord,
+    the Holy One of Israel.
+21 A remnant will return,[b] a remnant of Jacob
+    will return to the Mighty God.
+22 Though your people be like the sand by the sea, Israel,
+    only a remnant will return.
+Destruction has been decreed,
+    overwhelming and righteous.
+23 The Lord, the Lord Almighty, will carry out
+    the destruction decreed upon the whole land.
+
+24 Therefore this is what the Lord, the Lord Almighty, says:
+
+“My people who live in Zion,
+    do not be afraid of the Assyrians,
+who beat you with a rod
+    and lift up a club against you, as Egypt did.
+25 Very soon my anger against you will end
+    and my wrath will be directed to their destruction.”
+
+26 The Lord Almighty will lash them with a whip,
+    as when he struck down Midian at the rock of Oreb;
+and he will raise his staff over the waters,
+    as he did in Egypt.
+27 In that day their burden will be lifted from your shoulders,
+    their yoke from your neck;
+the yoke will be broken
+    because you have grown so fat.[c]
+
+28 They enter Aiath;
+    they pass through Migron;
+    they store supplies at Mikmash.
+29 They go over the pass, and say,
+    “We will camp overnight at Geba.”
+Ramah trembles;
+    Gibeah of Saul flees.
+30 Cry out, Daughter Gallim!
+    Listen, Laishah!
+    Poor Anathoth!
+31 Madmenah is in flight;
+    the people of Gebim take cover.
+32 This day they will halt at Nob;
+    they will shake their fist
+at the mount of Daughter Zion,
+    at the hill of Jerusalem.
+
+33 See, the Lord, the Lord Almighty,
+    will lop off the boughs with great power.
+The lofty trees will be felled,
+    the tall ones will be brought low.
+34 He will cut down the forest thickets with an ax;
+    Lebanon will fall before the Mighty One.
                                         </p>
                                     </div>
 
@@ -1483,8 +1766,62 @@ But as the terebinth and oak
                                         <h2 className={styles.chapter}>Isaiah Chpt XI</h2>
                                         <p>
 
+The Branch From Jesse
+11 A shoot will come up from the stump of Jesse;
+    from his roots a Branch will bear fruit.
+2 The Spirit of the Lord will rest on him—
+    the Spirit of wisdom and of understanding,
+    the Spirit of counsel and of might,
+    the Spirit of the knowledge and fear of the Lord—
+3 and he will delight in the fear of the Lord.
 
-                                                      
+He will not judge by what he sees with his eyes,
+    or decide by what he hears with his ears;
+4 but with righteousness he will judge the needy,
+    with justice he will give decisions for the poor of the earth.
+He will strike the earth with the rod of his mouth;
+    with the breath of his lips he will slay the wicked.
+5 Righteousness will be his belt
+    and faithfulness the sash around his waist.
+
+6 The wolf will live with the lamb,
+    the leopard will lie down with the goat,
+the calf and the lion and the yearling[a] together;
+    and a little child will lead them.
+7 The cow will feed with the bear,
+    their young will lie down together,
+    and the lion will eat straw like the ox.
+8 The infant will play near the cobra’s den,
+    and the young child will put its hand into the viper’s nest.
+9 They will neither harm nor destroy
+    on all my holy mountain,
+for the earth will be filled with the knowledge of the Lord
+    as the waters cover the sea.
+
+10 In that day the Root of Jesse will stand as a banner for the peoples; the nations will rally to him, and his resting place will be glorious. 11 In that day the Lord will reach out his hand a second time to reclaim the surviving remnant of his people from Assyria, from Lower Egypt, from Upper Egypt, from Cush,[b] from Elam, from Babylonia,[c] from Hamath and from the islands of the Mediterranean.
+
+12 He will raise a banner for the nations
+    and gather the exiles of Israel;
+he will assemble the scattered people of Judah
+    from the four quarters of the earth.
+13 Ephraim’s jealousy will vanish,
+    and Judah’s enemies[d] will be destroyed;
+Ephraim will not be jealous of Judah,
+    nor Judah hostile toward Ephraim.
+14 They will swoop down on the slopes of Philistia to the west;
+    together they will plunder the people to the east.
+They will subdue Edom and Moab,
+    and the Ammonites will be subject to them.
+15 The Lord will dry up
+    the gulf of the Egyptian sea;
+with a scorching wind he will sweep his hand
+    over the Euphrates River.
+He will break it up into seven streams
+    so that anyone can cross over in sandals.
+16 There will be a highway for the remnant of his people
+    that is left from Assyria,
+as there was for Israel
+    when they came up from Egypt.                                                      
                                          </p>
                                     </div>
 
@@ -1493,7 +1830,29 @@ But as the terebinth and oak
                                         <h2 className={styles.chapter}>Isaiah Chpt XII </h2>
                                         <p>
                                              
-                                                    
+Songs of Praise
+12 In that day you will say:
+
+“I will praise you, Lord.
+    Although you were angry with me,
+your anger has turned away
+    and you have comforted me.
+2 Surely God is my salvation;
+    I will trust and not be afraid.
+The Lord, the Lord himself, is my strength and my defense[a];
+    he has become my salvation.”
+3 With joy you will draw water
+    from the wells of salvation.
+
+4 In that day you will say:
+
+“Give praise to the Lord, proclaim his name;
+    make known among the nations what he has done,
+    and proclaim that his name is exalted.
+5 Sing to the Lord, for he has done glorious things;
+    let this be known to all the world.
+6 Shout aloud and sing for joy, people of Zion,
+    for great is the Holy One of Israel among you.”
                                         </p>
                                     </div>
 
@@ -1502,8 +1861,88 @@ But as the terebinth and oak
                                         <h2 className={styles.chapter}>Isaiah Chpt XIII </h2>
                                         <p>
                                                                                 
-                                            
-                                          </p>
+                                            A Prophecy Against Babylon
+13 A prophecy against Babylon that Isaiah son of Amoz saw:
+
+2 Raise a banner on a bare hilltop,
+    shout to them;
+beckon to them
+    to enter the gates of the nobles.
+3 I have commanded those I prepared for battle;
+    I have summoned my warriors to carry out my wrath—
+    those who rejoice in my triumph.
+
+4 Listen, a noise on the mountains,
+    like that of a great multitude!
+Listen, an uproar among the kingdoms,
+    like nations massing together!
+The Lord Almighty is mustering
+    an army for war.
+5 They come from faraway lands,
+    from the ends of the heavens—
+the Lord and the weapons of his wrath—
+    to destroy the whole country.
+
+6 Wail, for the day of the Lord is near;
+    it will come like destruction from the Almighty.[a]
+7 Because of this, all hands will go limp,
+    every heart will melt with fear.
+8 Terror will seize them,
+    pain and anguish will grip them;
+    they will writhe like a woman in labor.
+They will look aghast at each other,
+    their faces aflame.
+
+9 See, the day of the Lord is coming
+    —a cruel day, with wrath and fierce anger—
+to make the land desolate
+    and destroy the sinners within it.
+10 The stars of heaven and their constellations
+    will not show their light.
+The rising sun will be darkened
+    and the moon will not give its light.
+11 I will punish the world for its evil,
+    the wicked for their sins.
+I will put an end to the arrogance of the haughty
+    and will humble the pride of the ruthless.
+12 I will make people scarcer than pure gold,
+    more rare than the gold of Ophir.
+13 Therefore I will make the heavens tremble;
+    and the earth will shake from its place
+at the wrath of the Lord Almighty,
+    in the day of his burning anger.
+
+14 Like a hunted gazelle,
+    like sheep without a shepherd,
+they will all return to their own people,
+    they will flee to their native land.
+15 Whoever is captured will be thrust through;
+    all who are caught will fall by the sword.
+16 Their infants will be dashed to pieces before their eyes;
+    their houses will be looted and their wives violated.
+
+17 See, I will stir up against them the Medes,
+    who do not care for silver
+    and have no delight in gold.
+18 Their bows will strike down the young men;
+    they will have no mercy on infants,
+    nor will they look with compassion on children.
+19 Babylon, the jewel of kingdoms,
+    the pride and glory of the Babylonians,[b]
+will be overthrown by God
+    like Sodom and Gomorrah.
+20 She will never be inhabited
+    or lived in through all generations;
+there no nomads will pitch their tents,
+    there no shepherds will rest their flocks.
+21 But desert creatures will lie there,
+    jackals will fill her houses;
+there the owls will dwell,
+    and there the wild goats will leap about.
+22 Hyenas will inhabit her strongholds,
+    jackals her luxurious palaces.
+Her time is at hand,
+    and her days will not be prolonged.                                          </p>
                                     </div>
 
 
@@ -1511,7 +1950,137 @@ But as the terebinth and oak
 
                                         <h2 className={styles.chapter}>Isaiah Chpt XIV </h2>
                                         <p>
-                                                                                               
+
+14 The Lord will have compassion on Jacob;
+    once again he will choose Israel
+    and will settle them in their own land.
+Foreigners will join them
+    and unite with the descendants of Jacob.
+2 Nations will take them
+    and bring them to their own place.
+And Israel will take possession of the nations
+    and make them male and female servants in the Lord’s land.
+They will make captives of their captors
+    and rule over their oppressors.
+
+3 On the day the Lord gives you relief from your suffering and turmoil and from the harsh labor forced on you, 4 you will take up this taunt against the king of Babylon:
+
+How the oppressor has come to an end!
+    How his fury[a] has ended!
+5 The Lord has broken the rod of the wicked,
+    the scepter of the rulers,
+6 which in anger struck down peoples
+    with unceasing blows,
+and in fury subdued nations
+    with relentless aggression.
+7 All the lands are at rest and at peace;
+    they break into singing.
+8 Even the junipers and the cedars of Lebanon
+    gloat over you and say,
+“Now that you have been laid low,
+    no one comes to cut us down.”
+
+9 The realm of the dead below is all astir
+    to meet you at your coming;
+it rouses the spirits of the departed to greet you—
+    all those who were leaders in the world;
+it makes them rise from their thrones—
+    all those who were kings over the nations.
+10 They will all respond,
+    they will say to you,
+“You also have become weak, as we are;
+    you have become like us.”
+11 All your pomp has been brought down to the grave,
+    along with the noise of your harps;
+maggots are spread out beneath you
+    and worms cover you.
+
+12 How you have fallen from heaven,
+    morning star, son of the dawn!
+You have been cast down to the earth,
+    you who once laid low the nations!
+13 You said in your heart,
+    “I will ascend to the heavens;
+I will raise my throne
+    above the stars of God;
+I will sit enthroned on the mount of assembly,
+    on the utmost heights of Mount Zaphon.[b]
+14 I will ascend above the tops of the clouds;
+    I will make myself like the Most High.”
+15 But you are brought down to the realm of the dead,
+    to the depths of the pit.
+
+16 Those who see you stare at you,
+    they ponder your fate:
+“Is this the man who shook the earth
+    and made kingdoms tremble,
+17 the man who made the world a wilderness,
+    who overthrew its cities
+    and would not let his captives go home?”
+
+18 All the kings of the nations lie in state,
+    each in his own tomb.
+19 But you are cast out of your tomb
+    like a rejected branch;
+you are covered with the slain,
+    with those pierced by the sword,
+    those who descend to the stones of the pit.
+Like a corpse trampled underfoot,
+20     you will not join them in burial,
+for you have destroyed your land
+    and killed your people.
+
+Let the offspring of the wicked
+    never be mentioned again.
+21 Prepare a place to slaughter his children
+    for the sins of their ancestors;
+they are not to rise to inherit the land
+    and cover the earth with their cities.
+
+22 “I will rise up against them,”
+    declares the Lord Almighty.
+“I will wipe out Babylon’s name and survivors,
+    her offspring and descendants,”
+declares the Lord.
+23 “I will turn her into a place for owls
+    and into swampland;
+I will sweep her with the broom of destruction,”
+    declares the Lord Almighty.
+
+24 The Lord Almighty has sworn,
+
+“Surely, as I have planned, so it will be,
+    and as I have purposed, so it will happen.
+25 I will crush the Assyrian in my land;
+    on my mountains I will trample him down.
+His yoke will be taken from my people,
+    and his burden removed from their shoulders.”
+
+26 This is the plan determined for the whole world;
+    this is the hand stretched out over all nations.
+27 For the Lord Almighty has purposed, and who can thwart him?
+    His hand is stretched out, and who can turn it back?
+
+A Prophecy Against the Philistines
+28 This prophecy came in the year King Ahaz died:
+
+29 Do not rejoice, all you Philistines,
+    that the rod that struck you is broken;
+from the root of that snake will spring up a viper,
+    its fruit will be a darting, venomous serpent.
+30 The poorest of the poor will find pasture,
+    and the needy will lie down in safety.
+But your root I will destroy by famine;
+    it will slay your survivors.
+
+31 Wail, you gate! Howl, you city!
+    Melt away, all you Philistines!
+A cloud of smoke comes from the north,
+    and there is not a straggler in its ranks.
+32 What answer shall be given
+    to the envoys of that nation?
+“The Lord has established Zion,
+    and in her his afflicted people will find refuge.”  
                                                           </p>
                                     </div>
 
@@ -1519,8 +2088,136 @@ But as the terebinth and oak
 
                                         <h2 className={styles.chapter}>Isaiah Chpt XV </h2>
                                         <p>
+14 The Lord will have compassion on Jacob;
+    once again he will choose Israel
+    and will settle them in their own land.
+Foreigners will join them
+    and unite with the descendants of Jacob.
+2 Nations will take them
+    and bring them to their own place.
+And Israel will take possession of the nations
+    and make them male and female servants in the Lord’s land.
+They will make captives of their captors
+    and rule over their oppressors.
 
-                                            
+3 On the day the Lord gives you relief from your suffering and turmoil and from the harsh labor forced on you, 4 you will take up this taunt against the king of Babylon:
+
+How the oppressor has come to an end!
+    How his fury[a] has ended!
+5 The Lord has broken the rod of the wicked,
+    the scepter of the rulers,
+6 which in anger struck down peoples
+    with unceasing blows,
+and in fury subdued nations
+    with relentless aggression.
+7 All the lands are at rest and at peace;
+    they break into singing.
+8 Even the junipers and the cedars of Lebanon
+    gloat over you and say,
+“Now that you have been laid low,
+    no one comes to cut us down.”
+
+9 The realm of the dead below is all astir
+    to meet you at your coming;
+it rouses the spirits of the departed to greet you—
+    all those who were leaders in the world;
+it makes them rise from their thrones—
+    all those who were kings over the nations.
+10 They will all respond,
+    they will say to you,
+“You also have become weak, as we are;
+    you have become like us.”
+11 All your pomp has been brought down to the grave,
+    along with the noise of your harps;
+maggots are spread out beneath you
+    and worms cover you.
+
+12 How you have fallen from heaven,
+    morning star, son of the dawn!
+You have been cast down to the earth,
+    you who once laid low the nations!
+13 You said in your heart,
+    “I will ascend to the heavens;
+I will raise my throne
+    above the stars of God;
+I will sit enthroned on the mount of assembly,
+    on the utmost heights of Mount Zaphon.[b]
+14 I will ascend above the tops of the clouds;
+    I will make myself like the Most High.”
+15 But you are brought down to the realm of the dead,
+    to the depths of the pit.
+
+16 Those who see you stare at you,
+    they ponder your fate:
+“Is this the man who shook the earth
+    and made kingdoms tremble,
+17 the man who made the world a wilderness,
+    who overthrew its cities
+    and would not let his captives go home?”
+
+18 All the kings of the nations lie in state,
+    each in his own tomb.
+19 But you are cast out of your tomb
+    like a rejected branch;
+you are covered with the slain,
+    with those pierced by the sword,
+    those who descend to the stones of the pit.
+Like a corpse trampled underfoot,
+20     you will not join them in burial,
+for you have destroyed your land
+    and killed your people.
+
+Let the offspring of the wicked
+    never be mentioned again.
+21 Prepare a place to slaughter his children
+    for the sins of their ancestors;
+they are not to rise to inherit the land
+    and cover the earth with their cities.
+
+22 “I will rise up against them,”
+    declares the Lord Almighty.
+“I will wipe out Babylon’s name and survivors,
+    her offspring and descendants,”
+declares the Lord.
+23 “I will turn her into a place for owls
+    and into swampland;
+I will sweep her with the broom of destruction,”
+    declares the Lord Almighty.
+
+24 The Lord Almighty has sworn,
+
+“Surely, as I have planned, so it will be,
+    and as I have purposed, so it will happen.
+25 I will crush the Assyrian in my land;
+    on my mountains I will trample him down.
+His yoke will be taken from my people,
+    and his burden removed from their shoulders.”
+
+26 This is the plan determined for the whole world;
+    this is the hand stretched out over all nations.
+27 For the Lord Almighty has purposed, and who can thwart him?
+    His hand is stretched out, and who can turn it back?
+
+A Prophecy Against the Philistines
+28 This prophecy came in the year King Ahaz died:
+
+29 Do not rejoice, all you Philistines,
+    that the rod that struck you is broken;
+from the root of that snake will spring up a viper,
+    its fruit will be a darting, venomous serpent.
+30 The poorest of the poor will find pasture,
+    and the needy will lie down in safety.
+But your root I will destroy by famine;
+    it will slay your survivors.
+
+31 Wail, you gate! Howl, you city!
+    Melt away, all you Philistines!
+A cloud of smoke comes from the north,
+    and there is not a straggler in its ranks.
+32 What answer shall be given
+    to the envoys of that nation?
+“The Lord has established Zion,
+    and in her his afflicted people will find refuge.”                                            
                                                   </p>
                                     </div>
 
@@ -1529,7 +2226,69 @@ But as the terebinth and oak
                                         <h2 className={styles.chapter}>Isaiah Chpt XVI </h2>
                                         <p>
 
-                                            
+16 Send lambs as tribute
+    to the ruler of the land,
+from Sela, across the desert,
+    to the mount of Daughter Zion.
+2 Like fluttering birds
+    pushed from the nest,
+so are the women of Moab
+    at the fords of the Arnon.
+
+3 “Make up your mind,” Moab says.
+    “Render a decision.
+Make your shadow like night—
+    at high noon.
+Hide the fugitives,
+    do not betray the refugees.
+4 Let the Moabite fugitives stay with you;
+    be their shelter from the destroyer.”
+
+The oppressor will come to an end,
+    and destruction will cease;
+    the aggressor will vanish from the land.
+5 In love a throne will be established;
+    in faithfulness a man will sit on it—
+    one from the house[a] of David—
+one who in judging seeks justice
+    and speeds the cause of righteousness.
+
+6 We have heard of Moab’s pride—
+    how great is her arrogance!—
+of her conceit, her pride and her insolence;
+    but her boasts are empty.
+7 Therefore the Moabites wail,
+    they wail together for Moab.
+Lament and grieve
+    for the raisin cakes of Kir Hareseth.
+8 The fields of Heshbon wither,
+    the vines of Sibmah also.
+The rulers of the nations
+    have trampled down the choicest vines,
+which once reached Jazer
+    and spread toward the desert.
+Their shoots spread out
+    and went as far as the sea.[b]
+9 So I weep, as Jazer weeps,
+    for the vines of Sibmah.
+Heshbon and Elealeh,
+    I drench you with tears!
+The shouts of joy over your ripened fruit
+    and over your harvests have been stilled.
+10 Joy and gladness are taken away from the orchards;
+    no one sings or shouts in the vineyards;
+no one treads out wine at the presses,
+    for I have put an end to the shouting.
+11 My heart laments for Moab like a harp,
+    my inmost being for Kir Hareseth.
+12 When Moab appears at her high place,
+    she only wears herself out;
+when she goes to her shrine to pray,
+    it is to no avail.
+
+13 This is the word the Lord has already spoken concerning Moab. 14 But now the Lord says: “Within three years, as a servant bound by contract would count them, Moab’s splendor and all her many people will be despised, and her survivors will be very few and feeble.”
+
+
                                                 </p>
                                     </div>
 
@@ -1537,7 +2296,62 @@ But as the terebinth and oak
 
                                         <h2 className={styles.chapter}>Isaiah Chpt XVII </h2>
                                         <p>
-                                                                                         
+A Prophecy Against Damascus
+17 A prophecy against Damascus:
+
+“See, Damascus will no longer be a city
+    but will become a heap of ruins.
+2 The cities of Aroer will be deserted
+    and left to flocks, which will lie down,
+    with no one to make them afraid.
+3 The fortified city will disappear from Ephraim,
+    and royal power from Damascus;
+the remnant of Aram will be
+    like the glory of the Israelites,”
+declares the Lord Almighty.
+
+4 “In that day the glory of Jacob will fade;
+    the fat of his body will waste away.
+5 It will be as when reapers harvest the standing grain,
+    gathering the grain in their arms—
+as when someone gleans heads of grain
+    in the Valley of Rephaim.
+6 Yet some gleanings will remain,
+    as when an olive tree is beaten,
+leaving two or three olives on the topmost branches,
+    four or five on the fruitful boughs,”
+declares the Lord, the God of Israel.
+
+7 In that day people will look to their Maker
+    and turn their eyes to the Holy One of Israel.
+8 They will not look to the altars,
+    the work of their hands,
+and they will have no regard for the Asherah poles[a]
+    and the incense altars their fingers have made.
+
+9 In that day their strong cities, which they left because of the Israelites, will be like places abandoned to thickets and undergrowth. And all will be desolation.
+
+10 You have forgotten God your Savior;
+    you have not remembered the Rock, your fortress.
+Therefore, though you set out the finest plants
+    and plant imported vines,
+11 though on the day you set them out, you make them grow,
+    and on the morning when you plant them, you bring them to bud,
+yet the harvest will be as nothing
+    in the day of disease and incurable pain.
+
+12 Woe to the many nations that rage—
+    they rage like the raging sea!
+Woe to the peoples who roar—
+    they roar like the roaring of great waters!
+13 Although the peoples roar like the roar of surging waters,
+    when he rebukes them they flee far away,
+driven before the wind like chaff on the hills,
+    like tumbleweed before a gale.
+14 In the evening, sudden terror!
+    Before the morning, they are gone!
+This is the portion of those who loot us,
+    the lot of those who plunder us.
 
                                                   </p>
                                     </div>
@@ -1547,26 +2361,134 @@ But as the terebinth and oak
                                         <h2 className={styles.chapter}>The Revelation Chpt XVIII </h2>
                                         <p>
 
-                                            
-                                          </p>
+                                            A Prophecy Against Cush
+18 Woe to the land of whirring wings[a]
+    along the rivers of Cush,[b]
+2 which sends envoys by sea
+    in papyrus boats over the water.
+
+Go, swift messengers,
+to a people tall and smooth-skinned,
+    to a people feared far and wide,
+an aggressive nation of strange speech,
+    whose land is divided by rivers.
+
+3 All you people of the world,
+    you who live on the earth,
+when a banner is raised on the mountains,
+    you will see it,
+and when a trumpet sounds,
+    you will hear it.
+4 This is what the Lord says to me:
+    “I will remain quiet and will look on from my dwelling place,
+like shimmering heat in the sunshine,
+    like a cloud of dew in the heat of harvest.”
+5 For, before the harvest, when the blossom is gone
+    and the flower becomes a ripening grape,
+he will cut off the shoots with pruning knives,
+    and cut down and take away the spreading branches.
+6 They will all be left to the mountain birds of prey
+    and to the wild animals;
+the birds will feed on them all summer,
+    the wild animals all winter.
+
+7 At that time gifts will be brought to the Lord Almighty
+
+from a people tall and smooth-skinned,
+    from a people feared far and wide,
+an aggressive nation of strange speech,
+    whose land is divided by rivers—
+
+the gifts will be brought to Mount Zion, the place of the Name of the Lord Almighty.                                          </p>
                                     </div>
 
                                      <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XXIX </h2>
+                                        <h2 className={styles.chapter}>Isaiah Chpt XIX </h2>
                                         <p>
 
+A Prophecy Against Egypt
+19 A prophecy against Egypt:
 
-                                            
+See, the Lord rides on a swift cloud
+    and is coming to Egypt.
+The idols of Egypt tremble before him,
+    and the hearts of the Egyptians melt with fear.
+
+2 “I will stir up Egyptian against Egyptian—
+    brother will fight against brother,
+    neighbor against neighbor,
+    city against city,
+    kingdom against kingdom.
+3 The Egyptians will lose heart,
+    and I will bring their plans to nothing;
+they will consult the idols and the spirits of the dead,
+    the mediums and the spiritists.
+4 I will hand the Egyptians over
+    to the power of a cruel master,
+and a fierce king will rule over them,”
+    declares the Lord, the Lord Almighty.
+
+5 The waters of the river will dry up,
+    and the riverbed will be parched and dry.
+6 The canals will stink;
+    the streams of Egypt will dwindle and dry up.
+The reeds and rushes will wither,
+7     also the plants along the Nile,
+    at the mouth of the river.
+Every sown field along the Nile
+    will become parched, will blow away and be no more.
+8 The fishermen will groan and lament,
+    all who cast hooks into the Nile;
+those who throw nets on the water
+    will pine away.
+9 Those who work with combed flax will despair,
+    the weavers of fine linen will lose hope.
+10 The workers in cloth will be dejected,
+    and all the wage earners will be sick at heart.
+
+11 The officials of Zoan are nothing but fools;
+    the wise counselors of Pharaoh give senseless advice.
+How can you say to Pharaoh,
+    “I am one of the wise men,
+    a disciple of the ancient kings”?
+
+12 Where are your wise men now?
+    Let them show you and make known
+what the Lord Almighty
+    has planned against Egypt.
+13 The officials of Zoan have become fools,
+    the leaders of Memphis are deceived;
+the cornerstones of her peoples
+    have led Egypt astray.
+14 The Lord has poured into them
+    a spirit of dizziness;
+they make Egypt stagger in all that she does,
+    as a drunkard staggers around in his vomit.
+15 There is nothing Egypt can do—
+    head or tail, palm branch or reed.
+
+16 In that day the Egyptians will become weaklings. They will shudder with fear at the uplifted hand that the Lord Almighty raises against them. 17 And the land of Judah will bring terror to the Egyptians; everyone to whom Judah is mentioned will be terrified, because of what the Lord Almighty is planning against them.
+
+18 In that day five cities in Egypt will speak the language of Canaan and swear allegiance to the Lord Almighty. One of them will be called the City of the Sun.[a]
+
+19 In that day there will be an altar to the Lord in the heart of Egypt, and a monument to the Lord at its border. 20 It will be a sign and witness to the Lord Almighty in the land of Egypt. When they cry out to the Lord because of their oppressors, he will send them a savior and defender, and he will rescue them. 21 So the Lord will make himself known to the Egyptians, and in that day they will acknowledge the Lord. They will worship with sacrifices and grain offerings; they will make vows to the Lord and keep them. 22 The Lord will strike Egypt with a plague; he will strike them and heal them. They will turn to the Lord, and he will respond to their pleas and heal them.
+
+23 In that day there will be a highway from Egypt to Assyria. The Assyrians will go to Egypt and the Egyptians to Assyria. The Egyptians and Assyrians will worship together. 24 In that day Israel will be the third, along with Egypt and Assyria, a blessing[b] on the earth. 25 The Lord Almighty will bless them, saying, “Blessed be Egypt my people, Assyria my handiwork, and Israel my inheritance.”
+                                       
                                              </p>
                                     </div>
 
                                      <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XXX              </h2>
+                                        <h2 className={styles.chapter}>Isaiah Chpt XX              </h2>
                                         <p>
-                                               
-                                                          </p>
+
+A Prophecy Against Egypt and Cush
+20 In the year that the supreme commander, sent by Sargon king of Assyria, came to Ashdod and attacked and captured it— 2 at that time the Lord spoke through Isaiah son of Amoz. He said to him, “Take off the sackcloth from your body and the sandals from your feet.” And he did so, going around stripped and barefoot.
+
+3 Then the Lord said, “Just as my servant Isaiah has gone stripped and barefoot for three years, as a sign and portent against Egypt and Cush,[a] 4 so the king of Assyria will lead away stripped and barefoot the Egyptian captives and Cushite exiles, young and old, with buttocks bared—to Egypt’s shame. 5 Those who trusted in Cush and boasted in Egypt will be dismayed and put to shame. 6 In that day the people who live on this coast will say, ‘See what has happened to those we relied on, those we fled to for help and deliverance from the king of Assyria! How then can we escape?’”
+                                         </p>
                                     </div>
 
 
