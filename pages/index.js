@@ -827,18 +827,427 @@ for you created all things,
               
       </main>
 
-      <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
-          </span>
-        </a>
-      </footer>
+
+
+
+
+
+<main className={styles.main}>
+      
+       
+       
+        <div className={styles.hero}>
+           <h2 className={styles.holy}>THE WORD</h2>
+                <h1 className={styles.bible}>
+                    <a href="https://the-holy-bible.vercel.app/" target="_blank">OF GOD</a>
+                </h1>
+        
+        <h1 className={styles.title}>
+          ISAIAH
+        </h1>
+         <div  className={styles.image}>
+       <Image 
+                                src="/isaiah.png"
+                                alt="image of the revealtion of jesus to john"
+                                height={900}
+                                width={2000}
+                                priority
+                              />
+        </div>
+<p className={styles.parables}>
+       Isaiah is the first of the Mojor Prophets and I am coding ti out tonight!                              
+</p>
+                      <div className={styles.nav}>           
+      <a href="https://galatians.vercel.app/#first_peter">
+             <Image 
+                                src="/previous.webp"
+                                alt="left"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+       </a>
+
+         <a href="#PayPalButton">
+            <Image 
+                                src="/upward_pointing.webp"
+                                alt="home"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         <a href="https://the-word-of-god.vercel.app/">
+           <Image 
+                                src="/next.webp"
+                                alt="right"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         
+               </div>
+  
+                <div className={styles.iframe}>
+                     <iframe width="100%" height="315" src="https://www.youtube.com/embed/d0A6Uchb1F8?si=WYMxhQHIqfmQJq-e?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div> 
+ 
+      <div className={styles.grid}>
+          <div className={styles.card}>
+            <h2 className={styles.chapter}>Isaiah Chpt I</h2>
+            <p>
+
+1 The vision concerning Judah and Jerusalem that Isaiah son of Amoz saw during the reigns of Uzziah, Jotham, Ahaz and Hezekiah, kings of Judah.
+
+A Rebellious Nation
+2 Hear me, you heavens! Listen, earth!
+    For the Lord has spoken:
+“I reared children and brought them up,
+    but they have rebelled against me.
+3 The ox knows its master,
+    the donkey its owner’s manger,
+but Israel does not know,
+    my people do not understand.”
+
+4 Woe to the sinful nation,
+    a people whose guilt is great,
+a brood of evildoers,
+    children given to corruption!
+They have forsaken the Lord;
+    they have spurned the Holy One of Israel
+    and turned their backs on him.
+
+5 Why should you be beaten anymore?
+    Why do you persist in rebellion?
+Your whole head is injured,
+    your whole heart afflicted.
+6 From the sole of your foot to the top of your head
+    there is no soundness—
+only wounds and welts
+    and open sores,
+not cleansed or bandaged
+    or soothed with olive oil.
+
+7 Your country is desolate,
+    your cities burned with fire;
+your fields are being stripped by foreigners
+    right before you,
+    laid waste as when overthrown by strangers.
+8 Daughter Zion is left
+    like a shelter in a vineyard,
+like a hut in a cucumber field,
+    like a city under siege.
+9 Unless the Lord Almighty
+    had left us some survivors,
+we would have become like Sodom,
+    we would have been like Gomorrah.
+
+10 Hear the word of the Lord,
+    you rulers of Sodom;
+listen to the instruction of our God,
+    you people of Gomorrah!
+11 “The multitude of your sacrifices—
+    what are they to me?” says the Lord.
+“I have more than enough of burnt offerings,
+    of rams and the fat of fattened animals;
+I have no pleasure
+    in the blood of bulls and lambs and goats.
+12 When you come to appear before me,
+    who has asked this of you,
+    this trampling of my courts?
+13 Stop bringing meaningless offerings!
+    Your incense is detestable to me.
+New Moons, Sabbaths and convocations—
+    I cannot bear your worthless assemblies.
+14 Your New Moon feasts and your appointed festivals
+    I hate with all my being.
+They have become a burden to me;
+    I am weary of bearing them.
+15 When you spread out your hands in prayer,
+    I hide my eyes from you;
+even when you offer many prayers,
+    I am not listening.
+
+Your hands are full of blood!
+
+16 Wash and make yourselves clean.
+    Take your evil deeds out of my sight;
+    stop doing wrong.
+17 Learn to do right; seek justice.
+    Defend the oppressed.[a]
+Take up the cause of the fatherless;
+    plead the case of the widow.
+
+18 “Come now, let us settle the matter,”
+    says the Lord.
+“Though your sins are like scarlet,
+    they shall be as white as snow;
+though they are red as crimson,
+    they shall be like wool.
+19 If you are willing and obedient,
+    you will eat the good things of the land;
+20 but if you resist and rebel,
+    you will be devoured by the sword.”
+For the mouth of the Lord has spoken.
+
+21 See how the faithful city
+    has become a prostitute!
+She once was full of justice;
+    righteousness used to dwell in her—
+    but now murderers!
+22 Your silver has become dross,
+    your choice wine is diluted with water.
+23 Your rulers are rebels,
+    partners with thieves;
+they all love bribes
+    and chase after gifts.
+They do not defend the cause of the fatherless;
+    the widow’s case does not come before them.
+
+24 Therefore the Lord, the Lord Almighty,
+    the Mighty One of Israel, declares:
+“Ah! I will vent my wrath on my foes
+    and avenge myself on my enemies.
+25 I will turn my hand against you;[b]
+    I will thoroughly purge away your dross
+    and remove all your impurities.
+26 I will restore your leaders as in days of old,
+    your rulers as at the beginning.
+Afterward you will be called
+    the City of Righteousness,
+    the Faithful City.”
+
+27 Zion will be delivered with justice,
+    her penitent ones with righteousness.
+28 But rebels and sinners will both be broken,
+    and those who forsake the Lord will perish.
+
+29 “You will be ashamed because of the sacred oaks
+    in which you have delighted;
+you will be disgraced because of the gardens
+    that you have chosen.
+30 You will be like an oak with fading leaves,
+    like a garden without water.
+31 The mighty man will become tinder
+    and his work a spark;
+both will burn together,
+    with no one to quench the fire.”
+
+
+                                  
+            </p>
+              </div>
+
+          <div className={styles.card}>
+           <h2 className={styles.chapter}>Isaiah Chpt II</h2>
+            <p>
+
+  
+            </p>
+  
+  </div>
+
+          <div
+            className={styles.card}
+          >
+           <h2 className={styles.chapter}>Isaiah Chpt III</h2>
+            <p>
+
+              
+          </p>
+</div>
+
+                                      <div className={styles.card}>
+
+                                      <h2 className={styles.chapter}>Isaiah Chpt V</h2>
+                                      <p>
+
+                               
+                                        </p>
+                                      </div>
+  
+                                        <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Isaiah Chpt VI</h2>
+                                        <p>
+                      
+                                        
+                                        </p>
+                                        </div>
+
+                              <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Isaiah Chpt VI</h2>
+                                        <p>
+
+                                
+                                       </p>
+                                                                           </div>
+                                    <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Isaiah Chpt VII </h2>
+                                        <p>
+
+
+                                                
+                                        </p>
+                                  </div>
+
+
+
+
+                                <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Isaiah Chpt IX</h2>
+                                        <p>
+
+                                          
+                                        </p>
+                                  </div>
+                                  <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Isaiah Chpt X </h2>
+                                        <p>
+                           
+                                          
+                                          </p>
+                                  </div>
+
+                                   <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Isaiah Chpt XI </h2>
+                                        <p>
+                                              
+                                            
+                                        </p>
+                                    </div>
+
+                                     <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Isaiah Chpt XII </h2>
+                                        <p>
+                                             
+                                                  
+                                        </p>
+                                    </div>
+
+                                     <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Isaiah Chpt XIII </h2>
+                                        <p>
+
+
+                                                      
+                                         </p>
+                                    </div>
+
+                                   <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Isaiah Chpt XIV </h2>
+                                        <p>
+                                             
+                                                    
+                                        </p>
+                                    </div>
+
+                                   <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Isaiah Chpt XV </h2>
+                                        <p>
+                                                                                
+                                            
+                                          </p>
+                                    </div>
+
+
+                                   <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Isaiah Chpt XVI </h2>
+                                        <p>
+                                                                                               
+                                                          </p>
+                                    </div>
+
+                                     <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Isaiah Chpt XVII </h2>
+                                        <p>
+
+                                            
+                                                  </p>
+                                    </div>
+
+                                     <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Isaiah Chpt XVIII </h2>
+                                        <p>
+
+                                            
+                                                </p>
+                                    </div>
+
+                                   <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Isaiah Chpt XX Chpt XIX </h2>
+                                        <p>
+                                                                                         
+
+                                                  </p>
+                                    </div>
+
+                                   <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>The Revelation Chpt XX </h2>
+                                        <p>
+
+                                            
+                                          </p>
+                                    </div>
+
+                                     <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Isaiah Chpt XXI </h2>
+                                        <p>
+
+
+                                            
+                                             </p>
+                                    </div>
+
+                                     <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Isaiah Chpt XXII              </h2>
+                                        <p>
+                                               
+                                                          </p>
+                                    </div>
+                            </div>
+                      </div>
+              
+      </main>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          
     </div>
   )
 }
