@@ -832,7 +832,7 @@ for you created all things,
 
 
 
-<main className={styles.main}>
+<main id="isaiah" className={styles.main}>
       
        
        
@@ -3446,8 +3446,50 @@ the breath of the Lord,
   <div className={styles.card}>
            <h2 className={styles.chapter}>Isaiah Chpt XXXI</h2>
             <p>
+Woe to Those Who Rely on Egypt
+31 Woe to those who go down to Egypt for help,
+    who rely on horses,
+who trust in the multitude of their chariots
+    and in the great strength of their horsemen,
+but do not look to the Holy One of Israel,
+    or seek help from the Lord.
+2 Yet he too is wise and can bring disaster;
+    he does not take back his words.
+He will rise up against that wicked nation,
+    against those who help evildoers.
+3 But the Egyptians are mere mortals and not God;
+    their horses are flesh and not spirit.
+When the Lord stretches out his hand,
+    those who help will stumble,
+    those who are helped will fall;
+    all will perish together.
 
-  
+4 This is what the Lord says to me:
+
+“As a lion growls,
+    a great lion over its prey—
+and though a whole band of shepherds
+    is called together against it,
+it is not frightened by their shouts
+    or disturbed by their clamor—
+so the Lord Almighty will come down
+    to do battle on Mount Zion and on its heights.
+5 Like birds hovering overhead,
+    the Lord Almighty will shield Jerusalem;
+he will shield it and deliver it,
+    he will ‘pass over’ it and will rescue it.”
+
+6 Return, you Israelites, to the One you have so greatly revolted against. 7 For in that day every one of you will reject the idols of silver and gold your sinful hands have made.
+
+8 “Assyria will fall by no human sword;
+    a sword, not of mortals, will devour them.
+They will flee before the sword
+    and their young men will be put to forced labor.
+9 Their stronghold will fall because of terror;
+    at the sight of the battle standard their commanders will panic,”
+declares the Lord,
+    whose fire is in Zion,
+    whose furnace is in Jerusalem.  
             </p>
   
   </div>
@@ -3457,8 +3499,71 @@ the breath of the Lord,
           >
            <h2 className={styles.chapter}>Isaiah Chpt XXXII</h2>
             <p>
+The Kingdom of Righteousness
+32 See, a king will reign in righteousness
+    and rulers will rule with justice.
+2 Each one will be like a shelter from the wind
+    and a refuge from the storm,
+like streams of water in the desert
+    and the shadow of a great rock in a thirsty land.
 
-              
+3 Then the eyes of those who see will no longer be closed,
+    and the ears of those who hear will listen.
+4 The fearful heart will know and understand,
+    and the stammering tongue will be fluent and clear.
+5 No longer will the fool be called noble
+    nor the scoundrel be highly respected.
+6 For fools speak folly,
+    their hearts are bent on evil:
+They practice ungodliness
+    and spread error concerning the Lord;
+the hungry they leave empty
+    and from the thirsty they withhold water.
+7 Scoundrels use wicked methods,
+    they make up evil schemes
+to destroy the poor with lies,
+    even when the plea of the needy is just.
+8 But the noble make noble plans,
+    and by noble deeds they stand.
+
+The Women of Jerusalem
+9 You women who are so complacent,
+    rise up and listen to me;
+you daughters who feel secure,
+    hear what I have to say!
+10 In little more than a year
+    you who feel secure will tremble;
+the grape harvest will fail,
+    and the harvest of fruit will not come.
+11 Tremble, you complacent women;
+    shudder, you daughters who feel secure!
+Strip off your fine clothes
+    and wrap yourselves in rags.
+12 Beat your breasts for the pleasant fields,
+    for the fruitful vines
+13 and for the land of my people,
+    a land overgrown with thorns and briers—
+yes, mourn for all houses of merriment
+    and for this city of revelry.
+14 The fortress will be abandoned,
+    the noisy city deserted;
+citadel and watchtower will become a wasteland forever,
+    the delight of donkeys, a pasture for flocks,
+15 till the Spirit is poured on us from on high,
+    and the desert becomes a fertile field,
+    and the fertile field seems like a forest.
+16 The Lord’s justice will dwell in the desert,
+    his righteousness live in the fertile field.
+17 The fruit of that righteousness will be peace;
+    its effect will be quietness and confidence forever.
+18 My people will live in peaceful dwelling places,
+    in secure homes,
+    in undisturbed places of rest.
+19 Though hail flattens the forest
+    and the city is leveled completely,
+20 how blessed you will be,
+    sowing your seed by every stream,
+    and letting your cattle and donkeys range free.              
           </p>
 </div>
 
@@ -3466,8 +3571,100 @@ the breath of the Lord,
 
                                       <h2 className={styles.chapter}>Isaiah Chpt XXXIII</h2>
                                       <p>
+Distress and Help
+33 Woe to you, destroyer,
+    you who have not been destroyed!
+Woe to you, betrayer,
+    you who have not been betrayed!
+When you stop destroying,
+    you will be destroyed;
+when you stop betraying,
+    you will be betrayed.
 
-                               
+2 Lord, be gracious to us;
+    we long for you.
+Be our strength every morning,
+    our salvation in time of distress.
+3 At the uproar of your army, the peoples flee;
+    when you rise up, the nations scatter.
+4 Your plunder, O nations, is harvested as by young locusts;
+    like a swarm of locusts people pounce on it.
+
+5 The Lord is exalted, for he dwells on high;
+    he will fill Zion with his justice and righteousness.
+6 He will be the sure foundation for your times,
+    a rich store of salvation and wisdom and knowledge;
+    the fear of the Lord is the key to this treasure.[a]
+
+7 Look, their brave men cry aloud in the streets;
+    the envoys of peace weep bitterly.
+8 The highways are deserted,
+    no travelers are on the roads.
+The treaty is broken,
+    its witnesses[b] are despised,
+    no one is respected.
+9 The land dries up and wastes away,
+    Lebanon is ashamed and withers;
+Sharon is like the Arabah,
+    and Bashan and Carmel drop their leaves.
+
+10 “Now will I arise,” says the Lord.
+    “Now will I be exalted;
+    now will I be lifted up.
+11 You conceive chaff,
+    you give birth to straw;
+    your breath is a fire that consumes you.
+12 The peoples will be burned to ashes;
+    like cut thornbushes they will be set ablaze.”
+
+13 You who are far away, hear what I have done;
+    you who are near, acknowledge my power!
+14 The sinners in Zion are terrified;
+    trembling grips the godless:
+“Who of us can dwell with the consuming fire?
+    Who of us can dwell with everlasting burning?”
+15 Those who walk righteously
+    and speak what is right,
+who reject gain from extortion
+    and keep their hands from accepting bribes,
+who stop their ears against plots of murder
+    and shut their eyes against contemplating evil—
+16 they are the ones who will dwell on the heights,
+    whose refuge will be the mountain fortress.
+Their bread will be supplied,
+    and water will not fail them.
+
+17 Your eyes will see the king in his beauty
+    and view a land that stretches afar.
+18 In your thoughts you will ponder the former terror:
+    “Where is that chief officer?
+Where is the one who took the revenue?
+    Where is the officer in charge of the towers?”
+19 You will see those arrogant people no more,
+    people whose speech is obscure,
+    whose language is strange and incomprehensible.
+
+20 Look on Zion, the city of our festivals;
+    your eyes will see Jerusalem,
+    a peaceful abode, a tent that will not be moved;
+its stakes will never be pulled up,
+    nor any of its ropes broken.
+21 There the Lord will be our Mighty One.
+    It will be like a place of broad rivers and streams.
+No galley with oars will ride them,
+    no mighty ship will sail them.
+22 For the Lord is our judge,
+    the Lord is our lawgiver,
+the Lord is our king;
+    it is he who will save us.
+
+23 Your rigging hangs loose:
+    The mast is not held secure,
+    the sail is not spread.
+Then an abundance of spoils will be divided
+    and even the lame will carry off plunder.
+24 No one living in Zion will say, “I am ill”;
+    and the sins of those who dwell there will be forgiven.                               
                                         </p>
                                       </div>
   
@@ -3475,7 +3672,79 @@ the breath of the Lord,
 
                                         <h2 className={styles.chapter}>Isaiah Chpt XXXIV</h2>
                                         <p>
-                      
+                      Judgment Against the Nations
+34 Come near, you nations, and listen;
+    pay attention, you peoples!
+Let the earth hear, and all that is in it,
+    the world, and all that comes out of it!
+2 The Lord is angry with all nations;
+    his wrath is on all their armies.
+He will totally destroy[a] them,
+    he will give them over to slaughter.
+3 Their slain will be thrown out,
+    their dead bodies will stink;
+    the mountains will be soaked with their blood.
+4 All the stars in the sky will be dissolved
+    and the heavens rolled up like a scroll;
+all the starry host will fall
+    like withered leaves from the vine,
+    like shriveled figs from the fig tree.
+
+5 My sword has drunk its fill in the heavens;
+    see, it descends in judgment on Edom,
+    the people I have totally destroyed.
+6 The sword of the Lord is bathed in blood,
+    it is covered with fat—
+the blood of lambs and goats,
+    fat from the kidneys of rams.
+For the Lord has a sacrifice in Bozrah
+    and a great slaughter in the land of Edom.
+7 And the wild oxen will fall with them,
+    the bull calves and the great bulls.
+Their land will be drenched with blood,
+    and the dust will be soaked with fat.
+
+8 For the Lord has a day of vengeance,
+    a year of retribution, to uphold Zion’s cause.
+9 Edom’s streams will be turned into pitch,
+    her dust into burning sulfur;
+    her land will become blazing pitch!
+10 It will not be quenched night or day;
+    its smoke will rise forever.
+From generation to generation it will lie desolate;
+    no one will ever pass through it again.
+11 The desert owl[b] and screech owl[c] will possess it;
+    the great owl[d] and the raven will nest there.
+God will stretch out over Edom
+    the measuring line of chaos
+    and the plumb line of desolation.
+12 Her nobles will have nothing there to be called a kingdom,
+    all her princes will vanish away.
+13 Thorns will overrun her citadels,
+    nettles and brambles her strongholds.
+She will become a haunt for jackals,
+    a home for owls.
+14 Desert creatures will meet with hyenas,
+    and wild goats will bleat to each other;
+there the night creatures will also lie down
+    and find for themselves places of rest.
+15 The owl will nest there and lay eggs,
+    she will hatch them, and care for her young
+    under the shadow of her wings;
+there also the falcons will gather,
+    each with its mate.
+
+16 Look in the scroll of the Lord and read:
+
+None of these will be missing,
+    not one will lack her mate.
+For it is his mouth that has given the order,
+    and his Spirit will gather them together.
+17 He allots their portions;
+    his hand distributes them by measure.
+They will possess it forever
+    and dwell there from generation to generation.
+
                                         
                                         </p>
                                         </div>
@@ -3484,8 +3753,50 @@ the breath of the Lord,
 
                                         <h2 className={styles.chapter}>Isaiah Chpt XXXV</h2>
                                         <p>
+Joy of the Redeemed
+35 The desert and the parched land will be glad;
+    the wilderness will rejoice and blossom.
+Like the crocus, 2 it will burst into bloom;
+    it will rejoice greatly and shout for joy.
+The glory of Lebanon will be given to it,
+    the splendor of Carmel and Sharon;
+they will see the glory of the Lord,
+    the splendor of our God.
 
-                                
+3 Strengthen the feeble hands,
+    steady the knees that give way;
+4 say to those with fearful hearts,
+    “Be strong, do not fear;
+your God will come,
+    he will come with vengeance;
+with divine retribution
+    he will come to save you.”
+
+5 Then will the eyes of the blind be opened
+    and the ears of the deaf unstopped.
+6 Then will the lame leap like a deer,
+    and the mute tongue shout for joy.
+Water will gush forth in the wilderness
+    and streams in the desert.
+7 The burning sand will become a pool,
+    the thirsty ground bubbling springs.
+In the haunts where jackals once lay,
+    grass and reeds and papyrus will grow.
+
+8 And a highway will be there;
+    it will be called the Way of Holiness;
+    it will be for those who walk on that Way.
+The unclean will not journey on it;
+    wicked fools will not go about on it.
+9 No lion will be there,
+    nor any ravenous beast;
+    they will not be found there.
+But only the redeemed will walk there,
+10     and those the Lord has rescued will return.
+They will enter Zion with singing;
+    everlasting joy will crown their heads.
+Gladness and joy will overtake them,
+    and sorrow and sighing will flee away.                                
                                        </p>
                                                                            </div>
                                     <div className={styles.card}>
@@ -3493,8 +3804,28 @@ the breath of the Lord,
                                         <h2 className={styles.chapter}>Isaiah Chpt XXXVI </h2>
                                         <p>
 
+Sennacherib Threatens Jerusalem
+36 In the fourteenth year of King Hezekiah’s reign, Sennacherib king of Assyria attacked all the fortified cities of Judah and captured them. 2 Then the king of Assyria sent his field commander with a large army from Lachish to King Hezekiah at Jerusalem. When the commander stopped at the aqueduct of the Upper Pool, on the road to the Launderer’s Field, 3 Eliakim son of Hilkiah the palace administrator, Shebna the secretary, and Joah son of Asaph the recorder went out to him.
 
-                                                
+4 The field commander said to them, “Tell Hezekiah:
+
+“‘This is what the great king, the king of Assyria, says: On what are you basing this confidence of yours? 5 You say you have counsel and might for war—but you speak only empty words. On whom are you depending, that you rebel against me? 6 Look, I know you are depending on Egypt, that splintered reed of a staff, which pierces the hand of anyone who leans on it! Such is Pharaoh king of Egypt to all who depend on him. 7 But if you say to me, “We are depending on the Lord our God”—isn’t he the one whose high places and altars Hezekiah removed, saying to Judah and Jerusalem, “You must worship before this altar”?
+
+8 “‘Come now, make a bargain with my master, the king of Assyria: I will give you two thousand horses—if you can put riders on them! 9 How then can you repulse one officer of the least of my master’s officials, even though you are depending on Egypt for chariots and horsemen[a]? 10 Furthermore, have I come to attack and destroy this land without the Lord? The Lord himself told me to march against this country and destroy it.’”
+
+11 Then Eliakim, Shebna and Joah said to the field commander, “Please speak to your servants in Aramaic, since we understand it. Don’t speak to us in Hebrew in the hearing of the people on the wall.”
+
+12 But the commander replied, “Was it only to your master and you that my master sent me to say these things, and not to the people sitting on the wall—who, like you, will have to eat their own excrement and drink their own urine?”
+
+13 Then the commander stood and called out in Hebrew, “Hear the words of the great king, the king of Assyria! 14 This is what the king says: Do not let Hezekiah deceive you. He cannot deliver you! 15 Do not let Hezekiah persuade you to trust in the Lord when he says, ‘The Lord will surely deliver us; this city will not be given into the hand of the king of Assyria.’
+
+16 “Do not listen to Hezekiah. This is what the king of Assyria says: Make peace with me and come out to me. Then each of you will eat fruit from your own vine and fig tree and drink water from your own cistern, 17 until I come and take you to a land like your own—a land of grain and new wine, a land of bread and vineyards.
+
+18 “Do not let Hezekiah mislead you when he says, ‘The Lord will deliver us.’ Have the gods of any nations ever delivered their lands from the hand of the king of Assyria? 19 Where are the gods of Hamath and Arpad? Where are the gods of Sepharvaim? Have they rescued Samaria from my hand? 20 Who of all the gods of these countries have been able to save their lands from me? How then can the Lord deliver Jerusalem from my hand?”
+
+21 But the people remained silent and said nothing in reply, because the king had commanded, “Do not answer him.”
+
+22 Then Eliakim son of Hilkiah the palace administrator, Shebna the secretary and Joah son of Asaph the recorder went to Hezekiah, with their clothes torn, and told him what the field commander had said.                                                
                                         </p>
                                   </div>
 
@@ -3506,7 +3837,97 @@ the breath of the Lord,
                                         <h2 className={styles.chapter}>Isaiah Chpt XXXVII</h2>
                                         <p>
 
-                                          
+Jerusalem’s Deliverance Foretold
+37 When King Hezekiah heard this, he tore his clothes and put on sackcloth and went into the temple of the Lord. 2 He sent Eliakim the palace administrator, Shebna the secretary, and the leading priests, all wearing sackcloth, to the prophet Isaiah son of Amoz. 3 They told him, “This is what Hezekiah says: This day is a day of distress and rebuke and disgrace, as when children come to the moment of birth and there is no strength to deliver them. 4 It may be that the Lord your God will hear the words of the field commander, whom his master, the king of Assyria, has sent to ridicule the living God, and that he will rebuke him for the words the Lord your God has heard. Therefore pray for the remnant that still survives.”
+
+5 When King Hezekiah’s officials came to Isaiah, 6 Isaiah said to them, “Tell your master, ‘This is what the Lord says: Do not be afraid of what you have heard—those words with which the underlings of the king of Assyria have blasphemed me. 7 Listen! When he hears a certain report, I will make him want to return to his own country, and there I will have him cut down with the sword.’”
+
+8 When the field commander heard that the king of Assyria had left Lachish, he withdrew and found the king fighting against Libnah.
+
+9 Now Sennacherib received a report that Tirhakah, the king of Cush,[a] was marching out to fight against him. When he heard it, he sent messengers to Hezekiah with this word: 10 “Say to Hezekiah king of Judah: Do not let the god you depend on deceive you when he says, ‘Jerusalem will not be given into the hands of the king of Assyria.’ 11 Surely you have heard what the kings of Assyria have done to all the countries, destroying them completely. And will you be delivered? 12 Did the gods of the nations that were destroyed by my predecessors deliver them—the gods of Gozan, Harran, Rezeph and the people of Eden who were in Tel Assar? 13 Where is the king of Hamath or the king of Arpad? Where are the kings of Lair, Sepharvaim, Hena and Ivvah?”
+
+Hezekiah’s Prayer
+14 Hezekiah received the letter from the messengers and read it. Then he went up to the temple of the Lord and spread it out before the Lord. 15 And Hezekiah prayed to the Lord: 16 “Lord Almighty, the God of Israel, enthroned between the cherubim, you alone are God over all the kingdoms of the earth. You have made heaven and earth. 17 Give ear, Lord, and hear; open your eyes, Lord, and see; listen to all the words Sennacherib has sent to ridicule the living God.
+
+18 “It is true, Lord, that the Assyrian kings have laid waste all these peoples and their lands. 19 They have thrown their gods into the fire and destroyed them, for they were not gods but only wood and stone, fashioned by human hands. 20 Now, Lord our God, deliver us from his hand, so that all the kingdoms of the earth may know that you, Lord, are the only God.[b]”
+
+Sennacherib’s Fall
+21 Then Isaiah son of Amoz sent a message to Hezekiah: “This is what the Lord, the God of Israel, says: Because you have prayed to me concerning Sennacherib king of Assyria, 22 this is the word the Lord has spoken against him:
+
+“Virgin Daughter Zion
+    despises and mocks you.
+Daughter Jerusalem
+    tosses her head as you flee.
+23 Who is it you have ridiculed and blasphemed?
+    Against whom have you raised your voice
+and lifted your eyes in pride?
+    Against the Holy One of Israel!
+24 By your messengers
+    you have ridiculed the Lord.
+And you have said,
+    ‘With my many chariots
+I have ascended the heights of the mountains,
+    the utmost heights of Lebanon.
+I have cut down its tallest cedars,
+    the choicest of its junipers.
+I have reached its remotest heights,
+    the finest of its forests.
+25 I have dug wells in foreign lands[c]
+    and drunk the water there.
+With the soles of my feet
+    I have dried up all the streams of Egypt.’
+
+26 “Have you not heard?
+    Long ago I ordained it.
+In days of old I planned it;
+    now I have brought it to pass,
+that you have turned fortified cities
+    into piles of stone.
+27 Their people, drained of power,
+    are dismayed and put to shame.
+They are like plants in the field,
+    like tender green shoots,
+like grass sprouting on the roof,
+    scorched[d] before it grows up.
+
+28 “But I know where you are
+    and when you come and go
+    and how you rage against me.
+29 Because you rage against me
+    and because your insolence has reached my ears,
+I will put my hook in your nose
+    and my bit in your mouth,
+and I will make you return
+    by the way you came.
+
+30 “This will be the sign for you, Hezekiah:
+
+“This year you will eat what grows by itself,
+    and the second year what springs from that.
+But in the third year sow and reap,
+    plant vineyards and eat their fruit.
+31 Once more a remnant of the kingdom of Judah
+    will take root below and bear fruit above.
+32 For out of Jerusalem will come a remnant,
+    and out of Mount Zion a band of survivors.
+The zeal of the Lord Almighty
+    will accomplish this.
+
+33 “Therefore this is what the Lord says concerning the king of Assyria:
+
+“He will not enter this city
+    or shoot an arrow here.
+He will not come before it with shield
+    or build a siege ramp against it.
+34 By the way that he came he will return;
+    he will not enter this city,”
+declares the Lord.
+35 “I will defend this city and save it,
+    for my sake and for the sake of David my servant!”
+
+36 Then the angel of the Lord went out and put to death a hundred and eighty-five thousand in the Assyrian camp. When the people got up the next morning—there were all the dead bodies! 37 So Sennacherib king of Assyria broke camp and withdrew. He returned to Nineveh and stayed there.
+
+38 One day, while he was worshiping in the temple of his god Nisrok, his sons Adrammelek and Sharezer killed him with the sword, and they escaped to the land of Ararat. And Esarhaddon his son succeeded him as king.
                                         </p>
                                   </div>
                                   <div className={styles.card}>
@@ -3514,7 +3935,68 @@ the breath of the Lord,
                                         <h2 className={styles.chapter}>Isaiah Chpt XXXVIII </h2>
                                         <p>
                            
-                                          
+Hezekiah’s Illness
+38 In those days Hezekiah became ill and was at the point of death. The prophet Isaiah son of Amoz went to him and said, “This is what the Lord says: Put your house in order, because you are going to die; you will not recover.”
+
+2 Hezekiah turned his face to the wall and prayed to the Lord, 3 “Remember, Lord, how I have walked before you faithfully and with wholehearted devotion and have done what is good in your eyes.” And Hezekiah wept bitterly.
+
+4 Then the word of the Lord came to Isaiah: 5 “Go and tell Hezekiah, ‘This is what the Lord, the God of your father David, says: I have heard your prayer and seen your tears; I will add fifteen years to your life. 6 And I will deliver you and this city from the hand of the king of Assyria. I will defend this city.
+
+7 “‘This is the Lord’s sign to you that the Lord will do what he has promised: 8 I will make the shadow cast by the sun go back the ten steps it has gone down on the stairway of Ahaz.’” So the sunlight went back the ten steps it had gone down.
+
+9 A writing of Hezekiah king of Judah after his illness and recovery:
+
+10 I said, “In the prime of my life
+    must I go through the gates of death
+    and be robbed of the rest of my years?”
+11 I said, “I will not again see the Lord himself
+    in the land of the living;
+no longer will I look on my fellow man,
+    or be with those who now dwell in this world.
+12 Like a shepherd’s tent my house
+    has been pulled down and taken from me.
+Like a weaver I have rolled up my life,
+    and he has cut me off from the loom;
+    day and night you made an end of me.
+13 I waited patiently till dawn,
+    but like a lion he broke all my bones;
+    day and night you made an end of me.
+14 I cried like a swift or thrush,
+    I moaned like a mourning dove.
+My eyes grew weak as I looked to the heavens.
+    I am being threatened; Lord, come to my aid!”
+
+15 But what can I say?
+    He has spoken to me, and he himself has done this.
+I will walk humbly all my years
+    because of this anguish of my soul.
+16 Lord, by such things people live;
+    and my spirit finds life in them too.
+You restored me to health
+    and let me live.
+17 Surely it was for my benefit
+    that I suffered such anguish.
+In your love you kept me
+    from the pit of destruction;
+you have put all my sins
+    behind your back.
+18 For the grave cannot praise you,
+    death cannot sing your praise;
+those who go down to the pit
+    cannot hope for your faithfulness.
+19 The living, the living—they praise you,
+    as I am doing today;
+parents tell their children
+    about your faithfulness.
+
+20 The Lord will save me,
+    and we will sing with stringed instruments
+all the days of our lives
+    in the temple of the Lord.
+
+21 Isaiah had said, “Prepare a poultice of figs and apply it to the boil, and he will recover.”
+
+22 Hezekiah had asked, “What will be the sign that I will go up to the temple of the Lord?”
                                           </p>
                                   </div>
 
@@ -3522,8 +4004,20 @@ the breath of the Lord,
 
                                         <h2 className={styles.chapter}>Isaiah Chpt XXXIX </h2>
                                         <p>
-                                              
-                                            
+                                              Envoys From Babylon
+39 At that time Marduk-Baladan son of Baladan king of Babylon sent Hezekiah letters and a gift, because he had heard of his illness and recovery. 2 Hezekiah received the envoys gladly and showed them what was in his storehouses—the silver, the gold, the spices, the fine olive oil—his entire armory and everything found among his treasures. There was nothing in his palace or in all his kingdom that Hezekiah did not show them.
+
+3 Then Isaiah the prophet went to King Hezekiah and asked, “What did those men say, and where did they come from?”
+
+“From a distant land,” Hezekiah replied. “They came to me from Babylon.”
+
+4 The prophet asked, “What did they see in your palace?”
+
+“They saw everything in my palace,” Hezekiah said. “There is nothing among my treasures that I did not show them.”
+
+5 Then Isaiah said to Hezekiah, “Hear the word of the Lord Almighty: 6 The time will surely come when everything in your palace, and all that your predecessors have stored up until this day, will be carried off to Babylon. Nothing will be left, says the Lord. 7 And some of your descendants, your own flesh and blood who will be born to you, will be taken away, and they will become eunuchs in the palace of the king of Babylon.”
+
+8 “The word of the Lord you have spoken is good,” Hezekiah replied. For he thought, “There will be peace and security in my lifetime.”                                            
                                         </p>
                                     </div>
 
@@ -3531,7 +4025,132 @@ the breath of the Lord,
 
                                         <h2 className={styles.chapter}>Isaiah Chpt XL </h2>
                                         <p>
-                                             
+                                             Comfort for God’s People
+40 Comfort, comfort my people,
+    says your God.
+2 Speak tenderly to Jerusalem,
+    and proclaim to her
+that her hard service has been completed,
+    that her sin has been paid for,
+that she has received from the Lord’s hand
+    double for all her sins.
+
+3 A voice of one calling:
+“In the wilderness prepare
+    the way for the Lord[a];
+make straight in the desert
+    a highway for our God.[b]
+4 Every valley shall be raised up,
+    every mountain and hill made low;
+the rough ground shall become level,
+    the rugged places a plain.
+5 And the glory of the Lord will be revealed,
+    and all people will see it together.
+For the mouth of the Lord has spoken.”
+
+6 A voice says, “Cry out.”
+    And I said, “What shall I cry?”
+
+“All people are like grass,
+    and all their faithfulness is like the flowers of the field.
+7 The grass withers and the flowers fall,
+    because the breath of the Lord blows on them.
+    Surely the people are grass.
+8 The grass withers and the flowers fall,
+    but the word of our God endures forever.”
+
+9 You who bring good news to Zion,
+    go up on a high mountain.
+You who bring good news to Jerusalem,[c]
+    lift up your voice with a shout,
+lift it up, do not be afraid;
+    say to the towns of Judah,
+    “Here is your God!”
+10 See, the Sovereign Lord comes with power,
+    and he rules with a mighty arm.
+See, his reward is with him,
+    and his recompense accompanies him.
+11 He tends his flock like a shepherd:
+    He gathers the lambs in his arms
+and carries them close to his heart;
+    he gently leads those that have young.
+
+12 Who has measured the waters in the hollow of his hand,
+    or with the breadth of his hand marked off the heavens?
+Who has held the dust of the earth in a basket,
+    or weighed the mountains on the scales
+    and the hills in a balance?
+13 Who can fathom the Spirit[d] of the Lord,
+    or instruct the Lord as his counselor?
+14 Whom did the Lord consult to enlighten him,
+    and who taught him the right way?
+Who was it that taught him knowledge,
+    or showed him the path of understanding?
+
+15 Surely the nations are like a drop in a bucket;
+    they are regarded as dust on the scales;
+    he weighs the islands as though they were fine dust.
+16 Lebanon is not sufficient for altar fires,
+    nor its animals enough for burnt offerings.
+17 Before him all the nations are as nothing;
+    they are regarded by him as worthless
+    and less than nothing.
+
+18 With whom, then, will you compare God?
+    To what image will you liken him?
+19 As for an idol, a metalworker casts it,
+    and a goldsmith overlays it with gold
+    and fashions silver chains for it.
+20 A person too poor to present such an offering
+    selects wood that will not rot;
+they look for a skilled worker
+    to set up an idol that will not topple.
+
+21 Do you not know?
+    Have you not heard?
+Has it not been told you from the beginning?
+    Have you not understood since the earth was founded?
+22 He sits enthroned above the circle of the earth,
+    and its people are like grasshoppers.
+He stretches out the heavens like a canopy,
+    and spreads them out like a tent to live in.
+23 He brings princes to naught
+    and reduces the rulers of this world to nothing.
+24 No sooner are they planted,
+    no sooner are they sown,
+    no sooner do they take root in the ground,
+than he blows on them and they wither,
+    and a whirlwind sweeps them away like chaff.
+
+25 “To whom will you compare me?
+    Or who is my equal?” says the Holy One.
+26 Lift up your eyes and look to the heavens:
+    Who created all these?
+He who brings out the starry host one by one
+    and calls forth each of them by name.
+Because of his great power and mighty strength,
+    not one of them is missing.
+
+27 Why do you complain, Jacob?
+    Why do you say, Israel,
+“My way is hidden from the Lord;
+    my cause is disregarded by my God”?
+28 Do you not know?
+    Have you not heard?
+The Lord is the everlasting God,
+    the Creator of the ends of the earth.
+He will not grow tired or weary,
+    and his understanding no one can fathom.
+29 He gives strength to the weary
+    and increases the power of the weak.
+30 Even youths grow tired and weary,
+    and young men stumble and fall;
+31 but those who hope in the Lord
+    will renew their strength.
+They will soar on wings like eagles;
+    they will run and not grow weary,
+    they will walk and not be faint.
+
                                                   
                                         </p>
                                     </div>
