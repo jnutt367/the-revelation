@@ -855,7 +855,7 @@ for you created all things,
                               />
         </div>
 <p className={styles.parables}>
-       Isaiah is the first of the Mojor Prophets and I am coding ti out tonight!                              
+       Isaiah is the first of the Major Prophets and I am coding it out and am currently on Chapter XL (40)                              
 </p>
                       <div className={styles.nav}>           
       <a href="https://galatians.vercel.app/#first_peter">
