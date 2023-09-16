@@ -2837,8 +2837,94 @@ for the Lord Almighty will reign
 
                                         <h2 className={styles.chapter}>Isaiah Chpt XXV</h2>
                                         <p>
+The Lord’s Devastation of the Earth
+      
+  24 See, the Lord is going to lay waste the earth
+    and devastate it;
+he will ruin its face
+    and scatter its inhabitants—
+2 it will be the same
+    for priest as for people,
+    for the master as for his servant,
+    for the mistress as for her servant,
+    for seller as for buyer,
+    for borrower as for lender,
+    for debtor as for creditor.
+3 The earth will be completely laid waste
+    and totally plundered.
+The Lord has spoken this word.
 
-                                
+4 The earth dries up and withers,
+    the world languishes and withers,
+    the heavens languish with the earth.
+5 The earth is defiled by its people;
+    they have disobeyed the laws,
+violated the statutes
+    and broken the everlasting covenant.
+6 Therefore a curse consumes the earth;
+    its people must bear their guilt.
+Therefore earth’s inhabitants are burned up,
+    and very few are left.
+7 The new wine dries up and the vine withers;
+    all the merrymakers groan.
+8 The joyful timbrels are stilled,
+    the noise of the revelers has stopped,
+    the joyful harp is silent.
+9 No longer do they drink wine with a song;
+    the beer is bitter to its drinkers.
+10 The ruined city lies desolate;
+    the entrance to every house is barred.
+11 In the streets they cry out for wine;
+    all joy turns to gloom,
+    all joyful sounds are banished from the earth.
+12 The city is left in ruins,
+    its gate is battered to pieces.
+13 So will it be on the earth
+    and among the nations,
+as when an olive tree is beaten,
+    or as when gleanings are left after the grape harvest.
+
+14 They raise their voices, they shout for joy;
+    from the west they acclaim the Lord’s majesty.
+15 Therefore in the east give glory to the Lord;
+    exalt the name of the Lord, the God of Israel,
+    in the islands of the sea.
+16 From the ends of the earth we hear singing:
+    “Glory to the Righteous One.”
+
+But I said, “I waste away, I waste away!
+    Woe to me!
+The treacherous betray!
+    With treachery the treacherous betray!”
+17 Terror and pit and snare await you,
+    people of the earth.
+18 Whoever flees at the sound of terror
+    will fall into a pit;
+whoever climbs out of the pit
+    will be caught in a snare.
+
+The floodgates of the heavens are opened,
+    the foundations of the earth shake.
+19 The earth is broken up,
+    the earth is split asunder,
+    the earth is violently shaken.
+20 The earth reels like a drunkard,
+    it sways like a hut in the wind;
+so heavy upon it is the guilt of its rebellion
+    that it falls—never to rise again.
+
+21 In that day the Lord will punish
+    the powers in the heavens above
+    and the kings on the earth below.
+22 They will be herded together
+    like prisoners bound in a dungeon;
+they will be shut up in prison
+    and be punished[a] after many days.
+23 The moon will be dismayed,
+    the sun ashamed;
+for the Lord Almighty will reign
+    on Mount Zion and in Jerusalem,
+    and before its elders—with great glory.                                
                                        </p>
                                                                            </div>
                                     <div className={styles.card}>
@@ -2846,8 +2932,86 @@ for the Lord Almighty will reign
                                         <h2 className={styles.chapter}>Isaiah Chpt XXVI </h2>
                                         <p>
 
+A Song of Praise
+26 In that day this song will be sung in the land of Judah:
 
-                                                
+We have a strong city;
+    God makes salvation
+    its walls and ramparts.
+2 Open the gates
+    that the righteous nation may enter,
+    the nation that keeps faith.
+3 You will keep in perfect peace
+    those whose minds are steadfast,
+    because they trust in you.
+4 Trust in the Lord forever,
+    for the Lord, the Lord himself, is the Rock eternal.
+5 He humbles those who dwell on high,
+    he lays the lofty city low;
+he levels it to the ground
+    and casts it down to the dust.
+6 Feet trample it down—
+    the feet of the oppressed,
+    the footsteps of the poor.
+
+7 The path of the righteous is level;
+    you, the Upright One, make the way of the righteous smooth.
+8 Yes, Lord, walking in the way of your laws,[a]
+    we wait for you;
+your name and renown
+    are the desire of our hearts.
+9 My soul yearns for you in the night;
+    in the morning my spirit longs for you.
+When your judgments come upon the earth,
+    the people of the world learn righteousness.
+10 But when grace is shown to the wicked,
+    they do not learn righteousness;
+even in a land of uprightness they go on doing evil
+    and do not regard the majesty of the Lord.
+11 Lord, your hand is lifted high,
+    but they do not see it.
+Let them see your zeal for your people and be put to shame;
+    let the fire reserved for your enemies consume them.
+
+12 Lord, you establish peace for us;
+    all that we have accomplished you have done for us.
+13 Lord our God, other lords besides you have ruled over us,
+    but your name alone do we honor.
+14 They are now dead, they live no more;
+    their spirits do not rise.
+You punished them and brought them to ruin;
+    you wiped out all memory of them.
+15 You have enlarged the nation, Lord;
+    you have enlarged the nation.
+You have gained glory for yourself;
+    you have extended all the borders of the land.
+
+16 Lord, they came to you in their distress;
+    when you disciplined them,
+    they could barely whisper a prayer.[b]
+17 As a pregnant woman about to give birth
+    writhes and cries out in her pain,
+    so were we in your presence, Lord.
+18 We were with child, we writhed in labor,
+    but we gave birth to wind.
+We have not brought salvation to the earth,
+    and the people of the world have not come to life.
+
+19 But your dead will live, Lord;
+    their bodies will rise—
+let those who dwell in the dust
+    wake up and shout for joy—
+your dew is like the dew of the morning;
+    the earth will give birth to her dead.
+
+20 Go, my people, enter your rooms
+    and shut the doors behind you;
+hide yourselves for a little while
+    until his wrath has passed by.
+21 See, the Lord is coming out of his dwelling
+    to punish the people of the earth for their sins.
+The earth will disclose the blood shed on it;
+    the earth will conceal its slain no longer.                                                
                                         </p>
                                   </div>
 
@@ -2859,15 +3023,186 @@ for the Lord Almighty will reign
                                         <h2 className={styles.chapter}>Isaiah Chpt XXVII</h2>
                                         <p>
 
-                                          
+Deliverance of Israel
+27 In that day,
+
+the Lord will punish with his sword—
+    his fierce, great and powerful sword—
+Leviathan the gliding serpent,
+    Leviathan the coiling serpent;
+he will slay the monster of the sea.
+
+2 In that day—
+
+“Sing about a fruitful vineyard:
+3     I, the Lord, watch over it;
+    I water it continually.
+I guard it day and night
+    so that no one may harm it.
+4     I am not angry.
+If only there were briers and thorns confronting me!
+    I would march against them in battle;
+    I would set them all on fire.
+5 Or else let them come to me for refuge;
+    let them make peace with me,
+    yes, let them make peace with me.”
+
+6 In days to come Jacob will take root,
+    Israel will bud and blossom
+    and fill all the world with fruit.
+
+7 Has the Lord struck her
+    as he struck down those who struck her?
+Has she been killed
+    as those were killed who killed her?
+8 By warfare[a] and exile you contend with her—
+    with his fierce blast he drives her out,
+    as on a day the east wind blows.
+9 By this, then, will Jacob’s guilt be atoned for,
+    and this will be the full fruit of the removal of his sin:
+When he makes all the altar stones
+    to be like limestone crushed to pieces,
+no Asherah poles[b] or incense altars
+    will be left standing.
+10 The fortified city stands desolate,
+    an abandoned settlement, forsaken like the wilderness;
+there the calves graze,
+    there they lie down;
+    they strip its branches bare.
+11 When its twigs are dry, they are broken off
+    and women come and make fires with them.
+For this is a people without understanding;
+    so their Maker has no compassion on them,
+    and their Creator shows them no favor.
+
+12 In that day the Lord will thresh from the flowing Euphrates to the Wadi of Egypt, and you, Israel, will be gathered up one by one. 13 And in that day a great trumpet will sound. Those who were perishing in Assyria and those who were exiled in Egypt will come and worship the Lord on the holy mountain in Jerusalem.
                                         </p>
                                   </div>
                                   <div className={styles.card}>
 
                                         <h2 className={styles.chapter}>Isaiah Chpt XXVIII </h2>
                                         <p>
-                           
-                                          
+                           Woe to the Leaders of Ephraim and Judah
+28 Woe to that wreath, the pride of Ephraim’s drunkards,
+    to the fading flower, his glorious beauty,
+set on the head of a fertile valley—
+    to that city, the pride of those laid low by wine!
+2 See, the Lord has one who is powerful and strong.
+    Like a hailstorm and a destructive wind,
+like a driving rain and a flooding downpour,
+    he will throw it forcefully to the ground.
+3 That wreath, the pride of Ephraim’s drunkards,
+    will be trampled underfoot.
+4 That fading flower, his glorious beauty,
+    set on the head of a fertile valley,
+will be like figs ripe before harvest—
+    as soon as people see them and take them in hand,
+    they swallow them.
+
+5 In that day the Lord Almighty
+    will be a glorious crown,
+a beautiful wreath
+    for the remnant of his people.
+6 He will be a spirit of justice
+    to the one who sits in judgment,
+a source of strength
+    to those who turn back the battle at the gate.
+
+7 And these also stagger from wine
+    and reel from beer:
+Priests and prophets stagger from beer
+    and are befuddled with wine;
+they reel from beer,
+    they stagger when seeing visions,
+    they stumble when rendering decisions.
+8 All the tables are covered with vomit
+    and there is not a spot without filth.
+
+9 “Who is it he is trying to teach?
+    To whom is he explaining his message?
+To children weaned from their milk,
+    to those just taken from the breast?
+10 For it is:
+    Do this, do that,
+    a rule for this, a rule for that[a];
+    a little here, a little there.”
+
+11 Very well then, with foreign lips and strange tongues
+    God will speak to this people,
+12 to whom he said,
+    “This is the resting place, let the weary rest”;
+and, “This is the place of repose”—
+    but they would not listen.
+13 So then, the word of the Lord to them will become:
+    Do this, do that,
+    a rule for this, a rule for that;
+    a little here, a little there—
+so that as they go they will fall backward;
+    they will be injured and snared and captured.
+
+14 Therefore hear the word of the Lord, you scoffers
+    who rule this people in Jerusalem.
+15 You boast, “We have entered into a covenant with death,
+    with the realm of the dead we have made an agreement.
+When an overwhelming scourge sweeps by,
+    it cannot touch us,
+for we have made a lie our refuge
+    and falsehood[b] our hiding place.”
+
+16 So this is what the Sovereign Lord says:
+
+“See, I lay a stone in Zion, a tested stone,
+    a precious cornerstone for a sure foundation;
+the one who relies on it
+    will never be stricken with panic.
+17 I will make justice the measuring line
+    and righteousness the plumb line;
+hail will sweep away your refuge, the lie,
+    and water will overflow your hiding place.
+18 Your covenant with death will be annulled;
+    your agreement with the realm of the dead will not stand.
+When the overwhelming scourge sweeps by,
+    you will be beaten down by it.
+19 As often as it comes it will carry you away;
+    morning after morning, by day and by night,
+    it will sweep through.”
+
+The understanding of this message
+    will bring sheer terror.
+20 The bed is too short to stretch out on,
+    the blanket too narrow to wrap around you.
+21 The Lord will rise up as he did at Mount Perazim,
+    he will rouse himself as in the Valley of Gibeon—
+to do his work, his strange work,
+    and perform his task, his alien task.
+22 Now stop your mocking,
+    or your chains will become heavier;
+the Lord, the Lord Almighty, has told me
+    of the destruction decreed against the whole land.
+
+23 Listen and hear my voice;
+    pay attention and hear what I say.
+24 When a farmer plows for planting, does he plow continually?
+    Does he keep on breaking up and working the soil?
+25 When he has leveled the surface,
+    does he not sow caraway and scatter cumin?
+Does he not plant wheat in its place,[c]
+    barley in its plot,[d]
+    and spelt in its field?
+26 His God instructs him
+    and teaches him the right way.
+
+27 Caraway is not threshed with a sledge,
+    nor is the wheel of a cart rolled over cumin;
+caraway is beaten out with a rod,
+    and cumin with a stick.
+28 Grain must be ground to make bread;
+    so one does not go on threshing it forever.
+The wheels of a threshing cart may be rolled over it,
+    but one does not use horses to grind grain.
+29 All this also comes from the Lord Almighty,
+    whose plan is wonderful,
+    whose wisdom is magnificent.                                          
                                           </p>
                                   </div>
 
@@ -2875,7 +3210,96 @@ for the Lord Almighty will reign
 
                                         <h2 className={styles.chapter}>Isaiah Chpt XXIX </h2>
                                         <p>
-                                              
+Woe to David’s City
+29 Woe to you, Ariel, Ariel,
+    the city where David settled!
+Add year to year
+    and let your cycle of festivals go on.
+2 Yet I will besiege Ariel;
+    she will mourn and lament,
+    she will be to me like an altar hearth.[a]
+3 I will encamp against you on all sides;
+    I will encircle you with towers
+    and set up my siege works against you.
+4 Brought low, you will speak from the ground;
+    your speech will mumble out of the dust.
+Your voice will come ghostlike from the earth;
+    out of the dust your speech will whisper.
+
+5 But your many enemies will become like fine dust,
+    the ruthless hordes like blown chaff.
+Suddenly, in an instant,
+6     the Lord Almighty will come
+with thunder and earthquake and great noise,
+    with windstorm and tempest and flames of a devouring fire.
+7 Then the hordes of all the nations that fight against Ariel,
+    that attack her and her fortress and besiege her,
+will be as it is with a dream,
+    with a vision in the night—
+8 as when a hungry person dreams of eating,
+    but awakens hungry still;
+as when a thirsty person dreams of drinking,
+    but awakens faint and thirsty still.
+So will it be with the hordes of all the nations
+    that fight against Mount Zion.
+
+9 Be stunned and amazed,
+    blind yourselves and be sightless;
+be drunk, but not from wine,
+    stagger, but not from beer.
+10 The Lord has brought over you a deep sleep:
+    He has sealed your eyes (the prophets);
+    he has covered your heads (the seers).
+
+11 For you this whole vision is nothing but words sealed in a scroll. And if you give the scroll to someone who can read, and say, “Read this, please,” they will answer, “I can’t; it is sealed.” 12 Or if you give the scroll to someone who cannot read, and say, “Read this, please,” they will answer, “I don’t know how to read.”
+
+13 The Lord says:
+
+“These people come near to me with their mouth
+    and honor me with their lips,
+    but their hearts are far from me.
+Their worship of me
+    is based on merely human rules they have been taught.[b]
+14 Therefore once more I will astound these people
+    with wonder upon wonder;
+the wisdom of the wise will perish,
+    the intelligence of the intelligent will vanish.”
+15 Woe to those who go to great depths
+    to hide their plans from the Lord,
+who do their work in darkness and think,
+    “Who sees us? Who will know?”
+16 You turn things upside down,
+    as if the potter were thought to be like the clay!
+Shall what is formed say to the one who formed it,
+    “You did not make me”?
+Can the pot say to the potter,
+    “You know nothing”?
+
+17 In a very short time, will not Lebanon be turned into a fertile field
+    and the fertile field seem like a forest?
+18 In that day the deaf will hear the words of the scroll,
+    and out of gloom and darkness
+    the eyes of the blind will see.
+19 Once more the humble will rejoice in the Lord;
+    the needy will rejoice in the Holy One of Israel.
+20 The ruthless will vanish,
+    the mockers will disappear,
+    and all who have an eye for evil will be cut down—
+21 those who with a word make someone out to be guilty,
+    who ensnare the defender in court
+    and with false testimony deprive the innocent of justice.
+
+22 Therefore this is what the Lord, who redeemed Abraham, says to the descendants of Jacob:
+
+“No longer will Jacob be ashamed;
+    no longer will their faces grow pale.
+23 When they see among them their children,
+    the work of my hands,
+they will keep my name holy;
+    they will acknowledge the holiness of the Holy One of Jacob,
+    and will stand in awe of the God of Israel.
+24 Those who are wayward in spirit will gain understanding;
+    those who complain will accept instruction.”
                                             
                                         </p>
                                     </div>
@@ -2884,8 +3308,126 @@ for the Lord Almighty will reign
 
                                         <h2 className={styles.chapter}>Isaiah Chpt XXX </h2>
                                         <p>
-                                             
-                                                  
+                                             Woe to the Obstinate Nation
+30 “Woe to the obstinate children,”
+    declares the Lord,
+“to those who carry out plans that are not mine,
+    forming an alliance, but not by my Spirit,
+    heaping sin upon sin;
+2 who go down to Egypt
+    without consulting me;
+who look for help to Pharaoh’s protection,
+    to Egypt’s shade for refuge.
+3 But Pharaoh’s protection will be to your shame,
+    Egypt’s shade will bring you disgrace.
+4 Though they have officials in Zoan
+    and their envoys have arrived in Hanes,
+5 everyone will be put to shame
+    because of a people useless to them,
+who bring neither help nor advantage,
+    but only shame and disgrace.”
+
+6 A prophecy concerning the animals of the Negev:
+
+Through a land of hardship and distress,
+    of lions and lionesses,
+    of adders and darting snakes,
+the envoys carry their riches on donkeys’ backs,
+    their treasures on the humps of camels,
+to that unprofitable nation,
+7     to Egypt, whose help is utterly useless.
+Therefore I call her
+    Rahab the Do-Nothing.
+
+8 Go now, write it on a tablet for them,
+    inscribe it on a scroll,
+that for the days to come
+    it may be an everlasting witness.
+9 For these are rebellious people, deceitful children,
+    children unwilling to listen to the Lord’s instruction.
+10 They say to the seers,
+    “See no more visions!”
+and to the prophets,
+    “Give us no more visions of what is right!
+Tell us pleasant things,
+    prophesy illusions.
+11 Leave this way,
+    get off this path,
+and stop confronting us
+    with the Holy One of Israel!”
+
+12 Therefore this is what the Holy One of Israel says:
+
+“Because you have rejected this message,
+    relied on oppression
+    and depended on deceit,
+13 this sin will become for you
+    like a high wall, cracked and bulging,
+    that collapses suddenly, in an instant.
+14 It will break in pieces like pottery,
+    shattered so mercilessly
+that among its pieces not a fragment will be found
+    for taking coals from a hearth
+    or scooping water out of a cistern.”
+
+15 This is what the Sovereign Lord, the Holy One of Israel, says:
+
+“In repentance and rest is your salvation,
+    in quietness and trust is your strength,
+    but you would have none of it.
+16 You said, ‘No, we will flee on horses.’
+    Therefore you will flee!
+You said, ‘We will ride off on swift horses.’
+    Therefore your pursuers will be swift!
+17 A thousand will flee
+    at the threat of one;
+at the threat of five
+    you will all flee away,
+till you are left
+    like a flagstaff on a mountaintop,
+    like a banner on a hill.”
+
+18 Yet the Lord longs to be gracious to you;
+    therefore he will rise up to show you compassion.
+For the Lord is a God of justice.
+    Blessed are all who wait for him!
+
+19 People of Zion, who live in Jerusalem, you will weep no more. How gracious he will be when you cry for help! As soon as he hears, he will answer you. 20 Although the Lord gives you the bread of adversity and the water of affliction, your teachers will be hidden no more; with your own eyes you will see them. 21 Whether you turn to the right or to the left, your ears will hear a voice behind you, saying, “This is the way; walk in it.” 22 Then you will desecrate your idols overlaid with silver and your images covered with gold; you will throw them away like a menstrual cloth and say to them, “Away with you!”
+
+23 He will also send you rain for the seed you sow in the ground, and the food that comes from the land will be rich and plentiful. In that day your cattle will graze in broad meadows. 24 The oxen and donkeys that work the soil will eat fodder and mash, spread out with fork and shovel. 25 In the day of great slaughter, when the towers fall, streams of water will flow on every high mountain and every lofty hill. 26 The moon will shine like the sun, and the sunlight will be seven times brighter, like the light of seven full days, when the Lord binds up the bruises of his people and heals the wounds he inflicted.
+
+27 See, the Name of the Lord comes from afar,
+    with burning anger and dense clouds of smoke;
+his lips are full of wrath,
+    and his tongue is a consuming fire.
+28 His breath is like a rushing torrent,
+    rising up to the neck.
+He shakes the nations in the sieve of destruction;
+    he places in the jaws of the peoples
+    a bit that leads them astray.
+29 And you will sing
+    as on the night you celebrate a holy festival;
+your hearts will rejoice
+    as when people playing pipes go up
+to the mountain of the Lord,
+    to the Rock of Israel.
+30 The Lord will cause people to hear his majestic voice
+    and will make them see his arm coming down
+with raging anger and consuming fire,
+    with cloudburst, thunderstorm and hail.
+31 The voice of the Lord will shatter Assyria;
+    with his rod he will strike them down.
+32 Every stroke the Lord lays on them
+    with his punishing club
+will be to the music of timbrels and harps,
+    as he fights them in battle with the blows of his arm.
+33 Topheth has long been prepared;
+    it has been made ready for the king.
+Its fire pit has been made deep and wide,
+    with an abundance of fire and wood;
+the breath of the Lord,
+    like a stream of burning sulfur,
+    sets it ablaze.                                                  
                                         </p>
                                     </div>
 
