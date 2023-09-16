@@ -2491,6 +2491,414 @@ A Prophecy Against Egypt and Cush
                                          </p>
                                     </div>
 
+<div className={styles.card}>
+           <h2 className={styles.chapter}>Isaiah Chpt XXI</h2>
+            <p>
+
+A Prophecy Against Babylon
+21 A prophecy against the Desert by the Sea:
+
+Like whirlwinds sweeping through the southland,
+    an invader comes from the desert,
+    from a land of terror.
+
+2 A dire vision has been shown to me:
+    The traitor betrays, the looter takes loot.
+Elam, attack! Media, lay siege!
+    I will bring to an end all the groaning she caused.
+
+3 At this my body is racked with pain,
+    pangs seize me, like those of a woman in labor;
+I am staggered by what I hear,
+    I am bewildered by what I see.
+4 My heart falters,
+    fear makes me tremble;
+the twilight I longed for
+    has become a horror to me.
+
+5 They set the tables,
+    they spread the rugs,
+    they eat, they drink!
+Get up, you officers,
+    oil the shields!
+
+6 This is what the Lord says to me:
+
+“Go, post a lookout
+    and have him report what he sees.
+7 When he sees chariots
+    with teams of horses,
+riders on donkeys
+    or riders on camels,
+let him be alert,
+    fully alert.”
+
+8 And the lookout[a] shouted,
+
+“Day after day, my lord, I stand on the watchtower;
+    every night I stay at my post.
+9 Look, here comes a man in a chariot
+    with a team of horses.
+And he gives back the answer:
+    ‘Babylon has fallen, has fallen!
+All the images of its gods
+    lie shattered on the ground!’”
+
+10 My people who are crushed on the threshing floor,
+    I tell you what I have heard
+from the Lord Almighty,
+    from the God of Israel.
+
+A Prophecy Against Edom
+11 A prophecy against Dumah[b]:
+
+Someone calls to me from Seir,
+    “Watchman, what is left of the night?
+    Watchman, what is left of the night?”
+12 The watchman replies,
+    “Morning is coming, but also the night.
+If you would ask, then ask;
+    and come back yet again.”
+
+A Prophecy Against Arabia
+13 A prophecy against Arabia:
+
+You caravans of Dedanites,
+    who camp in the thickets of Arabia,
+14     bring water for the thirsty;
+you who live in Tema,
+    bring food for the fugitives.
+15 They flee from the sword,
+    from the drawn sword,
+from the bent bow
+    and from the heat of battle.
+
+16 This is what the Lord says to me: “Within one year, as a servant bound by contract would count it, all the splendor of Kedar will come to an end. 17 The survivors of the archers, the warriors of Kedar, will be few.” The Lord, the God of Israel, has spoken.
+            </p>
+  
+  </div>
+
+          <div
+            className={styles.card}
+          >
+           <h2 className={styles.chapter}>Isaiah Chpt XXII</h2>
+            <p>
+A Prophecy About Jerusalem
+22 A prophecy against the Valley of Vision:
+
+What troubles you now,
+    that you have all gone up on the roofs,
+2 you town so full of commotion,
+    you city of tumult and revelry?
+Your slain were not killed by the sword,
+    nor did they die in battle.
+3 All your leaders have fled together;
+    they have been captured without using the bow.
+All you who were caught were taken prisoner together,
+    having fled while the enemy was still far away.
+4 Therefore I said, “Turn away from me;
+    let me weep bitterly.
+Do not try to console me
+    over the destruction of my people.”
+
+5 The Lord, the Lord Almighty, has a day
+    of tumult and trampling and terror
+    in the Valley of Vision,
+a day of battering down walls
+    and of crying out to the mountains.
+6 Elam takes up the quiver,
+    with her charioteers and horses;
+    Kir uncovers the shield.
+7 Your choicest valleys are full of chariots,
+    and horsemen are posted at the city gates.
+
+8 The Lord stripped away the defenses of Judah,
+    and you looked in that day
+    to the weapons in the Palace of the Forest.
+9 You saw that the walls of the City of David
+    were broken through in many places;
+you stored up water
+    in the Lower Pool.
+10 You counted the buildings in Jerusalem
+    and tore down houses to strengthen the wall.
+11 You built a reservoir between the two walls
+    for the water of the Old Pool,
+but you did not look to the One who made it,
+    or have regard for the One who planned it long ago.
+
+12 The Lord, the Lord Almighty,
+    called you on that day
+to weep and to wail,
+    to tear out your hair and put on sackcloth.
+13 But see, there is joy and revelry,
+    slaughtering of cattle and killing of sheep,
+    eating of meat and drinking of wine!
+“Let us eat and drink,” you say,
+    “for tomorrow we die!”
+
+14 The Lord Almighty has revealed this in my hearing: “Till your dying day this sin will not be atoned for,” says the Lord, the Lord Almighty.
+
+15 This is what the Lord, the Lord Almighty, says:
+
+“Go, say to this steward,
+    to Shebna the palace administrator:
+16 What are you doing here and who gave you permission
+    to cut out a grave for yourself here,
+hewing your grave on the height
+    and chiseling your resting place in the rock?
+
+17 “Beware, the Lord is about to take firm hold of you
+    and hurl you away, you mighty man.
+18 He will roll you up tightly like a ball
+    and throw you into a large country.
+There you will die
+    and there the chariots you were so proud of
+    will become a disgrace to your master’s house.
+19 I will depose you from your office,
+    and you will be ousted from your position.
+
+20 “In that day I will summon my servant, Eliakim son of Hilkiah. 21 I will clothe him with your robe and fasten your sash around him and hand your authority over to him. He will be a father to those who live in Jerusalem and to the people of Judah. 22 I will place on his shoulder the key to the house of David; what he opens no one can shut, and what he shuts no one can open. 23 I will drive him like a peg into a firm place; he will become a seat[a] of honor for the house of his father. 24 All the glory of his family will hang on him: its offspring and offshoots—all its lesser vessels, from the bowls to all the jars.
+
+25 “In that day,” declares the Lord Almighty, “the peg driven into the firm place will give way; it will be sheared off and will fall, and the load hanging on it will be cut down.” The Lord has spoken.              
+          </p>
+</div>
+
+                                      <div className={styles.card}>
+
+                                      <h2 className={styles.chapter}>Isaiah Chpt XXIII</h2>
+                                      <p>
+A Prophecy Against Tyre
+23 A prophecy against Tyre:
+
+Wail, you ships of Tarshish!
+    For Tyre is destroyed
+    and left without house or harbor.
+From the land of Cyprus
+    word has come to them.
+
+2 Be silent, you people of the island
+    and you merchants of Sidon,
+    whom the seafarers have enriched.
+3 On the great waters
+    came the grain of the Shihor;
+the harvest of the Nile[a] was the revenue of Tyre,
+    and she became the marketplace of the nations.
+
+4 Be ashamed, Sidon, and you fortress of the sea,
+    for the sea has spoken:
+“I have neither been in labor nor given birth;
+    I have neither reared sons nor brought up daughters.”
+5 When word comes to Egypt,
+    they will be in anguish at the report from Tyre.
+
+6 Cross over to Tarshish;
+    wail, you people of the island.
+7 Is this your city of revelry,
+    the old, old city,
+whose feet have taken her
+    to settle in far-off lands?
+8 Who planned this against Tyre,
+    the bestower of crowns,
+whose merchants are princes,
+    whose traders are renowned in the earth?
+9 The Lord Almighty planned it,
+    to bring down her pride in all her splendor
+    and to humble all who are renowned on the earth.
+
+10 Till[b] your land as they do along the Nile,
+    Daughter Tarshish,
+    for you no longer have a harbor.
+11 The Lord has stretched out his hand over the sea
+    and made its kingdoms tremble.
+He has given an order concerning Phoenicia
+    that her fortresses be destroyed.
+12 He said, “No more of your reveling,
+    Virgin Daughter Sidon, now crushed!
+
+“Up, cross over to Cyprus;
+    even there you will find no rest.”
+13 Look at the land of the Babylonians,[c]
+    this people that is now of no account!
+The Assyrians have made it
+    a place for desert creatures;
+they raised up their siege towers,
+    they stripped its fortresses bare
+    and turned it into a ruin.
+
+14 Wail, you ships of Tarshish;
+    your fortress is destroyed!
+
+15 At that time Tyre will be forgotten for seventy years, the span of a king’s life. But at the end of these seventy years, it will happen to Tyre as in the song of the prostitute:
+
+16 “Take up a harp, walk through the city,
+    you forgotten prostitute;
+play the harp well, sing many a song,
+    so that you will be remembered.”
+
+17 At the end of seventy years, the Lord will deal with Tyre. She will return to her lucrative prostitution and will ply her trade with all the kingdoms on the face of the earth. 18 Yet her profit and her earnings will be set apart for the Lord; they will not be stored up or hoarded. Her profits will go to those who live before the Lord, for abundant food and fine clothes.                               
+                                        </p>
+                                      </div>
+  
+                                        <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Isaiah Chpt XXIV</h2>
+                                        <p>
+                      The Lord’s Devastation of the Earth
+24 See, the Lord is going to lay waste the earth
+    and devastate it;
+he will ruin its face
+    and scatter its inhabitants—
+2 it will be the same
+    for priest as for people,
+    for the master as for his servant,
+    for the mistress as for her servant,
+    for seller as for buyer,
+    for borrower as for lender,
+    for debtor as for creditor.
+3 The earth will be completely laid waste
+    and totally plundered.
+The Lord has spoken this word.
+
+4 The earth dries up and withers,
+    the world languishes and withers,
+    the heavens languish with the earth.
+5 The earth is defiled by its people;
+    they have disobeyed the laws,
+violated the statutes
+    and broken the everlasting covenant.
+6 Therefore a curse consumes the earth;
+    its people must bear their guilt.
+Therefore earth’s inhabitants are burned up,
+    and very few are left.
+7 The new wine dries up and the vine withers;
+    all the merrymakers groan.
+8 The joyful timbrels are stilled,
+    the noise of the revelers has stopped,
+    the joyful harp is silent.
+9 No longer do they drink wine with a song;
+    the beer is bitter to its drinkers.
+10 The ruined city lies desolate;
+    the entrance to every house is barred.
+11 In the streets they cry out for wine;
+    all joy turns to gloom,
+    all joyful sounds are banished from the earth.
+12 The city is left in ruins,
+    its gate is battered to pieces.
+13 So will it be on the earth
+    and among the nations,
+as when an olive tree is beaten,
+    or as when gleanings are left after the grape harvest.
+
+14 They raise their voices, they shout for joy;
+    from the west they acclaim the Lord’s majesty.
+15 Therefore in the east give glory to the Lord;
+    exalt the name of the Lord, the God of Israel,
+    in the islands of the sea.
+16 From the ends of the earth we hear singing:
+    “Glory to the Righteous One.”
+
+But I said, “I waste away, I waste away!
+    Woe to me!
+The treacherous betray!
+    With treachery the treacherous betray!”
+17 Terror and pit and snare await you,
+    people of the earth.
+18 Whoever flees at the sound of terror
+    will fall into a pit;
+whoever climbs out of the pit
+    will be caught in a snare.
+
+The floodgates of the heavens are opened,
+    the foundations of the earth shake.
+19 The earth is broken up,
+    the earth is split asunder,
+    the earth is violently shaken.
+20 The earth reels like a drunkard,
+    it sways like a hut in the wind;
+so heavy upon it is the guilt of its rebellion
+    that it falls—never to rise again.
+
+21 In that day the Lord will punish
+    the powers in the heavens above
+    and the kings on the earth below.
+22 They will be herded together
+    like prisoners bound in a dungeon;
+they will be shut up in prison
+    and be punished[a] after many days.
+23 The moon will be dismayed,
+    the sun ashamed;
+for the Lord Almighty will reign
+    on Mount Zion and in Jerusalem,
+    and before its elders—with great glory.                                        
+                                        </p>
+                                        </div>
+
+                              <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Isaiah Chpt XXV</h2>
+                                        <p>
+
+                                
+                                       </p>
+                                                                           </div>
+                                    <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Isaiah Chpt XXVI </h2>
+                                        <p>
+
+
+                                                
+                                        </p>
+                                  </div>
+
+
+
+
+                                <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Isaiah Chpt XXVII</h2>
+                                        <p>
+
+                                          
+                                        </p>
+                                  </div>
+                                  <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Isaiah Chpt XXVIII </h2>
+                                        <p>
+                           
+                                          
+                                          </p>
+                                  </div>
+
+                                   <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Isaiah Chpt XXIX </h2>
+                                        <p>
+                                              
+                                            
+                                        </p>
+                                    </div>
+
+                                     <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Isaiah Chpt XXX </h2>
+                                        <p>
+                                             
+                                                  
+                                        </p>
+                                    </div>
+
+
+
+
+
+
+
+
+
+
+  
 
 
   <div className={styles.card}>
