@@ -855,7 +855,7 @@ for you created all things,
                               />
         </div>
 <p className={styles.parables}>
-       Isaiah is the first of the Major Prophets and I am coding it out and am currently on Chapter XL (40)                              
+       Isaiah repeatedly warned Judah & Jerusalem that they would be judged & destroyed if they continued in their wickedness.                             
 </p>
                       <div className={styles.nav2}>           
       <a href="https://galatians.vercel.app/#first_peter">
@@ -892,7 +892,7 @@ for you created all things,
                </div>
   
                 <div className={styles.iframe}>
-                     <iframe width="100%" height="315" src="https://www.youtube.com/embed/d0A6Uchb1F8?si=WYMxhQHIqfmQJq-e?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                     <iframe width="100%" height="315" src="https://www.youtube.com/embed/d0A6Uchb1F8?si=AThTD1zISb0C2Pwb?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div> 
  
       <div className={styles.grid2}>
