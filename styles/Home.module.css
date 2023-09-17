@@ -496,6 +496,48 @@
     font-weight: 900;
 }
 
+
+.card2:hover,
+.card2:focus,
+.card2:active {
+    display: inline;
+    color: black;
+    opacity: 1;
+    border: 6px solid white;
+    background-image: url(/paper.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    cursor: all-scroll;
+    background-color: white;
+    overflow: scroll;
+    font-family: monospace;
+}
+
+.card2 h2 {
+    margin: 0 0 1rem 0;
+    font-size: 1.5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.card2 h2:hover {
+    color: black;
+}
+
+.card2 p {
+    margin: 0;
+    padding: 1.5rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    font-family: monospace;
+}
+
+.card2 p:hover {
+    font-weight: 900;
+}
+
+
+
+
 .logo {
     height: 1em;
     margin-left: 0.5rem;
