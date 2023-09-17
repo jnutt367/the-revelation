@@ -896,7 +896,7 @@ for you created all things,
                 </div> 
  
       <div className={styles.grid2}>
-          <div className={styles.card}>
+          <div className={styles.card2}>
             <h2 className={styles.chapter2}>Isaiah Chpt I</h2>
             <p>
 
@@ -1041,7 +1041,7 @@ both will burn together,
             </p>
               </div>
 
-          <div className={styles.card}>
+          <div className={styles.card2}>
            <h2 className={styles.chapter2}>Isaiah Chpt II</h2>
             <p>
 The Mountain of the Lord
@@ -1136,7 +1136,7 @@ from the fearful presence of the Lord
   </div>
 
           <div
-            className={styles.card}
+            className={styles.card2}
           >
            <h2 className={styles.chapter2}>Isaiah Chpt III</h2>
             <p>
@@ -1224,7 +1224,7 @@ instead of well-dressed hair, baldness;
           </p>
 </div>
 
-                                      <div className={styles.card}>
+                                      <div className={styles.card2}>
 
                                       <h2 className={styles.chapter2}>Isaiah Chpt IV</h2>
                                       <p>
@@ -1240,7 +1240,7 @@ The Branch of the Lord
 2 In that day the Branch of the Lord will be beautiful and glorious, and the fruit of the land will be the pride and glory of the survivors in Israel. 3 Those who are left in Zion, who remain in Jerusalem, will be called holy, all who are recorded among the living in Jerusalem. 4 The Lord will wash away the filth of the women of Zion; he will cleanse the bloodstains from Jerusalem by a spirit[a] of judgment and a spirit[b] of fire. 5 Then the Lord will create over all of Mount Zion and over those who assemble there a cloud of smoke by day and a glow of flaming fire by night; over everything the glory[c] will be a canopy. 6 It will be a shelter and shade from the heat of the day, and a refuge and hiding place from the storm and rain.                                        </p>
                                       </div>
   
-                                        <div className={styles.card}>
+                                        <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt V</h2>
                                         <p>
@@ -1379,7 +1379,7 @@ And if one looks at the land,
                                         </p>
                                         </div>
 
-                              <div className={styles.card}>
+                              <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt VI</h2>
                                         <p>
@@ -1434,7 +1434,7 @@ But as the terebinth and oak
 
 
 
-                                <div className={styles.card}>
+                                <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt VII</h2>
                                         <p>
@@ -1467,7 +1467,7 @@ Assyria, the Lord’s Instrument
 18 In that day the Lord will whistle for flies from the Nile delta in Egypt and for bees from the land of Assyria. 19 They will all come and settle in the steep ravines and in the crevices in the rocks, on all the thornbushes and at all the water holes. 20 In that day the Lord will use a razor hired from beyond the Euphrates River—the king of Assyria—to shave your head and private parts, and to cut off your beard also. 21 In that day, a person will keep alive a young cow and two goats. 22 And because of the abundance of the milk they give, there will be curds to eat. All who remain in the land will eat curds and honey. 23 In that day, in every place where there were a thousand vines worth a thousand silver shekels,[g] there will be only briers and thorns. 24 Hunters will go there with bow and arrow, for the land will be covered with briers and thorns. 25 As for all the hills once cultivated by the hoe, you will no longer go there for fear of the briers and thorns; they will become places where cattle are turned loose and where sheep run.
                                         </p>
                                   </div>
-                                  <div className={styles.card}>
+                                  <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt VIII </h2>
                                         <p>
@@ -1530,7 +1530,7 @@ The Darkness Turns to Light
                                           </p>
                                   </div>
 
-                                   <div className={styles.card}>
+                                   <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt IX </h2>
                                         <p>
@@ -1628,7 +1628,7 @@ Yet for all this, his anger is not turned away,
                                         </p>
                                     </div>
 
-                                     <div className={styles.card}>
+                                     <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt X</h2>
                                         <p>
@@ -1761,7 +1761,7 @@ The lofty trees will be felled,
                                         </p>
                                     </div>
 
-                                     <div className={styles.card}>
+                                     <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XI</h2>
                                         <p>
@@ -1825,7 +1825,7 @@ as there was for Israel
                                          </p>
                                     </div>
 
-                                   <div className={styles.card}>
+                                   <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XII </h2>
                                         <p>
@@ -1856,7 +1856,7 @@ The Lord, the Lord himself, is my strength and my defense[a];
                                         </p>
                                     </div>
 
-                                   <div className={styles.card}>
+                                   <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XIII </h2>
                                         <p>
@@ -1946,7 +1946,7 @@ Her time is at hand,
                                     </div>
 
 
-                                   <div className={styles.card}>
+                                   <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XIV </h2>
                                         <p>
@@ -2084,7 +2084,7 @@ A cloud of smoke comes from the north,
                                                           </p>
                                     </div>
 
-                                     <div className={styles.card}>
+                                     <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XV </h2>
                                         <p>
@@ -2221,7 +2221,7 @@ A cloud of smoke comes from the north,
                                                   </p>
                                     </div>
 
-                                     <div className={styles.card}>
+                                     <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XVI </h2>
                                         <p>
@@ -2292,7 +2292,7 @@ when she goes to her shrine to pray,
                                                 </p>
                                     </div>
 
-                                   <div className={styles.card}>
+                                   <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XVII </h2>
                                         <p>
@@ -2356,7 +2356,7 @@ This is the portion of those who loot us,
                                                   </p>
                                     </div>
 
-                                   <div className={styles.card}>
+                                   <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>The Revelation Chpt XVIII </h2>
                                         <p>
@@ -2402,7 +2402,7 @@ an aggressive nation of strange speech,
 the gifts will be brought to Mount Zion, the place of the Name of the Lord Almighty.                                          </p>
                                     </div>
 
-                                     <div className={styles.card}>
+                                     <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XIX </h2>
                                         <p>
@@ -2479,7 +2479,7 @@ they make Egypt stagger in all that she does,
                                              </p>
                                     </div>
 
-                                     <div className={styles.card}>
+                                     <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XX              </h2>
                                         <p>
@@ -2491,7 +2491,7 @@ A Prophecy Against Egypt and Cush
                                          </p>
                                     </div>
 
-<div className={styles.card}>
+<div className={styles.card2}>
            <h2 className={styles.chapter2}>Isaiah Chpt XXI</h2>
             <p>
 
@@ -2579,7 +2579,7 @@ from the bent bow
   </div>
 
           <div
-            className={styles.card}
+            className={styles.card2}
           >
            <h2 className={styles.chapter2}>Isaiah Chpt XXII</h2>
             <p>
@@ -2663,7 +2663,7 @@ There you will die
           </p>
 </div>
 
-                                      <div className={styles.card}>
+                                      <div className={styles.card2}>
 
                                       <h2 className={styles.chapter2}>Isaiah Chpt XXIII</h2>
                                       <p>
@@ -2739,7 +2739,7 @@ play the harp well, sing many a song,
                                         </p>
                                       </div>
   
-                                        <div className={styles.card}>
+                                        <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XXIV</h2>
                                         <p>
@@ -2833,7 +2833,7 @@ for the Lord Almighty will reign
                                         </p>
                                         </div>
 
-                              <div className={styles.card}>
+                              <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XXV</h2>
                                         <p>
@@ -2927,7 +2927,7 @@ for the Lord Almighty will reign
     and before its elders—with great glory.                                
                                        </p>
                                                                            </div>
-                                    <div className={styles.card}>
+                                    <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XXVI </h2>
                                         <p>
@@ -3018,7 +3018,7 @@ The earth will disclose the blood shed on it;
 
 
 
-                                <div className={styles.card}>
+                                <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XXVII</h2>
                                         <p>
@@ -3078,7 +3078,7 @@ For this is a people without understanding;
 12 In that day the Lord will thresh from the flowing Euphrates to the Wadi of Egypt, and you, Israel, will be gathered up one by one. 13 And in that day a great trumpet will sound. Those who were perishing in Assyria and those who were exiled in Egypt will come and worship the Lord on the holy mountain in Jerusalem.
                                         </p>
                                   </div>
-                                  <div className={styles.card}>
+                                  <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XXVIII </h2>
                                         <p>
@@ -3206,7 +3206,7 @@ The wheels of a threshing cart may be rolled over it,
                                           </p>
                                   </div>
 
-                                   <div className={styles.card}>
+                                   <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XXIX </h2>
                                         <p>
@@ -3304,7 +3304,7 @@ they will keep my name holy;
                                         </p>
                                     </div>
 
-                                     <div className={styles.card}>
+                                     <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XXX </h2>
                                         <p>
@@ -3443,7 +3443,7 @@ the breath of the Lord,
   
 
 
-  <div className={styles.card}>
+  <div className={styles.card2}>
            <h2 className={styles.chapter2}>Isaiah Chpt XXXI</h2>
             <p>
 Woe to Those Who Rely on Egypt
@@ -3495,7 +3495,7 @@ declares the Lord,
   </div>
 
           <div
-            className={styles.card}
+            className={styles.card2}
           >
            <h2 className={styles.chapter2}>Isaiah Chpt XXXII</h2>
             <p>
@@ -3567,7 +3567,7 @@ citadel and watchtower will become a wasteland forever,
           </p>
 </div>
 
-                                      <div className={styles.card}>
+                                      <div className={styles.card2}>
 
                                       <h2 className={styles.chapter2}>Isaiah Chpt XXXIII</h2>
                                       <p>
@@ -3668,7 +3668,7 @@ Then an abundance of spoils will be divided
                                         </p>
                                       </div>
   
-                                        <div className={styles.card}>
+                                        <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XXXIV</h2>
                                         <p>
@@ -3749,7 +3749,7 @@ They will possess it forever
                                         </p>
                                         </div>
 
-                              <div className={styles.card}>
+                              <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XXXV</h2>
                                         <p>
@@ -3799,7 +3799,7 @@ Gladness and joy will overtake them,
     and sorrow and sighing will flee away.                                
                                        </p>
                                                                            </div>
-                                    <div className={styles.card}>
+                                    <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XXXVI </h2>
                                         <p>
@@ -3832,7 +3832,7 @@ Sennacherib Threatens Jerusalem
 
 
 
-                                <div className={styles.card}>
+                                <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XXXVII</h2>
                                         <p>
@@ -3930,7 +3930,7 @@ declares the Lord.
 38 One day, while he was worshiping in the temple of his god Nisrok, his sons Adrammelek and Sharezer killed him with the sword, and they escaped to the land of Ararat. And Esarhaddon his son succeeded him as king.
                                         </p>
                                   </div>
-                                  <div className={styles.card}>
+                                  <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XXXVIII </h2>
                                         <p>
@@ -4000,7 +4000,7 @@ all the days of our lives
                                           </p>
                                   </div>
 
-                                   <div className={styles.card}>
+                                   <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XXXIX </h2>
                                         <p>
@@ -4021,7 +4021,7 @@ all the days of our lives
                                         </p>
                                     </div>
 
-                                     <div className={styles.card}>
+                                     <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XL </h2>
                                         <p>
@@ -4155,7 +4155,7 @@ They will soar on wings like eagles;
                                         </p>
                                     </div>
 
-                                     <div className={styles.card}>
+                                     <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XLI </h2>
                                         <p>
@@ -4283,7 +4283,7 @@ No one told of this,
                                          </p>
                                     </div>
 
-                                   <div className={styles.card}>
+                                   <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XLII </h2>
                                         <p>
@@ -4392,7 +4392,7 @@ It enveloped them in flames, yet they did not understand;
                                         </p>
                                     </div>
 
-                                   <div className={styles.card}>
+                                   <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XLIII</h2>
                                         <p>
@@ -4510,7 +4510,7 @@ But you have burdened me with your sins
                                     </div>
 
 
-                                   <div className={styles.card}>
+                                   <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XLIV </h2>
                                         <p>
@@ -4649,7 +4649,7 @@ he will say of Jerusalem, “Let it be rebuilt,”
                                                           </p>
                                     </div>
 
-                                     <div className={styles.card}>
+                                     <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XLV </h2>
                                         <p>
@@ -4791,7 +4791,7 @@ All who have raged against him
                                                   </p>
                                     </div>
 
-                                     <div className={styles.card}>
+                                     <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XLVI </h2>
                                         <p>
@@ -4848,7 +4848,7 @@ I will grant salvation to Zion,
                                                 </p>
                                     </div>
 
-                                   <div className={styles.card}>
+                                   <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XLVII</h2>
                                         <p>
@@ -4934,7 +4934,7 @@ All of them go on in their error;
                                                   </p>
                                     </div>
 
-                                   <div className={styles.card}>
+                                   <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>The Revelation Chpt XLVIII </h2>
                                         <p>
@@ -5039,7 +5039,7 @@ he split the rock
                                           </p>
                                     </div>
 
-                                     <div className={styles.card}>
+                                     <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt XLIX </h2>
                                         <p>
@@ -5178,7 +5178,7 @@ Then all mankind will know
                                     </div>
 
 
-                <div className={styles.card}>
+                <div className={styles.card2}>
            <h2 className={styles.chapter2}>Isaiah Chpt L</h2>
             <p>
 Israel’s Sin and the Servant’s Obedience
@@ -5243,7 +5243,7 @@ This is what you shall receive from my hand:
   </div>
 
           <div
-            className={styles.card}
+            className={styles.card2}
           >
            <h2 className={styles.chapter2}>Isaiah Chpt LI</h2>
             <p>
@@ -5364,7 +5364,7 @@ And you made your back like the ground,
           </p>
 </div>
 
-                                      <div className={styles.card}>
+                                      <div className={styles.card2}>
 
                                       <h2 className={styles.chapter2}>Isaiah Chpt LII</h2>
                                       <p>
@@ -5445,7 +5445,7 @@ For what they were not told, they will see,
                                         </p>
                                       </div>
   
-                                        <div className={styles.card}>
+                                        <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt LIII</h2>
                                         <p>
@@ -5504,7 +5504,7 @@ For he bore the sin of many,
                                         </p>
                                         </div>
 
-                              <div className={styles.card}>
+                              <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt LIV</h2>
                                         <p>
@@ -5584,7 +5584,7 @@ declares the Lord.
                                 
                                        </p>
                                                                            </div>
-                                    <div className={styles.card}>
+                                    <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt LV </h2>
                                         <p>
@@ -5652,7 +5652,7 @@ This will be for the Lord’s renown,
 
 
 
-                                <div className={styles.card}>
+                                <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt LVI</h2>
                                         <p>
@@ -5720,7 +5720,7 @@ And tomorrow will be like today,
     or even far better.”                                          
                                         </p>
                                   </div>
-                                  <div className={styles.card}>
+                                  <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt LVII </h2>
                                         <p>
@@ -5813,7 +5813,7 @@ Peace, peace, to those far and near,”
                                           </p>
                                   </div>
 
-                                   <div className={styles.card}>
+                                   <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt LVIII </h2>
                                         <p>
@@ -5893,7 +5893,7 @@ For the mouth of the Lord has spoken.
                                         </p>
                                     </div>
 
-                                     <div className={styles.card}>
+                                     <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt LIX </h2>
                                         <p>
@@ -5985,7 +5985,7 @@ declares the Lord.
                                         </p>
                                     </div>
 
-                                     <div className={styles.card}>
+                                     <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt LX </h2>
                                         <p>
@@ -6086,7 +6086,7 @@ I am the Lord;
                                          </p>
                                     </div>
 
-                                   <div className={styles.card}>
+                                   <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt LXI </h2>
                                         <p>
@@ -6152,7 +6152,7 @@ so the Sovereign Lord will make righteousness
                                         </p>
                                     </div>
 
-                                   <div className={styles.card}>
+                                   <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt LXII </h2>
                                         <p>
@@ -6216,7 +6216,7 @@ and you will be called Sought After,
                                     </div>
 
 
-                                   <div className={styles.card}>
+                                   <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt LXIII </h2>
                                         <p>
@@ -6309,7 +6309,7 @@ Return for the sake of your servants,
                                                           </p>
                                     </div>
 
-                                     <div className={styles.card}>
+                                     <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt LXIV </h2>
                                         <p>
@@ -6356,7 +6356,7 @@ Oh, look on us, we pray,
                                                   </p>
                                     </div>
 
-                                     <div className={styles.card}>
+                                     <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt LXV</h2>
                                         <p>
@@ -6486,7 +6486,7 @@ says the Lord.
                                                 </p>
                                     </div>
 
-                                   <div className={styles.card}>
+                                   <div className={styles.card2}>
 
                                         <h2 className={styles.chapter2}>Isaiah Chpt LXVI</h2>
                                         <p>
