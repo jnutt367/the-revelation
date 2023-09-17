@@ -2492,7 +2492,7 @@ A Prophecy Against Egypt and Cush
                                     </div>
 
 <div className={styles.card}>
-           <h2 className={styles.chapter}>Isaiah Chpt XXI</h2>
+           <h2 className={styles.chapter2}>Isaiah Chpt XXI</h2>
             <p>
 
 A Prophecy Against Babylon
