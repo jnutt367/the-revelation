@@ -390,6 +390,39 @@
     font-family: monospace;
     box-shadow: lightblue 0px 5px 15px;
 }
+
+.card2 {
+    background-image: url(/isaiah_cards.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-x: center;
+    background-position-y: center;
+    background-origin: content-box;
+    background-size: cover;
+    display: grid;
+    place-items: center;
+    background-repeat: no-repeat;
+    color: transparent;
+    margin: 1.5rem;
+    margin-bottom: 5rem;
+    padding: 0rem;
+    padding-top: -25px;
+    text-align: left;
+    max-height: 400px;
+    max-width: 400px;
+    background-color: black;
+    border-radius: 15px 50px 30px;
+    overflow: hidden;
+    text-decoration: none;
+    border: 3px solid #eaeaea;
+    transition: color 0.15s ease, border-color 0.7s ease;
+    font-family: monospace;
+    box-shadow: lightblue 0px 5px 15px;
+}
+
+
+
+
 .chapter {
     background-color: #880808;
     color: white;
