@@ -288,6 +288,26 @@
     border: 2px dotted whitesmoke;
     border-radius: 50%;
 } 
+
+.nav2 {
+    background-color: #EC514A;
+    color: white;
+    opacity: 1;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: sticky;
+}
+
+.nav2 a:hover {
+    scale: 1.1;
+    background-color: black;
+    opacity: 0.8;
+    border: 2px dotted whitesmoke;
+    border-radius: 50%;
+} 
+
 .button {
     color: white;
     height: 30px;
@@ -303,6 +323,15 @@
 
 .grid {
     background-color: #880808;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.grid2 {
+    background-color: #EC514A;
     color: white;
     display: flex;
     align-items: center;
