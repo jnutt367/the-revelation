@@ -897,7 +897,7 @@ for you created all things,
  
       <div className={styles.grid2}>
           <div className={styles.card}>
-            <h2 className={styles.chapter}>Isaiah Chpt I</h2>
+            <h2 className={styles.chapter2}>Isaiah Chpt I</h2>
             <p>
 
 1 The vision concerning Judah and Jerusalem that Isaiah son of Amoz saw during the reigns of Uzziah, Jotham, Ahaz and Hezekiah, kings of Judah.
@@ -1042,7 +1042,7 @@ both will burn together,
               </div>
 
           <div className={styles.card}>
-           <h2 className={styles.chapter}>Isaiah Chpt II</h2>
+           <h2 className={styles.chapter2}>Isaiah Chpt II</h2>
             <p>
 The Mountain of the Lord
 2 This is what Isaiah son of Amoz saw concerning Judah and Jerusalem:
@@ -1138,7 +1138,7 @@ from the fearful presence of the Lord
           <div
             className={styles.card}
           >
-           <h2 className={styles.chapter}>Isaiah Chpt III</h2>
+           <h2 className={styles.chapter2}>Isaiah Chpt III</h2>
             <p>
 Judgment on Jerusalem and Judah
 3 See now, the Lord,
@@ -1226,7 +1226,7 @@ instead of well-dressed hair, baldness;
 
                                       <div className={styles.card}>
 
-                                      <h2 className={styles.chapter}>Isaiah Chpt IV</h2>
+                                      <h2 className={styles.chapter2}>Isaiah Chpt IV</h2>
                                       <p>
 
                                4 1 In that day seven women
@@ -1242,7 +1242,7 @@ The Branch of the Lord
   
                                         <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt V</h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt V</h2>
                                         <p>
                       The Song of the Vineyard
 5 I will sing for the one I love
@@ -1381,7 +1381,7 @@ And if one looks at the land,
 
                               <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt VI</h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt VI</h2>
                                         <p>
 Isaiah’s Commission
 6 In the year that King Uzziah died, I saw the Lord, high and exalted, seated on a throne; and the train of his robe filled the temple. 2 Above him were seraphim, each with six wings: With two wings they covered their faces, with two they covered their feet, and with two they were flying. 3 And they were calling to one another:
@@ -1436,7 +1436,7 @@ But as the terebinth and oak
 
                                 <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt VII</h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt VII</h2>
                                         <p>
 
                                The Sign of Immanuel
@@ -1469,7 +1469,7 @@ Assyria, the Lord’s Instrument
                                   </div>
                                   <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt VIII </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt VIII </h2>
                                         <p>
                           Isaiah and His Children as Signs
 8 The Lord said to me, “Take a large scroll and write on it with an ordinary pen: Maher-Shalal-Hash-Baz.”[a] 2 So I called in Uriah the priest and Zechariah son of Jeberekiah as reliable witnesses for me. 3 Then I made love to the prophetess, and she conceived and gave birth to a son. And the Lord said to me, “Name him Maher-Shalal-Hash-Baz. 4 For before the boy knows how to say ‘My father’ or ‘My mother,’ the wealth of Damascus and the plunder of Samaria will be carried off by the king of Assyria.”
@@ -1532,7 +1532,7 @@ The Darkness Turns to Light
 
                                    <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt IX </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt IX </h2>
                                         <p>
 9 Nevertheless, there will be no more gloom for those who were in distress. In the past he humbled the land of Zebulun and the land of Naphtali, but in the future he will honor Galilee of the nations, by the Way of the Sea, beyond the Jordan—
 
@@ -1630,7 +1630,7 @@ Yet for all this, his anger is not turned away,
 
                                      <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt X</h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt X</h2>
                                         <p>
                                              
 10 Woe to those who make unjust laws,
@@ -1763,7 +1763,7 @@ The lofty trees will be felled,
 
                                      <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XI</h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XI</h2>
                                         <p>
 
 The Branch From Jesse
@@ -1827,7 +1827,7 @@ as there was for Israel
 
                                    <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XII </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XII </h2>
                                         <p>
                                              
 Songs of Praise
@@ -1858,7 +1858,7 @@ The Lord, the Lord himself, is my strength and my defense[a];
 
                                    <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XIII </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XIII </h2>
                                         <p>
                                                                                 
                                             A Prophecy Against Babylon
@@ -1948,7 +1948,7 @@ Her time is at hand,
 
                                    <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XIV </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XIV </h2>
                                         <p>
 
 14 The Lord will have compassion on Jacob;
@@ -2086,7 +2086,7 @@ A cloud of smoke comes from the north,
 
                                      <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XV </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XV </h2>
                                         <p>
 14 The Lord will have compassion on Jacob;
     once again he will choose Israel
@@ -2223,7 +2223,7 @@ A cloud of smoke comes from the north,
 
                                      <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XVI </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XVI </h2>
                                         <p>
 
 16 Send lambs as tribute
@@ -2294,7 +2294,7 @@ when she goes to her shrine to pray,
 
                                    <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XVII </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XVII </h2>
                                         <p>
 A Prophecy Against Damascus
 17 A prophecy against Damascus:
@@ -2358,7 +2358,7 @@ This is the portion of those who loot us,
 
                                    <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>The Revelation Chpt XVIII </h2>
+                                        <h2 className={styles.chapter2}>The Revelation Chpt XVIII </h2>
                                         <p>
 
                                             A Prophecy Against Cush
@@ -2404,7 +2404,7 @@ the gifts will be brought to Mount Zion, the place of the Name of the Lord Almig
 
                                      <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XIX </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XIX </h2>
                                         <p>
 
 A Prophecy Against Egypt
@@ -2481,7 +2481,7 @@ they make Egypt stagger in all that she does,
 
                                      <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XX              </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XX              </h2>
                                         <p>
 
 A Prophecy Against Egypt and Cush
@@ -2581,7 +2581,7 @@ from the bent bow
           <div
             className={styles.card}
           >
-           <h2 className={styles.chapter}>Isaiah Chpt XXII</h2>
+           <h2 className={styles.chapter2}>Isaiah Chpt XXII</h2>
             <p>
 A Prophecy About Jerusalem
 22 A prophecy against the Valley of Vision:
@@ -2665,7 +2665,7 @@ There you will die
 
                                       <div className={styles.card}>
 
-                                      <h2 className={styles.chapter}>Isaiah Chpt XXIII</h2>
+                                      <h2 className={styles.chapter2}>Isaiah Chpt XXIII</h2>
                                       <p>
 A Prophecy Against Tyre
 23 A prophecy against Tyre:
@@ -2741,7 +2741,7 @@ play the harp well, sing many a song,
   
                                         <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XXIV</h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XXIV</h2>
                                         <p>
                       The Lord’s Devastation of the Earth
 24 See, the Lord is going to lay waste the earth
@@ -2835,7 +2835,7 @@ for the Lord Almighty will reign
 
                               <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XXV</h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XXV</h2>
                                         <p>
 The Lord’s Devastation of the Earth
       
@@ -2929,7 +2929,7 @@ for the Lord Almighty will reign
                                                                            </div>
                                     <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XXVI </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XXVI </h2>
                                         <p>
 
 A Song of Praise
@@ -3020,7 +3020,7 @@ The earth will disclose the blood shed on it;
 
                                 <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XXVII</h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XXVII</h2>
                                         <p>
 
 Deliverance of Israel
@@ -3080,7 +3080,7 @@ For this is a people without understanding;
                                   </div>
                                   <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XXVIII </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XXVIII </h2>
                                         <p>
                            Woe to the Leaders of Ephraim and Judah
 28 Woe to that wreath, the pride of Ephraim’s drunkards,
@@ -3208,7 +3208,7 @@ The wheels of a threshing cart may be rolled over it,
 
                                    <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XXIX </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XXIX </h2>
                                         <p>
 Woe to David’s City
 29 Woe to you, Ariel, Ariel,
@@ -3306,7 +3306,7 @@ they will keep my name holy;
 
                                      <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XXX </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XXX </h2>
                                         <p>
                                              Woe to the Obstinate Nation
 30 “Woe to the obstinate children,”
@@ -3444,7 +3444,7 @@ the breath of the Lord,
 
 
   <div className={styles.card}>
-           <h2 className={styles.chapter}>Isaiah Chpt XXXI</h2>
+           <h2 className={styles.chapter2}>Isaiah Chpt XXXI</h2>
             <p>
 Woe to Those Who Rely on Egypt
 31 Woe to those who go down to Egypt for help,
@@ -3497,7 +3497,7 @@ declares the Lord,
           <div
             className={styles.card}
           >
-           <h2 className={styles.chapter}>Isaiah Chpt XXXII</h2>
+           <h2 className={styles.chapter2}>Isaiah Chpt XXXII</h2>
             <p>
 The Kingdom of Righteousness
 32 See, a king will reign in righteousness
@@ -3569,7 +3569,7 @@ citadel and watchtower will become a wasteland forever,
 
                                       <div className={styles.card}>
 
-                                      <h2 className={styles.chapter}>Isaiah Chpt XXXIII</h2>
+                                      <h2 className={styles.chapter2}>Isaiah Chpt XXXIII</h2>
                                       <p>
 Distress and Help
 33 Woe to you, destroyer,
@@ -3670,7 +3670,7 @@ Then an abundance of spoils will be divided
   
                                         <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XXXIV</h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XXXIV</h2>
                                         <p>
                       Judgment Against the Nations
 34 Come near, you nations, and listen;
@@ -3751,7 +3751,7 @@ They will possess it forever
 
                               <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XXXV</h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XXXV</h2>
                                         <p>
 Joy of the Redeemed
 35 The desert and the parched land will be glad;
@@ -3801,7 +3801,7 @@ Gladness and joy will overtake them,
                                                                            </div>
                                     <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XXXVI </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XXXVI </h2>
                                         <p>
 
 Sennacherib Threatens Jerusalem
@@ -3834,7 +3834,7 @@ Sennacherib Threatens Jerusalem
 
                                 <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XXXVII</h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XXXVII</h2>
                                         <p>
 
 Jerusalem’s Deliverance Foretold
@@ -3932,7 +3932,7 @@ declares the Lord.
                                   </div>
                                   <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XXXVIII </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XXXVIII </h2>
                                         <p>
                            
 Hezekiah’s Illness
@@ -4002,7 +4002,7 @@ all the days of our lives
 
                                    <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XXXIX </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XXXIX </h2>
                                         <p>
                                               Envoys From Babylon
 39 At that time Marduk-Baladan son of Baladan king of Babylon sent Hezekiah letters and a gift, because he had heard of his illness and recovery. 2 Hezekiah received the envoys gladly and showed them what was in his storehouses—the silver, the gold, the spices, the fine olive oil—his entire armory and everything found among his treasures. There was nothing in his palace or in all his kingdom that Hezekiah did not show them.
@@ -4023,7 +4023,7 @@ all the days of our lives
 
                                      <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XL </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XL </h2>
                                         <p>
                                              Comfort for God’s People
 40 Comfort, comfort my people,
@@ -4157,7 +4157,7 @@ They will soar on wings like eagles;
 
                                      <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XLI </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XLI </h2>
                                         <p>
 The Helper of Israel
 41 “Be silent before me, you islands!
@@ -4285,7 +4285,7 @@ No one told of this,
 
                                    <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XLII </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XLII </h2>
                                         <p>
                                              The Servant of the Lord
 42 “Here is my servant, whom I uphold,
@@ -4394,7 +4394,7 @@ It enveloped them in flames, yet they did not understand;
 
                                    <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XLIII</h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XLIII</h2>
                                         <p>
 Israel’s Only Savior
 43 But now, this is what the Lord says—
@@ -4512,7 +4512,7 @@ But you have burdened me with your sins
 
                                    <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XLIV </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XLIV </h2>
                                         <p>
 Israel the Chosen
 44 “But now listen, Jacob, my servant,
@@ -4651,7 +4651,7 @@ he will say of Jerusalem, “Let it be rebuilt,”
 
                                      <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XLV </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XLV </h2>
                                         <p>
 45 “This is what the Lord says to his anointed,
     to Cyrus, whose right hand I take hold of
@@ -4793,7 +4793,7 @@ All who have raged against him
 
                                      <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XLVI </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XLVI </h2>
                                         <p>
 Gods of Babylon
 46 Bel bows down, Nebo stoops low;
@@ -4850,7 +4850,7 @@ I will grant salvation to Zion,
 
                                    <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XLVII</h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XLVII</h2>
                                         <p>
 The Fall of Babylon
 47 “Go down, sit in the dust,
@@ -4936,7 +4936,7 @@ All of them go on in their error;
 
                                    <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>The Revelation Chpt XLVIII </h2>
+                                        <h2 className={styles.chapter2}>The Revelation Chpt XLVIII </h2>
                                         <p>
 Stubborn Israel
 48 “Listen to this, you descendants of Jacob,
@@ -5041,7 +5041,7 @@ he split the rock
 
                                      <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt XLIX </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt XLIX </h2>
                                         <p>
 
 The Servant of the Lord
@@ -5179,7 +5179,7 @@ Then all mankind will know
 
 
                 <div className={styles.card}>
-           <h2 className={styles.chapter}>Isaiah Chpt L</h2>
+           <h2 className={styles.chapter2}>Isaiah Chpt L</h2>
             <p>
 Israel’s Sin and the Servant’s Obedience
 50 This is what the Lord says:
@@ -5245,7 +5245,7 @@ This is what you shall receive from my hand:
           <div
             className={styles.card}
           >
-           <h2 className={styles.chapter}>Isaiah Chpt LI</h2>
+           <h2 className={styles.chapter2}>Isaiah Chpt LI</h2>
             <p>
 Everlasting Salvation for Zion
 51 “Listen to me, you who pursue righteousness
@@ -5366,7 +5366,7 @@ And you made your back like the ground,
 
                                       <div className={styles.card}>
 
-                                      <h2 className={styles.chapter}>Isaiah Chpt LII</h2>
+                                      <h2 className={styles.chapter2}>Isaiah Chpt LII</h2>
                                       <p>
 52 Awake, awake, Zion,
     clothe yourself with strength!
@@ -5447,7 +5447,7 @@ For what they were not told, they will see,
   
                                         <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt LIII</h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt LIII</h2>
                                         <p>
                       53 Who has believed our message
     and to whom has the arm of the Lord been revealed?
@@ -5506,7 +5506,7 @@ For he bore the sin of many,
 
                               <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt LIV</h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt LIV</h2>
                                         <p>
 The Future Glory of Zion
 54 “Sing, barren woman,
@@ -5586,7 +5586,7 @@ declares the Lord.
                                                                            </div>
                                     <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt LV </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt LV </h2>
                                         <p>
 
 Invitation to the Thirsty
@@ -5654,7 +5654,7 @@ This will be for the Lord’s renown,
 
                                 <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt LVI</h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt LVI</h2>
                                         <p>
 Salvation for Others
 56 This is what the Lord says:
@@ -5722,7 +5722,7 @@ And tomorrow will be like today,
                                   </div>
                                   <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt LVII </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt LVII </h2>
                                         <p>
                            57 The righteous perish,
     and no one takes it to heart;
@@ -5815,7 +5815,7 @@ Peace, peace, to those far and near,”
 
                                    <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt LVIII </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt LVIII </h2>
                                         <p>
                                               True Fasting
 58 “Shout it aloud, do not hold back.
@@ -5895,7 +5895,7 @@ For the mouth of the Lord has spoken.
 
                                      <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt LIX </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt LIX </h2>
                                         <p>
                                              Sin, Confession and Redemption
 59 Surely the arm of the Lord is not too short to save,
@@ -5987,7 +5987,7 @@ declares the Lord.
 
                                      <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt LX </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt LX </h2>
                                         <p>
 
 The Glory of Zion
@@ -6088,7 +6088,7 @@ I am the Lord;
 
                                    <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt LXI </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt LXI </h2>
                                         <p>
 The Year of the Lord’s Favor
 61 The Spirit of the Sovereign Lord is on me,
@@ -6154,7 +6154,7 @@ so the Sovereign Lord will make righteousness
 
                                    <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt LXII </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt LXII </h2>
                                         <p>
                                                                                 
                                             Zion’s New Name
@@ -6218,7 +6218,7 @@ and you will be called Sought After,
 
                                    <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt LXIII </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt LXIII </h2>
                                         <p>
 God’s Day of Vengeance and Redemption
 63 Who is this coming from Edom,
@@ -6311,7 +6311,7 @@ Return for the sake of your servants,
 
                                      <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt LXIV </h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt LXIV </h2>
                                         <p>
 64 [a]Oh, that you would rend the heavens and come down,
     that the mountains would tremble before you!
@@ -6358,7 +6358,7 @@ Oh, look on us, we pray,
 
                                      <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt LXV</h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt LXV</h2>
                                         <p>
 Judgment and Salvation
 65 “I revealed myself to those who did not ask for me;
@@ -6488,7 +6488,7 @@ says the Lord.
 
                                    <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Isaiah Chpt LXVI</h2>
+                                        <h2 className={styles.chapter2}>Isaiah Chpt LXVI</h2>
                                         <p>
 Judgment and Hope
 66 This is what the Lord says:
