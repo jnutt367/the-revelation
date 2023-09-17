@@ -857,7 +857,7 @@ for you created all things,
 <p className={styles.parables}>
        Isaiah is the first of the Major Prophets and I am coding it out and am currently on Chapter XL (40)                              
 </p>
-                      <div className={styles.nav}>           
+                      <div className={styles.nav2}>           
       <a href="https://galatians.vercel.app/#first_peter">
              <Image 
                                 src="/previous.webp"
@@ -895,7 +895,7 @@ for you created all things,
                      <iframe width="100%" height="315" src="https://www.youtube.com/embed/d0A6Uchb1F8?si=WYMxhQHIqfmQJq-e?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div> 
  
-      <div className={styles.grid}>
+      <div className={styles.grid2}>
           <div className={styles.card}>
             <h2 className={styles.chapter}>Isaiah Chpt I</h2>
             <p>
@@ -4159,6 +4159,124 @@ They will soar on wings like eagles;
 
                                         <h2 className={styles.chapter}>Isaiah Chpt XLI </h2>
                                         <p>
+The Helper of Israel
+41 “Be silent before me, you islands!
+    Let the nations renew their strength!
+Let them come forward and speak;
+    let us meet together at the place of judgment.
+
+2 “Who has stirred up one from the east,
+    calling him in righteousness to his service[a]?
+He hands nations over to him
+    and subdues kings before him.
+He turns them to dust with his sword,
+    to windblown chaff with his bow.
+3 He pursues them and moves on unscathed,
+    by a path his feet have not traveled before.
+4 Who has done this and carried it through,
+    calling forth the generations from the beginning?
+I, the Lord—with the first of them
+    and with the last—I am he.”
+
+5 The islands have seen it and fear;
+    the ends of the earth tremble.
+They approach and come forward;
+6     they help each other
+    and say to their companions, “Be strong!”
+7 The metalworker encourages the goldsmith,
+    and the one who smooths with the hammer
+    spurs on the one who strikes the anvil.
+One says of the welding, “It is good.”
+    The other nails down the idol so it will not topple.
+
+8 “But you, Israel, my servant,
+    Jacob, whom I have chosen,
+    you descendants of Abraham my friend,
+9 I took you from the ends of the earth,
+    from its farthest corners I called you.
+I said, ‘You are my servant’;
+    I have chosen you and have not rejected you.
+10 So do not fear, for I am with you;
+    do not be dismayed, for I am your God.
+I will strengthen you and help you;
+    I will uphold you with my righteous right hand.
+
+11 “All who rage against you
+    will surely be ashamed and disgraced;
+those who oppose you
+    will be as nothing and perish.
+12 Though you search for your enemies,
+    you will not find them.
+Those who wage war against you
+    will be as nothing at all.
+13 For I am the Lord your God
+    who takes hold of your right hand
+and says to you, Do not fear;
+    I will help you.
+14 Do not be afraid, you worm Jacob,
+    little Israel, do not fear,
+for I myself will help you,” declares the Lord,
+    your Redeemer, the Holy One of Israel.
+15 “See, I will make you into a threshing sledge,
+    new and sharp, with many teeth.
+You will thresh the mountains and crush them,
+    and reduce the hills to chaff.
+16 You will winnow them, the wind will pick them up,
+    and a gale will blow them away.
+But you will rejoice in the Lord
+    and glory in the Holy One of Israel.
+
+17 “The poor and needy search for water,
+    but there is none;
+    their tongues are parched with thirst.
+But I the Lord will answer them;
+    I, the God of Israel, will not forsake them.
+18 I will make rivers flow on barren heights,
+    and springs within the valleys.
+I will turn the desert into pools of water,
+    and the parched ground into springs.
+19 I will put in the desert
+    the cedar and the acacia, the myrtle and the olive.
+I will set junipers in the wasteland,
+    the fir and the cypress together,
+20 so that people may see and know,
+    may consider and understand,
+that the hand of the Lord has done this,
+    that the Holy One of Israel has created it.
+
+21 “Present your case,” says the Lord.
+    “Set forth your arguments,” says Jacob’s King.
+22 “Tell us, you idols,
+    what is going to happen.
+Tell us what the former things were,
+    so that we may consider them
+    and know their final outcome.
+Or declare to us the things to come,
+23     tell us what the future holds,
+    so we may know that you are gods.
+Do something, whether good or bad,
+    so that we will be dismayed and filled with fear.
+24 But you are less than nothing
+    and your works are utterly worthless;
+    whoever chooses you is detestable.
+
+25 “I have stirred up one from the north, and he comes—
+    one from the rising sun who calls on my name.
+He treads on rulers as if they were mortar,
+    as if he were a potter treading the clay.
+26 Who told of this from the beginning, so we could know,
+    or beforehand, so we could say, ‘He was right’?
+No one told of this,
+    no one foretold it,
+    no one heard any words from you.
+27 I was the first to tell Zion, ‘Look, here they are!’
+    I gave to Jerusalem a messenger of good news.
+28 I look but there is no one—
+    no one among the gods to give counsel,
+    no one to give answer when I ask them.
+29 See, they are all false!
+    Their deeds amount to nothing;
+    their images are but wind and confusion.
 
 
                                                       
@@ -4169,8 +4287,108 @@ They will soar on wings like eagles;
 
                                         <h2 className={styles.chapter}>Isaiah Chpt XLII </h2>
                                         <p>
-                                             
-                                                    
+                                             The Servant of the Lord
+42 “Here is my servant, whom I uphold,
+    my chosen one in whom I delight;
+I will put my Spirit on him,
+    and he will bring justice to the nations.
+2 He will not shout or cry out,
+    or raise his voice in the streets.
+3 A bruised reed he will not break,
+    and a smoldering wick he will not snuff out.
+In faithfulness he will bring forth justice;
+4     he will not falter or be discouraged
+till he establishes justice on earth.
+    In his teaching the islands will put their hope.”
+
+5 This is what God the Lord says—
+the Creator of the heavens, who stretches them out,
+    who spreads out the earth with all that springs from it,
+    who gives breath to its people,
+    and life to those who walk on it:
+6 “I, the Lord, have called you in righteousness;
+    I will take hold of your hand.
+I will keep you and will make you
+    to be a covenant for the people
+    and a light for the Gentiles,
+7 to open eyes that are blind,
+    to free captives from prison
+    and to release from the dungeon those who sit in darkness.
+
+8 “I am the Lord; that is my name!
+    I will not yield my glory to another
+    or my praise to idols.
+9 See, the former things have taken place,
+    and new things I declare;
+before they spring into being
+    I announce them to you.”
+
+Song of Praise to the Lord
+10 Sing to the Lord a new song,
+    his praise from the ends of the earth,
+you who go down to the sea, and all that is in it,
+    you islands, and all who live in them.
+11 Let the wilderness and its towns raise their voices;
+    let the settlements where Kedar lives rejoice.
+Let the people of Sela sing for joy;
+    let them shout from the mountaintops.
+12 Let them give glory to the Lord
+    and proclaim his praise in the islands.
+13 The Lord will march out like a champion,
+    like a warrior he will stir up his zeal;
+with a shout he will raise the battle cry
+    and will triumph over his enemies.
+
+14 “For a long time I have kept silent,
+    I have been quiet and held myself back.
+But now, like a woman in childbirth,
+    I cry out, I gasp and pant.
+15 I will lay waste the mountains and hills
+    and dry up all their vegetation;
+I will turn rivers into islands
+    and dry up the pools.
+16 I will lead the blind by ways they have not known,
+    along unfamiliar paths I will guide them;
+I will turn the darkness into light before them
+    and make the rough places smooth.
+These are the things I will do;
+    I will not forsake them.
+17 But those who trust in idols,
+    who say to images, ‘You are our gods,’
+    will be turned back in utter shame.
+
+Israel Blind and Deaf
+18 “Hear, you deaf;
+    look, you blind, and see!
+19 Who is blind but my servant,
+    and deaf like the messenger I send?
+Who is blind like the one in covenant with me,
+    blind like the servant of the Lord?
+20 You have seen many things, but you pay no attention;
+    your ears are open, but you do not listen.”
+21 It pleased the Lord
+    for the sake of his righteousness
+    to make his law great and glorious.
+22 But this is a people plundered and looted,
+    all of them trapped in pits
+    or hidden away in prisons.
+They have become plunder,
+    with no one to rescue them;
+they have been made loot,
+    with no one to say, “Send them back.”
+
+23 Which of you will listen to this
+    or pay close attention in time to come?
+24 Who handed Jacob over to become loot,
+    and Israel to the plunderers?
+Was it not the Lord,
+    against whom we have sinned?
+For they would not follow his ways;
+    they did not obey his law.
+25 So he poured out on them his burning anger,
+    the violence of war.
+It enveloped them in flames, yet they did not understand;
+    it consumed them, but they did not take it to heart.                                                    
                                         </p>
                                     </div>
 
@@ -4178,7 +4396,115 @@ They will soar on wings like eagles;
 
                                         <h2 className={styles.chapter}>Isaiah Chpt XLIII</h2>
                                         <p>
-                                                                                
+Israel’s Only Savior
+43 But now, this is what the Lord says—
+    he who created you, Jacob,
+    he who formed you, Israel:
+“Do not fear, for I have redeemed you;
+    I have summoned you by name; you are mine.
+2 When you pass through the waters,
+    I will be with you;
+and when you pass through the rivers,
+    they will not sweep over you.
+When you walk through the fire,
+    you will not be burned;
+    the flames will not set you ablaze.
+3 For I am the Lord your God,
+    the Holy One of Israel, your Savior;
+I give Egypt for your ransom,
+    Cush[a] and Seba in your stead.
+4 Since you are precious and honored in my sight,
+    and because I love you,
+I will give people in exchange for you,
+    nations in exchange for your life.
+5 Do not be afraid, for I am with you;
+    I will bring your children from the east
+    and gather you from the west.
+6 I will say to the north, ‘Give them up!’
+    and to the south, ‘Do not hold them back.’
+Bring my sons from afar
+    and my daughters from the ends of the earth—
+7 everyone who is called by my name,
+    whom I created for my glory,
+    whom I formed and made.”
+
+8 Lead out those who have eyes but are blind,
+    who have ears but are deaf.
+9 All the nations gather together
+    and the peoples assemble.
+Which of their gods foretold this
+    and proclaimed to us the former things?
+Let them bring in their witnesses to prove they were right,
+    so that others may hear and say, “It is true.”
+10 “You are my witnesses,” declares the Lord,
+    “and my servant whom I have chosen,
+so that you may know and believe me
+    and understand that I am he.
+Before me no god was formed,
+    nor will there be one after me.
+11 I, even I, am the Lord,
+    and apart from me there is no savior.
+12 I have revealed and saved and proclaimed—
+    I, and not some foreign god among you.
+You are my witnesses,” declares the Lord, “that I am God.
+13     Yes, and from ancient days I am he.
+No one can deliver out of my hand.
+    When I act, who can reverse it?”
+
+God’s Mercy and Israel’s Unfaithfulness
+14 This is what the Lord says—
+    your Redeemer, the Holy One of Israel:
+“For your sake I will send to Babylon
+    and bring down as fugitives all the Babylonians,[b]
+    in the ships in which they took pride.
+15 I am the Lord, your Holy One,
+    Israel’s Creator, your King.”
+
+16 This is what the Lord says—
+    he who made a way through the sea,
+    a path through the mighty waters,
+17 who drew out the chariots and horses,
+    the army and reinforcements together,
+and they lay there, never to rise again,
+    extinguished, snuffed out like a wick:
+18 “Forget the former things;
+    do not dwell on the past.
+19 See, I am doing a new thing!
+    Now it springs up; do you not perceive it?
+I am making a way in the wilderness
+    and streams in the wasteland.
+20 The wild animals honor me,
+    the jackals and the owls,
+because I provide water in the wilderness
+    and streams in the wasteland,
+to give drink to my people, my chosen,
+21     the people I formed for myself
+    that they may proclaim my praise.
+
+22 “Yet you have not called on me, Jacob,
+    you have not wearied yourselves for[c] me, Israel.
+23 You have not brought me sheep for burnt offerings,
+    nor honored me with your sacrifices.
+I have not burdened you with grain offerings
+    nor wearied you with demands for incense.
+24 You have not bought any fragrant calamus for me,
+    or lavished on me the fat of your sacrifices.
+But you have burdened me with your sins
+    and wearied me with your offenses.
+
+25 “I, even I, am he who blots out
+    your transgressions, for my own sake,
+    and remembers your sins no more.
+26 Review the past for me,
+    let us argue the matter together;
+    state the case for your innocence.
+27 Your first father sinned;
+    those I sent to teach you rebelled against me.
+28 So I disgraced the dignitaries of your temple;
+    I consigned Jacob to destruction[d]
+    and Israel to scorn.
+
+
                                             
                                           </p>
                                     </div>
@@ -4188,7 +4514,138 @@ They will soar on wings like eagles;
 
                                         <h2 className={styles.chapter}>Isaiah Chpt XLIV </h2>
                                         <p>
-                                                                                               
+Israel the Chosen
+44 “But now listen, Jacob, my servant,
+    Israel, whom I have chosen.
+2 This is what the Lord says—
+    he who made you, who formed you in the womb,
+    and who will help you:
+Do not be afraid, Jacob, my servant,
+    Jeshurun,[a] whom I have chosen.
+3 For I will pour water on the thirsty land,
+    and streams on the dry ground;
+I will pour out my Spirit on your offspring,
+    and my blessing on your descendants.
+4 They will spring up like grass in a meadow,
+    like poplar trees by flowing streams.
+5 Some will say, ‘I belong to the Lord’;
+    others will call themselves by the name of Jacob;
+still others will write on their hand, ‘The Lord’s,’
+    and will take the name Israel.
+
+The Lord, Not Idols
+6 “This is what the Lord says—
+    Israel’s King and Redeemer, the Lord Almighty:
+I am the first and I am the last;
+    apart from me there is no God.
+7 Who then is like me? Let him proclaim it.
+    Let him declare and lay out before me
+what has happened since I established my ancient people,
+    and what is yet to come—
+    yes, let them foretell what will come.
+8 Do not tremble, do not be afraid.
+    Did I not proclaim this and foretell it long ago?
+You are my witnesses. Is there any God besides me?
+    No, there is no other Rock; I know not one.”
+
+9 All who make idols are nothing,
+    and the things they treasure are worthless.
+Those who would speak up for them are blind;
+    they are ignorant, to their own shame.
+10 Who shapes a god and casts an idol,
+    which can profit nothing?
+11 People who do that will be put to shame;
+    such craftsmen are only human beings.
+Let them all come together and take their stand;
+    they will be brought down to terror and shame.
+
+12 The blacksmith takes a tool
+    and works with it in the coals;
+he shapes an idol with hammers,
+    he forges it with the might of his arm.
+He gets hungry and loses his strength;
+    he drinks no water and grows faint.
+13 The carpenter measures with a line
+    and makes an outline with a marker;
+he roughs it out with chisels
+    and marks it with compasses.
+He shapes it in human form,
+    human form in all its glory,
+    that it may dwell in a shrine.
+14 He cut down cedars,
+    or perhaps took a cypress or oak.
+He let it grow among the trees of the forest,
+    or planted a pine, and the rain made it grow.
+15 It is used as fuel for burning;
+    some of it he takes and warms himself,
+    he kindles a fire and bakes bread.
+But he also fashions a god and worships it;
+    he makes an idol and bows down to it.
+16 Half of the wood he burns in the fire;
+    over it he prepares his meal,
+    he roasts his meat and eats his fill.
+He also warms himself and says,
+    “Ah! I am warm; I see the fire.”
+17 From the rest he makes a god, his idol;
+    he bows down to it and worships.
+He prays to it and says,
+    “Save me! You are my god!”
+18 They know nothing, they understand nothing;
+    their eyes are plastered over so they cannot see,
+    and their minds closed so they cannot understand.
+19 No one stops to think,
+    no one has the knowledge or understanding to say,
+“Half of it I used for fuel;
+    I even baked bread over its coals,
+    I roasted meat and I ate.
+Shall I make a detestable thing from what is left?
+    Shall I bow down to a block of wood?”
+20 Such a person feeds on ashes; a deluded heart misleads him;
+    he cannot save himself, or say,
+    “Is not this thing in my right hand a lie?”
+
+21 “Remember these things, Jacob,
+    for you, Israel, are my servant.
+I have made you, you are my servant;
+    Israel, I will not forget you.
+22 I have swept away your offenses like a cloud,
+    your sins like the morning mist.
+Return to me,
+    for I have redeemed you.”
+
+23 Sing for joy, you heavens, for the Lord has done this;
+    shout aloud, you earth beneath.
+Burst into song, you mountains,
+    you forests and all your trees,
+for the Lord has redeemed Jacob,
+    he displays his glory in Israel.
+
+Jerusalem to Be Inhabited
+24 “This is what the Lord says—
+    your Redeemer, who formed you in the womb:
+
+I am the Lord,
+    the Maker of all things,
+    who stretches out the heavens,
+    who spreads out the earth by myself,
+25 who foils the signs of false prophets
+    and makes fools of diviners,
+who overthrows the learning of the wise
+    and turns it into nonsense,
+26 who carries out the words of his servants
+    and fulfills the predictions of his messengers,
+
+who says of Jerusalem, ‘It shall be inhabited,’
+    of the towns of Judah, ‘They shall be rebuilt,’
+    and of their ruins, ‘I will restore them,’
+27 who says to the watery deep, ‘Be dry,
+    and I will dry up your streams,’
+28 who says of Cyrus, ‘He is my shepherd
+    and will accomplish all that I please;
+he will say of Jerusalem, “Let it be rebuilt,”
+    and of the temple, “Let its foundations be laid.”’
+
+
                                                           </p>
                                     </div>
 
@@ -4196,6 +4653,139 @@ They will soar on wings like eagles;
 
                                         <h2 className={styles.chapter}>Isaiah Chpt XLV </h2>
                                         <p>
+45 “This is what the Lord says to his anointed,
+    to Cyrus, whose right hand I take hold of
+to subdue nations before him
+    and to strip kings of their armor,
+to open doors before him
+    so that gates will not be shut:
+2 I will go before you
+    and will level the mountains[a];
+I will break down gates of bronze
+    and cut through bars of iron.
+3 I will give you hidden treasures,
+    riches stored in secret places,
+so that you may know that I am the Lord,
+    the God of Israel, who summons you by name.
+4 For the sake of Jacob my servant,
+    of Israel my chosen,
+I summon you by name
+    and bestow on you a title of honor,
+    though you do not acknowledge me.
+5 I am the Lord, and there is no other;
+    apart from me there is no God.
+I will strengthen you,
+    though you have not acknowledged me,
+6 so that from the rising of the sun
+    to the place of its setting
+people may know there is none besides me.
+    I am the Lord, and there is no other.
+7 I form the light and create darkness,
+    I bring prosperity and create disaster;
+    I, the Lord, do all these things.
+
+8 “You heavens above, rain down my righteousness;
+    let the clouds shower it down.
+Let the earth open wide,
+    let salvation spring up,
+let righteousness flourish with it;
+    I, the Lord, have created it.
+
+9 “Woe to those who quarrel with their Maker,
+    those who are nothing but potsherds
+    among the potsherds on the ground.
+Does the clay say to the potter,
+    ‘What are you making?’
+Does your work say,
+    ‘The potter has no hands’?
+10 Woe to the one who says to a father,
+    ‘What have you begotten?’
+or to a mother,
+    ‘What have you brought to birth?’
+
+11 “This is what the Lord says—
+    the Holy One of Israel, and its Maker:
+Concerning things to come,
+    do you question me about my children,
+    or give me orders about the work of my hands?
+12 It is I who made the earth
+    and created mankind on it.
+My own hands stretched out the heavens;
+    I marshaled their starry hosts.
+13 I will raise up Cyrus[b] in my righteousness:
+    I will make all his ways straight.
+He will rebuild my city
+    and set my exiles free,
+but not for a price or reward,
+    says the Lord Almighty.”
+
+14 This is what the Lord says:
+
+“The products of Egypt and the merchandise of Cush,[c]
+    and those tall Sabeans—
+they will come over to you
+    and will be yours;
+they will trudge behind you,
+    coming over to you in chains.
+They will bow down before you
+    and plead with you, saying,
+‘Surely God is with you, and there is no other;
+    there is no other god.’”
+
+15 Truly you are a God who has been hiding himself,
+    the God and Savior of Israel.
+16 All the makers of idols will be put to shame and disgraced;
+    they will go off into disgrace together.
+17 But Israel will be saved by the Lord
+    with an everlasting salvation;
+you will never be put to shame or disgraced,
+    to ages everlasting.
+
+18 For this is what the Lord says—
+he who created the heavens,
+    he is God;
+he who fashioned and made the earth,
+    he founded it;
+he did not create it to be empty,
+    but formed it to be inhabited—
+he says:
+“I am the Lord,
+    and there is no other.
+19 I have not spoken in secret,
+    from somewhere in a land of darkness;
+I have not said to Jacob’s descendants,
+    ‘Seek me in vain.’
+I, the Lord, speak the truth;
+    I declare what is right.
+
+20 “Gather together and come;
+    assemble, you fugitives from the nations.
+Ignorant are those who carry about idols of wood,
+    who pray to gods that cannot save.
+21 Declare what is to be, present it—
+    let them take counsel together.
+Who foretold this long ago,
+    who declared it from the distant past?
+Was it not I, the Lord?
+    And there is no God apart from me,
+a righteous God and a Savior;
+    there is none but me.
+
+22 “Turn to me and be saved,
+    all you ends of the earth;
+    for I am God, and there is no other.
+23 By myself I have sworn,
+    my mouth has uttered in all integrity
+    a word that will not be revoked:
+Before me every knee will bow;
+    by me every tongue will swear.
+24 They will say of me, ‘In the Lord alone
+    are deliverance and strength.’”
+All who have raged against him
+    will come to him and be put to shame.
+25 But all the descendants of Israel
+    will find deliverance in the Lord
+    and will make their boast in him.
 
                                             
                                                   </p>
@@ -4205,8 +4795,56 @@ They will soar on wings like eagles;
 
                                         <h2 className={styles.chapter}>Isaiah Chpt XLVI </h2>
                                         <p>
+Gods of Babylon
+46 Bel bows down, Nebo stoops low;
+    their idols are borne by beasts of burden.[a]
+The images that are carried about are burdensome,
+    a burden for the weary.
+2 They stoop and bow down together;
+    unable to rescue the burden,
+    they themselves go off into captivity.
 
-                                            
+3 “Listen to me, you descendants of Jacob,
+    all the remnant of the people of Israel,
+you whom I have upheld since your birth,
+    and have carried since you were born.
+4 Even to your old age and gray hairs
+    I am he, I am he who will sustain you.
+I have made you and I will carry you;
+    I will sustain you and I will rescue you.
+
+5 “With whom will you compare me or count me equal?
+    To whom will you liken me that we may be compared?
+6 Some pour out gold from their bags
+    and weigh out silver on the scales;
+they hire a goldsmith to make it into a god,
+    and they bow down and worship it.
+7 They lift it to their shoulders and carry it;
+    they set it up in its place, and there it stands.
+    From that spot it cannot move.
+Even though someone cries out to it, it cannot answer;
+    it cannot save them from their troubles.
+
+8 “Remember this, keep it in mind,
+    take it to heart, you rebels.
+9 Remember the former things, those of long ago;
+    I am God, and there is no other;
+    I am God, and there is none like me.
+10 I make known the end from the beginning,
+    from ancient times, what is still to come.
+I say, ‘My purpose will stand,
+    and I will do all that I please.’
+11 From the east I summon a bird of prey;
+    from a far-off land, a man to fulfill my purpose.
+What I have said, that I will bring about;
+    what I have planned, that I will do.
+12 Listen to me, you stubborn-hearted,
+    you who are now far from my righteousness.
+13 I am bringing my righteousness near,
+    it is not far away;
+    and my salvation will not be delayed.
+I will grant salvation to Zion,
+    my splendor to Israel.                                            
                                                 </p>
                                     </div>
 
@@ -4214,7 +4852,84 @@ They will soar on wings like eagles;
 
                                         <h2 className={styles.chapter}>Isaiah Chpt XLVII</h2>
                                         <p>
-                                                                                         
+The Fall of Babylon
+47 “Go down, sit in the dust,
+    Virgin Daughter Babylon;
+sit on the ground without a throne,
+    queen city of the Babylonians.[a]
+No more will you be called
+    tender or delicate.
+2 Take millstones and grind flour;
+    take off your veil.
+Lift up your skirts, bare your legs,
+    and wade through the streams.
+3 Your nakedness will be exposed
+    and your shame uncovered.
+I will take vengeance;
+    I will spare no one.”
+
+4 Our Redeemer—the Lord Almighty is his name—
+    is the Holy One of Israel.
+
+5 “Sit in silence, go into darkness,
+    queen city of the Babylonians;
+no more will you be called
+    queen of kingdoms.
+6 I was angry with my people
+    and desecrated my inheritance;
+I gave them into your hand,
+    and you showed them no mercy.
+Even on the aged
+    you laid a very heavy yoke.
+7 You said, ‘I am forever—
+    the eternal queen!’
+But you did not consider these things
+    or reflect on what might happen.
+
+8 “Now then, listen, you lover of pleasure,
+    lounging in your security
+and saying to yourself,
+    ‘I am, and there is none besides me.
+I will never be a widow
+    or suffer the loss of children.’
+9 Both of these will overtake you
+    in a moment, on a single day:
+    loss of children and widowhood.
+They will come upon you in full measure,
+    in spite of your many sorceries
+    and all your potent spells.
+10 You have trusted in your wickedness
+    and have said, ‘No one sees me.’
+Your wisdom and knowledge mislead you
+    when you say to yourself,
+    ‘I am, and there is none besides me.’
+11 Disaster will come upon you,
+    and you will not know how to conjure it away.
+A calamity will fall upon you
+    that you cannot ward off with a ransom;
+a catastrophe you cannot foresee
+    will suddenly come upon you.
+
+12 “Keep on, then, with your magic spells
+    and with your many sorceries,
+    which you have labored at since childhood.
+Perhaps you will succeed,
+    perhaps you will cause terror.
+13 All the counsel you have received has only worn you out!
+    Let your astrologers come forward,
+those stargazers who make predictions month by month,
+    let them save you from what is coming upon you.
+14 Surely they are like stubble;
+    the fire will burn them up.
+They cannot even save themselves
+    from the power of the flame.
+These are not coals for warmth;
+    this is not a fire to sit by.
+15 That is all they are to you—
+    these you have dealt with
+    and labored with since childhood.
+All of them go on in their error;
+    there is not one that can save you.
 
                                                   </p>
                                     </div>
@@ -4223,8 +4938,104 @@ They will soar on wings like eagles;
 
                                         <h2 className={styles.chapter}>The Revelation Chpt XLVIII </h2>
                                         <p>
+Stubborn Israel
+48 “Listen to this, you descendants of Jacob,
+    you who are called by the name of Israel
+    and come from the line of Judah,
+you who take oaths in the name of the Lord
+    and invoke the God of Israel—
+    but not in truth or righteousness—
+2 you who call yourselves citizens of the holy city
+    and claim to rely on the God of Israel—
+    the Lord Almighty is his name:
+3 I foretold the former things long ago,
+    my mouth announced them and I made them known;
+    then suddenly I acted, and they came to pass.
+4 For I knew how stubborn you were;
+    your neck muscles were iron,
+    your forehead was bronze.
+5 Therefore I told you these things long ago;
+    before they happened I announced them to you
+so that you could not say,
+    ‘My images brought them about;
+    my wooden image and metal god ordained them.’
+6 You have heard these things; look at them all.
+    Will you not admit them?
 
-                                            
+“From now on I will tell you of new things,
+    of hidden things unknown to you.
+7 They are created now, and not long ago;
+    you have not heard of them before today.
+So you cannot say,
+    ‘Yes, I knew of them.’
+8 You have neither heard nor understood;
+    from of old your ears have not been open.
+Well do I know how treacherous you are;
+    you were called a rebel from birth.
+9 For my own name’s sake I delay my wrath;
+    for the sake of my praise I hold it back from you,
+    so as not to destroy you completely.
+10 See, I have refined you, though not as silver;
+    I have tested you in the furnace of affliction.
+11 For my own sake, for my own sake, I do this.
+    How can I let myself be defamed?
+    I will not yield my glory to another.
+
+Israel Freed
+12 “Listen to me, Jacob,
+    Israel, whom I have called:
+I am he;
+    I am the first and I am the last.
+13 My own hand laid the foundations of the earth,
+    and my right hand spread out the heavens;
+when I summon them,
+    they all stand up together.
+
+14 “Come together, all of you, and listen:
+    Which of the idols has foretold these things?
+The Lord’s chosen ally
+    will carry out his purpose against Babylon;
+    his arm will be against the Babylonians.[a]
+15 I, even I, have spoken;
+    yes, I have called him.
+I will bring him,
+    and he will succeed in his mission.
+
+16 “Come near me and listen to this:
+
+“From the first announcement I have not spoken in secret;
+    at the time it happens, I am there.”
+
+And now the Sovereign Lord has sent me,
+    endowed with his Spirit.
+
+17 This is what the Lord says—
+    your Redeemer, the Holy One of Israel:
+“I am the Lord your God,
+    who teaches you what is best for you,
+    who directs you in the way you should go.
+18 If only you had paid attention to my commands,
+    your peace would have been like a river,
+    your well-being like the waves of the sea.
+19 Your descendants would have been like the sand,
+    your children like its numberless grains;
+their name would never be blotted out
+    nor destroyed from before me.”
+
+20 Leave Babylon,
+    flee from the Babylonians!
+Announce this with shouts of joy
+    and proclaim it.
+Send it out to the ends of the earth;
+    say, “The Lord has redeemed his servant Jacob.”
+21 They did not thirst when he led them through the deserts;
+    he made water flow for them from the rock;
+he split the rock
+    and water gushed out.
+
+22 “There is no peace,” says the Lord, “for the wicked.”
+
+                                          
                                           </p>
                                     </div>
 
@@ -4233,6 +5044,134 @@ They will soar on wings like eagles;
                                         <h2 className={styles.chapter}>Isaiah Chpt XLIX </h2>
                                         <p>
 
+The Servant of the Lord
+49 Listen to me, you islands;
+    hear this, you distant nations:
+Before I was born the Lord called me;
+    from my mother’s womb he has spoken my name.
+2 He made my mouth like a sharpened sword,
+    in the shadow of his hand he hid me;
+he made me into a polished arrow
+    and concealed me in his quiver.
+3 He said to me, “You are my servant,
+    Israel, in whom I will display my splendor.”
+4 But I said, “I have labored in vain;
+    I have spent my strength for nothing at all.
+Yet what is due me is in the Lord’s hand,
+    and my reward is with my God.”
+
+5 And now the Lord says—
+    he who formed me in the womb to be his servant
+to bring Jacob back to him
+    and gather Israel to himself,
+for I am[a] honored in the eyes of the Lord
+    and my God has been my strength—
+6 he says:
+“It is too small a thing for you to be my servant
+    to restore the tribes of Jacob
+    and bring back those of Israel I have kept.
+I will also make you a light for the Gentiles,
+    that my salvation may reach to the ends of the earth.”
+
+7 This is what the Lord says—
+    the Redeemer and Holy One of Israel—
+to him who was despised and abhorred by the nation,
+    to the servant of rulers:
+“Kings will see you and stand up,
+    princes will see and bow down,
+because of the Lord, who is faithful,
+    the Holy One of Israel, who has chosen you.”
+
+Restoration of Israel
+8 This is what the Lord says:
+
+“In the time of my favor I will answer you,
+    and in the day of salvation I will help you;
+I will keep you and will make you
+    to be a covenant for the people,
+to restore the land
+    and to reassign its desolate inheritances,
+9 to say to the captives, ‘Come out,’
+    and to those in darkness, ‘Be free!’
+
+“They will feed beside the roads
+    and find pasture on every barren hill.
+10 They will neither hunger nor thirst,
+    nor will the desert heat or the sun beat down on them.
+He who has compassion on them will guide them
+    and lead them beside springs of water.
+11 I will turn all my mountains into roads,
+    and my highways will be raised up.
+12 See, they will come from afar—
+    some from the north, some from the west,
+    some from the region of Aswan.[b]”
+
+13 Shout for joy, you heavens;
+    rejoice, you earth;
+    burst into song, you mountains!
+For the Lord comforts his people
+    and will have compassion on his afflicted ones.
+
+14 But Zion said, “The Lord has forsaken me,
+    the Lord has forgotten me.”
+
+15 “Can a mother forget the baby at her breast
+    and have no compassion on the child she has borne?
+Though she may forget,
+    I will not forget you!
+16 See, I have engraved you on the palms of my hands;
+    your walls are ever before me.
+17 Your children hasten back,
+    and those who laid you waste depart from you.
+18 Lift up your eyes and look around;
+    all your children gather and come to you.
+As surely as I live,” declares the Lord,
+    “you will wear them all as ornaments;
+    you will put them on, like a bride.
+
+19 “Though you were ruined and made desolate
+    and your land laid waste,
+now you will be too small for your people,
+    and those who devoured you will be far away.
+20 The children born during your bereavement
+    will yet say in your hearing,
+‘This place is too small for us;
+    give us more space to live in.’
+21 Then you will say in your heart,
+    ‘Who bore me these?
+I was bereaved and barren;
+    I was exiled and rejected.
+    Who brought these up?
+I was left all alone,
+    but these—where have they come from?’”
+
+22 This is what the Sovereign Lord says:
+
+“See, I will beckon to the nations,
+    I will lift up my banner to the peoples;
+they will bring your sons in their arms
+    and carry your daughters on their hips.
+23 Kings will be your foster fathers,
+    and their queens your nursing mothers.
+They will bow down before you with their faces to the ground;
+    they will lick the dust at your feet.
+Then you will know that I am the Lord;
+    those who hope in me will not be disappointed.”
+
+24 Can plunder be taken from warriors,
+    or captives be rescued from the fierce[c]?
+
+25 But this is what the Lord says:
+
+“Yes, captives will be taken from warriors,
+    and plunder retrieved from the fierce;
+I will contend with those who contend with you,
+    and your children I will save.
+26 I will make your oppressors eat their own flesh;
+    they will be drunk on their own blood, as with wine.
+Then all mankind will know
+    that I, the Lord, am your Savior,
+    your Redeemer, the Mighty One of Jacob.”
 
                                             
                                              </p>
@@ -4242,8 +5181,63 @@ They will soar on wings like eagles;
                 <div className={styles.card}>
            <h2 className={styles.chapter}>Isaiah Chpt L</h2>
             <p>
+Israel’s Sin and the Servant’s Obedience
+50 This is what the Lord says:
 
-  
+“Where is your mother’s certificate of divorce
+    with which I sent her away?
+Or to which of my creditors
+    did I sell you?
+Because of your sins you were sold;
+    because of your transgressions your mother was sent away.
+2 When I came, why was there no one?
+    When I called, why was there no one to answer?
+Was my arm too short to deliver you?
+    Do I lack the strength to rescue you?
+By a mere rebuke I dry up the sea,
+    I turn rivers into a desert;
+their fish rot for lack of water
+    and die of thirst.
+3 I clothe the heavens with darkness
+    and make sackcloth its covering.”
+
+4 The Sovereign Lord has given me a well-instructed tongue,
+    to know the word that sustains the weary.
+He wakens me morning by morning,
+    wakens my ear to listen like one being instructed.
+5 The Sovereign Lord has opened my ears;
+    I have not been rebellious,
+    I have not turned away.
+6 I offered my back to those who beat me,
+    my cheeks to those who pulled out my beard;
+I did not hide my face
+    from mocking and spitting.
+7 Because the Sovereign Lord helps me,
+    I will not be disgraced.
+Therefore have I set my face like flint,
+    and I know I will not be put to shame.
+8 He who vindicates me is near.
+    Who then will bring charges against me?
+    Let us face each other!
+Who is my accuser?
+    Let him confront me!
+9 It is the Sovereign Lord who helps me.
+    Who will condemn me?
+They will all wear out like a garment;
+    the moths will eat them up.
+
+10 Who among you fears the Lord
+    and obeys the word of his servant?
+Let the one who walks in the dark,
+    who has no light,
+trust in the name of the Lord
+    and rely on their God.
+11 But now, all you who light fires
+    and provide yourselves with flaming torches,
+go, walk in the light of your fires
+    and of the torches you have set ablaze.
+This is what you shall receive from my hand:
+    You will lie down in torment.  
             </p>
   
   </div>
@@ -4253,8 +5247,120 @@ They will soar on wings like eagles;
           >
            <h2 className={styles.chapter}>Isaiah Chpt LI</h2>
             <p>
+Everlasting Salvation for Zion
+51 “Listen to me, you who pursue righteousness
+    and who seek the Lord:
+Look to the rock from which you were cut
+    and to the quarry from which you were hewn;
+2 look to Abraham, your father,
+    and to Sarah, who gave you birth.
+When I called him he was only one man,
+    and I blessed him and made him many.
+3 The Lord will surely comfort Zion
+    and will look with compassion on all her ruins;
+he will make her deserts like Eden,
+    her wastelands like the garden of the Lord.
+Joy and gladness will be found in her,
+    thanksgiving and the sound of singing.
 
-              
+4 “Listen to me, my people;
+    hear me, my nation:
+Instruction will go out from me;
+    my justice will become a light to the nations.
+5 My righteousness draws near speedily,
+    my salvation is on the way,
+    and my arm will bring justice to the nations.
+The islands will look to me
+    and wait in hope for my arm.
+6 Lift up your eyes to the heavens,
+    look at the earth beneath;
+the heavens will vanish like smoke,
+    the earth will wear out like a garment
+    and its inhabitants die like flies.
+But my salvation will last forever,
+    my righteousness will never fail.
+
+7 “Hear me, you who know what is right,
+    you people who have taken my instruction to heart:
+Do not fear the reproach of mere mortals
+    or be terrified by their insults.
+8 For the moth will eat them up like a garment;
+    the worm will devour them like wool.
+But my righteousness will last forever,
+    my salvation through all generations.”
+
+9 Awake, awake, arm of the Lord,
+    clothe yourself with strength!
+Awake, as in days gone by,
+    as in generations of old.
+Was it not you who cut Rahab to pieces,
+    who pierced that monster through?
+10 Was it not you who dried up the sea,
+    the waters of the great deep,
+who made a road in the depths of the sea
+    so that the redeemed might cross over?
+11 Those the Lord has rescued will return.
+    They will enter Zion with singing;
+    everlasting joy will crown their heads.
+Gladness and joy will overtake them,
+    and sorrow and sighing will flee away.
+
+12 “I, even I, am he who comforts you.
+    Who are you that you fear mere mortals,
+    human beings who are but grass,
+13 that you forget the Lord your Maker,
+    who stretches out the heavens
+    and who lays the foundations of the earth,
+that you live in constant terror every day
+    because of the wrath of the oppressor,
+    who is bent on destruction?
+For where is the wrath of the oppressor?
+14     The cowering prisoners will soon be set free;
+they will not die in their dungeon,
+    nor will they lack bread.
+15 For I am the Lord your God,
+    who stirs up the sea so that its waves roar—
+    the Lord Almighty is his name.
+16 I have put my words in your mouth
+    and covered you with the shadow of my hand—
+I who set the heavens in place,
+    who laid the foundations of the earth,
+    and who say to Zion, ‘You are my people.’”
+
+The Cup of the Lord’s Wrath
+17 Awake, awake!
+    Rise up, Jerusalem,
+you who have drunk from the hand of the Lord
+    the cup of his wrath,
+you who have drained to its dregs
+    the goblet that makes people stagger.
+18 Among all the children she bore
+    there was none to guide her;
+among all the children she reared
+    there was none to take her by the hand.
+19 These double calamities have come upon you—
+    who can comfort you?—
+ruin and destruction, famine and sword—
+    who can[a] console you?
+20 Your children have fainted;
+    they lie at every street corner,
+    like antelope caught in a net.
+They are filled with the wrath of the Lord,
+    with the rebuke of your God.
+
+21 Therefore hear this, you afflicted one,
+    made drunk, but not with wine.
+22 This is what your Sovereign Lord says,
+    your God, who defends his people:
+“See, I have taken out of your hand
+    the cup that made you stagger;
+from that cup, the goblet of my wrath,
+    you will never drink again.
+23 I will put it into the hands of your tormentors,
+    who said to you,
+    ‘Fall prostrate that we may walk on you.’
+And you made your back like the ground,
+    like a street to be walked on.”              
           </p>
 </div>
 
@@ -4262,6 +5368,78 @@ They will soar on wings like eagles;
 
                                       <h2 className={styles.chapter}>Isaiah Chpt LII</h2>
                                       <p>
+52 Awake, awake, Zion,
+    clothe yourself with strength!
+Put on your garments of splendor,
+    Jerusalem, the holy city.
+The uncircumcised and defiled
+    will not enter you again.
+2 Shake off your dust;
+    rise up, sit enthroned, Jerusalem.
+Free yourself from the chains on your neck,
+    Daughter Zion, now a captive.
+
+3 For this is what the Lord says:
+
+“You were sold for nothing,
+    and without money you will be redeemed.”
+
+4 For this is what the Sovereign Lord says:
+
+“At first my people went down to Egypt to live;
+    lately, Assyria has oppressed them.
+
+5 “And now what do I have here?” declares the Lord.
+
+“For my people have been taken away for nothing,
+    and those who rule them mock,[a]”
+declares the Lord.
+“And all day long
+    my name is constantly blasphemed.
+6 Therefore my people will know my name;
+    therefore in that day they will know
+that it is I who foretold it.
+    Yes, it is I.”
+
+7 How beautiful on the mountains
+    are the feet of those who bring good news,
+who proclaim peace,
+    who bring good tidings,
+    who proclaim salvation,
+who say to Zion,
+    “Your God reigns!”
+8 Listen! Your watchmen lift up their voices;
+    together they shout for joy.
+When the Lord returns to Zion,
+    they will see it with their own eyes.
+9 Burst into songs of joy together,
+    you ruins of Jerusalem,
+for the Lord has comforted his people,
+    he has redeemed Jerusalem.
+10 The Lord will lay bare his holy arm
+    in the sight of all the nations,
+and all the ends of the earth will see
+    the salvation of our God.
+
+11 Depart, depart, go out from there!
+    Touch no unclean thing!
+Come out from it and be pure,
+    you who carry the articles of the Lord’s house.
+12 But you will not leave in haste
+    or go in flight;
+for the Lord will go before you,
+    the God of Israel will be your rear guard.
+
+The Suffering and Glory of the Servant
+13 See, my servant will act wisely[b];
+    he will be raised and lifted up and highly exalted.
+14 Just as there were many who were appalled at him[c]—
+    his appearance was so disfigured beyond that of any human being
+    and his form marred beyond human likeness—
+15 so he will sprinkle many nations,[d]
+    and kings will shut their mouths because of him.
+For what they were not told, they will see,
+    and what they have not heard, they will understand.
 
                                
                                         </p>
@@ -4271,8 +5449,58 @@ They will soar on wings like eagles;
 
                                         <h2 className={styles.chapter}>Isaiah Chpt LIII</h2>
                                         <p>
-                      
-                                        
+                      53 Who has believed our message
+    and to whom has the arm of the Lord been revealed?
+2 He grew up before him like a tender shoot,
+    and like a root out of dry ground.
+He had no beauty or majesty to attract us to him,
+    nothing in his appearance that we should desire him.
+3 He was despised and rejected by mankind,
+    a man of suffering, and familiar with pain.
+Like one from whom people hide their faces
+    he was despised, and we held him in low esteem.
+
+4 Surely he took up our pain
+    and bore our suffering,
+yet we considered him punished by God,
+    stricken by him, and afflicted.
+5 But he was pierced for our transgressions,
+    he was crushed for our iniquities;
+the punishment that brought us peace was on him,
+    and by his wounds we are healed.
+6 We all, like sheep, have gone astray,
+    each of us has turned to our own way;
+and the Lord has laid on him
+    the iniquity of us all.
+
+7 He was oppressed and afflicted,
+    yet he did not open his mouth;
+he was led like a lamb to the slaughter,
+    and as a sheep before its shearers is silent,
+    so he did not open his mouth.
+8 By oppression[a] and judgment he was taken away.
+    Yet who of his generation protested?
+For he was cut off from the land of the living;
+    for the transgression of my people he was punished.[b]
+9 He was assigned a grave with the wicked,
+    and with the rich in his death,
+though he had done no violence,
+    nor was any deceit in his mouth.
+
+10 Yet it was the Lord’s will to crush him and cause him to suffer,
+    and though the Lord makes[c] his life an offering for sin,
+he will see his offspring and prolong his days,
+    and the will of the Lord will prosper in his hand.
+11 After he has suffered,
+    he will see the light of life[d] and be satisfied[e];
+by his knowledge[f] my righteous servant will justify many,
+    and he will bear their iniquities.
+12 Therefore I will give him a portion among the great,[g]
+    and he will divide the spoils with the strong,[h]
+because he poured out his life unto death,
+    and was numbered with the transgressors.
+For he bore the sin of many,
+    and made intercession for the transgressors.                                        
                                         </p>
                                         </div>
 
@@ -4280,6 +5508,78 @@ They will soar on wings like eagles;
 
                                         <h2 className={styles.chapter}>Isaiah Chpt LIV</h2>
                                         <p>
+The Future Glory of Zion
+54 “Sing, barren woman,
+    you who never bore a child;
+burst into song, shout for joy,
+    you who were never in labor;
+because more are the children of the desolate woman
+    than of her who has a husband,”
+says the Lord.
+2 “Enlarge the place of your tent,
+    stretch your tent curtains wide,
+    do not hold back;
+lengthen your cords,
+    strengthen your stakes.
+3 For you will spread out to the right and to the left;
+    your descendants will dispossess nations
+    and settle in their desolate cities.
+
+4 “Do not be afraid; you will not be put to shame.
+    Do not fear disgrace; you will not be humiliated.
+You will forget the shame of your youth
+    and remember no more the reproach of your widowhood.
+5 For your Maker is your husband—
+    the Lord Almighty is his name—
+the Holy One of Israel is your Redeemer;
+    he is called the God of all the earth.
+6 The Lord will call you back
+    as if you were a wife deserted and distressed in spirit—
+a wife who married young,
+    only to be rejected,” says your God.
+7 “For a brief moment I abandoned you,
+    but with deep compassion I will bring you back.
+8 In a surge of anger
+    I hid my face from you for a moment,
+but with everlasting kindness
+    I will have compassion on you,”
+    says the Lord your Redeemer.
+
+9 “To me this is like the days of Noah,
+    when I swore that the waters of Noah would never again cover the earth.
+So now I have sworn not to be angry with you,
+    never to rebuke you again.
+10 Though the mountains be shaken
+    and the hills be removed,
+yet my unfailing love for you will not be shaken
+    nor my covenant of peace be removed,”
+    says the Lord, who has compassion on you.
+
+11 “Afflicted city, lashed by storms and not comforted,
+    I will rebuild you with stones of turquoise,[a]
+    your foundations with lapis lazuli.
+12 I will make your battlements of rubies,
+    your gates of sparkling jewels,
+    and all your walls of precious stones.
+13 All your children will be taught by the Lord,
+    and great will be their peace.
+14 In righteousness you will be established:
+Tyranny will be far from you;
+    you will have nothing to fear.
+Terror will be far removed;
+    it will not come near you.
+15 If anyone does attack you, it will not be my doing;
+    whoever attacks you will surrender to you.
+
+16 “See, it is I who created the blacksmith
+    who fans the coals into flame
+    and forges a weapon fit for its work.
+And it is I who have created the destroyer to wreak havoc;
+17     no weapon forged against you will prevail,
+    and you will refute every tongue that accuses you.
+This is the heritage of the servants of the Lord,
+    and this is their vindication from me,”
+declares the Lord.
 
                                 
                                        </p>
@@ -4289,8 +5589,63 @@ They will soar on wings like eagles;
                                         <h2 className={styles.chapter}>Isaiah Chpt LV </h2>
                                         <p>
 
+Invitation to the Thirsty
+55 “Come, all you who are thirsty,
+    come to the waters;
+and you who have no money,
+    come, buy and eat!
+Come, buy wine and milk
+    without money and without cost.
+2 Why spend money on what is not bread,
+    and your labor on what does not satisfy?
+Listen, listen to me, and eat what is good,
+    and you will delight in the richest of fare.
+3 Give ear and come to me;
+    listen, that you may live.
+I will make an everlasting covenant with you,
+    my faithful love promised to David.
+4 See, I have made him a witness to the peoples,
+    a ruler and commander of the peoples.
+5 Surely you will summon nations you know not,
+    and nations you do not know will come running to you,
+because of the Lord your God,
+    the Holy One of Israel,
+    for he has endowed you with splendor.”
 
-                                                
+6 Seek the Lord while he may be found;
+    call on him while he is near.
+7 Let the wicked forsake their ways
+    and the unrighteous their thoughts.
+Let them turn to the Lord, and he will have mercy on them,
+    and to our God, for he will freely pardon.
+
+8 “For my thoughts are not your thoughts,
+    neither are your ways my ways,”
+declares the Lord.
+9 “As the heavens are higher than the earth,
+    so are my ways higher than your ways
+    and my thoughts than your thoughts.
+10 As the rain and the snow
+    come down from heaven,
+and do not return to it
+    without watering the earth
+and making it bud and flourish,
+    so that it yields seed for the sower and bread for the eater,
+11 so is my word that goes out from my mouth:
+    It will not return to me empty,
+but will accomplish what I desire
+    and achieve the purpose for which I sent it.
+12 You will go out in joy
+    and be led forth in peace;
+the mountains and hills
+    will burst into song before you,
+and all the trees of the field
+    will clap their hands.
+13 Instead of the thornbush will grow the juniper,
+    and instead of briers the myrtle will grow.
+This will be for the Lord’s renown,
+    for an everlasting sign,
+    that will endure forever.”                                                
                                         </p>
                                   </div>
 
@@ -4301,16 +5656,160 @@ They will soar on wings like eagles;
 
                                         <h2 className={styles.chapter}>Isaiah Chpt LVI</h2>
                                         <p>
+Salvation for Others
+56 This is what the Lord says:
 
-                                          
+“Maintain justice
+    and do what is right,
+for my salvation is close at hand
+    and my righteousness will soon be revealed.
+2 Blessed is the one who does this—
+    the person who holds it fast,
+who keeps the Sabbath without desecrating it,
+    and keeps their hands from doing any evil.”
+
+3 Let no foreigner who is bound to the Lord say,
+    “The Lord will surely exclude me from his people.”
+And let no eunuch complain,
+    “I am only a dry tree.”
+
+4 For this is what the Lord says:
+
+“To the eunuchs who keep my Sabbaths,
+    who choose what pleases me
+    and hold fast to my covenant—
+5 to them I will give within my temple and its walls
+    a memorial and a name
+    better than sons and daughters;
+I will give them an everlasting name
+    that will endure forever.
+6 And foreigners who bind themselves to the Lord
+    to minister to him,
+to love the name of the Lord,
+    and to be his servants,
+all who keep the Sabbath without desecrating it
+    and who hold fast to my covenant—
+7 these I will bring to my holy mountain
+    and give them joy in my house of prayer.
+Their burnt offerings and sacrifices
+    will be accepted on my altar;
+for my house will be called
+    a house of prayer for all nations.”
+8 The Sovereign Lord declares—
+    he who gathers the exiles of Israel:
+“I will gather still others to them
+    besides those already gathered.”
+
+God’s Accusation Against the Wicked
+9 Come, all you beasts of the field,
+    come and devour, all you beasts of the forest!
+10 Israel’s watchmen are blind,
+    they all lack knowledge;
+they are all mute dogs,
+    they cannot bark;
+they lie around and dream,
+    they love to sleep.
+11 They are dogs with mighty appetites;
+    they never have enough.
+They are shepherds who lack understanding;
+    they all turn to their own way,
+    they seek their own gain.
+12 “Come,” each one cries, “let me get wine!
+    Let us drink our fill of beer!
+And tomorrow will be like today,
+    or even far better.”                                          
                                         </p>
                                   </div>
                                   <div className={styles.card}>
 
                                         <h2 className={styles.chapter}>Isaiah Chpt LVII </h2>
                                         <p>
-                           
-                                          
+                           57 The righteous perish,
+    and no one takes it to heart;
+the devout are taken away,
+    and no one understands
+that the righteous are taken away
+    to be spared from evil.
+2 Those who walk uprightly
+    enter into peace;
+    they find rest as they lie in death.
+
+3 “But you—come here, you children of a sorceress,
+    you offspring of adulterers and prostitutes!
+4 Who are you mocking?
+    At whom do you sneer
+    and stick out your tongue?
+Are you not a brood of rebels,
+    the offspring of liars?
+5 You burn with lust among the oaks
+    and under every spreading tree;
+you sacrifice your children in the ravines
+    and under the overhanging crags.
+6 The idols among the smooth stones of the ravines are your portion;
+    indeed, they are your lot.
+Yes, to them you have poured out drink offerings
+    and offered grain offerings.
+    In view of all this, should I relent?
+7 You have made your bed on a high and lofty hill;
+    there you went up to offer your sacrifices.
+8 Behind your doors and your doorposts
+    you have put your pagan symbols.
+Forsaking me, you uncovered your bed,
+    you climbed into it and opened it wide;
+you made a pact with those whose beds you love,
+    and you looked with lust on their naked bodies.
+9 You went to Molek[a] with olive oil
+    and increased your perfumes.
+You sent your ambassadors[b] far away;
+    you descended to the very realm of the dead!
+10 You wearied yourself by such going about,
+    but you would not say, ‘It is hopeless.’
+You found renewal of your strength,
+    and so you did not faint.
+
+11 “Whom have you so dreaded and feared
+    that you have not been true to me,
+and have neither remembered me
+    nor taken this to heart?
+Is it not because I have long been silent
+    that you do not fear me?
+12 I will expose your righteousness and your works,
+    and they will not benefit you.
+13 When you cry out for help,
+    let your collection of idols save you!
+The wind will carry all of them off,
+    a mere breath will blow them away.
+But whoever takes refuge in me
+    will inherit the land
+    and possess my holy mountain.”
+
+Comfort for the Contrite
+14 And it will be said:
+
+“Build up, build up, prepare the road!
+    Remove the obstacles out of the way of my people.”
+15 For this is what the high and exalted One says—
+    he who lives forever, whose name is holy:
+“I live in a high and holy place,
+    but also with the one who is contrite and lowly in spirit,
+to revive the spirit of the lowly
+    and to revive the heart of the contrite.
+16 I will not accuse them forever,
+    nor will I always be angry,
+for then they would faint away because of me—
+    the very people I have created.
+17 I was enraged by their sinful greed;
+    I punished them, and hid my face in anger,
+    yet they kept on in their willful ways.
+18 I have seen their ways, but I will heal them;
+    I will guide them and restore comfort to Israel’s mourners,
+19     creating praise on their lips.
+Peace, peace, to those far and near,”
+    says the Lord. “And I will heal them.”
+20 But the wicked are like the tossing sea,
+    which cannot rest,
+    whose waves cast up mire and mud.
+21 “There is no peace,” says my God, “for the wicked.”                                          
                                           </p>
                                   </div>
 
@@ -4318,7 +5817,78 @@ They will soar on wings like eagles;
 
                                         <h2 className={styles.chapter}>Isaiah Chpt LVIII </h2>
                                         <p>
-                                              
+                                              True Fasting
+58 “Shout it aloud, do not hold back.
+    Raise your voice like a trumpet.
+Declare to my people their rebellion
+    and to the descendants of Jacob their sins.
+2 For day after day they seek me out;
+    they seem eager to know my ways,
+as if they were a nation that does what is right
+    and has not forsaken the commands of its God.
+They ask me for just decisions
+    and seem eager for God to come near them.
+3 ‘Why have we fasted,’ they say,
+    ‘and you have not seen it?
+Why have we humbled ourselves,
+    and you have not noticed?’
+
+“Yet on the day of your fasting, you do as you please
+    and exploit all your workers.
+4 Your fasting ends in quarreling and strife,
+    and in striking each other with wicked fists.
+You cannot fast as you do today
+    and expect your voice to be heard on high.
+5 Is this the kind of fast I have chosen,
+    only a day for people to humble themselves?
+Is it only for bowing one’s head like a reed
+    and for lying in sackcloth and ashes?
+Is that what you call a fast,
+    a day acceptable to the Lord?
+
+6 “Is not this the kind of fasting I have chosen:
+to loose the chains of injustice
+    and untie the cords of the yoke,
+to set the oppressed free
+    and break every yoke?
+7 Is it not to share your food with the hungry
+    and to provide the poor wanderer with shelter—
+when you see the naked, to clothe them,
+    and not to turn away from your own flesh and blood?
+8 Then your light will break forth like the dawn,
+    and your healing will quickly appear;
+then your righteousness[a] will go before you,
+    and the glory of the Lord will be your rear guard.
+9 Then you will call, and the Lord will answer;
+    you will cry for help, and he will say: Here am I.
+
+“If you do away with the yoke of oppression,
+    with the pointing finger and malicious talk,
+10 and if you spend yourselves in behalf of the hungry
+    and satisfy the needs of the oppressed,
+then your light will rise in the darkness,
+    and your night will become like the noonday.
+11 The Lord will guide you always;
+    he will satisfy your needs in a sun-scorched land
+    and will strengthen your frame.
+You will be like a well-watered garden,
+    like a spring whose waters never fail.
+12 Your people will rebuild the ancient ruins
+    and will raise up the age-old foundations;
+you will be called Repairer of Broken Walls,
+    Restorer of Streets with Dwellings.
+
+13 “If you keep your feet from breaking the Sabbath
+    and from doing as you please on my holy day,
+if you call the Sabbath a delight
+    and the Lord’s holy day honorable,
+and if you honor it by not going your own way
+    and not doing as you please or speaking idle words,
+14 then you will find your joy in the Lord,
+    and I will cause you to ride in triumph on the heights of the land
+    and to feast on the inheritance of your father Jacob.”
+For the mouth of the Lord has spoken.
+
                                             
                                         </p>
                                     </div>
@@ -4327,8 +5897,91 @@ They will soar on wings like eagles;
 
                                         <h2 className={styles.chapter}>Isaiah Chpt LIX </h2>
                                         <p>
-                                             
-                                                  
+                                             Sin, Confession and Redemption
+59 Surely the arm of the Lord is not too short to save,
+    nor his ear too dull to hear.
+2 But your iniquities have separated
+    you from your God;
+your sins have hidden his face from you,
+    so that he will not hear.
+3 For your hands are stained with blood,
+    your fingers with guilt.
+Your lips have spoken falsely,
+    and your tongue mutters wicked things.
+4 No one calls for justice;
+    no one pleads a case with integrity.
+They rely on empty arguments, they utter lies;
+    they conceive trouble and give birth to evil.
+5 They hatch the eggs of vipers
+    and spin a spider’s web.
+Whoever eats their eggs will die,
+    and when one is broken, an adder is hatched.
+6 Their cobwebs are useless for clothing;
+    they cannot cover themselves with what they make.
+Their deeds are evil deeds,
+    and acts of violence are in their hands.
+7 Their feet rush into sin;
+    they are swift to shed innocent blood.
+They pursue evil schemes;
+    acts of violence mark their ways.
+8 The way of peace they do not know;
+    there is no justice in their paths.
+They have turned them into crooked roads;
+    no one who walks along them will know peace.
+
+9 So justice is far from us,
+    and righteousness does not reach us.
+We look for light, but all is darkness;
+    for brightness, but we walk in deep shadows.
+10 Like the blind we grope along the wall,
+    feeling our way like people without eyes.
+At midday we stumble as if it were twilight;
+    among the strong, we are like the dead.
+11 We all growl like bears;
+    we moan mournfully like doves.
+We look for justice, but find none;
+    for deliverance, but it is far away.
+
+12 For our offenses are many in your sight,
+    and our sins testify against us.
+Our offenses are ever with us,
+    and we acknowledge our iniquities:
+13 rebellion and treachery against the Lord,
+    turning our backs on our God,
+inciting revolt and oppression,
+    uttering lies our hearts have conceived.
+14 So justice is driven back,
+    and righteousness stands at a distance;
+truth has stumbled in the streets,
+    honesty cannot enter.
+15 Truth is nowhere to be found,
+    and whoever shuns evil becomes a prey.
+
+The Lord looked and was displeased
+    that there was no justice.
+16 He saw that there was no one,
+    he was appalled that there was no one to intervene;
+so his own arm achieved salvation for him,
+    and his own righteousness sustained him.
+17 He put on righteousness as his breastplate,
+    and the helmet of salvation on his head;
+he put on the garments of vengeance
+    and wrapped himself in zeal as in a cloak.
+18 According to what they have done,
+    so will he repay
+wrath to his enemies
+    and retribution to his foes;
+    he will repay the islands their due.
+19 From the west, people will fear the name of the Lord,
+    and from the rising of the sun, they will revere his glory.
+For he will come like a pent-up flood
+    that the breath of the Lord drives along.[a]
+
+20 “The Redeemer will come to Zion,
+    to those in Jacob who repent of their sins,”
+declares the Lord.
+
+21 “As for me, this is my covenant with them,” says the Lord. “My Spirit, who is on you, will not depart from you, and my words that I have put in your mouth will always be on your lips, on the lips of your children and on the lips of their descendants—from this time on and forever,” says the Lord.                                                  
                                         </p>
                                     </div>
 
@@ -4337,8 +5990,99 @@ They will soar on wings like eagles;
                                         <h2 className={styles.chapter}>Isaiah Chpt LX </h2>
                                         <p>
 
+The Glory of Zion
+60 “Arise, shine, for your light has come,
+    and the glory of the Lord rises upon you.
+2 See, darkness covers the earth
+    and thick darkness is over the peoples,
+but the Lord rises upon you
+    and his glory appears over you.
+3 Nations will come to your light,
+    and kings to the brightness of your dawn.
 
-                                                      
+4 “Lift up your eyes and look about you:
+    All assemble and come to you;
+your sons come from afar,
+    and your daughters are carried on the hip.
+5 Then you will look and be radiant,
+    your heart will throb and swell with joy;
+the wealth on the seas will be brought to you,
+    to you the riches of the nations will come.
+6 Herds of camels will cover your land,
+    young camels of Midian and Ephah.
+And all from Sheba will come,
+    bearing gold and incense
+    and proclaiming the praise of the Lord.
+7 All Kedar’s flocks will be gathered to you,
+    the rams of Nebaioth will serve you;
+they will be accepted as offerings on my altar,
+    and I will adorn my glorious temple.
+
+8 “Who are these that fly along like clouds,
+    like doves to their nests?
+9 Surely the islands look to me;
+    in the lead are the ships of Tarshish,[a]
+bringing your children from afar,
+    with their silver and gold,
+to the honor of the Lord your God,
+    the Holy One of Israel,
+    for he has endowed you with splendor.
+
+10 “Foreigners will rebuild your walls,
+    and their kings will serve you.
+Though in anger I struck you,
+    in favor I will show you compassion.
+11 Your gates will always stand open,
+    they will never be shut, day or night,
+so that people may bring you the wealth of the nations—
+    their kings led in triumphal procession.
+12 For the nation or kingdom that will not serve you will perish;
+    it will be utterly ruined.
+
+13 “The glory of Lebanon will come to you,
+    the juniper, the fir and the cypress together,
+to adorn my sanctuary;
+    and I will glorify the place for my feet.
+14 The children of your oppressors will come bowing before you;
+    all who despise you will bow down at your feet
+and will call you the City of the Lord,
+    Zion of the Holy One of Israel.
+
+15 “Although you have been forsaken and hated,
+    with no one traveling through,
+I will make you the everlasting pride
+    and the joy of all generations.
+16 You will drink the milk of nations
+    and be nursed at royal breasts.
+Then you will know that I, the Lord, am your Savior,
+    your Redeemer, the Mighty One of Jacob.
+17 Instead of bronze I will bring you gold,
+    and silver in place of iron.
+Instead of wood I will bring you bronze,
+    and iron in place of stones.
+I will make peace your governor
+    and well-being your ruler.
+18 No longer will violence be heard in your land,
+    nor ruin or destruction within your borders,
+but you will call your walls Salvation
+    and your gates Praise.
+19 The sun will no more be your light by day,
+    nor will the brightness of the moon shine on you,
+for the Lord will be your everlasting light,
+    and your God will be your glory.
+20 Your sun will never set again,
+    and your moon will wane no more;
+the Lord will be your everlasting light,
+    and your days of sorrow will end.
+21 Then all your people will be righteous
+    and they will possess the land forever.
+They are the shoot I have planted,
+    the work of my hands,
+    for the display of my splendor.
+22 The least of you will become a thousand,
+    the smallest a mighty nation.
+I am the Lord;
+    in its time I will do this swiftly.”                                                      
                                          </p>
                                     </div>
 
@@ -4346,7 +6090,64 @@ They will soar on wings like eagles;
 
                                         <h2 className={styles.chapter}>Isaiah Chpt LXI </h2>
                                         <p>
-                                             
+The Year of the Lord’s Favor
+61 The Spirit of the Sovereign Lord is on me,
+    because the Lord has anointed me
+    to proclaim good news to the poor.
+He has sent me to bind up the brokenhearted,
+    to proclaim freedom for the captives
+    and release from darkness for the prisoners,[a]
+2 to proclaim the year of the Lord’s favor
+    and the day of vengeance of our God,
+to comfort all who mourn,
+3     and provide for those who grieve in Zion—
+to bestow on them a crown of beauty
+    instead of ashes,
+the oil of joy
+    instead of mourning,
+and a garment of praise
+    instead of a spirit of despair.
+They will be called oaks of righteousness,
+    a planting of the Lord
+    for the display of his splendor.
+
+4 They will rebuild the ancient ruins
+    and restore the places long devastated;
+they will renew the ruined cities
+    that have been devastated for generations.
+5 Strangers will shepherd your flocks;
+    foreigners will work your fields and vineyards.
+6 And you will be called priests of the Lord,
+    you will be named ministers of our God.
+You will feed on the wealth of nations,
+    and in their riches you will boast.
+
+7 Instead of your shame
+    you will receive a double portion,
+and instead of disgrace
+    you will rejoice in your inheritance.
+And so you will inherit a double portion in your land,
+    and everlasting joy will be yours.
+
+8 “For I, the Lord, love justice;
+    I hate robbery and wrongdoing.
+In my faithfulness I will reward my people
+    and make an everlasting covenant with them.
+9 Their descendants will be known among the nations
+    and their offspring among the peoples.
+All who see them will acknowledge
+    that they are a people the Lord has blessed.”
+
+10 I delight greatly in the Lord;
+    my soul rejoices in my God.
+For he has clothed me with garments of salvation
+    and arrayed me in a robe of his righteousness,
+as a bridegroom adorns his head like a priest,
+    and as a bride adorns herself with her jewels.
+11 For as the soil makes the sprout come up
+    and a garden causes seeds to grow,
+so the Sovereign Lord will make righteousness
+    and praise spring up before all nations.
                                                     
                                         </p>
                                     </div>
@@ -4356,8 +6157,62 @@ They will soar on wings like eagles;
                                         <h2 className={styles.chapter}>Isaiah Chpt LXII </h2>
                                         <p>
                                                                                 
-                                            
-                                          </p>
+                                            Zion’s New Name
+62 For Zion’s sake I will not keep silent,
+    for Jerusalem’s sake I will not remain quiet,
+till her vindication shines out like the dawn,
+    her salvation like a blazing torch.
+2 The nations will see your vindication,
+    and all kings your glory;
+you will be called by a new name
+    that the mouth of the Lord will bestow.
+3 You will be a crown of splendor in the Lord’s hand,
+    a royal diadem in the hand of your God.
+4 No longer will they call you Deserted,
+    or name your land Desolate.
+But you will be called Hephzibah,[a]
+    and your land Beulah[b];
+for the Lord will take delight in you,
+    and your land will be married.
+5 As a young man marries a young woman,
+    so will your Builder marry you;
+as a bridegroom rejoices over his bride,
+    so will your God rejoice over you.
+
+6 I have posted watchmen on your walls, Jerusalem;
+    they will never be silent day or night.
+You who call on the Lord,
+    give yourselves no rest,
+7 and give him no rest till he establishes Jerusalem
+    and makes her the praise of the earth.
+
+8 The Lord has sworn by his right hand
+    and by his mighty arm:
+“Never again will I give your grain
+    as food for your enemies,
+and never again will foreigners drink the new wine
+    for which you have toiled;
+9 but those who harvest it will eat it
+    and praise the Lord,
+and those who gather the grapes will drink it
+    in the courts of my sanctuary.”
+
+10 Pass through, pass through the gates!
+    Prepare the way for the people.
+Build up, build up the highway!
+    Remove the stones.
+Raise a banner for the nations.
+
+11 The Lord has made proclamation
+    to the ends of the earth:
+“Say to Daughter Zion,
+    ‘See, your Savior comes!
+See, his reward is with him,
+    and his recompense accompanies him.’”
+12 They will be called the Holy People,
+    the Redeemed of the Lord;
+and you will be called Sought After,
+    the City No Longer Deserted.                                          </p>
                                     </div>
 
 
@@ -4365,7 +6220,92 @@ They will soar on wings like eagles;
 
                                         <h2 className={styles.chapter}>Isaiah Chpt LXIII </h2>
                                         <p>
-                                                                                               
+God’s Day of Vengeance and Redemption
+63 Who is this coming from Edom,
+    from Bozrah, with his garments stained crimson?
+Who is this, robed in splendor,
+    striding forward in the greatness of his strength?
+
+“It is I, proclaiming victory,
+    mighty to save.”
+
+2 Why are your garments red,
+    like those of one treading the winepress?
+
+3 “I have trodden the winepress alone;
+    from the nations no one was with me.
+I trampled them in my anger
+    and trod them down in my wrath;
+their blood spattered my garments,
+    and I stained all my clothing.
+4 It was for me the day of vengeance;
+    the year for me to redeem had come.
+5 I looked, but there was no one to help,
+    I was appalled that no one gave support;
+so my own arm achieved salvation for me,
+    and my own wrath sustained me.
+6 I trampled the nations in my anger;
+    in my wrath I made them drunk
+    and poured their blood on the ground.”
+
+Praise and Prayer
+7 I will tell of the kindnesses of the Lord,
+    the deeds for which he is to be praised,
+    according to all the Lord has done for us—
+yes, the many good things
+    he has done for Israel,
+    according to his compassion and many kindnesses.
+8 He said, “Surely they are my people,
+    children who will be true to me”;
+    and so he became their Savior.
+9 In all their distress he too was distressed,
+    and the angel of his presence saved them.[a]
+In his love and mercy he redeemed them;
+    he lifted them up and carried them
+    all the days of old.
+10 Yet they rebelled
+    and grieved his Holy Spirit.
+So he turned and became their enemy
+    and he himself fought against them.
+
+11 Then his people recalled[b] the days of old,
+    the days of Moses and his people—
+where is he who brought them through the sea,
+    with the shepherd of his flock?
+Where is he who set
+    his Holy Spirit among them,
+12 who sent his glorious arm of power
+    to be at Moses’ right hand,
+who divided the waters before them,
+    to gain for himself everlasting renown,
+13 who led them through the depths?
+Like a horse in open country,
+    they did not stumble;
+14 like cattle that go down to the plain,
+    they were given rest by the Spirit of the Lord.
+This is how you guided your people
+    to make for yourself a glorious name.
+
+15 Look down from heaven and see,
+    from your lofty throne, holy and glorious.
+Where are your zeal and your might?
+    Your tenderness and compassion are withheld from us.
+16 But you are our Father,
+    though Abraham does not know us
+    or Israel acknowledge us;
+you, Lord, are our Father,
+    our Redeemer from of old is your name.
+17 Why, Lord, do you make us wander from your ways
+    and harden our hearts so we do not revere you?
+Return for the sake of your servants,
+    the tribes that are your inheritance.
+18 For a little while your people possessed your holy place,
+    but now our enemies have trampled down your sanctuary.
+19 We are yours from of old;
+    but you have not ruled over them,
+    they have not been called[c] by your name.
+
+  
                                                           </p>
                                     </div>
 
@@ -4373,8 +6313,46 @@ They will soar on wings like eagles;
 
                                         <h2 className={styles.chapter}>Isaiah Chpt LXIV </h2>
                                         <p>
+64 [a]Oh, that you would rend the heavens and come down,
+    that the mountains would tremble before you!
+2 As when fire sets twigs ablaze
+    and causes water to boil,
+come down to make your name known to your enemies
+    and cause the nations to quake before you!
+3 For when you did awesome things that we did not expect,
+    you came down, and the mountains trembled before you.
+4 Since ancient times no one has heard,
+    no ear has perceived,
+no eye has seen any God besides you,
+    who acts on behalf of those who wait for him.
+5 You come to the help of those who gladly do right,
+    who remember your ways.
+But when we continued to sin against them,
+    you were angry.
+    How then can we be saved?
+6 All of us have become like one who is unclean,
+    and all our righteous acts are like filthy rags;
+we all shrivel up like a leaf,
+    and like the wind our sins sweep us away.
+7 No one calls on your name
+    or strives to lay hold of you;
+for you have hidden your face from us
+    and have given us over to[b] our sins.
 
-                                            
+8 Yet you, Lord, are our Father.
+    We are the clay, you are the potter;
+    we are all the work of your hand.
+9 Do not be angry beyond measure, Lord;
+    do not remember our sins forever.
+Oh, look on us, we pray,
+    for we are all your people.
+10 Your sacred cities have become a wasteland;
+    even Zion is a wasteland, Jerusalem a desolation.
+11 Our holy and glorious temple, where our ancestors praised you,
+    has been burned with fire,
+    and all that we treasured lies in ruins.
+12 After all this, Lord, will you hold yourself back?
+    Will you keep silent and punish us beyond measure?                                            
                                                   </p>
                                     </div>
 
@@ -4382,8 +6360,129 @@ They will soar on wings like eagles;
 
                                         <h2 className={styles.chapter}>Isaiah Chpt LXV</h2>
                                         <p>
+Judgment and Salvation
+65 “I revealed myself to those who did not ask for me;
+    I was found by those who did not seek me.
+To a nation that did not call on my name,
+    I said, ‘Here am I, here am I.’
+2 All day long I have held out my hands
+    to an obstinate people,
+who walk in ways not good,
+    pursuing their own imaginations—
+3 a people who continually provoke me
+    to my very face,
+offering sacrifices in gardens
+    and burning incense on altars of brick;
+4 who sit among the graves
+    and spend their nights keeping secret vigil;
+who eat the flesh of pigs,
+    and whose pots hold broth of impure meat;
+5 who say, ‘Keep away; don’t come near me,
+    for I am too sacred for you!’
+Such people are smoke in my nostrils,
+    a fire that keeps burning all day.
 
-                                            
+6 “See, it stands written before me:
+    I will not keep silent but will pay back in full;
+    I will pay it back into their laps—
+7 both your sins and the sins of your ancestors,”
+    says the Lord.
+“Because they burned sacrifices on the mountains
+    and defied me on the hills,
+I will measure into their laps
+    the full payment for their former deeds.”
+
+8 This is what the Lord says:
+
+“As when juice is still found in a cluster of grapes
+    and people say, ‘Don’t destroy it,
+    there is still a blessing in it,’
+so will I do in behalf of my servants;
+    I will not destroy them all.
+9 I will bring forth descendants from Jacob,
+    and from Judah those who will possess my mountains;
+my chosen people will inherit them,
+    and there will my servants live.
+10 Sharon will become a pasture for flocks,
+    and the Valley of Achor a resting place for herds,
+    for my people who seek me.
+
+11 “But as for you who forsake the Lord
+    and forget my holy mountain,
+who spread a table for Fortune
+    and fill bowls of mixed wine for Destiny,
+12 I will destine you for the sword,
+    and all of you will fall in the slaughter;
+for I called but you did not answer,
+    I spoke but you did not listen.
+You did evil in my sight
+    and chose what displeases me.”
+
+13 Therefore this is what the Sovereign Lord says:
+
+“My servants will eat,
+    but you will go hungry;
+my servants will drink,
+    but you will go thirsty;
+my servants will rejoice,
+    but you will be put to shame.
+14 My servants will sing
+    out of the joy of their hearts,
+but you will cry out
+    from anguish of heart
+    and wail in brokenness of spirit.
+15 You will leave your name
+    for my chosen ones to use in their curses;
+the Sovereign Lord will put you to death,
+    but to his servants he will give another name.
+16 Whoever invokes a blessing in the land
+    will do so by the one true God;
+whoever takes an oath in the land
+    will swear by the one true God.
+For the past troubles will be forgotten
+    and hidden from my eyes.
+
+New Heavens and a New Earth
+17 “See, I will create
+    new heavens and a new earth.
+The former things will not be remembered,
+    nor will they come to mind.
+18 But be glad and rejoice forever
+    in what I will create,
+for I will create Jerusalem to be a delight
+    and its people a joy.
+19 I will rejoice over Jerusalem
+    and take delight in my people;
+the sound of weeping and of crying
+    will be heard in it no more.
+
+20 “Never again will there be in it
+    an infant who lives but a few days,
+    or an old man who does not live out his years;
+the one who dies at a hundred
+    will be thought a mere child;
+the one who fails to reach[a] a hundred
+    will be considered accursed.
+21 They will build houses and dwell in them;
+    they will plant vineyards and eat their fruit.
+22 No longer will they build houses and others live in them,
+    or plant and others eat.
+For as the days of a tree,
+    so will be the days of my people;
+my chosen ones will long enjoy
+    the work of their hands.
+23 They will not labor in vain,
+    nor will they bear children doomed to misfortune;
+for they will be a people blessed by the Lord,
+    they and their descendants with them.
+24 Before they call I will answer;
+    while they are still speaking I will hear.
+25 The wolf and the lamb will feed together,
+    and the lion will eat straw like the ox,
+    and dust will be the serpent’s food.
+They will neither harm nor destroy
+    on all my holy mountain,”
+says the Lord.                                            
                                                 </p>
                                     </div>
 
@@ -4391,7 +6490,101 @@ They will soar on wings like eagles;
 
                                         <h2 className={styles.chapter}>Isaiah Chpt LXVI</h2>
                                         <p>
-                                                                                         
+Judgment and Hope
+66 This is what the Lord says:
+
+“Heaven is my throne,
+    and the earth is my footstool.
+Where is the house you will build for me?
+    Where will my resting place be?
+2 Has not my hand made all these things,
+    and so they came into being?”
+declares the Lord.
+
+“These are the ones I look on with favor:
+    those who are humble and contrite in spirit,
+    and who tremble at my word.
+3 But whoever sacrifices a bull
+    is like one who kills a person,
+and whoever offers a lamb
+    is like one who breaks a dog’s neck;
+whoever makes a grain offering
+    is like one who presents pig’s blood,
+and whoever burns memorial incense
+    is like one who worships an idol.
+They have chosen their own ways,
+    and they delight in their abominations;
+4 so I also will choose harsh treatment for them
+    and will bring on them what they dread.
+For when I called, no one answered,
+    when I spoke, no one listened.
+They did evil in my sight
+    and chose what displeases me.”
+
+5 Hear the word of the Lord,
+    you who tremble at his word:
+“Your own people who hate you,
+    and exclude you because of my name, have said,
+‘Let the Lord be glorified,
+    that we may see your joy!’
+    Yet they will be put to shame.
+6 Hear that uproar from the city,
+    hear that noise from the temple!
+It is the sound of the Lord
+    repaying his enemies all they deserve.
+
+7 “Before she goes into labor,
+    she gives birth;
+before the pains come upon her,
+    she delivers a son.
+8 Who has ever heard of such things?
+    Who has ever seen things like this?
+Can a country be born in a day
+    or a nation be brought forth in a moment?
+Yet no sooner is Zion in labor
+    than she gives birth to her children.
+9 Do I bring to the moment of birth
+    and not give delivery?” says the Lord.
+“Do I close up the womb
+    when I bring to delivery?” says your God.
+10 “Rejoice with Jerusalem and be glad for her,
+    all you who love her;
+rejoice greatly with her,
+    all you who mourn over her.
+11 For you will nurse and be satisfied
+    at her comforting breasts;
+you will drink deeply
+    and delight in her overflowing abundance.”
+
+12 For this is what the Lord says:
+
+“I will extend peace to her like a river,
+    and the wealth of nations like a flooding stream;
+you will nurse and be carried on her arm
+    and dandled on her knees.
+13 As a mother comforts her child,
+    so will I comfort you;
+    and you will be comforted over Jerusalem.”
+
+14 When you see this, your heart will rejoice
+    and you will flourish like grass;
+the hand of the Lord will be made known to his servants,
+    but his fury will be shown to his foes.
+15 See, the Lord is coming with fire,
+    and his chariots are like a whirlwind;
+he will bring down his anger with fury,
+    and his rebuke with flames of fire.
+16 For with fire and with his sword
+    the Lord will execute judgment on all people,
+    and many will be those slain by the Lord.
+
+17 “Those who consecrate and purify themselves to go into the gardens, following one who is among those who eat the flesh of pigs, rats and other unclean things—they will meet their end together with the one they follow,” declares the Lord.
+
+18 “And I, because of what they have planned and done, am about to come[a] and gather the people of all nations and languages, and they will come and see my glory.
+
+19 “I will set a sign among them, and I will send some of those who survive to the nations—to Tarshish, to the Libyans[b] and Lydians (famous as archers), to Tubal and Greece, and to the distant islands that have not heard of my fame or seen my glory. They will proclaim my glory among the nations. 20 And they will bring all your people, from all the nations, to my holy mountain in Jerusalem as an offering to the Lord—on horses, in chariots and wagons, and on mules and camels,” says the Lord. “They will bring them, as the Israelites bring their grain offerings, to the temple of the Lord in ceremonially clean vessels. 21 And I will select some of them also to be priests and Levites,” says the Lord.
+
+22 “As the new heavens and the new earth that I make will endure before me,” declares the Lord, “so will your name and descendants endure. 23 From one New Moon to another and from one Sabbath to another, all mankind will come and bow down before me,” says the Lord. 24 “And they will go out and look on the dead bodies of those who rebelled against me; the worms that eat them will not die, the fire that burns them will not be quenched, and they will be loathsome to all mankind.”
 
                                                   </p>
                                     </div>
