@@ -6606,8 +6606,266 @@ he will bring down his anger with fury,
 
 
 
+ <main id="jeremiah" className={styles.main}>
+      
+       
+       
+        <div className={styles.hero}>
+           <h2 className={styles.holy}>THE WORD</h2>
+                <h1 className={styles.bible}>
+                    <a href="https://the-holy-bible.vercel.app/" target="_blank">OF GOD</a>
+                </h1>
+        
+        <h1 className={styles.title}>
+          JEREMIAH
+        </h1>
+         <div  className={styles.image}>
+       <Image 
+                                src="/the_revelation.png"
+                                alt="image of the revealtion of jesus to john"
+                                height={900}
+                                width={2000}
+                                priority
+                              />
+        </div>
+<p className={styles.parables}>
+       Jeremiah is in the development stages                                  
+</p>
+                      <div className={styles.nav}>           
+      <a href="https://galatians.vercel.app/#first_peter">
+             <Image 
+                                src="/previous.webp"
+                                alt="left"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+       </a>
+
+         <a href="#PayPalButton">
+            <Image 
+                                src="/upward_pointing.webp"
+                                alt="home"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         <a href="https://the-word-of-god.vercel.app/">
+           <Image 
+                                src="/next.webp"
+                                alt="right"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         
+               </div>
+  
+                <div className={styles.iframe}>
+                      <iframe width="100%" height="315" src="https://www.youtube.com/embed/5nvVVcYD-0w?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div> 
+ 
+      <div className={styles.grid}>
+          <div className={styles.card}>
+            <h2 className={styles.chapter}>Jeremiah Chpt I</h2>
+            <p>
+
+                                  
+                                  </p>
+              </div>
+
+          <div className={styles.card}>
+           <h2 className={styles.chapter}>Jeremiah Chpt II</h2>
+            <p>
+  
+            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+           <h2 className={styles.chapter}>Jeremiah Chpt III</h2>
+            <p>
+ 
+              
+              </p>
+          </div>
+<div className={styles.card}>
+
+<h2 className={styles.chapter}>Jeremiah Chpt IV</h2>
+<p>
+
+  
+</p>
+</div>
+
+                                      <div className={styles.card}>
+
+                                      <h2 className={styles.chapter}>Jeremiah Chpt V</h2>
+                                      <p>
+
+                                      
+                                        </p>
+                                      </div>
+  
+                                        <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Jeremiah Chpt VI</h2>
+                                        <p>
+                                      
+  
+                                        </p>
+                                        </div>
+
+                              <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Jeremiah Chpt VI</h2>
+                                        <p>
+                                        
+
+                                
+                                                                                    </p>
+                                                                           </div>
+                                    <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Jeremiah Chpt VII </h2>
+                                        <p>
+
+                                   
+                                        </p>
+                                  </div>
 
 
+
+
+                                <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Jeremiah Chpt IX</h2>
+                                        <p>
+
+                                          
+                                        </p>
+                                  </div>
+                                  <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Jeremiah Chpt X </h2>
+                                        <p>
+                              
+                                          
+                                          </p>
+                                  </div>
+
+                                   <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Jeremiah Chpt XI </h2>
+                                        <p>
+                                    
+                                            </p>
+                                    </div>
+
+                                     <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Jeremiah Chpt XII </h2>
+                                        <p>
+                                       
+                                                  
+                                                  </p>
+                                    </div>
+
+                                     <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Jeremiah Chpt XIII </h2>
+                                        <p>
+                                              
+                                                  </p>
+                                    </div>
+
+                                   <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Jeremiah Chpt XIV </h2>
+                                        <p>
+                                        
+                                                    
+                                                    </p>
+                                    </div>
+
+                                   <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Jeremiah Chpt XV </h2>
+                                        <p>
+                                 
+                                                      
+                                                      </p>
+                                    </div>
+
+
+                                   <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Jeremiah Chpt XVI </h2>
+                                        <p>
+
+                                            
+
+                                                          </p>
+                                    </div>
+
+                                     <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Jeremiah Chpt XVII </h2>
+                                        <p>
+                                        
+                                                        
+                                                        </p>
+                                    </div>
+
+                                     <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Jeremiah Chpt XVIII </h2>
+                                        <p>
+                                    
+                                                </p>
+                                    </div>
+
+                                   <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Jeremiah Chpt XIX </h2>
+                                        <p>
+                                        
+                                                  </p>
+                                    </div>
+
+                                   <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Jeremiah Chpt XX </h2>
+                                        <p>
+                                             
+                                          </p>
+                                    </div>
+
+                                     <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Jeremiah Chpt XXI </h2>
+                                        <p>
+                                      
+                                                    
+                                        </p>
+                                    </div>
+
+                                     <div className={styles.card}>
+
+                                        <h2 className={styles.chapter}>Jeremiah Chpt XXII </h2>
+                                        <p>
+                                                 
+                                                          </p>
+                                    </div>
+                            </div>
+                      </div>
+              
+      </main>
 
 
 
