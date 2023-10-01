@@ -6892,7 +6892,7 @@ he will bring down his anger with fury,
                               />
         </div>
 <p className={styles.parables}>
-      Malachi is the last book in the Old testament before Mattthew & Mark, fascinating to find out why....                                
+      Malachi is the last book in the Old testament before Matthew & Mark, fascinating to find out why...                                
 </p>
                       <div className={styles.nav3}>           
       <a href="https://galatians.vercel.app/#first_peter">
