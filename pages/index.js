@@ -6894,7 +6894,7 @@ he will bring down his anger with fury,
 <p className={styles.parables}>
       Malachi is the last book in the Old testament before Mattthew & Mark, fascinating to find out why....                                
 </p>
-                      <div className={styles.nav}>           
+                      <div className={styles.nav3}>           
       <a href="https://galatians.vercel.app/#first_peter">
              <Image 
                                 src="/previous.webp"
@@ -6932,7 +6932,7 @@ he will bring down his anger with fury,
                      <iframe width="100%" height="315" src="https://www.youtube.com/embed/HPGShWZ4Jvk?si=kz_uXOqmquqVkocd?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div> 
  
-      <div className={styles.grid}>
+      <div className={styles.grid3}>
           <div className={styles.card}>
             <h2 className={styles.chapter}>Malachi Chpt I</h2>
             <p>
