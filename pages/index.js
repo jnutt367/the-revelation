@@ -6606,7 +6606,7 @@ he will bring down his anger with fury,
 
 
 
- <main id="jeremiah" className={styles.main}>
+ <main id="zachariah" className={styles.main}>
       
        
        
@@ -6617,19 +6617,19 @@ he will bring down his anger with fury,
                 </h1>
         
         <h1 className={styles.title}>
-          JEREMIAH
+          ZACHARIAH  
         </h1>
          <div  className={styles.image}>
        <Image 
-                                src="/the_revelation.png"
-                                alt="image of the revealtion of jesus to john"
+                                src="/zachariah.png"
+                                alt="zachariah image"
                                 height={900}
                                 width={2000}
                                 priority
                               />
         </div>
 <p className={styles.parables}>
-       Jeremiah is in the development stages                                  
+       Zachariah is in the development stages                                  
 </p>
                       <div className={styles.nav}>           
       <a href="https://galatians.vercel.app/#first_peter">
@@ -6666,38 +6666,128 @@ he will bring down his anger with fury,
                </div>
   
                 <div className={styles.iframe}>
-                     <iframe width="100%" height="315" src="https://www.youtube.com/embed/RSK36cHbrk0?si=jDx7bLgv07xyL2eX?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                   <iframe width="100%" height="315" src="https://www.youtube.com/embed/_106IfO6Kc0?si=-EznDc-GqiwihuSB?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div> 
  
       <div className={styles.grid}>
           <div className={styles.card}>
-            <h2 className={styles.chapter}>Jeremiah Chpt I</h2>
+            <h2 className={styles.chapter}>Zachariah Chpt I</h2>
             <p>
+A Call to Return to the Lord
+1 In the eighth month of the second year of Darius, the word of the Lord came to the prophet Zechariah son of Berekiah, the son of Iddo:
 
-                                  
+2 “The Lord was very angry with your ancestors. 3 Therefore tell the people: This is what the Lord Almighty says: ‘Return to me,’ declares the Lord Almighty, ‘and I will return to you,’ says the Lord Almighty. 4 Do not be like your ancestors, to whom the earlier prophets proclaimed: This is what the Lord Almighty says: ‘Turn from your evil ways and your evil practices.’ But they would not listen or pay attention to me, declares the Lord. 5 Where are your ancestors now? And the prophets, do they live forever? 6 But did not my words and my decrees, which I commanded my servants the prophets, overtake your ancestors?
+
+“Then they repented and said, ‘The Lord Almighty has done to us what our ways and practices deserve, just as he determined to do.’”
+
+The Man Among the Myrtle Trees
+7 On the twenty-fourth day of the eleventh month, the month of Shebat, in the second year of Darius, the word of the Lord came to the prophet Zechariah son of Berekiah, the son of Iddo.
+
+8 During the night I had a vision, and there before me was a man mounted on a red horse. He was standing among the myrtle trees in a ravine. Behind him were red, brown and white horses.
+
+9 I asked, “What are these, my lord?”
+
+The angel who was talking with me answered, “I will show you what they are.”
+
+10 Then the man standing among the myrtle trees explained, “They are the ones the Lord has sent to go throughout the earth.”
+
+11 And they reported to the angel of the Lord who was standing among the myrtle trees, “We have gone throughout the earth and found the whole world at rest and in peace.”
+
+12 Then the angel of the Lord said, “Lord Almighty, how long will you withhold mercy from Jerusalem and from the towns of Judah, which you have been angry with these seventy years?” 13 So the Lord spoke kind and comforting words to the angel who talked with me.
+
+14 Then the angel who was speaking to me said, “Proclaim this word: This is what the Lord Almighty says: ‘I am very jealous for Jerusalem and Zion, 15 and I am very angry with the nations that feel secure. I was only a little angry, but they went too far with the punishment.’
+
+16 “Therefore this is what the Lord says: ‘I will return to Jerusalem with mercy, and there my house will be rebuilt. And the measuring line will be stretched out over Jerusalem,’ declares the Lord Almighty.
+
+17 “Proclaim further: This is what the Lord Almighty says: ‘My towns will again overflow with prosperity, and the Lord will again comfort Zion and choose Jerusalem.’”
+
+Four Horns and Four Craftsmen
+18 Then I looked up, and there before me were four horns. 19 I asked the angel who was speaking to me, “What are these?”
+
+He answered me, “These are the horns that scattered Judah, Israel and Jerusalem.”
+
+20 Then the Lord showed me four craftsmen. 21 I asked, “What are these coming to do?”
+
+He answered, “These are the horns that scattered Judah so that no one could raise their head, but the craftsmen have come to terrify them and throw down these horns of the nations who lifted up their horns against the land of Judah to scatter its people.”
+
+  
                                   </p>
               </div>
 
           <div className={styles.card}>
-           <h2 className={styles.chapter}>Jeremiah Chpt II</h2>
+           <h2 className={styles.chapter}>Zachariah Chpt II</h2>
             <p>
-  
+
+A Man With a Measuring Line
+2 [a]Then I looked up, and there before me was a man with a measuring line in his hand. 2 I asked, “Where are you going?”
+
+He answered me, “To measure Jerusalem, to find out how wide and how long it is.”
+
+3 While the angel who was speaking to me was leaving, another angel came to meet him 4 and said to him: “Run, tell that young man, ‘Jerusalem will be a city without walls because of the great number of people and animals in it. 5 And I myself will be a wall of fire around it,’ declares the Lord, ‘and I will be its glory within.’
+
+6 “Come! Come! Flee from the land of the north,” declares the Lord, “for I have scattered you to the four winds of heaven,” declares the Lord.
+
+7 “Come, Zion! Escape, you who live in Daughter Babylon!” 8 For this is what the Lord Almighty says: “After the Glorious One has sent me against the nations that have plundered you—for whoever touches you touches the apple of his eye— 9 I will surely raise my hand against them so that their slaves will plunder them.[b] Then you will know that the Lord Almighty has sent me.
+
+10 “Shout and be glad, Daughter Zion. For I am coming, and I will live among you,” declares the Lord. 11 “Many nations will be joined with the Lord in that day and will become my people. I will live among you and you will know that the Lord Almighty has sent me to you. 12 The Lord will inherit Judah as his portion in the holy land and will again choose Jerusalem. 13 Be still before the Lord, all mankind, because he has roused himself from his holy dwelling.”                                  
             </p>
           </div>
 
           <div
             className={styles.card}
           >
-           <h2 className={styles.chapter}>Jeremiah Chpt III</h2>
+           <h2 className={styles.chapter}>Zachariah Chpt III</h2>
             <p>
- 
+ Clean Garments for the High Priest
+3 Then he showed me Joshua the high priest standing before the angel of the Lord, and Satan[a] standing at his right side to accuse him. 2 The Lord said to Satan, “The Lord rebuke you, Satan! The Lord, who has chosen Jerusalem, rebuke you! Is not this man a burning stick snatched from the fire?”
+
+3 Now Joshua was dressed in filthy clothes as he stood before the angel. 4 The angel said to those who were standing before him, “Take off his filthy clothes.”
+
+Then he said to Joshua, “See, I have taken away your sin, and I will put fine garments on you.”
+
+5 Then I said, “Put a clean turban on his head.” So they put a clean turban on his head and clothed him, while the angel of the Lord stood by.
+
+6 The angel of the Lord gave this charge to Joshua: 7 “This is what the Lord Almighty says: ‘If you will walk in obedience to me and keep my requirements, then you will govern my house and have charge of my courts, and I will give you a place among these standing here.
+
+8 “‘Listen, High Priest Joshua, you and your associates seated before you, who are men symbolic of things to come: I am going to bring my servant, the Branch. 9 See, the stone I have set in front of Joshua! There are seven eyes[b] on that one stone, and I will engrave an inscription on it,’ says the Lord Almighty, ‘and I will remove the sin of this land in a single day.
+
+10 “‘In that day each of you will invite your neighbor to sit under your vine and fig tree,’ declares the Lord Almighty.”
+
               
               </p>
           </div>
 <div className={styles.card}>
 
-<h2 className={styles.chapter}>Jeremiah Chpt IV</h2>
+<h2 className={styles.chapter}>Zachariah Chpt IV</h2>
 <p>
+The Gold Lampstand and the Two Olive Trees
+4 Then the angel who talked with me returned and woke me up, like someone awakened from sleep. 2 He asked me, “What do you see?”
+
+I answered, “I see a solid gold lampstand with a bowl at the top and seven lamps on it, with seven channels to the lamps. 3 Also there are two olive trees by it, one on the right of the bowl and the other on its left.”
+
+4 I asked the angel who talked with me, “What are these, my lord?”
+
+5 He answered, “Do you not know what these are?”
+
+“No, my lord,” I replied.
+
+6 So he said to me, “This is the word of the Lord to Zerubbabel: ‘Not by might nor by power, but by my Spirit,’ says the Lord Almighty.
+
+7 “What are you, mighty mountain? Before Zerubbabel you will become level ground. Then he will bring out the capstone to shouts of ‘God bless it! God bless it!’”
+
+8 Then the word of the Lord came to me: 9 “The hands of Zerubbabel have laid the foundation of this temple; his hands will also complete it. Then you will know that the Lord Almighty has sent me to you.
+
+10 “Who dares despise the day of small things, since the seven eyes of the Lord that range throughout the earth will rejoice when they see the chosen capstone[a] in the hand of Zerubbabel?”
+
+11 Then I asked the angel, “What are these two olive trees on the right and the left of the lampstand?”
+
+12 Again I asked him, “What are these two olive branches beside the two gold pipes that pour out golden oil?”
+
+13 He replied, “Do you not know what these are?”
+
+“No, my lord,” I said.
+
+14 So he said, “These are the two who are anointed to[b] serve the Lord of all the earth.”
 
   
 </p>
@@ -6705,163 +6795,392 @@ he will bring down his anger with fury,
 
                                       <div className={styles.card}>
 
-                                      <h2 className={styles.chapter}>Jeremiah Chpt V</h2>
+                                      <h2 className={styles.chapter}>Zachariah Chpt V</h2>
                                       <p>
 
-                                      
-                                        </p>
+                                      The Flying Scroll
+5 I looked again, and there before me was a flying scroll.
+
+2 He asked me, “What do you see?”
+
+I answered, “I see a flying scroll, twenty cubits long and ten cubits wide.[a]”
+
+3 And he said to me, “This is the curse that is going out over the whole land; for according to what it says on one side, every thief will be banished, and according to what it says on the other, everyone who swears falsely will be banished. 4 The Lord Almighty declares, ‘I will send it out, and it will enter the house of the thief and the house of anyone who swears falsely by my name. It will remain in that house and destroy it completely, both its timbers and its stones.’”
+
+The Woman in a Basket
+5 Then the angel who was speaking to me came forward and said to me, “Look up and see what is appearing.”
+
+6 I asked, “What is it?”
+
+He replied, “It is a basket.” And he added, “This is the iniquity[b] of the people throughout the land.”
+
+7 Then the cover of lead was raised, and there in the basket sat a woman! 8 He said, “This is wickedness,” and he pushed her back into the basket and pushed its lead cover down on it.
+
+9 Then I looked up—and there before me were two women, with the wind in their wings! They had wings like those of a stork, and they lifted up the basket between heaven and earth.
+
+10 “Where are they taking the basket?” I asked the angel who was speaking to me.
+
+11 He replied, “To the country of Babylonia[c] to build a house for it. When the house is ready, the basket will be set there in its place.”                                        </p>
                                       </div>
   
                                         <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Jeremiah Chpt VI</h2>
+                                        <h2 className={styles.chapter}>Zachariah Chpt VI</h2>
                                         <p>
                                       
-  
-                                        </p>
+  Four Chariots
+6 I looked up again, and there before me were four chariots coming out from between two mountains—mountains of bronze. 2 The first chariot had red horses, the second black, 3 the third white, and the fourth dappled—all of them powerful. 4 I asked the angel who was speaking to me, “What are these, my lord?”
+
+5 The angel answered me, “These are the four spirits[a] of heaven, going out from standing in the presence of the Lord of the whole world. 6 The one with the black horses is going toward the north country, the one with the white horses toward the west,[b] and the one with the dappled horses toward the south.”
+
+7 When the powerful horses went out, they were straining to go throughout the earth. And he said, “Go throughout the earth!” So they went throughout the earth.
+
+8 Then he called to me, “Look, those going toward the north country have given my Spirit[c] rest in the land of the north.”
+
+A Crown for Joshua
+9 The word of the Lord came to me: 10 “Take silver and gold from the exiles Heldai, Tobijah and Jedaiah, who have arrived from Babylon. Go the same day to the house of Josiah son of Zephaniah. 
+  11 Take the silver and gold and make a crown, and set it on the head of the high priest, Joshua son of Jozadak.[d] 12 Tell him this is what the Lord Almighty says:
+‘Here is the man whose name is the Branch, and he will branch out from his place and build the temple of the Lord. 13 It is he who will build the temple of the Lord, 
+  and he will be clothed with majesty and will sit and rule on his throne. And he[e] will be a priest on his throne. And there will be harmony between the two.’ 
+  14 The crown will be given to Heldai,[f] Tobijah, Jedaiah and Hen[g] son of Zephaniah as a memorial in the temple of the Lord. 
+    15 Those who are far away will come and help to build the temple of the Lord, and you will know that the Lord Almighty has sent me to you. This will happen if you diligently obey the Lord your God.”  
+    </p>
                                         </div>
 
-                              <div className={styles.card}>
-
-                                        <h2 className={styles.chapter}>Jeremiah Chpt VI</h2>
-                                        <p>
-                                        
-
-                                
-                                                                                    </p>
-                                                                           </div>
+                             
                                     <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Jeremiah Chpt VII </h2>
+                                        <h2 className={styles.chapter}>Zachariah Chpt VII </h2>
                                         <p>
+The Lord Promises to Bless Jerusalem
+8 The word of the Lord Almighty came to me.
 
-                                   
+2 This is what the Lord Almighty says: “I am very jealous for Zion; I am burning with jealousy for her.”
+
+3 This is what the Lord says: “I will return to Zion and dwell in Jerusalem. Then Jerusalem will be called the Faithful City, and the mountain of the Lord Almighty will be called the Holy Mountain.”
+
+4 This is what the Lord Almighty says: “Once again men and women of ripe old age will sit in the streets of Jerusalem, each of them with cane in hand because of their age. 5 The city streets will be filled with boys and girls playing there.”
+
+6 This is what the Lord Almighty says: “It may seem marvelous to the remnant of this people at that time, but will it seem marvelous to me?” declares the Lord Almighty.
+
+7 This is what the Lord Almighty says: “I will save my people from the countries of the east and the west. 8 I will bring them back to live in Jerusalem; they will be my people, and I will be faithful and righteous to them as their God.”
+
+9 This is what the Lord Almighty says: “Now hear these words, ‘Let your hands be strong so that the temple may be built.’ This is also what the prophets said who were present when the foundation was laid for the house of the Lord Almighty. 10 Before that time there were no wages for people or hire for animals. No one could go about their business safely because of their enemies, since I had turned everyone against their neighbor. 11 But now I will not deal with the remnant of this people as I did in the past,” declares the Lord Almighty.
+
+12 “The seed will grow well, the vine will yield its fruit, the ground will produce its crops, and the heavens will drop their dew. I will give all these things as an inheritance to the remnant of this people. 13 Just as you, Judah and Israel, have been a curse[a] among the nations, so I will save you, and you will be a blessing.[b] Do not be afraid, but let your hands be strong.”
+
+14 This is what the Lord Almighty says: “Just as I had determined to bring disaster on you and showed no pity when your ancestors angered me,” says the Lord Almighty, 15 “so now I have determined to do good again to Jerusalem and Judah. Do not be afraid. 16 These are the things you are to do: Speak the truth to each other, and render true and sound judgment in your courts; 17 do not plot evil against each other, and do not love to swear falsely. I hate all this,” declares the Lord.
+
+18 The word of the Lord Almighty came to me.
+
+19 This is what the Lord Almighty says: “The fasts of the fourth, fifth, seventh and tenth months will become joyful and glad occasions and happy festivals for Judah. Therefore love truth and peace.”
+
+20 This is what the Lord Almighty says: “Many peoples and the inhabitants of many cities will yet come, 21 and the inhabitants of one city will go to another and say, ‘Let us go at once to entreat the Lord and seek the Lord Almighty. I myself am going.’ 22 And many peoples and powerful nations will come to Jerusalem to seek the Lord Almighty and to entreat him.”
+
+23 This is what the Lord Almighty says: “In those days ten people from all languages and nations will take firm hold of one Jew by the hem of his robe and say, ‘Let us go with you, because we have heard that God is with you.’”
                                         </p>
                                   </div>
 
 
+                                  <div className={styles.card}>
 
+                                        <h2 className={styles.chapter}>Zachariah Chpt VIII </h2>
+                                        <p>
+
+                                   The Lord Promises to Bless Jerusalem
+8 The word of the Lord Almighty came to me.
+
+2 This is what the Lord Almighty says: “I am very jealous for Zion; I am burning with jealousy for her.”
+
+3 This is what the Lord says: “I will return to Zion and dwell in Jerusalem. Then Jerusalem will be called the Faithful City, and the mountain of the Lord Almighty will be called the Holy Mountain.”
+
+4 This is what the Lord Almighty says: “Once again men and women of ripe old age will sit in the streets of Jerusalem, each of them with cane in hand because of their age. 5 The city streets will be filled with boys and girls playing there.”
+
+6 This is what the Lord Almighty says: “It may seem marvelous to the remnant of this people at that time, but will it seem marvelous to me?” declares the Lord Almighty.
+
+7 This is what the Lord Almighty says: “I will save my people from the countries of the east and the west. 8 I will bring them back to live in Jerusalem; they will be my people, and I will be faithful and righteous to them as their God.”
+
+9 This is what the Lord Almighty says: “Now hear these words, ‘Let your hands be strong so that the temple may be built.’ This is also what the prophets said who were present when the foundation was laid for the house of the Lord Almighty. 10 Before that time there were no wages for people or hire for animals. No one could go about their business safely because of their enemies, since I had turned everyone against their neighbor. 11 But now I will not deal with the remnant of this people as I did in the past,” declares the Lord Almighty.
+
+12 “The seed will grow well, the vine will yield its fruit, the ground will produce its crops, and the heavens will drop their dew. I will give all these things as an inheritance to the remnant of this people. 13 Just as you, Judah and Israel, have been a curse[a] among the nations, so I will save you, and you will be a blessing.[b] Do not be afraid, but let your hands be strong.”
+
+14 This is what the Lord Almighty says: “Just as I had determined to bring disaster on you and showed no pity when your ancestors angered me,” says the Lord Almighty, 15 “so now I have determined to do good again to Jerusalem and Judah. Do not be afraid. 16 These are the things you are to do: Speak the truth to each other, and render true and sound judgment in your courts; 17 do not plot evil against each other, and do not love to swear falsely. I hate all this,” declares the Lord.
+
+18 The word of the Lord Almighty came to me.
+
+19 This is what the Lord Almighty says: “The fasts of the fourth, fifth, seventh and tenth months will become joyful and glad occasions and happy festivals for Judah. Therefore love truth and peace.”
+
+20 This is what the Lord Almighty says: “Many peoples and the inhabitants of many cities will yet come, 21 and the inhabitants of one city will go to another and say, ‘Let us go at once to entreat the Lord and seek the Lord Almighty. I myself am going.’ 22 And many peoples and powerful nations will come to Jerusalem to seek the Lord Almighty and to entreat him.”
+
+23 This is what the Lord Almighty says: “In those days ten people from all languages and nations will take firm hold of one Jew by the hem of his robe and say, ‘Let us go with you, because we have heard that God is with you.’”                                        </p>
+                                  </div>
+
+              
 
                                 <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Jeremiah Chpt IX</h2>
+                                        <h2 className={styles.chapter}>Zachariah Chpt IX</h2>
                                         <p>
+Judgment on Israel’s Enemies
+9 A prophecy:
 
-                                          
+The word of the Lord is against the land of Hadrak
+    and will come to rest on Damascus—
+for the eyes of all people and all the tribes of Israel
+    are on the Lord—[a]
+2 and on Hamath too, which borders on it,
+    and on Tyre and Sidon, though they are very skillful.
+3 Tyre has built herself a stronghold;
+    she has heaped up silver like dust,
+    and gold like the dirt of the streets.
+4 But the Lord will take away her possessions
+    and destroy her power on the sea,
+    and she will be consumed by fire.
+5 Ashkelon will see it and fear;
+    Gaza will writhe in agony,
+    and Ekron too, for her hope will wither.
+Gaza will lose her king
+    and Ashkelon will be deserted.
+6 A mongrel people will occupy Ashdod,
+    and I will put an end to the pride of the Philistines.
+7 I will take the blood from their mouths,
+    the forbidden food from between their teeth.
+Those who are left will belong to our God
+    and become a clan in Judah,
+    and Ekron will be like the Jebusites.
+8 But I will encamp at my temple
+    to guard it against marauding forces.
+Never again will an oppressor overrun my people,
+    for now I am keeping watch.
+
+The Coming of Zion’s King
+9 Rejoice greatly, Daughter Zion!
+    Shout, Daughter Jerusalem!
+See, your king comes to you,
+    righteous and victorious,
+lowly and riding on a donkey,
+    on a colt, the foal of a donkey.
+10 I will take away the chariots from Ephraim
+    and the warhorses from Jerusalem,
+    and the battle bow will be broken.
+He will proclaim peace to the nations.
+    His rule will extend from sea to sea
+    and from the River[b] to the ends of the earth.
+11 As for you, because of the blood of my covenant with you,
+    I will free your prisoners from the waterless pit.
+12 Return to your fortress, you prisoners of hope;
+    even now I announce that I will restore twice as much to you.
+13 I will bend Judah as I bend my bow
+    and fill it with Ephraim.
+I will rouse your sons, Zion,
+    against your sons, Greece,
+    and make you like a warrior’s sword.
+
+The Lord Will Appear
+14 Then the Lord will appear over them;
+    his arrow will flash like lightning.
+The Sovereign Lord will sound the trumpet;
+    he will march in the storms of the south,
+15     and the Lord Almighty will shield them.
+They will destroy
+    and overcome with slingstones.
+They will drink and roar as with wine;
+    they will be full like a bowl
+    used for sprinkling[c] the corners of the altar.
+16 The Lord their God will save his people on that day
+    as a shepherd saves his flock.
+They will sparkle in his land
+    like jewels in a crown.
+17 How attractive and beautiful they will be!
+    Grain will make the young men thrive,
+    and new wine the young women.                                          
                                         </p>
                                   </div>
                                   <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Jeremiah Chpt X </h2>
+                                        <h2 className={styles.chapter}>Zachariah Chpt X </h2>
                                         <p>
                               
-                                          
-                                          </p>
+                                          The Lord Will Care for Judah
+10 Ask the Lord for rain in the springtime;
+    it is the Lord who sends the thunderstorms.
+He gives showers of rain to all people,
+    and plants of the field to everyone.
+2 The idols speak deceitfully,
+    diviners see visions that lie;
+they tell dreams that are false,
+    they give comfort in vain.
+Therefore the people wander like sheep
+    oppressed for lack of a shepherd.
+
+3 “My anger burns against the shepherds,
+    and I will punish the leaders;
+for the Lord Almighty will care
+    for his flock, the people of Judah,
+    and make them like a proud horse in battle.
+4 From Judah will come the cornerstone,
+    from him the tent peg,
+from him the battle bow,
+    from him every ruler.
+5 Together they[a] will be like warriors in battle
+    trampling their enemy into the mud of the streets.
+They will fight because the Lord is with them,
+    and they will put the enemy horsemen to shame.
+
+6 “I will strengthen Judah
+    and save the tribes of Joseph.
+I will restore them
+    because I have compassion on them.
+They will be as though
+    I had not rejected them,
+for I am the Lord their God
+    and I will answer them.
+7 The Ephraimites will become like warriors,
+    and their hearts will be glad as with wine.
+Their children will see it and be joyful;
+    their hearts will rejoice in the Lord.
+8 I will signal for them
+    and gather them in.
+Surely I will redeem them;
+    they will be as numerous as before.
+9 Though I scatter them among the peoples,
+    yet in distant lands they will remember me.
+They and their children will survive,
+    and they will return.
+10 I will bring them back from Egypt
+    and gather them from Assyria.
+I will bring them to Gilead and Lebanon,
+    and there will not be room enough for them.
+11 They will pass through the sea of trouble;
+    the surging sea will be subdued
+    and all the depths of the Nile will dry up.
+Assyria’s pride will be brought down
+    and Egypt’s scepter will pass away.
+12 I will strengthen them in the Lord
+    and in his name they will live securely,”
+declares the Lord.                                          </p>
                                   </div>
 
                                    <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Jeremiah Chpt XI </h2>
+                                        <h2 className={styles.chapter}>Zachariah Chpt XI </h2>
                                         <p>
-                                    
+
+11 Open your doors, Lebanon,
+    so that fire may devour your cedars!
+2 Wail, you juniper, for the cedar has fallen;
+    the stately trees are ruined!
+Wail, oaks of Bashan;
+    the dense forest has been cut down!
+3 Listen to the wail of the shepherds;
+    their rich pastures are destroyed!
+Listen to the roar of the lions;
+    the lush thicket of the Jordan is ruined!
+
+Two Shepherds
+4 This is what the Lord my God says: “Shepherd the flock marked for slaughter. 5 Their buyers slaughter them and go unpunished. Those who sell them say, ‘Praise the Lord, I am rich!’ Their own shepherds do not spare them. 6 For I will no longer have pity on the people of the land,” declares the Lord. “I will give everyone into the hands of their neighbors and their king. They will devastate the land, and I will not rescue anyone from their hands.”
+
+7 So I shepherded the flock marked for slaughter, particularly the oppressed of the flock. Then I took two staffs and called one Favor and the other Union, and I shepherded the flock. 8 In one month I got rid of the three shepherds.
+
+The flock detested me, and I grew weary of them 9 and said, “I will not be your shepherd. Let the dying die, and the perishing perish. Let those who are left eat one another’s flesh.”
+
+10 Then I took my staff called Favor and broke it, revoking the covenant I had made with all the nations. 11 It was revoked on that day, and so the oppressed of the flock who were watching me knew it was the word of the Lord.
+
+12 I told them, “If you think it best, give me my pay; but if not, keep it.” So they paid me thirty pieces of silver.
+
+13 And the Lord said to me, “Throw it to the potter”—the handsome price at which they valued me! So I took the thirty pieces of silver and threw them to the potter at the house of the Lord.
+
+14 Then I broke my second staff called Union, breaking the family bond between Judah and Israel.
+
+15 Then the Lord said to me, “Take again the equipment of a foolish shepherd. 16 For I am going to raise up a shepherd over the land who will not care for the lost, or seek the young, or heal the injured, or feed the healthy, but will eat the meat of the choice sheep, tearing off their hooves.
+
+17 “Woe to the worthless shepherd,
+    who deserts the flock!
+May the sword strike his arm and his right eye!
+    May his arm be completely withered,
+    his right eye totally blinded!”              
                                             </p>
                                     </div>
 
                                      <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Jeremiah Chpt XII </h2>
+                                        <h2 className={styles.chapter}>Zachariah Chpt XII </h2>
                                         <p>
-                                       
-                                                  
+                                       Jerusalem’s Enemies to Be Destroyed
+12 A prophecy: The word of the Lord concerning Israel.
+
+The Lord, who stretches out the heavens, who lays the foundation of the earth, and who forms the human spirit within a person, declares: 2 “I am going to make Jerusalem a cup that sends all the surrounding peoples reeling. Judah will be besieged as well as Jerusalem. 3 On that day, when all the nations of the earth are gathered against her, I will make Jerusalem an immovable rock for all the nations. All who try to move it will injure themselves. 4 On that day I will strike every horse with panic and its rider with madness,” declares the Lord. “I will keep a watchful eye over Judah, but I will blind all the horses of the nations. 5 Then the clans of Judah will say in their hearts, ‘The people of Jerusalem are strong, because the Lord Almighty is their God.’
+
+6 “On that day I will make the clans of Judah like a firepot in a woodpile, like a flaming torch among sheaves. They will consume all the surrounding peoples right and left, but Jerusalem will remain intact in her place.
+
+7 “The Lord will save the dwellings of Judah first, so that the honor of the house of David and of Jerusalem’s inhabitants may not be greater than that of Judah. 8 On that day the Lord will shield those who live in Jerusalem, so that the feeblest among them will be like David, and the house of David will be like God, like the angel of the Lord going before them. 9 On that day I will set out to destroy all the nations that attack Jerusalem.
+
+Mourning for the One They Pierced
+10 “And I will pour out on the house of David and the inhabitants of Jerusalem a spirit[a] of grace and supplication. They will look on[b] me, the one they have pierced, and they will mourn for him as one mourns for an only child, and grieve bitterly for him as one grieves for a firstborn son. 11 On that day the weeping in Jerusalem will be as great as the weeping of Hadad Rimmon in the plain of Megiddo. 12 The land will mourn, each clan by itself, with their wives by themselves: the clan of the house of David and their wives, the clan of the house of Nathan and their wives, 13 the clan of the house of Levi and their wives, the clan of Shimei and their wives, 14 and all the rest of the clans and their wives.                                                  
                                                   </p>
                                     </div>
 
                                      <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Jeremiah Chpt XIII </h2>
+                                        <h2 className={styles.chapter}>Zachariah Chpt XIII </h2>
                                         <p>
-                                              
-                                                  </p>
+                                              Cleansing From Sin
+13 “On that day a fountain will be opened to the house of David and the inhabitants of Jerusalem, to cleanse them from sin and impurity.
+
+2 “On that day, I will banish the names of the idols from the land, and they will be remembered no more,” declares the Lord Almighty. “I will remove both the prophets and the spirit of impurity from the land. 3 And if anyone still prophesies, their father and mother, to whom they were born, will say to them, ‘You must die, because you have told lies in the Lord’s name.’ Then their own parents will stab the one who prophesies.
+
+4 “On that day every prophet will be ashamed of their prophetic vision. They will not put on a prophet’s garment of hair in order to deceive. 5 Each will say, ‘I am not a prophet. I am a farmer; the land has been my livelihood since my youth.[a]’ 6 If someone asks, ‘What are these wounds on your body[b]?’ they will answer, ‘The wounds I was given at the house of my friends.’
+
+The Shepherd Struck, the Sheep Scattered
+7 “Awake, sword, against my shepherd,
+    against the man who is close to me!”
+    declares the Lord Almighty.
+“Strike the shepherd,
+    and the sheep will be scattered,
+    and I will turn my hand against the little ones.
+8 In the whole land,” declares the Lord,
+    “two-thirds will be struck down and perish;
+    yet one-third will be left in it.
+9 This third I will put into the fire;
+    I will refine them like silver
+    and test them like gold.
+They will call on my name
+    and I will answer them;
+I will say, ‘They are my people,’
+    and they will say, ‘The Lord is our God.’”
+      
+      </p>
                                     </div>
 
                                    <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Jeremiah Chpt XIV </h2>
+                                        <h2 className={styles.chapter}>Zachariah Chpt XIV </h2>
                                         <p>
                                         
-                                                    
+The Lord Comes and Reigns
+14 A day of the Lord is coming, Jerusalem, when your possessions will be plundered and divided up within your very walls.
+
+2 I will gather all the nations to Jerusalem to fight against it; the city will be captured, the houses ransacked, and the women raped. Half of the city will go into exile, but the rest of the people will not be taken from the city. 3 Then the Lord will go out and fight against those nations, as he fights on a day of battle. 4 On that day his feet will stand on the Mount of Olives, east of Jerusalem, and the Mount of Olives will be split in two from east to west, forming a great valley, with half of the mountain moving north and half moving south. 5 You will flee by my mountain valley, for it will extend to Azel. You will flee as you fled from the earthquake[a] in the days of Uzziah king of Judah. Then the Lord my God will come, and all the holy ones with him.
+
+6 On that day there will be neither sunlight nor cold, frosty darkness. 7 It will be a unique day—a day known only to the Lord—with no distinction between day and night. When evening comes, there will be light.
+
+8 On that day living water will flow out from Jerusalem, half of it east to the Dead Sea and half of it west to the Mediterranean Sea, in summer and in winter.
+
+9 The Lord will be king over the whole earth. On that day there will be one Lord, and his name the only name.
+
+10 The whole land, from Geba to Rimmon, south of Jerusalem, will become like the Arabah. But Jerusalem will be raised up high from the Benjamin Gate to the site of the First Gate, to the Corner Gate, and from the Tower of Hananel to the royal winepresses, and will remain in its place. 11 It will be inhabited; never again will it be destroyed. Jerusalem will be secure.
+
+12 This is the plague with which the Lord will strike all the nations that fought against Jerusalem: Their flesh will rot while they are still standing on their feet, their eyes will rot in their sockets, and their tongues will rot in their mouths. 13 On that day people will be stricken by the Lord with great panic. They will seize each other by the hand and attack one another. 14 Judah too will fight at Jerusalem. The wealth of all the surrounding nations will be collected—great quantities of gold and silver and clothing. 15 A similar plague will strike the horses and mules, the camels and donkeys, and all the animals in those camps.
+
+16 Then the survivors from all the nations that have attacked Jerusalem will go up year after year to worship the King, the Lord Almighty, and to celebrate the Festival of Tabernacles. 17 If any of the peoples of the earth do not go up to Jerusalem to worship the King, the Lord Almighty, they will have no rain. 18 If the Egyptian people do not go up and take part, they will have no rain. The Lord[b] will bring on them the plague he inflicts on the nations that do not go up to celebrate the Festival of Tabernacles. 19 This will be the punishment of Egypt and the punishment of all the nations that do not go up to celebrate the Festival of Tabernacles.
+
+20 On that day holy to the Lord will be inscribed on the bells of the horses, and the cooking pots in the Lord’s house will be like the sacred bowls in front of the altar. 21 Every pot in Jerusalem and Judah will be holy to the Lord Almighty, and all who come to sacrifice will take some of the pots and cook in them. And on that day there will no longer be a Canaanite[c] in the house of the Lord Almighty.
+
+
                                                     </p>
                                     </div>
 
-                                   <div className={styles.card}>
-
-                                        <h2 className={styles.chapter}>Jeremiah Chpt XV </h2>
-                                        <p>
-                                 
-                                                      
-                                                      </p>
-                                    </div>
-
-
-                                   <div className={styles.card}>
-
-                                        <h2 className={styles.chapter}>Jeremiah Chpt XVI </h2>
-                                        <p>
-
-                                            
-
-                                                          </p>
-                                    </div>
-
-                                     <div className={styles.card}>
-
-                                        <h2 className={styles.chapter}>Jeremiah Chpt XVII </h2>
-                                        <p>
-                                        
-                                                        
-                                                        </p>
-                                    </div>
-
-                                     <div className={styles.card}>
-
-                                        <h2 className={styles.chapter}>Jeremiah Chpt XVIII </h2>
-                                        <p>
-                                    
-                                                </p>
-                                    </div>
-
-                                   <div className={styles.card}>
-
-                                        <h2 className={styles.chapter}>Jeremiah Chpt XIX </h2>
-                                        <p>
-                                        
-                                                  </p>
-                                    </div>
-
-                                   <div className={styles.card}>
-
-                                        <h2 className={styles.chapter}>Jeremiah Chpt XX </h2>
-                                        <p>
-                                             
-                                          </p>
-                                    </div>
-
-                                     <div className={styles.card}>
-
-                                        <h2 className={styles.chapter}>Jeremiah Chpt XXI </h2>
-                                        <p>
-                                      
-                                                    
-                                        </p>
-                                    </div>
-
-                                     <div className={styles.card}>
-
-                                        <h2 className={styles.chapter}>Jeremiah Chpt XXII </h2>
-                                        <p>
-                                                 
-                                                          </p>
-                                    </div>
+                                   
                             </div>
                       </div>
               
