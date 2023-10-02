@@ -7253,7 +7253,7 @@ The Lord Comes and Reigns
  
       <div className={styles.grid3}>
           <div className={styles.card}>
-            <h2 className={styles.chapter}>Malachi Chpt I</h2>
+            <h2 className={styles.chapter3}>Malachi Chpt I</h2>
             <p>
 1 A prophecy: The word of the Lord to Israel through Malachi.[a]
 
@@ -7294,7 +7294,7 @@ Breaking Covenant Through Blemished Sacrifices
               </div>
 
           <div className={styles.card}>
-           <h2 className={styles.chapter}>Malachi Chpt II</h2>
+           <h2 className={styles.chapter3}>Malachi Chpt II</h2>
             <p>
   Additional Warning to the Priests
 2 “And now, you priests, this warning is for you. 2 If you do not listen, and if you do not resolve to honor my name,” says the Lord Almighty, “I will send a curse on you, and I will curse your blessings. Yes, I have already cursed them, because you have not resolved to honor me.
@@ -7329,7 +7329,7 @@ By saying, “All who do evil are good in the eyes of the Lord, and he is please
           <div
             className={styles.card}
           >
-           <h2 className={styles.chapter}>Malachi Chpt III</h2>
+           <h2 className={styles.chapter3}>Malachi Chpt III</h2>
             <p>
  
               3 “I will send my messenger, who will prepare the way before me. Then suddenly the Lord you are seeking will come to his temple; the messenger of the covenant, whom you desire, will come,” says the Lord Almighty.
@@ -7363,7 +7363,7 @@ The Faithful Remnant
           </div>
 <div className={styles.card}>
 
-<h2 className={styles.chapter}>Malachi Chpt IV</h2>
+<h2 className={styles.chapter3}>Malachi Chpt IV</h2>
 <p>
 Judgment and Covenant Renewal
 4 [a]“Surely the day is coming; it will burn like a furnace. All the arrogant and every evildoer will be stubble, and the day that is coming will set them on fire,” says the Lord Almighty. “Not a root or a branch will be left to them. 2 But for you who revere my name, the sun of righteousness will rise with healing in its rays. And you will go out and frolic like well-fed calves. 3 Then you will trample on the wicked; they will be ashes under the soles of your feet on the day when I act,” says the Lord Almighty.
