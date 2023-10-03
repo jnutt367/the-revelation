@@ -7383,7 +7383,7 @@ The Lord Comes and Reigns
                 </div> 
  
       <div className={styles.grid5}>
-          <div className={styles.card3}>
+          <div className={styles.card}>
             <h2 className={styles.chapter3}>Malachi Chpt I</h2>
             <p>
 1 A prophecy: The word of the Lord to Israel through Malachi.[a]
@@ -7424,7 +7424,7 @@ Breaking Covenant Through Blemished Sacrifices
                                   </p>
               </div>
 
-          <div className={styles.card3}>
+          <div className={styles.card}>
            <h2 className={styles.chapter3}>Malachi Chpt II</h2>
             <p>
   Additional Warning to the Priests
