@@ -369,6 +369,25 @@
     border-radius: 50%;
 } 
 
+.nav6 {
+    background-color: #590738;
+    color: white;
+    opacity: 1;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: sticky;
+}
+
+.nav6 a:hover {
+    scale: 1.1;
+    background-color: black;
+    opacity: 0.8;
+    border: 2px dotted whitesmoke;
+    border-radius: 50%;
+} 
+
 
 
 .button {
@@ -431,7 +450,14 @@
     flex-wrap: wrap;    
 }
 
-
+.grid6 {
+    background-color: #590738;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;    
+}
 
 
 .h2 {
@@ -602,6 +628,24 @@
     padding-bottom: 5px;
     font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
 }
+
+.chapter6 {
+    background-color: #590738;
+    color: white;
+    opacity: 0.8;
+    opacity: 1;
+    position: sticky;
+    z-index: 1;
+    width: 100%;
+    font-weight: 200;
+    text-align: center;
+    top: 0px;
+    margin: 0;
+    padding-top: 25px;
+    padding-bottom: 5px;
+    font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+}
+
 
 
 .card:hover,
