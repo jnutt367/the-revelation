@@ -6602,7 +6602,138 @@ he will bring down his anger with fury,
       </main>
 
 
+ <main id="haggai" className={styles.main}>
+      
+       
+       
+        <div className={styles.hero}>
+           <h2 className={styles.holy}>THE WORD</h2>
+                <h1 className={styles.bible}>
+                    <a href="https://the-holy-bible.vercel.app/" target="_blank">OF GOD</a>
+                </h1>
+        
+        <h1 className={styles.title}>
+          HAGGAI
+        </h1>
+         <div  className={styles.image}>
+       <Image 
+                                src="/haggai.png"
+                                alt="haggai image"
+                                height={900}
+                                width={2000}
+                                priority
+                              />
+        </div>
+<p className={styles.parables}>
+      Haggai is in the develpopment stages....                                
+</p>
+                      <div className={styles.nav3}>           
+      <a href="https://galatians.vercel.app/#first_peter">
+             <Image 
+                                src="/previous.webp"
+                                alt="left"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+       </a>
 
+         <a href="#PayPalButton">
+            <Image 
+                                src="/upward_pointing.webp"
+                                alt="home"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         <a href="https://the-word-of-god.vercel.app/">
+           <Image 
+                                src="/next.webp"
+                                alt="right"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         
+               </div>
+  
+                <div className={styles.iframe}>
+                     <iframe width="100%" height="315" src="https://www.youtube.com/embed/HPGShWZ4Jvk?si=kz_uXOqmquqVkocd?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div> 
+ 
+      <div className={styles.grid3}>
+          <div className={styles.card}>
+            <h2 className={styles.chapter3}>Haggai Chpt I</h2>
+            <p>
+A Call to Build the House of the Lord
+1 In the second year of King Darius, on the first day of the sixth month, the word of the Lord came through the prophet Haggai to Zerubbabel son of Shealtiel, governor of Judah, and to Joshua son of Jozadak,[a] the high priest:
+
+2 This is what the Lord Almighty says: “These people say, ‘The time has not yet come to rebuild the Lord’s house.’”
+
+3 Then the word of the Lord came through the prophet Haggai: 4 “Is it a time for you yourselves to be living in your paneled houses, while this house remains a ruin?”
+
+5 Now this is what the Lord Almighty says: “Give careful thought to your ways. 6 You have planted much, but harvested little. You eat, but never have enough. You drink, but never have your fill. You put on clothes, but are not warm. You earn wages, only to put them in a purse with holes in it.”
+
+7 This is what the Lord Almighty says: “Give careful thought to your ways. 8 Go up into the mountains and bring down timber and build my house, so that I may take pleasure in it and be honored,” says the Lord. 9 “You expected much, but see, it turned out to be little. What you brought home, I blew away. Why?” declares the Lord Almighty. “Because of my house, which remains a ruin, while each of you is busy with your own house. 10 Therefore, because of you the heavens have withheld their dew and the earth its crops. 11 I called for a drought on the fields and the mountains, on the grain, the new wine, the olive oil and everything else the ground produces, on people and livestock, and on all the labor of your hands.”
+
+12 Then Zerubbabel son of Shealtiel, Joshua son of Jozadak, the high priest, and the whole remnant of the people obeyed the voice of the Lord their God and the message of the prophet Haggai, because the Lord their God had sent him. And the people feared the Lord.
+
+13 Then Haggai, the Lord’s messenger, gave this message of the Lord to the people: “I am with you,” declares the Lord. 14 So the Lord stirred up the spirit of Zerubbabel son of Shealtiel, governor of Judah, and the spirit of Joshua son of Jozadak, the high priest, and the spirit of the whole remnant of the people. They came and began to work on the house of the Lord Almighty, their God, 15 on the twenty-fourth day of the sixth month.
+
+The Promised Glory of the New House
+In the second year of King Darius,
+
+  
+                                  </p>
+              </div>
+
+          <div className={styles.card}>
+           <h2 className={styles.chapter3}>Haggai Chpt II</h2>
+            <p>
+
+2 1 on the twenty-first day of the seventh month, the word of the Lord came through the prophet Haggai: 2 “Speak to Zerubbabel son of Shealtiel, governor of Judah, to Joshua son of Jozadak,[a] the high priest, and to the remnant of the people. Ask them, 3 ‘Who of you is left who saw this house in its former glory? How does it look to you now? Does it not seem to you like nothing? 4 But now be strong, Zerubbabel,’ declares the Lord. ‘Be strong, Joshua son of Jozadak, the high priest. Be strong, all you people of the land,’ declares the Lord, ‘and work. For I am with you,’ declares the Lord Almighty. 5 ‘This is what I covenanted with you when you came out of Egypt. And my Spirit remains among you. Do not fear.’
+
+6 “This is what the Lord Almighty says: ‘In a little while I will once more shake the heavens and the earth, the sea and the dry land. 7 I will shake all nations, and what is desired by all nations will come, and I will fill this house with glory,’ says the Lord Almighty. 8 ‘The silver is mine and the gold is mine,’ declares the Lord Almighty. 9 ‘The glory of this present house will be greater than the glory of the former house,’ says the Lord Almighty. ‘And in this place I will grant peace,’ declares the Lord Almighty.”
+
+Blessings for a Defiled People
+10 On the twenty-fourth day of the ninth month, in the second year of Darius, the word of the Lord came to the prophet Haggai: 11 “This is what the Lord Almighty says: ‘Ask the priests what the law says: 12 If someone carries consecrated meat in the fold of their garment, and that fold touches some bread or stew, some wine, olive oil or other food, does it become consecrated?’”
+
+The priests answered, “No.”
+
+13 Then Haggai said, “If a person defiled by contact with a dead body touches one of these things, does it become defiled?”
+
+“Yes,” the priests replied, “it becomes defiled.”
+
+14 Then Haggai said, “‘So it is with this people and this nation in my sight,’ declares the Lord. ‘Whatever they do and whatever they offer there is defiled.
+
+15 “‘Now give careful thought to this from this day on[b]—consider how things were before one stone was laid on another in the Lord’s temple. 16 When anyone came to a heap of twenty measures, there were only ten. When anyone went to a wine vat to draw fifty measures, there were only twenty. 17 I struck all the work of your hands with blight, mildew and hail, yet you did not return to me,’ declares the Lord. 18 ‘From this day on, from this twenty-fourth day of the ninth month, give careful thought to the day when the foundation of the Lord’s temple was laid. Give careful thought: 19 Is there yet any seed left in the barn? Until now, the vine and the fig tree, the pomegranate and the olive tree have not borne fruit.
+
+“‘From this day on I will bless you.’”
+
+Zerubbabel the Lord’s Signet Ring
+20 The word of the Lord came to Haggai a second time on the twenty-fourth day of the month: 21 “Tell Zerubbabel governor of Judah that I am going to shake the heavens and the earth. 22 I will overturn royal thrones and shatter the power of the foreign kingdoms. I will overthrow chariots and their drivers; horses and their riders will fall, each by the sword of his brother.
+
+23 “‘On that day,’ declares the Lord Almighty, ‘I will take you, my servant Zerubbabel son of Shealtiel,’ declares the Lord, ‘and I will make you like my signet ring, for I have chosen you,’ declares the Lord Almighty.”
+
+  
+            </p>
+          </div>
+
+        
+
+                          
+                            </div>
+                      </div>
+              
+      </main>
+
+
+
+  
 
 
 
@@ -6629,7 +6760,7 @@ he will bring down his anger with fury,
                               />
         </div>
 <p className={styles.parables}>
-       Zachariah is in the development stages                                  
+       Zachariah's prophecies began 2 months AFTER Haggai's first message.                             
 </p>
                       <div className={styles.nav}>           
       <a href="https://galatians.vercel.app/#first_peter">
@@ -7373,7 +7504,6 @@ Judgment and Covenant Renewal
 5 “See, I will send the prophet Elijah to you before that great and dreadful day of the Lord comes. 6 He will turn the hearts of the parents to their children, and the hearts of the children to their parents; or else I will come and strike the land with total destruction.”
 </p>
 </div>
-
 
                           
                             </div>
