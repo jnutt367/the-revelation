@@ -7235,7 +7235,7 @@ May the sword strike his arm and his right eye!
 
                                      <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Zachariah Chpt XII </h2>
+                                        <h2 className={styles.chapter4}>Zachariah Chpt XII </h2>
                                         <p>
                                        Jerusalem’s Enemies to Be Destroyed
 12 A prophecy: The word of the Lord concerning Israel.
