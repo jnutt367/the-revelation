@@ -6737,7 +6737,7 @@ Zerubbabel the Lord’s Signet Ring
 
 
 
- <main id="zachariah" className={styles.main}>
+ <main id="zechariah" className={styles.main}>
       
        
        
@@ -6748,7 +6748,7 @@ Zerubbabel the Lord’s Signet Ring
                 </h1>
         
         <h1 className={styles.title}>
-          ZACHARIAH  
+          ZECHARIAH  
         </h1>
          <div  className={styles.image}>
        <Image 
@@ -6760,9 +6760,9 @@ Zerubbabel the Lord’s Signet Ring
                               />
         </div>
 <p className={styles.parables}>
-       Zachariah's prophecies began 2 months AFTER Haggai's first message.                             
+       Zechariah's prophecies began 2 months AFTER Haggai's first message.                             
 </p>
-                      <div className={styles.nav}>           
+                      <div className={styles.nav4}>           
       <a href="https://galatians.vercel.app/#first_peter">
              <Image 
                                 src="/previous.webp"
@@ -6800,9 +6800,9 @@ Zerubbabel the Lord’s Signet Ring
                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/_106IfO6Kc0?si=-EznDc-GqiwihuSB?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div> 
  
-      <div className={styles.grid}>
+      <div className={styles.grid4}>
           <div className={styles.card}>
-            <h2 className={styles.chapter}>Zachariah Chpt I</h2>
+            <h2 className={styles.chapter4}>Zechariah Chpt I</h2>
             <p>
 A Call to Return to the Lord
 1 In the eighth month of the second year of Darius, the word of the Lord came to the prophet Zechariah son of Berekiah, the son of Iddo:
@@ -6846,7 +6846,7 @@ He answered, “These are the horns that scattered Judah so that no one could ra
               </div>
 
           <div className={styles.card}>
-           <h2 className={styles.chapter}>Zachariah Chpt II</h2>
+           <h2 className={styles.chapter4}>Zechariah Chpt II</h2>
             <p>
 
 A Man With a Measuring Line
@@ -6867,7 +6867,7 @@ He answered me, “To measure Jerusalem, to find out how wide and how long it is
           <div
             className={styles.card}
           >
-           <h2 className={styles.chapter}>Zachariah Chpt III</h2>
+           <h2 className={styles.chapter4}>Zechariah Chpt III</h2>
             <p>
  Clean Garments for the High Priest
 3 Then he showed me Joshua the high priest standing before the angel of the Lord, and Satan[a] standing at his right side to accuse him. 2 The Lord said to Satan, “The Lord rebuke you, Satan! The Lord, who has chosen Jerusalem, rebuke you! Is not this man a burning stick snatched from the fire?”
@@ -6889,7 +6889,7 @@ Then he said to Joshua, “See, I have taken away your sin, and I will put fine 
           </div>
 <div className={styles.card}>
 
-<h2 className={styles.chapter}>Zachariah Chpt IV</h2>
+<h2 className={styles.chapter4}>Zechariah Chpt IV</h2>
 <p>
 The Gold Lampstand and the Two Olive Trees
 4 Then the angel who talked with me returned and woke me up, like someone awakened from sleep. 2 He asked me, “What do you see?”
@@ -6926,7 +6926,7 @@ I answered, “I see a solid gold lampstand with a bowl at the top and seven lam
 
                                       <div className={styles.card}>
 
-                                      <h2 className={styles.chapter}>Zachariah Chpt V</h2>
+                                      <h2 className={styles.chapter4}>Zechariah Chpt V</h2>
                                       <p>
 
                                       The Flying Scroll
@@ -6956,7 +6956,7 @@ He replied, “It is a basket.” And he added, “This is the iniquity[b] of th
   
                                         <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Zachariah Chpt VI</h2>
+                                        <h2 className={styles.chapter4}>Zechariah Chpt VI</h2>
                                         <p>
                                       
   Four Chariots
@@ -6981,7 +6981,7 @@ A Crown for Joshua
                              
                                     <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Zachariah Chpt VII </h2>
+                                        <h2 className={styles.chapter4}>Zechariah Chpt VII </h2>
                                         <p>
 The Lord Promises to Bless Jerusalem
 8 The word of the Lord Almighty came to me.
@@ -7015,7 +7015,7 @@ The Lord Promises to Bless Jerusalem
 
                                   <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Zachariah Chpt VIII </h2>
+                                        <h2 className={styles.chapter4}>Zechariah Chpt VIII </h2>
                                         <p>
 
                                    The Lord Promises to Bless Jerusalem
@@ -7050,7 +7050,7 @@ The Lord Promises to Bless Jerusalem
 
                                 <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Zachariah Chpt IX</h2>
+                                        <h2 className={styles.chapter4}>Zechariah Chpt IX</h2>
                                         <p>
 Judgment on Israel’s Enemies
 9 A prophecy:
@@ -7129,7 +7129,7 @@ They will sparkle in his land
                                   </div>
                                   <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Zachariah Chpt X </h2>
+                                        <h2 className={styles.chapter4}>Zechariah Chpt X </h2>
                                         <p>
                               
                                           The Lord Will Care for Judah
@@ -7194,7 +7194,7 @@ declares the Lord.                                          </p>
 
                                    <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Zachariah Chpt XI </h2>
+                                        <h2 className={styles.chapter4}>Zechariah Chpt XI </h2>
                                         <p>
 
 11 Open your doors, Lebanon,
@@ -7253,7 +7253,7 @@ Mourning for the One They Pierced
 
                                      <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Zachariah Chpt XIII </h2>
+                                        <h2 className={styles.chapter4}>Zechariah Chpt XIII </h2>
                                         <p>
                                               Cleansing From Sin
 13 “On that day a fountain will be opened to the house of David and the inhabitants of Jerusalem, to cleanse them from sin and impurity.
@@ -7285,7 +7285,7 @@ I will say, ‘They are my people,’
 
                                    <div className={styles.card}>
 
-                                        <h2 className={styles.chapter}>Zachariah Chpt XIV </h2>
+                                        <h2 className={styles.chapter4}>Zechariah Chpt XIV </h2>
                                         <p>
                                         
 The Lord Comes and Reigns
@@ -7344,7 +7344,7 @@ The Lord Comes and Reigns
 <p className={styles.parables}>
       Malachi is the last book in the Old testament before Matthew & Mark, fascinating to find out why...                                
 </p>
-                      <div className={styles.nav3}>           
+                      <div className={styles.nav5}>           
       <a href="https://galatians.vercel.app/#first_peter">
              <Image 
                                 src="/previous.webp"
@@ -7382,9 +7382,9 @@ The Lord Comes and Reigns
                      <iframe width="100%" height="315" src="https://www.youtube.com/embed/HPGShWZ4Jvk?si=kz_uXOqmquqVkocd?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div> 
  
-      <div className={styles.grid3}>
-          <div className={styles.card}>
-            <h2 className={styles.chapter3}>Malachi Chpt I</h2>
+      <div className={styles.grid5}>
+          <div className={styles.card3}>
+            <h2 className={styles.chapter5}>Malachi Chpt I</h2>
             <p>
 1 A prophecy: The word of the Lord to Israel through Malachi.[a]
 
@@ -7424,8 +7424,8 @@ Breaking Covenant Through Blemished Sacrifices
                                   </p>
               </div>
 
-          <div className={styles.card}>
-           <h2 className={styles.chapter3}>Malachi Chpt II</h2>
+          <div className={styles.card3}>
+           <h2 className={styles.chapter5}>Malachi Chpt II</h2>
             <p>
   Additional Warning to the Priests
 2 “And now, you priests, this warning is for you. 2 If you do not listen, and if you do not resolve to honor my name,” says the Lord Almighty, “I will send a curse on you, and I will curse your blessings. Yes, I have already cursed them, because you have not resolved to honor me.
