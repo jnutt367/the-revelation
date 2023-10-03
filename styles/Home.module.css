@@ -330,7 +330,7 @@
 } 
 
 .nav4 {
-    background-color: ##43958D;
+    background-color: #43958D;
     color: white;
     opacity: 1;
     padding: 5px;
@@ -414,7 +414,7 @@
 }
 
 .grid4 {
-    background-color: ##43958D;
+    background-color: #43958D;
     color: white;
     display: flex;
     align-items: center;
@@ -554,6 +554,23 @@
 
 .chapter3 {
     background-color: #654948;
+    color: white;
+    opacity: 0.8;
+    opacity: 1;
+    position: sticky;
+    z-index: 1;
+    width: 100%;
+    font-weight: 200;
+    text-align: center;
+    top: 0px;
+    margin: 0;
+    padding-top: 25px;
+    padding-bottom: 5px;
+    font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+}
+
+.chapter4 {
+    background-color: #43958D;
     color: white;
     opacity: 0.8;
     opacity: 1;
