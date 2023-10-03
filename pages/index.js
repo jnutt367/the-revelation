@@ -6617,7 +6617,7 @@ he will bring down his anger with fury,
         </h1>
          <div  className={styles.image}>
        <Image 
-                                src="/zephaniah.png"
+                                src="/zephania.png"
                                 alt="haggai image"
                                 height={900}
                                 width={2000}
