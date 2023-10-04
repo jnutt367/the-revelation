@@ -11,8 +11,616 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
+<main id="micah" className={styles.main}>
+      
+       
+       
+        <div className={styles.hero}>
+           <h2 className={styles.holy}>THE WORD</h2>
+                <h1 className={styles.bible}>
+                    <a href="https://the-holy-bible.vercel.app/" target="_blank">OF GOD</a>
+                </h1>
+        
+        <h1 className={styles.title}>
+          MICAH
+        </h1>
+         <div  className={styles.image}>
+       <Image 
+                                src="/micah.png"
+                                alt="haggai image"
+                                height={900}
+                                width={2000}
+                                priority
+                              />
+        </div>
+<p className={styles.parables}>
+Micah is in construction and developmant phases
+    </p>
+                      <div className={styles.nav8}>           
+      <a href="https://the-revelation.vercel.app/#micah">
+             <Image 
+                                src="/previous.webp"
+                                alt="left"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+       </a>
+
+         <a href="#PayPalButton">
+            <Image 
+                                src="/upward_pointing.webp"
+                                alt="home"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         <a href="https://the-revelation.vercel.app/#habakkuk">
+           <Image 
+                                src="/next.webp"
+                                alt="right"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         
+               </div>
+  
+                <div className={styles.iframe}>
+                     <iframe width="100%" height="315" src="https://www.youtube.com/embed/MFEUEcylwLc?si=wP2C4n9f2uyGCeGC?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div> 
+ 
+      <div className={styles.grid8}>
+          <div className={styles.card}>
+            <h2 className={styles.chapter8}>Micah Chpt I</h2>
+            <p>
+
+1 The word of the Lord that came to Micah of Moresheth during the reigns of Jotham, Ahaz and Hezekiah, kings of Judah—the vision he saw concerning Samaria and Jerusalem.
+
+2 Hear, you peoples, all of you,
+    listen, earth and all who live in it,
+that the Sovereign Lord may bear witness against you,
+    the Lord from his holy temple.
+
+Judgment Against Samaria and Jerusalem
+3 Look! The Lord is coming from his dwelling place;
+    he comes down and treads on the heights of the earth.
+4 The mountains melt beneath him
+    and the valleys split apart,
+like wax before the fire,
+    like water rushing down a slope.
+5 All this is because of Jacob’s transgression,
+    because of the sins of the people of Israel.
+What is Jacob’s transgression?
+    Is it not Samaria?
+What is Judah’s high place?
+    Is it not Jerusalem?
+
+6 “Therefore I will make Samaria a heap of rubble,
+    a place for planting vineyards.
+I will pour her stones into the valley
+    and lay bare her foundations.
+7 All her idols will be broken to pieces;
+    all her temple gifts will be burned with fire;
+    I will destroy all her images.
+Since she gathered her gifts from the wages of prostitutes,
+    as the wages of prostitutes they will again be used.”
+
+Weeping and Mourning
+8 Because of this I will weep and wail;
+    I will go about barefoot and naked.
+I will howl like a jackal
+    and moan like an owl.
+9 For Samaria’s plague is incurable;
+    it has spread to Judah.
+It has reached the very gate of my people,
+    even to Jerusalem itself.
+10 Tell it not in Gath[a];
+    weep not at all.
+In Beth Ophrah[b]
+    roll in the dust.
+11 Pass by naked and in shame,
+    you who live in Shaphir.[c]
+Those who live in Zaanan[d]
+    will not come out.
+Beth Ezel is in mourning;
+    it no longer protects you.
+12 Those who live in Maroth[e] writhe in pain,
+    waiting for relief,
+because disaster has come from the Lord,
+    even to the gate of Jerusalem.
+13 You who live in Lachish,
+    harness fast horses to the chariot.
+You are where the sin of Daughter Zion began,
+    for the transgressions of Israel were found in you.
+14 Therefore you will give parting gifts
+    to Moresheth Gath.
+The town of Akzib[f] will prove deceptive
+    to the kings of Israel.
+15 I will bring a conqueror against you
+    who live in Mareshah.[g]
+The nobles of Israel
+    will flee to Adullam.
+16 Shave your head in mourning
+    for the children in whom you delight;
+make yourself as bald as the vulture,
+    for they will go from you into exile.                                  
+                                  </p>
+              </div>
+
+          <div className={styles.card}>
+           <h2 className={styles.chapter8}>Micah Chpt II</h2>
+            <p>
+
+Human Plans and God’s Plans
+2 Woe to those who plan iniquity,
+    to those who plot evil on their beds!
+At morning’s light they carry it out
+    because it is in their power to do it.
+2 They covet fields and seize them,
+    and houses, and take them.
+They defraud people of their homes,
+    they rob them of their inheritance.
+
+3 Therefore, the Lord says:
+
+“I am planning disaster against this people,
+    from which you cannot save yourselves.
+You will no longer walk proudly,
+    for it will be a time of calamity.
+4 In that day people will ridicule you;
+    they will taunt you with this mournful song:
+‘We are utterly ruined;
+    my people’s possession is divided up.
+He takes it from me!
+    He assigns our fields to traitors.’”
+
+5 Therefore you will have no one in the assembly of the Lord
+    to divide the land by lot.
+
+False Prophets
+6 “Do not prophesy,” their prophets say.
+    “Do not prophesy about these things;
+    disgrace will not overtake us.”
+7 You descendants of Jacob, should it be said,
+    “Does the Lord become[a] impatient?
+    Does he do such things?”
+
+“Do not my words do good
+    to the one whose ways are upright?
+8 Lately my people have risen up
+    like an enemy.
+You strip off the rich robe
+    from those who pass by without a care,
+    like men returning from battle.
+9 You drive the women of my people
+    from their pleasant homes.
+You take away my blessing
+    from their children forever.
+10 Get up, go away!
+    For this is not your resting place,
+because it is defiled,
+    it is ruined, beyond all remedy.
+11 If a liar and deceiver comes and says,
+    ‘I will prophesy for you plenty of wine and beer,’
+    that would be just the prophet for this people!
+
+Deliverance Promised
+12 “I will surely gather all of you, Jacob;
+    I will surely bring together the remnant of Israel.
+I will bring them together like sheep in a pen,
+    like a flock in its pasture;
+    the place will throng with people.
+13 The One who breaks open the way will go up before them;
+    they will break through the gate and go out.
+Their King will pass through before them,
+    the Lord at their head.”
+
+      
+         </p>
+          </div>
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter8}>Micah Chpt III</h2>
+            <p>
+
+Leaders and Prophets Rebuked
+3 Then I said,
+
+“Listen, you leaders of Jacob,
+    you rulers of Israel.
+Should you not embrace justice,
+2     you who hate good and love evil;
+who tear the skin from my people
+    and the flesh from their bones;
+3 who eat my people’s flesh,
+    strip off their skin
+    and break their bones in pieces;
+who chop them up like meat for the pan,
+    like flesh for the pot?”
+
+4 Then they will cry out to the Lord,
+    but he will not answer them.
+At that time he will hide his face from them
+    because of the evil they have done.
+
+5 This is what the Lord says:
+
+“As for the prophets
+    who lead my people astray,
+they proclaim ‘peace’
+    if they have something to eat,
+but prepare to wage war against anyone
+    who refuses to feed them.
+6 Therefore night will come over you, without visions,
+    and darkness, without divination.
+The sun will set for the prophets,
+    and the day will go dark for them.
+7 The seers will be ashamed
+    and the diviners disgraced.
+They will all cover their faces
+    because there is no answer from God.”
+8 But as for me, I am filled with power,
+    with the Spirit of the Lord,
+    and with justice and might,
+to declare to Jacob his transgression,
+    to Israel his sin.
+
+9 Hear this, you leaders of Jacob,
+    you rulers of Israel,
+who despise justice
+    and distort all that is right;
+10 who build Zion with bloodshed,
+    and Jerusalem with wickedness.
+11 Her leaders judge for a bribe,
+    her priests teach for a price,
+    and her prophets tell fortunes for money.
+Yet they look for the Lord’s support and say,
+    “Is not the Lord among us?
+    No disaster will come upon us.”
+12 Therefore because of you,
+    Zion will be plowed like a field,
+Jerusalem will become a heap of rubble,
+    the temple hill a mound overgrown with thickets.                                  
+            </p>
+          </div>
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter8}>Micah Chpt IV</h2>
+            <p>
+
+The Mountain of the Lord
+4 In the last days
+
+the mountain of the Lord’s temple will be established
+    as the highest of the mountains;
+it will be exalted above the hills,
+    and peoples will stream to it.
+
+2 Many nations will come and say,
+
+“Come, let us go up to the mountain of the Lord,
+    to the temple of the God of Jacob.
+He will teach us his ways,
+    so that we may walk in his paths.”
+The law will go out from Zion,
+    the word of the Lord from Jerusalem.
+3 He will judge between many peoples
+    and will settle disputes for strong nations far and wide.
+They will beat their swords into plowshares
+    and their spears into pruning hooks.
+Nation will not take up sword against nation,
+    nor will they train for war anymore.
+4 Everyone will sit under their own vine
+    and under their own fig tree,
+and no one will make them afraid,
+    for the Lord Almighty has spoken.
+5 All the nations may walk
+    in the name of their gods,
+but we will walk in the name of the Lord
+    our God for ever and ever.
+
+The Lord’s Plan
+6 “In that day,” declares the Lord,
+
+“I will gather the lame;
+    I will assemble the exiles
+    and those I have brought to grief.
+7 I will make the lame my remnant,
+    those driven away a strong nation.
+The Lord will rule over them in Mount Zion
+    from that day and forever.
+8 As for you, watchtower of the flock,
+    stronghold[a] of Daughter Zion,
+the former dominion will be restored to you;
+    kingship will come to Daughter Jerusalem.”
+
+9 Why do you now cry aloud—
+    have you no king[b]?
+Has your ruler[c] perished,
+    that pain seizes you like that of a woman in labor?
+10 Writhe in agony, Daughter Zion,
+    like a woman in labor,
+for now you must leave the city
+    to camp in the open field.
+You will go to Babylon;
+    there you will be rescued.
+There the Lord will redeem you
+    out of the hand of your enemies.
+
+11 But now many nations
+    are gathered against you.
+They say, “Let her be defiled,
+    let our eyes gloat over Zion!”
+12 But they do not know
+    the thoughts of the Lord;
+they do not understand his plan,
+    that he has gathered them like sheaves to the threshing floor.
+13 “Rise and thresh, Daughter Zion,
+    for I will give you horns of iron;
+I will give you hooves of bronze,
+    and you will break to pieces many nations.”
+You will devote their ill-gotten gains to the Lord,
+    their wealth to the Lord of all the earth.
+
+                                  
+            </p>
+          </div>
+
+      
+ <div className={styles.card}>
+           <h2 className={styles.chapter8}>Micah Chpt V</h2>
+            <p>
+
+A Promised Ruler From Bethlehem
+5 [a]Marshal your troops now, city of troops,
+    for a siege is laid against us.
+They will strike Israel’s ruler
+    on the cheek with a rod.
+
+2 “But you, Bethlehem Ephrathah,
+    though you are small among the clans[b] of Judah,
+out of you will come for me
+    one who will be ruler over Israel,
+whose origins are from of old,
+    from ancient times.”
+
+3 Therefore Israel will be abandoned
+    until the time when she who is in labor bears a son,
+and the rest of his brothers return
+    to join the Israelites.
+
+4 He will stand and shepherd his flock
+    in the strength of the Lord,
+    in the majesty of the name of the Lord his God.
+And they will live securely, for then his greatness
+    will reach to the ends of the earth.
+
+5 And he will be our peace
+    when the Assyrians invade our land
+    and march through our fortresses.
+We will raise against them seven shepherds,
+    even eight commanders,
+6 who will rule[c] the land of Assyria with the sword,
+    the land of Nimrod with drawn sword.[d]
+He will deliver us from the Assyrians
+    when they invade our land
+    and march across our borders.
+
+7 The remnant of Jacob will be
+    in the midst of many peoples
+like dew from the Lord,
+    like showers on the grass,
+which do not wait for anyone
+    or depend on man.
+8 The remnant of Jacob will be among the nations,
+    in the midst of many peoples,
+like a lion among the beasts of the forest,
+    like a young lion among flocks of sheep,
+which mauls and mangles as it goes,
+    and no one can rescue.
+9 Your hand will be lifted up in triumph over your enemies,
+    and all your foes will be destroyed.
+
+10 “In that day,” declares the Lord,
+
+“I will destroy your horses from among you
+    and demolish your chariots.
+11 I will destroy the cities of your land
+    and tear down all your strongholds.
+12 I will destroy your witchcraft
+    and you will no longer cast spells.
+13 I will destroy your idols
+    and your sacred stones from among you;
+you will no longer bow down
+    to the work of your hands.
+14 I will uproot from among you your Asherah poles[e]
+    when I demolish your cities.
+15 I will take vengeance in anger and wrath
+    on the nations that have not obeyed me.”                                  
+            </p>
+          </div>
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter8}>Micah Chpt VI</h2>
+            <p>
+The Lord’s Case Against Israel
+6 Listen to what the Lord says:
+
+“Stand up, plead my case before the mountains;
+    let the hills hear what you have to say.
+
+2 “Hear, you mountains, the Lord’s accusation;
+    listen, you everlasting foundations of the earth.
+For the Lord has a case against his people;
+    he is lodging a charge against Israel.
+
+3 “My people, what have I done to you?
+    How have I burdened you? Answer me.
+4 I brought you up out of Egypt
+    and redeemed you from the land of slavery.
+I sent Moses to lead you,
+    also Aaron and Miriam.
+5 My people, remember
+    what Balak king of Moab plotted
+    and what Balaam son of Beor answered.
+Remember your journey from Shittim to Gilgal,
+    that you may know the righteous acts of the Lord.”
+
+6 With what shall I come before the Lord
+    and bow down before the exalted God?
+Shall I come before him with burnt offerings,
+    with calves a year old?
+7 Will the Lord be pleased with thousands of rams,
+    with ten thousand rivers of olive oil?
+Shall I offer my firstborn for my transgression,
+    the fruit of my body for the sin of my soul?
+8 He has shown you, O mortal, what is good.
+    And what does the Lord require of you?
+To act justly and to love mercy
+    and to walk humbly[a] with your God.
+
+Israel’s Guilt and Punishment
+9 Listen! The Lord is calling to the city—
+    and to fear your name is wisdom—
+    “Heed the rod and the One who appointed it.[b]
+10 Am I still to forget your ill-gotten treasures, you wicked house,
+    and the short ephah,[c] which is accursed?
+11 Shall I acquit someone with dishonest scales,
+    with a bag of false weights?
+12 Your rich people are violent;
+    your inhabitants are liars
+    and their tongues speak deceitfully.
+13 Therefore, I have begun to destroy you,
+    to ruin[d] you because of your sins.
+14 You will eat but not be satisfied;
+    your stomach will still be empty.[e]
+You will store up but save nothing,
+    because what you save[f] I will give to the sword.
+15 You will plant but not harvest;
+    you will press olives but not use the oil,
+    you will crush grapes but not drink the wine.
+16 You have observed the statutes of Omri
+    and all the practices of Ahab’s house;
+    you have followed their traditions.
+Therefore I will give you over to ruin
+    and your people to derision;
+    you will bear the scorn of the nations.[g]”
+                                  
+            </p>
+          </div>
 
 
+       <div className={styles.card}>
+           <h2 className={styles.chapter8}>Micah Chpt VII</h2>
+            <p>
+Israel’s Misery
+7 What misery is mine!
+I am like one who gathers summer fruit
+    at the gleaning of the vineyard;
+there is no cluster of grapes to eat,
+    none of the early figs that I crave.
+2 The faithful have been swept from the land;
+    not one upright person remains.
+Everyone lies in wait to shed blood;
+    they hunt each other with nets.
+3 Both hands are skilled in doing evil;
+    the ruler demands gifts,
+the judge accepts bribes,
+    the powerful dictate what they desire—
+    they all conspire together.
+4 The best of them is like a brier,
+    the most upright worse than a thorn hedge.
+The day God visits you has come,
+    the day your watchmen sound the alarm.
+    Now is the time of your confusion.
+5 Do not trust a neighbor;
+    put no confidence in a friend.
+Even with the woman who lies in your embrace
+    guard the words of your lips.
+6 For a son dishonors his father,
+    a daughter rises up against her mother,
+a daughter-in-law against her mother-in-law—
+    a man’s enemies are the members of his own household.
+
+7 But as for me, I watch in hope for the Lord,
+    I wait for God my Savior;
+    my God will hear me.
+
+Israel Will Rise
+8 Do not gloat over me, my enemy!
+    Though I have fallen, I will rise.
+Though I sit in darkness,
+    the Lord will be my light.
+9 Because I have sinned against him,
+    I will bear the Lord’s wrath,
+until he pleads my case
+    and upholds my cause.
+He will bring me out into the light;
+    I will see his righteousness.
+10 Then my enemy will see it
+    and will be covered with shame,
+she who said to me,
+    “Where is the Lord your God?”
+My eyes will see her downfall;
+    even now she will be trampled underfoot
+    like mire in the streets.
+
+11 The day for building your walls will come,
+    the day for extending your boundaries.
+12 In that day people will come to you
+    from Assyria and the cities of Egypt,
+even from Egypt to the Euphrates
+    and from sea to sea
+    and from mountain to mountain.
+13 The earth will become desolate because of its inhabitants,
+    as the result of their deeds.
+
+Prayer and Praise
+14 Shepherd your people with your staff,
+    the flock of your inheritance,
+which lives by itself in a forest,
+    in fertile pasturelands.[a]
+Let them feed in Bashan and Gilead
+    as in days long ago.
+
+15 “As in the days when you came out of Egypt,
+    I will show them my wonders.”
+
+16 Nations will see and be ashamed,
+    deprived of all their power.
+They will put their hands over their mouths
+    and their ears will become deaf.
+17 They will lick dust like a snake,
+    like creatures that crawl on the ground.
+They will come trembling out of their dens;
+    they will turn in fear to the Lord our God
+    and will be afraid of you.
+18 Who is a God like you,
+    who pardons sin and forgives the transgression
+    of the remnant of his inheritance?
+You do not stay angry forever
+    but delight to show mercy.
+19 You will again have compassion on us;
+    you will tread our sins underfoot
+    and hurl all our iniquities into the depths of the sea.
+20 You will be faithful to Jacob,
+    and show love to Abraham,
+as you pledged on oath to our ancestors
+    in days long ago.
+                                  
+            </p>
+          </div>  
+
+                          
+                            </div>
+                      </div>
+              
+      </main>
 
 
 <main id="nahum" className={styles.main}>
