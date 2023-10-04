@@ -11,7 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-<main id="zephaniah" className={styles.main}>
+<main id="habakkuk" className={styles.main}>
       
        
        
@@ -22,7 +22,7 @@ export default function Home() {
                 </h1>
         
         <h1 className={styles.title}>
-          ZEPHANIAH
+          HABAKKUK
         </h1>
          <div  className={styles.image}>
        <Image 
