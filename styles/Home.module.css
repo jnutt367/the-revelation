@@ -389,7 +389,7 @@
 } 
 
 .nav7 {
-    background-color: DF7853;
+    background-color: #DF7853;
     color: white;
     opacity: 1;
     padding: 5px;
@@ -474,7 +474,7 @@
     justify-content: center;
     flex-wrap: wrap;    
 }
-.grid6 {
+.grid7 {
     background-color: #DF7853;
     color: white;
     display: flex;
@@ -672,7 +672,7 @@
     font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
 }
 
-.chapter6 {
+.chapter7 {
     background-color: #DF7853;
     color: white;
     opacity: 0.8;
