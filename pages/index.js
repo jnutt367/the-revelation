@@ -11,6 +11,431 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
+
+
+
+<main id="joel" className={styles.main}>
+      
+       
+       
+        <div className={styles.hero}>
+           <h2 className={styles.holy}>THE WORD</h2>
+                <h1 className={styles.bible}>
+                    <a href="https://the-holy-bible.vercel.app/" target="_blank">OF GOD</a>
+                </h1>
+        
+        <h1 className={styles.title}>
+          JOEL
+        </h1>
+         <div  className={styles.image}>
+       <Image 
+                                src="/joel.png"
+                                alt="haggai image"
+                                height={900}
+                                width={2000}
+                                priority
+                              />
+        </div>
+<p className={styles.parables}>
+Joel -son of Pethuel, sees a sign of the final judgement, he warns people to repent & turn to God, before the "day of the Lord".
+    </p>
+                      <div className={styles.nav10}>           
+      <a href="https://the-revelation.vercel.app/#micah">
+             <Image 
+                                src="/previous.webp"
+                                alt="left"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+       </a>
+
+         <a href="#PayPalButton">
+            <Image 
+                                src="/upward_pointing.webp"
+                                alt="home"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         <a href="https://the-revelation.vercel.app/#habakkuk">
+           <Image 
+                                src="/next.webp"
+                                alt="right"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         
+               </div>
+  
+                <div className={styles.iframe}>
+                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/dLIabZc0O4c?si=NHGKjDMXxIltXCsP?auoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div> 
+ 
+      <div className={styles.grid10}>
+          <div className={styles.card}>
+            <h2 className={styles.chapter10}>Joel Chpt I</h2>
+            <p>
+
+1 The word of the Lord that came to Joel son of Pethuel.
+
+An Invasion of Locusts
+2 Hear this, you elders;
+    listen, all who live in the land.
+Has anything like this ever happened in your days
+    or in the days of your ancestors?
+3 Tell it to your children,
+    and let your children tell it to their children,
+    and their children to the next generation.
+4 What the locust swarm has left
+    the great locusts have eaten;
+what the great locusts have left
+    the young locusts have eaten;
+what the young locusts have left
+    other locusts[a] have eaten.
+
+5 Wake up, you drunkards, and weep!
+    Wail, all you drinkers of wine;
+wail because of the new wine,
+    for it has been snatched from your lips.
+6 A nation has invaded my land,
+    a mighty army without number;
+it has the teeth of a lion,
+    the fangs of a lioness.
+7 It has laid waste my vines
+    and ruined my fig trees.
+It has stripped off their bark
+    and thrown it away,
+    leaving their branches white.
+
+8 Mourn like a virgin in sackcloth
+    grieving for the betrothed of her youth.
+9 Grain offerings and drink offerings
+    are cut off from the house of the Lord.
+The priests are in mourning,
+    those who minister before the Lord.
+10 The fields are ruined,
+    the ground is dried up;
+the grain is destroyed,
+    the new wine is dried up,
+    the olive oil fails.
+
+11 Despair, you farmers,
+    wail, you vine growers;
+grieve for the wheat and the barley,
+    because the harvest of the field is destroyed.
+12 The vine is dried up
+    and the fig tree is withered;
+the pomegranate, the palm and the apple[b] tree—
+    all the trees of the field—are dried up.
+Surely the people’s joy
+    is withered away.
+
+A Call to Lamentation
+13 Put on sackcloth, you priests, and mourn;
+    wail, you who minister before the altar.
+Come, spend the night in sackcloth,
+    you who minister before my God;
+for the grain offerings and drink offerings
+    are withheld from the house of your God.
+14 Declare a holy fast;
+    call a sacred assembly.
+Summon the elders
+    and all who live in the land
+to the house of the Lord your God,
+    and cry out to the Lord.
+
+15 Alas for that day!
+    For the day of the Lord is near;
+    it will come like destruction from the Almighty.[c]
+
+16 Has not the food been cut off
+    before our very eyes—
+joy and gladness
+    from the house of our God?
+17 The seeds are shriveled
+    beneath the clods.[d]
+The storehouses are in ruins,
+    the granaries have been broken down,
+    for the grain has dried up.
+18 How the cattle moan!
+    The herds mill about
+because they have no pasture;
+    even the flocks of sheep are suffering.
+
+19 To you, Lord, I call,
+    for fire has devoured the pastures in the wilderness
+    and flames have burned up all the trees of the field.
+20 Even the wild animals pant for you;
+    the streams of water have dried up
+    and fire has devoured the pastures in the wilderness.                                  
+                                  </p>
+              </div>
+
+          <div className={styles.card}>
+           <h2 className={styles.chapter10}>Joel Chpt II</h2>
+            <p>
+
+An Army of Locusts
+2 Blow the trumpet in Zion;
+    sound the alarm on my holy hill.
+
+Let all who live in the land tremble,
+    for the day of the Lord is coming.
+It is close at hand—
+2     a day of darkness and gloom,
+    a day of clouds and blackness.
+Like dawn spreading across the mountains
+    a large and mighty army comes,
+such as never was in ancient times
+    nor ever will be in ages to come.
+
+3 Before them fire devours,
+    behind them a flame blazes.
+Before them the land is like the garden of Eden,
+    behind them, a desert waste—
+    nothing escapes them.
+4 They have the appearance of horses;
+    they gallop along like cavalry.
+5 With a noise like that of chariots
+    they leap over the mountaintops,
+like a crackling fire consuming stubble,
+    like a mighty army drawn up for battle.
+
+6 At the sight of them, nations are in anguish;
+    every face turns pale.
+7 They charge like warriors;
+    they scale walls like soldiers.
+They all march in line,
+    not swerving from their course.
+8 They do not jostle each other;
+    each marches straight ahead.
+They plunge through defenses
+    without breaking ranks.
+9 They rush upon the city;
+    they run along the wall.
+They climb into the houses;
+    like thieves they enter through the windows.
+
+10 Before them the earth shakes,
+    the heavens tremble,
+the sun and moon are darkened,
+    and the stars no longer shine.
+11 The Lord thunders
+    at the head of his army;
+his forces are beyond number,
+    and mighty is the army that obeys his command.
+The day of the Lord is great;
+    it is dreadful.
+    Who can endure it?
+
+Rend Your Heart
+12 “Even now,” declares the Lord,
+    “return to me with all your heart,
+    with fasting and weeping and mourning.”
+
+13 Rend your heart
+    and not your garments.
+Return to the Lord your God,
+    for he is gracious and compassionate,
+slow to anger and abounding in love,
+    and he relents from sending calamity.
+14 Who knows? He may turn and relent
+    and leave behind a blessing—
+grain offerings and drink offerings
+    for the Lord your God.
+
+15 Blow the trumpet in Zion,
+    declare a holy fast,
+    call a sacred assembly.
+16 Gather the people,
+    consecrate the assembly;
+bring together the elders,
+    gather the children,
+    those nursing at the breast.
+Let the bridegroom leave his room
+    and the bride her chamber.
+17 Let the priests, who minister before the Lord,
+    weep between the portico and the altar.
+Let them say, “Spare your people, Lord.
+    Do not make your inheritance an object of scorn,
+    a byword among the nations.
+Why should they say among the peoples,
+    ‘Where is their God?’”
+
+The Lord’s Answer
+18 Then the Lord was jealous for his land
+    and took pity on his people.
+
+19 The Lord replied[a] to them:
+
+“I am sending you grain, new wine and olive oil,
+    enough to satisfy you fully;
+never again will I make you
+    an object of scorn to the nations.
+
+20 “I will drive the northern horde far from you,
+    pushing it into a parched and barren land;
+its eastern ranks will drown in the Dead Sea
+    and its western ranks in the Mediterranean Sea.
+And its stench will go up;
+    its smell will rise.”
+
+Surely he has done great things!
+21     Do not be afraid, land of Judah;
+    be glad and rejoice.
+Surely the Lord has done great things!
+22     Do not be afraid, you wild animals,
+    for the pastures in the wilderness are becoming green.
+The trees are bearing their fruit;
+    the fig tree and the vine yield their riches.
+23 Be glad, people of Zion,
+    rejoice in the Lord your God,
+for he has given you the autumn rains
+    because he is faithful.
+He sends you abundant showers,
+    both autumn and spring rains, as before.
+24 The threshing floors will be filled with grain;
+    the vats will overflow with new wine and oil.
+
+25 “I will repay you for the years the locusts have eaten—
+    the great locust and the young locust,
+    the other locusts and the locust swarm[b]—
+my great army that I sent among you.
+26 You will have plenty to eat, until you are full,
+    and you will praise the name of the Lord your God,
+    who has worked wonders for you;
+never again will my people be shamed.
+27 Then you will know that I am in Israel,
+    that I am the Lord your God,
+    and that there is no other;
+never again will my people be shamed.
+
+The Day of the Lord
+28 “And afterward,
+    I will pour out my Spirit on all people.
+Your sons and daughters will prophesy,
+    your old men will dream dreams,
+    your young men will see visions.
+29 Even on my servants, both men and women,
+    I will pour out my Spirit in those days.
+30 I will show wonders in the heavens
+    and on the earth,
+    blood and fire and billows of smoke.
+31 The sun will be turned to darkness
+    and the moon to blood
+    before the coming of the great and dreadful day of the Lord.
+32 And everyone who calls
+    on the name of the Lord will be saved;
+for on Mount Zion and in Jerusalem
+    there will be deliverance,
+    as the Lord has said,
+even among the survivors
+    whom the Lord calls.
+         </p>
+          </div>
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter10}>Joel Chpt III</h2>
+            <p>
+
+The Nations Judged
+3 [a]“In those days and at that time,
+    when I restore the fortunes of Judah and Jerusalem,
+2 I will gather all nations
+    and bring them down to the Valley of Jehoshaphat.[b]
+There I will put them on trial
+    for what they did to my inheritance, my people Israel,
+because they scattered my people among the nations
+    and divided up my land.
+3 They cast lots for my people
+    and traded boys for prostitutes;
+    they sold girls for wine to drink.
+
+4 “Now what have you against me, Tyre and Sidon and all you regions of Philistia? Are you repaying me for something I have done? If you are paying me back, I will swiftly and speedily return on your own heads what you have done. 5 For you took my silver and my gold and carried off my finest treasures to your temples.[c] 6 You sold the people of Judah and Jerusalem to the Greeks, that you might send them far from their homeland.
+
+7 “See, I am going to rouse them out of the places to which you sold them, and I will return on your own heads what you have done. 8 I will sell your sons and daughters to the people of Judah, and they will sell them to the Sabeans, a nation far away.” The Lord has spoken.
+
+9 Proclaim this among the nations:
+    Prepare for war!
+Rouse the warriors!
+    Let all the fighting men draw near and attack.
+10 Beat your plowshares into swords
+    and your pruning hooks into spears.
+Let the weakling say,
+    “I am strong!”
+11 Come quickly, all you nations from every side,
+    and assemble there.
+
+Bring down your warriors, Lord!
+
+12 “Let the nations be roused;
+    let them advance into the Valley of Jehoshaphat,
+for there I will sit
+    to judge all the nations on every side.
+13 Swing the sickle,
+    for the harvest is ripe.
+Come, trample the grapes,
+    for the winepress is full
+    and the vats overflow—
+so great is their wickedness!”
+
+14 Multitudes, multitudes
+    in the valley of decision!
+For the day of the Lord is near
+    in the valley of decision.
+15 The sun and moon will be darkened,
+    and the stars no longer shine.
+16 The Lord will roar from Zion
+    and thunder from Jerusalem;
+    the earth and the heavens will tremble.
+But the Lord will be a refuge for his people,
+    a stronghold for the people of Israel.
+
+Blessings for God’s People
+17 “Then you will know that I, the Lord your God,
+    dwell in Zion, my holy hill.
+Jerusalem will be holy;
+    never again will foreigners invade her.
+
+18 “In that day the mountains will drip new wine,
+    and the hills will flow with milk;
+    all the ravines of Judah will run with water.
+A fountain will flow out of the Lord’s house
+    and will water the valley of acacias.[d]
+19 But Egypt will be desolate,
+    Edom a desert waste,
+because of violence done to the people of Judah,
+    in whose land they shed innocent blood.
+20 Judah will be inhabited forever
+    and Jerusalem through all generations.
+21 Shall I leave their innocent blood unavenged?
+    No, I will not.”
+
+The Lord dwells in Zion!
+
+            </p>
+          </div>
+
+
+
+                          
+                            </div>
+                      </div>
+              
+      </main>
+
+
+
+
+
+
+    
 <main id="amos" className={styles.main}>
       
        
