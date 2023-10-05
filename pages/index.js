@@ -34,9 +34,9 @@ export default function Home() {
                               />
         </div>
 <p className={styles.parables}>
-Micah is in construction and developmant phases
+Micah promised the restoration of Zion and a kingdom of peace for those who truly trusted in God.
     </p>
-                      <div className={styles.nav8}>           
+                      <div className={styles.nav9}>           
       <a href="https://the-revelation.vercel.app/#micah">
              <Image 
                                 src="/previous.webp"
@@ -74,9 +74,9 @@ Micah is in construction and developmant phases
                      <iframe width="100%" height="315" src="https://www.youtube.com/embed/MFEUEcylwLc?si=wP2C4n9f2uyGCeGC?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div> 
  
-      <div className={styles.grid8}>
+      <div className={styles.grid9}>
           <div className={styles.card}>
-            <h2 className={styles.chapter8}>Micah Chpt I</h2>
+            <h2 className={styles.chapter9}>Micah Chpt I</h2>
             <p>
 
 1 The word of the Lord that came to Micah of Moresheth during the reigns of Jotham, Ahaz and Hezekiah, kings of Judah—the vision he saw concerning Samaria and Jerusalem.
@@ -153,7 +153,7 @@ make yourself as bald as the vulture,
               </div>
 
           <div className={styles.card}>
-           <h2 className={styles.chapter8}>Micah Chpt II</h2>
+           <h2 className={styles.chapter9}>Micah Chpt II</h2>
             <p>
 
 Human Plans and God’s Plans
@@ -225,7 +225,7 @@ Their King will pass through before them,
           </div>
 
  <div className={styles.card}>
-           <h2 className={styles.chapter8}>Micah Chpt III</h2>
+           <h2 className={styles.chapter9}>Micah Chpt III</h2>
             <p>
 
 Leaders and Prophets Rebuked
@@ -290,7 +290,7 @@ Jerusalem will become a heap of rubble,
           </div>
 
  <div className={styles.card}>
-           <h2 className={styles.chapter8}>Micah Chpt IV</h2>
+           <h2 className={styles.chapter9}>Micah Chpt IV</h2>
             <p>
 
 The Mountain of the Lord
@@ -373,7 +373,7 @@ You will devote their ill-gotten gains to the Lord,
 
       
  <div className={styles.card}>
-           <h2 className={styles.chapter8}>Micah Chpt V</h2>
+           <h2 className={styles.chapter9}>Micah Chpt V</h2>
             <p>
 
 A Promised Ruler From Bethlehem
@@ -446,7 +446,7 @@ you will no longer bow down
           </div>
 
  <div className={styles.card}>
-           <h2 className={styles.chapter8}>Micah Chpt VI</h2>
+           <h2 className={styles.chapter9}>Micah Chpt VI</h2>
             <p>
 The Lord’s Case Against Israel
 6 Listen to what the Lord says:
@@ -516,7 +516,7 @@ Therefore I will give you over to ruin
 
 
        <div className={styles.card}>
-           <h2 className={styles.chapter8}>Micah Chpt VII</h2>
+           <h2 className={styles.chapter9}>Micah Chpt VII</h2>
             <p>
 Israel’s Misery
 7 What misery is mine!
