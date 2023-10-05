@@ -14,6 +14,186 @@ export default function Home() {
 
 
 
+
+<main id="jonah" className={styles.main}>
+      
+       
+       
+        <div className={styles.hero}>
+           <h2 className={styles.holy}>THE WORD</h2>
+                <h1 className={styles.bible}>
+                    <a href="https://the-holy-bible.vercel.app/" target="_blank">OF GOD</a>
+                </h1>
+        
+        <h1 className={styles.title}>
+          OBADIAH
+        </h1>
+         <div  className={styles.image}>
+       <Image 
+                                src="/obadiah.png"
+                                alt="obadiah image"
+                                height={900}
+                                width={2000}
+                                priority
+                              />
+        </div>
+<p className={styles.parables}>
+Obadiah is the shortest book of the Old Testament, but it is packed with God's prophetic vision of hope for us as His chosen people.
+    </p>
+                      <div className={styles.nav11}>           
+      <a href="https://the-revelation.vercel.app/#micah">
+             <Image 
+                                src="/previous.webp"
+                                alt="left"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+       </a>
+
+         <a href="#PayPalButton">
+            <Image 
+                                src="/upward_pointing.webp"
+                                alt="home"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         <a href="https://the-revelation.vercel.app/#habakkuk">
+           <Image 
+                                src="/next.webp"
+                                alt="right"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         
+               </div>
+  
+                <div className={styles.iframe}>
+                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/i4ogCrEoG5s?si=Jv_xmsHSgjkRz_1l?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div> 
+ 
+      <div className={styles.grid11}>
+          <div className={styles.card}>
+            <h2 className={styles.chapter11}>Obadiah Chpt I</h2>
+            <p>
+Obadiah’s Vision
+1 The vision of Obadiah.
+
+This is what the Sovereign Lord says about Edom—
+
+We have heard a message from the Lord:
+    An envoy was sent to the nations to say,
+“Rise, let us go against her for battle”—
+
+2 “See, I will make you small among the nations;
+    you will be utterly despised.
+3 The pride of your heart has deceived you,
+    you who live in the clefts of the rocks[a]
+    and make your home on the heights,
+you who say to yourself,
+    ‘Who can bring me down to the ground?’
+4 Though you soar like the eagle
+    and make your nest among the stars,
+    from there I will bring you down,”
+declares the Lord.
+5 “If thieves came to you,
+    if robbers in the night—
+oh, what a disaster awaits you!—
+    would they not steal only as much as they wanted?
+If grape pickers came to you,
+    would they not leave a few grapes?
+6 But how Esau will be ransacked,
+    his hidden treasures pillaged!
+7 All your allies will force you to the border;
+    your friends will deceive and overpower you;
+those who eat your bread will set a trap for you,[b]
+    but you will not detect it.
+
+8 “In that day,” declares the Lord,
+    “will I not destroy the wise men of Edom,
+    those of understanding in the mountains of Esau?
+9 Your warriors, Teman, will be terrified,
+    and everyone in Esau’s mountains
+    will be cut down in the slaughter.
+10 Because of the violence against your brother Jacob,
+    you will be covered with shame;
+    you will be destroyed forever.
+11 On the day you stood aloof
+    while strangers carried off his wealth
+and foreigners entered his gates
+    and cast lots for Jerusalem,
+    you were like one of them.
+12 You should not gloat over your brother
+    in the day of his misfortune,
+nor rejoice over the people of Judah
+    in the day of their destruction,
+nor boast so much
+    in the day of their trouble.
+13 You should not march through the gates of my people
+    in the day of their disaster,
+nor gloat over them in their calamity
+    in the day of their disaster,
+nor seize their wealth
+    in the day of their disaster.
+14 You should not wait at the crossroads
+    to cut down their fugitives,
+nor hand over their survivors
+    in the day of their trouble.
+
+15 “The day of the Lord is near
+    for all nations.
+As you have done, it will be done to you;
+    your deeds will return upon your own head.
+16 Just as you drank on my holy hill,
+    so all the nations will drink continually;
+they will drink and drink
+    and be as if they had never been.
+17 But on Mount Zion will be deliverance;
+    it will be holy,
+    and Jacob will possess his inheritance.
+18 Jacob will be a fire
+    and Joseph a flame;
+Esau will be stubble,
+    and they will set him on fire and destroy him.
+There will be no survivors
+    from Esau.”
+The Lord has spoken.
+
+19 People from the Negev will occupy
+    the mountains of Esau,
+and people from the foothills will possess
+    the land of the Philistines.
+They will occupy the fields of Ephraim and Samaria,
+    and Benjamin will possess Gilead.
+20 This company of Israelite exiles who are in Canaan
+    will possess the land as far as Zarephath;
+the exiles from Jerusalem who are in Sepharad
+    will possess the towns of the Negev.
+21 Deliverers will go up on[c] Mount Zion
+    to govern the mountains of Esau.
+    And the kingdom will be the Lord’s.
+
+                              
+                                  </p>
+              </div>
+
+ 
+
+                          
+                            </div>
+                      </div>
+              
+      </main>
+
+    
+
+
 <main id="jonah" className={styles.main}>
       
        
