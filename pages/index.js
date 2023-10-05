@@ -11,6 +11,194 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
+
+
+
+<main id="jonah" className={styles.main}>
+      
+       
+       
+        <div className={styles.hero}>
+           <h2 className={styles.holy}>THE WORD</h2>
+                <h1 className={styles.bible}>
+                    <a href="https://the-holy-bible.vercel.app/" target="_blank">OF GOD</a>
+                </h1>
+        
+        <h1 className={styles.title}>
+          JONAH
+        </h1>
+         <div  className={styles.image}>
+       <Image 
+                                src="/jonah.png"
+                                alt="haggai image"
+                                height={900}
+                                width={2000}
+                                priority
+                              />
+        </div>
+<p className={styles.parables}>
+Jonah tries to run from God & is swallowed by a great fish. Jonah is a good lesson on God's sovereignty and our own stubborn hearts.
+    </p>
+                      <div className={styles.nav10}>           
+      <a href="https://the-revelation.vercel.app/#micah">
+             <Image 
+                                src="/previous.webp"
+                                alt="left"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+       </a>
+
+         <a href="#PayPalButton">
+            <Image 
+                                src="/upward_pointing.webp"
+                                alt="home"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         <a href="https://the-revelation.vercel.app/#habakkuk">
+           <Image 
+                                src="/next.webp"
+                                alt="right"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         
+               </div>
+  
+                <div className={styles.iframe}>
+                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/dLIabZc0O4c?si=NHGKjDMXxIltXCsP?auoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div> 
+ 
+      <div className={styles.grid10}>
+          <div className={styles.card}>
+            <h2 className={styles.chapter10}>Jonah Chpt I</h2>
+            <p>
+
+Jonah Flees From the Lord
+1 The word of the Lord came to Jonah son of Amittai: 2 “Go to the great city of Nineveh and preach against it, because its wickedness has come up before me.”
+
+3 But Jonah ran away from the Lord and headed for Tarshish. He went down to Joppa, where he found a ship bound for that port. After paying the fare, he went aboard and sailed for Tarshish to flee from the Lord.
+
+4 Then the Lord sent a great wind on the sea, and such a violent storm arose that the ship threatened to break up. 5 All the sailors were afraid and each cried out to his own god. And they threw the cargo into the sea to lighten the ship.
+
+But Jonah had gone below deck, where he lay down and fell into a deep sleep. 6 The captain went to him and said, “How can you sleep? Get up and call on your god! Maybe he will take notice of us so that we will not perish.”
+
+7 Then the sailors said to each other, “Come, let us cast lots to find out who is responsible for this calamity.” They cast lots and the lot fell on Jonah. 8 So they asked him, “Tell us, who is responsible for making all this trouble for us? What kind of work do you do? Where do you come from? What is your country? From what people are you?”
+
+9 He answered, “I am a Hebrew and I worship the Lord, the God of heaven, who made the sea and the dry land.”
+
+10 This terrified them and they asked, “What have you done?” (They knew he was running away from the Lord, because he had already told them so.)
+
+11 The sea was getting rougher and rougher. So they asked him, “What should we do to you to make the sea calm down for us?”
+
+12 “Pick me up and throw me into the sea,” he replied, “and it will become calm. I know that it is my fault that this great storm has come upon you.”
+
+13 Instead, the men did their best to row back to land. But they could not, for the sea grew even wilder than before. 14 Then they cried out to the Lord, “Please, Lord, do not let us die for taking this man’s life. Do not hold us accountable for killing an innocent man, for you, Lord, have done as you pleased.” 15 Then they took Jonah and threw him overboard, and the raging sea grew calm. 16 At this the men greatly feared the Lord, and they offered a sacrifice to the Lord and made vows to him.
+
+Jonah’s Prayer
+17 Now the Lord provided a huge fish to swallow Jonah, and Jonah was in the belly of the fish three days and three nights.                                
+                                  </p>
+              </div>
+
+          <div className={styles.card}>
+           <h2 className={styles.chapter10}>Jonah Chpt II</h2>
+            <p>
+2 1 [a]From inside the fish Jonah prayed to the Lord his God. 2 He said:
+
+“In my distress I called to the Lord,
+    and he answered me.
+From deep in the realm of the dead I called for help,
+    and you listened to my cry.
+3 You hurled me into the depths,
+    into the very heart of the seas,
+    and the currents swirled about me;
+all your waves and breakers
+    swept over me.
+4 I said, ‘I have been banished
+    from your sight;
+yet I will look again
+    toward your holy temple.’
+5 The engulfing waters threatened me,[b]
+    the deep surrounded me;
+    seaweed was wrapped around my head.
+6 To the roots of the mountains I sank down;
+    the earth beneath barred me in forever.
+But you, Lord my God,
+    brought my life up from the pit.
+
+7 “When my life was ebbing away,
+    I remembered you, Lord,
+and my prayer rose to you,
+    to your holy temple.
+
+8 “Those who cling to worthless idols
+    turn away from God’s love for them.
+9 But I, with shouts of grateful praise,
+    will sacrifice to you.
+What I have vowed I will make good.
+    I will say, ‘Salvation comes from the Lord.’”
+
+10 And the Lord commanded the fish, and it vomited Jonah onto dry land.
+      
+         </p>
+          </div>
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter10}>Jonah Chpt III</h2>
+            <p>
+
+Jonah Goes to Nineveh
+3 Then the word of the Lord came to Jonah a second time: 2 “Go to the great city of Nineveh and proclaim to it the message I give you.”
+
+3 Jonah obeyed the word of the Lord and went to Nineveh. Now Nineveh was a very large city; it took three days to go through it. 4 Jonah began by going a day’s journey into the city, proclaiming, “Forty more days and Nineveh will be overthrown.” 5 The Ninevites believed God. A fast was proclaimed, and all of them, from the greatest to the least, put on sackcloth.
+
+6 When Jonah’s warning reached the king of Nineveh, he rose from his throne, took off his royal robes, covered himself with sackcloth and sat down in the dust. 7 This is the proclamation he issued in Nineveh:
+
+“By the decree of the king and his nobles:
+
+Do not let people or animals, herds or flocks, taste anything; do not let them eat or drink. 8 But let people and animals be covered with sackcloth. Let everyone call urgently on God. Let them give up their evil ways and their violence. 9 Who knows? God may yet relent and with compassion turn from his fierce anger so that we will not perish.”
+
+10 When God saw what they did and how they turned from their evil ways, he relented and did not bring on them the destruction he had threatened.
+
+
+            </p>
+          </div>
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter10}>Jonah Chpt IV</h2>
+            <p>
+
+Jonah’s Anger at the Lord’s Compassion
+4 But to Jonah this seemed very wrong, and he became angry. 2 He prayed to the Lord, “Isn’t this what I said, Lord, when I was still at home? That is what I tried to forestall by fleeing to Tarshish. I knew that you are a gracious and compassionate God, slow to anger and abounding in love, a God who relents from sending calamity. 3 Now, Lord, take away my life, for it is better for me to die than to live.”
+
+4 But the Lord replied, “Is it right for you to be angry?”
+
+5 Jonah had gone out and sat down at a place east of the city. There he made himself a shelter, sat in its shade and waited to see what would happen to the city. 6 Then the Lord God provided a leafy plant[a] and made it grow up over Jonah to give shade for his head to ease his discomfort, and Jonah was very happy about the plant. 7 But at dawn the next day God provided a worm, which chewed the plant so that it withered. 8 When the sun rose, God provided a scorching east wind, and the sun blazed on Jonah’s head so that he grew faint. He wanted to die, and said, “It would be better for me to die than to live.”
+
+9 But God said to Jonah, “Is it right for you to be angry about the plant?”
+
+“It is,” he said. “And I’m so angry I wish I were dead.”
+
+10 But the Lord said, “You have been concerned about this plant, though you did not tend it or make it grow. It sprang up overnight and died overnight. 11 And should I not have concern for the great city of Nineveh, in which there are more than a hundred and twenty thousand people who cannot tell their right hand from their left—and also many animals?”                                  
+            </p>
+          </div>
+
+                          
+                            </div>
+                      </div>
+              
+      </main>
+
+
+    
 <main id="micah" className={styles.main}>
       
        
