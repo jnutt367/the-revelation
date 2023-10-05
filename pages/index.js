@@ -11,11 +11,782 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
+<main id="amos" className={styles.main}>
+      
+       
+       
+        <div className={styles.hero}>
+           <h2 className={styles.holy}>THE WORD</h2>
+                <h1 className={styles.bible}>
+                    <a href="https://the-holy-bible.vercel.app/" target="_blank">OF GOD</a>
+                </h1>
+        
+        <h1 className={styles.title}>
+          AMOS
+        </h1>
+         <div  className={styles.image}>
+       <Image 
+                                src="/amos.png"
+                                alt="obadiah image"
+                                height={900}
+                                width={2000}
+                                priority
+                              />
+        </div>
+<p className={styles.parables}>
+Amos means "burden" or "burden-bearer", He was a shepard called by God to announce God's judgment on the people that were being cruel to the poor & living selfishly. 
+    </p>
+                      <div className={styles.nav12}>           
+      <a href="https://the-revelation.vercel.app/#micah">
+             <Image 
+                                src="/previous.webp"
+                                alt="left"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+       </a>
+
+         <a href="#PayPalButton">
+            <Image 
+                                src="/upward_pointing.webp"
+                                alt="home"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         <a href="https://the-revelation.vercel.app/#habakkuk">
+           <Image 
+                                src="/next.webp"
+                                alt="right"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         
+               </div>
+  
+                <div className={styles.iframe}>
+                   <iframe width="100%" height="315" src="https://www.youtube.com/embed/mGgWaPGpGz4?si=QiHq6whNv11iWPcZ?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div> 
+ 
+      <div className={styles.grid12}>
+          <div className={styles.card}>
+            <h2 className={styles.chapter12}>Amos Chpt I</h2>
+            <p>
+
+1 The words of Amos, one of the shepherds of Tekoa—the vision he saw concerning Israel two years before the earthquake, when Uzziah was king of Judah and Jeroboam son of Jehoash[a] was king of Israel.
+
+2 He said:
+
+“The Lord roars from Zion
+    and thunders from Jerusalem;
+the pastures of the shepherds dry up,
+    and the top of Carmel withers.”
+
+Judgment on Israel’s Neighbors
+3 This is what the Lord says:
+
+“For three sins of Damascus,
+    even for four, I will not relent.
+Because she threshed Gilead
+    with sledges having iron teeth,
+4 I will send fire on the house of Hazael
+    that will consume the fortresses of Ben-Hadad.
+5 I will break down the gate of Damascus;
+    I will destroy the king who is in[b] the Valley of Aven[c]
+and the one who holds the scepter in Beth Eden.
+    The people of Aram will go into exile to Kir,”
+says the Lord.
+
+6 This is what the Lord says:
+
+“For three sins of Gaza,
+    even for four, I will not relent.
+Because she took captive whole communities
+    and sold them to Edom,
+7 I will send fire on the walls of Gaza
+    that will consume her fortresses.
+8 I will destroy the king[d] of Ashdod
+    and the one who holds the scepter in Ashkelon.
+I will turn my hand against Ekron,
+    till the last of the Philistines are dead,”
+says the Sovereign Lord.
+
+9 This is what the Lord says:
+
+“For three sins of Tyre,
+    even for four, I will not relent.
+Because she sold whole communities of captives to Edom,
+    disregarding a treaty of brotherhood,
+10 I will send fire on the walls of Tyre
+    that will consume her fortresses.”
+
+11 This is what the Lord says:
+
+“For three sins of Edom,
+    even for four, I will not relent.
+Because he pursued his brother with a sword
+    and slaughtered the women of the land,
+because his anger raged continually
+    and his fury flamed unchecked,
+12 I will send fire on Teman
+    that will consume the fortresses of Bozrah.”
+
+13 This is what the Lord says:
+
+“For three sins of Ammon,
+    even for four, I will not relent.
+Because he ripped open the pregnant women of Gilead
+    in order to extend his borders,
+14 I will set fire to the walls of Rabbah
+    that will consume her fortresses
+amid war cries on the day of battle,
+    amid violent winds on a stormy day.
+15 Her king[e] will go into exile,
+    he and his officials together,”
+says the Lord.
+
+                              
+                                  </p>
+              </div>
 
 
+ <div className={styles.card}>
+            <h2 className={styles.chapter12}>Amos Chpt II</h2>
+            <p>
+
+2 This is what the Lord says:
+
+“For three sins of Moab,
+    even for four, I will not relent.
+Because he burned to ashes
+    the bones of Edom’s king,
+2 I will send fire on Moab
+    that will consume the fortresses of Kerioth.[a]
+Moab will go down in great tumult
+    amid war cries and the blast of the trumpet.
+3 I will destroy her ruler
+    and kill all her officials with him,”
+says the Lord.
+
+4 This is what the Lord says:
+
+“For three sins of Judah,
+    even for four, I will not relent.
+Because they have rejected the law of the Lord
+    and have not kept his decrees,
+because they have been led astray by false gods,[b]
+    the gods[c] their ancestors followed,
+5 I will send fire on Judah
+    that will consume the fortresses of Jerusalem.”
+
+Judgment on Israel
+6 This is what the Lord says:
+
+“For three sins of Israel,
+    even for four, I will not relent.
+They sell the innocent for silver,
+    and the needy for a pair of sandals.
+7 They trample on the heads of the poor
+    as on the dust of the ground
+    and deny justice to the oppressed.
+Father and son use the same girl
+    and so profane my holy name.
+8 They lie down beside every altar
+    on garments taken in pledge.
+In the house of their god
+    they drink wine taken as fines.
+
+9 “Yet I destroyed the Amorites before them,
+    though they were tall as the cedars
+    and strong as the oaks.
+I destroyed their fruit above
+    and their roots below.
+10 I brought you up out of Egypt
+    and led you forty years in the wilderness
+    to give you the land of the Amorites.
+
+11 “I also raised up prophets from among your children
+    and Nazirites from among your youths.
+Is this not true, people of Israel?”
+declares the Lord.
+12 “But you made the Nazirites drink wine
+    and commanded the prophets not to prophesy.
+
+13 “Now then, I will crush you
+    as a cart crushes when loaded with grain.
+14 The swift will not escape,
+    the strong will not muster their strength,
+    and the warrior will not save his life.
+15 The archer will not stand his ground,
+    the fleet-footed soldier will not get away,
+    and the horseman will not save his life.
+16 Even the bravest warriors
+    will flee naked on that day,”
+declares the Lord.
+
+                              
+                                  </p>
+              </div>
 
 
-<main id="jonah" className={styles.main}>
+ <div className={styles.card}>
+            <h2 className={styles.chapter12}>Amos Chpt III</h2>
+            <p>
+
+2 This is what the Lord says:
+
+“For three sins of Moab,
+    even for four, I will not relent.
+Because he burned to ashes
+    the bones of Edom’s king,
+2 I will send fire on Moab
+    that will consume the fortresses of Kerioth.[a]
+Moab will go down in great tumult
+    amid war cries and the blast of the trumpet.
+3 I will destroy her ruler
+    and kill all her officials with him,”
+says the Lord.
+
+4 This is what the Lord says:
+
+“For three sins of Judah,
+    even for four, I will not relent.
+Because they have rejected the law of the Lord
+    and have not kept his decrees,
+because they have been led astray by false gods,[b]
+    the gods[c] their ancestors followed,
+5 I will send fire on Judah
+    that will consume the fortresses of Jerusalem.”
+
+Judgment on Israel
+6 This is what the Lord says:
+
+“For three sins of Israel,
+    even for four, I will not relent.
+They sell the innocent for silver,
+    and the needy for a pair of sandals.
+7 They trample on the heads of the poor
+    as on the dust of the ground
+    and deny justice to the oppressed.
+Father and son use the same girl
+    and so profane my holy name.
+8 They lie down beside every altar
+    on garments taken in pledge.
+In the house of their god
+    they drink wine taken as fines.
+
+9 “Yet I destroyed the Amorites before them,
+    though they were tall as the cedars
+    and strong as the oaks.
+I destroyed their fruit above
+    and their roots below.
+10 I brought you up out of Egypt
+    and led you forty years in the wilderness
+    to give you the land of the Amorites.
+
+11 “I also raised up prophets from among your children
+    and Nazirites from among your youths.
+Is this not true, people of Israel?”
+declares the Lord.
+12 “But you made the Nazirites drink wine
+    and commanded the prophets not to prophesy.
+
+13 “Now then, I will crush you
+    as a cart crushes when loaded with grain.
+14 The swift will not escape,
+    the strong will not muster their strength,
+    and the warrior will not save his life.
+15 The archer will not stand his ground,
+    the fleet-footed soldier will not get away,
+    and the horseman will not save his life.
+16 Even the bravest warriors
+    will flee naked on that day,”
+declares the Lord.
+
+                              
+                                  </p>
+              </div>
+
+ <div className={styles.card}>
+            <h2 className={styles.chapter12}>Amos Chpt IV</h2>
+            <p>
+
+Israel Has Not Returned to God
+4 Hear this word, you cows of Bashan on Mount Samaria,
+    you women who oppress the poor and crush the needy
+    and say to your husbands, “Bring us some drinks!”
+2 The Sovereign Lord has sworn by his holiness:
+    “The time will surely come
+when you will be taken away with hooks,
+    the last of you with fishhooks.[a]
+3 You will each go straight out
+    through breaches in the wall,
+    and you will be cast out toward Harmon,[b]”
+declares the Lord.
+4 “Go to Bethel and sin;
+    go to Gilgal and sin yet more.
+Bring your sacrifices every morning,
+    your tithes every three years.[c]
+5 Burn leavened bread as a thank offering
+    and brag about your freewill offerings—
+boast about them, you Israelites,
+    for this is what you love to do,”
+declares the Sovereign Lord.
+
+6 “I gave you empty stomachs in every city
+    and lack of bread in every town,
+    yet you have not returned to me,”
+declares the Lord.
+
+7 “I also withheld rain from you
+    when the harvest was still three months away.
+I sent rain on one town,
+    but withheld it from another.
+One field had rain;
+    another had none and dried up.
+8 People staggered from town to town for water
+    but did not get enough to drink,
+    yet you have not returned to me,”
+declares the Lord.
+
+9 “Many times I struck your gardens and vineyards,
+    destroying them with blight and mildew.
+Locusts devoured your fig and olive trees,
+    yet you have not returned to me,”
+declares the Lord.
+
+10 “I sent plagues among you
+    as I did to Egypt.
+I killed your young men with the sword,
+    along with your captured horses.
+I filled your nostrils with the stench of your camps,
+    yet you have not returned to me,”
+declares the Lord.
+
+11 “I overthrew some of you
+    as I overthrew Sodom and Gomorrah.
+You were like a burning stick snatched from the fire,
+    yet you have not returned to me,”
+declares the Lord.
+
+12 “Therefore this is what I will do to you, Israel,
+    and because I will do this to you, Israel,
+    prepare to meet your God.”
+
+13 He who forms the mountains,
+    who creates the wind,
+    and who reveals his thoughts to mankind,
+who turns dawn to darkness,
+    and treads on the heights of the earth—
+    the Lord God Almighty is his name.                              
+                                  </p>
+              </div>
+
+
+ <div className={styles.card}>
+            <h2 className={styles.chapter12}>Amos Chpt V</h2>
+            <p>
+A Lament and Call to Repentance
+5 Hear this word, Israel, this lament I take up concerning you:
+
+2 “Fallen is Virgin Israel,
+    never to rise again,
+deserted in her own land,
+    with no one to lift her up.”
+
+3 This is what the Sovereign Lord says to Israel:
+
+“Your city that marches out a thousand strong
+    will have only a hundred left;
+your town that marches out a hundred strong
+    will have only ten left.”
+
+4 This is what the Lord says to Israel:
+
+“Seek me and live;
+5     do not seek Bethel,
+do not go to Gilgal,
+    do not journey to Beersheba.
+For Gilgal will surely go into exile,
+    and Bethel will be reduced to nothing.[a]”
+6 Seek the Lord and live,
+    or he will sweep through the tribes of Joseph like a fire;
+it will devour them,
+    and Bethel will have no one to quench it.
+
+7 There are those who turn justice into bitterness
+    and cast righteousness to the ground.
+
+8 He who made the Pleiades and Orion,
+    who turns midnight into dawn
+    and darkens day into night,
+who calls for the waters of the sea
+    and pours them out over the face of the land—
+    the Lord is his name.
+9 With a blinding flash he destroys the stronghold
+    and brings the fortified city to ruin.
+
+10 There are those who hate the one who upholds justice in court
+    and detest the one who tells the truth.
+
+11 You levy a straw tax on the poor
+    and impose a tax on their grain.
+Therefore, though you have built stone mansions,
+    you will not live in them;
+though you have planted lush vineyards,
+    you will not drink their wine.
+12 For I know how many are your offenses
+    and how great your sins.
+
+There are those who oppress the innocent and take bribes
+    and deprive the poor of justice in the courts.
+13 Therefore the prudent keep quiet in such times,
+    for the times are evil.
+
+14 Seek good, not evil,
+    that you may live.
+Then the Lord God Almighty will be with you,
+    just as you say he is.
+15 Hate evil, love good;
+    maintain justice in the courts.
+Perhaps the Lord God Almighty will have mercy
+    on the remnant of Joseph.
+
+16 Therefore this is what the Lord, the Lord God Almighty, says:
+
+“There will be wailing in all the streets
+    and cries of anguish in every public square.
+The farmers will be summoned to weep
+    and the mourners to wail.
+17 There will be wailing in all the vineyards,
+    for I will pass through your midst,”
+says the Lord.
+
+The Day of the Lord
+18 Woe to you who long
+    for the day of the Lord!
+Why do you long for the day of the Lord?
+    That day will be darkness, not light.
+19 It will be as though a man fled from a lion
+    only to meet a bear,
+as though he entered his house
+    and rested his hand on the wall
+    only to have a snake bite him.
+20 Will not the day of the Lord be darkness, not light—
+    pitch-dark, without a ray of brightness?
+
+21 “I hate, I despise your religious festivals;
+    your assemblies are a stench to me.
+22 Even though you bring me burnt offerings and grain offerings,
+    I will not accept them.
+Though you bring choice fellowship offerings,
+    I will have no regard for them.
+23 Away with the noise of your songs!
+    I will not listen to the music of your harps.
+24 But let justice roll on like a river,
+    righteousness like a never-failing stream!
+
+25 “Did you bring me sacrifices and offerings
+    forty years in the wilderness, people of Israel?
+26 You have lifted up the shrine of your king,
+    the pedestal of your idols,
+    the star of your god[b]—
+    which you made for yourselves.
+27 Therefore I will send you into exile beyond Damascus,”
+    says the Lord, whose name is God Almighty.
+                              
+                                  </p>
+              </div>
+
+
+ <div className={styles.card}>
+            <h2 className={styles.chapter12}>Amos Chpt VI</h2>
+            <p>
+Woe to the Complacent
+6 Woe to you who are complacent in Zion,
+    and to you who feel secure on Mount Samaria,
+you notable men of the foremost nation,
+    to whom the people of Israel come!
+2 Go to Kalneh and look at it;
+    go from there to great Hamath,
+    and then go down to Gath in Philistia.
+Are they better off than your two kingdoms?
+    Is their land larger than yours?
+3 You put off the day of disaster
+    and bring near a reign of terror.
+4 You lie on beds adorned with ivory
+    and lounge on your couches.
+You dine on choice lambs
+    and fattened calves.
+5 You strum away on your harps like David
+    and improvise on musical instruments.
+6 You drink wine by the bowlful
+    and use the finest lotions,
+    but you do not grieve over the ruin of Joseph.
+7 Therefore you will be among the first to go into exile;
+    your feasting and lounging will end.
+
+The Lord Abhors the Pride of Israel
+8 The Sovereign Lord has sworn by himself—the Lord God Almighty declares:
+
+“I abhor the pride of Jacob
+    and detest his fortresses;
+I will deliver up the city
+    and everything in it.”
+
+9 If ten people are left in one house, they too will die. 10 And if the relative who comes to carry the bodies out of the house to burn them[a] asks anyone who might be hiding there, “Is anyone else with you?” and he says, “No,” then he will go on to say, “Hush! We must not mention the name of the Lord.”
+
+11 For the Lord has given the command,
+    and he will smash the great house into pieces
+    and the small house into bits.
+
+12 Do horses run on the rocky crags?
+    Does one plow the sea[b] with oxen?
+But you have turned justice into poison
+    and the fruit of righteousness into bitterness—
+13 you who rejoice in the conquest of Lo Debar[c]
+    and say, “Did we not take Karnaim[d] by our own strength?”
+
+14 For the Lord God Almighty declares,
+    “I will stir up a nation against you, Israel,
+that will oppress you all the way
+    from Lebo Hamath to the valley of the Arabah.”
+                              
+                                  </p>
+              </div>
+
+
+ <div className={styles.card}>
+            <h2 className={styles.chapter12}>Amos Chpt VII</h2>
+            <p>
+
+Locusts, Fire and a Plumb Line
+7 This is what the Sovereign Lord showed me: He was preparing swarms of locusts after the king’s share had been harvested and just as the late crops were coming up. 2 When they had stripped the land clean, I cried out, “Sovereign Lord, forgive! How can Jacob survive? He is so small!”
+
+3 So the Lord relented.
+
+“This will not happen,” the Lord said.
+
+4 This is what the Sovereign Lord showed me: The Sovereign Lord was calling for judgment by fire; it dried up the great deep and devoured the land. 5 Then I cried out, “Sovereign Lord, I beg you, stop! How can Jacob survive? He is so small!”
+
+6 So the Lord relented.
+
+“This will not happen either,” the Sovereign Lord said.
+
+7 This is what he showed me: The Lord was standing by a wall that had been built true to plumb,[a] with a plumb line[b] in his hand. 8 And the Lord asked me, “What do you see, Amos?”
+
+“A plumb line,” I replied.
+
+Then the Lord said, “Look, I am setting a plumb line among my people Israel; I will spare them no longer.
+
+9 “The high places of Isaac will be destroyed
+    and the sanctuaries of Israel will be ruined;
+    with my sword I will rise against the house of Jeroboam.”
+
+Amos and Amaziah
+10 Then Amaziah the priest of Bethel sent a message to Jeroboam king of Israel: “Amos is raising a conspiracy against you in the very heart of Israel. The land cannot bear all his words. 11 For this is what Amos is saying:
+
+“‘Jeroboam will die by the sword,
+    and Israel will surely go into exile,
+    away from their native land.’”
+
+12 Then Amaziah said to Amos, “Get out, you seer! Go back to the land of Judah. Earn your bread there and do your prophesying there. 13 Don’t prophesy anymore at Bethel, because this is the king’s sanctuary and the temple of the kingdom.”
+
+14 Amos answered Amaziah, “I was neither a prophet nor the son of a prophet, but I was a shepherd, and I also took care of sycamore-fig trees. 15 But the Lord took me from tending the flock and said to me, ‘Go, prophesy to my people Israel.’ 16 Now then, hear the word of the Lord. You say,
+
+“‘Do not prophesy against Israel,
+    and stop preaching against the descendants of Isaac.’
+
+17 “Therefore this is what the Lord says:
+
+“‘Your wife will become a prostitute in the city,
+    and your sons and daughters will fall by the sword.
+Your land will be measured and divided up,
+    and you yourself will die in a pagan[c] country.
+And Israel will surely go into exile,
+    away from their native land.’”                              
+                                  </p>
+              </div>
+
+
+ <div className={styles.card}>
+            <h2 className={styles.chapter12}>Amos Chpt VIII</h2>
+            <p>
+
+A Basket of Ripe Fruit
+8 This is what the Sovereign Lord showed me: a basket of ripe fruit. 2 “What do you see, Amos?” he asked.
+
+“A basket of ripe fruit,” I answered.
+
+Then the Lord said to me, “The time is ripe for my people Israel; I will spare them no longer.
+
+3 “In that day,” declares the Sovereign Lord, “the songs in the temple will turn to wailing.[a] Many, many bodies—flung everywhere! Silence!”
+
+4 Hear this, you who trample the needy
+    and do away with the poor of the land,
+
+5 saying,
+
+“When will the New Moon be over
+    that we may sell grain,
+and the Sabbath be ended
+    that we may market wheat?”—
+skimping on the measure,
+    boosting the price
+    and cheating with dishonest scales,
+6 buying the poor with silver
+    and the needy for a pair of sandals,
+    selling even the sweepings with the wheat.
+
+7 The Lord has sworn by himself, the Pride of Jacob: “I will never forget anything they have done.
+
+8 “Will not the land tremble for this,
+    and all who live in it mourn?
+The whole land will rise like the Nile;
+    it will be stirred up and then sink
+    like the river of Egypt.
+
+9 “In that day,” declares the Sovereign Lord,
+
+“I will make the sun go down at noon
+    and darken the earth in broad daylight.
+10 I will turn your religious festivals into mourning
+    and all your singing into weeping.
+I will make all of you wear sackcloth
+    and shave your heads.
+I will make that time like mourning for an only son
+    and the end of it like a bitter day.
+
+11 “The days are coming,” declares the Sovereign Lord,
+    “when I will send a famine through the land—
+not a famine of food or a thirst for water,
+    but a famine of hearing the words of the Lord.
+12 People will stagger from sea to sea
+    and wander from north to east,
+searching for the word of the Lord,
+    but they will not find it.
+
+13 “In that day
+
+“the lovely young women and strong young men
+    will faint because of thirst.
+14 Those who swear by the sin of Samaria—
+    who say, ‘As surely as your god lives, Dan,’
+    or, ‘As surely as the god[b] of Beersheba lives’—
+    they will fall, never to rise again.”
+
+                              
+                                  </p>
+              </div>
+
+
+ <div className={styles.card}>
+            <h2 className={styles.chapter12}>Amos Chpt IX</h2>
+            <p>
+Israel to Be Destroyed
+9 I saw the Lord standing by the altar, and he said:
+
+“Strike the tops of the pillars
+    so that the thresholds shake.
+Bring them down on the heads of all the people;
+    those who are left I will kill with the sword.
+Not one will get away,
+    none will escape.
+2 Though they dig down to the depths below,
+    from there my hand will take them.
+Though they climb up to the heavens above,
+    from there I will bring them down.
+3 Though they hide themselves on the top of Carmel,
+    there I will hunt them down and seize them.
+Though they hide from my eyes at the bottom of the sea,
+    there I will command the serpent to bite them.
+4 Though they are driven into exile by their enemies,
+    there I will command the sword to slay them.
+
+“I will keep my eye on them
+    for harm and not for good.”
+
+5 The Lord, the Lord Almighty—
+he touches the earth and it melts,
+    and all who live in it mourn;
+the whole land rises like the Nile,
+    then sinks like the river of Egypt;
+6 he builds his lofty palace[a] in the heavens
+    and sets its foundation[b] on the earth;
+he calls for the waters of the sea
+    and pours them out over the face of the land—
+    the Lord is his name.
+
+7 “Are not you Israelites
+    the same to me as the Cushites[c]?”
+declares the Lord.
+“Did I not bring Israel up from Egypt,
+    the Philistines from Caphtor[d]
+    and the Arameans from Kir?
+
+8 “Surely the eyes of the Sovereign Lord
+    are on the sinful kingdom.
+I will destroy it
+    from the face of the earth.
+Yet I will not totally destroy
+    the descendants of Jacob,”
+declares the Lord.
+9 “For I will give the command,
+    and I will shake the people of Israel
+    among all the nations
+as grain is shaken in a sieve,
+    and not a pebble will reach the ground.
+10 All the sinners among my people
+    will die by the sword,
+all those who say,
+    ‘Disaster will not overtake or meet us.’
+
+Israel’s Restoration
+11 “In that day
+
+“I will restore David’s fallen shelter—
+    I will repair its broken walls
+    and restore its ruins—
+    and will rebuild it as it used to be,
+12 so that they may possess the remnant of Edom
+    and all the nations that bear my name,[e]”
+declares the Lord, who will do these things.
+
+13 “The days are coming,” declares the Lord,
+
+“when the reaper will be overtaken by the plowman
+    and the planter by the one treading grapes.
+New wine will drip from the mountains
+    and flow from all the hills,
+14     and I will bring my people Israel back from exile.[f]
+
+“They will rebuild the ruined cities and live in them.
+    They will plant vineyards and drink their wine;
+    they will make gardens and eat their fruit.
+15 I will plant Israel in their own land,
+    never again to be uprooted
+    from the land I have given them,”
+
+says the Lord your God.
+                              
+                                  </p>
+              </div>
+ 
+
+                          
+                            </div>
+                      </div>
+              
+      </main>
+
+
+<main id="obadiah" className={styles.main}>
       
        
        
@@ -51,7 +822,7 @@ Obadiah is the shortest book of the Old Testament, but it is packed with God's p
                               />
        </a>
 
-         <a href="#PayPalButton">
+         <a href="#">
             <Image 
                                 src="/upward_pointing.webp"
                                 alt="home"
