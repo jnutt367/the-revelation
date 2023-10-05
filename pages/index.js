@@ -809,7 +809,7 @@ says the Lord your God.
                               />
         </div>
 <p className={styles.parables}>
-Obadiah is the shortest book of the Old Testament, but it is packed with God's prophetic vision of hope for us as His chosen people.
+Obadiah means "servant of Jehovah". Nothing more is known about this prophet other than this short prophetic book.
     </p>
                       <div className={styles.nav11}>           
       <a href="https://the-revelation.vercel.app/#micah">
