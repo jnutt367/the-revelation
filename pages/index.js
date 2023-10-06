@@ -11,8 +11,941 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
+<main id="hosea" className={styles.main}>
+      
+       
+       
+        <div className={styles.hero}>
+           <h2 className={styles.holy}>THE WORD</h2>
+                <h1 className={styles.bible}>
+                    <a href="thewordofgodrisen.vercel.app/" target="_blank">OF GOD</a>
+                </h1>
+        
+        <h1 className={styles.title}>
+          HOSEA
+        </h1>
+         <div  className={styles.image}>
+       <Image 
+                                src="/hosea.png"
+                                alt="haggai image"
+                                height={900}
+                                width={2000}
+                                priority
+                              />
+        </div>
+<p className={styles.parables}>
+Hosea's love for his unfaithful wife is a reflection of Israel's unfaithfulness in her covenant relationship with God.
+    </p>
+                      <div className={styles.nav13}>           
+      <a href="https://the-revelation.vercel.app/#micah">
+             <Image 
+                                src="/previous.webp"
+                                alt="left"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+       </a>
+
+         <a href="https://cash.app/$JNutt367">
+            <Image 
+                                src="/upward_pointing.webp"
+                                alt="home"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         <a href="https://the-revelation.vercel.app/#habakkuk">
+           <Image 
+                                src="/next.webp"
+                                alt="right"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         
+               </div>
+  
+                <div className={styles.iframe}>
+                   <iframe width="100%" height="315" src="https://www.youtube.com/embed/kE6SZ1ogOVU?si=yGv6GWJt9A95rfMl?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div> 
+ 
+      <div className={styles.grid13}>
+          <div id="chapter-1" className={styles.card}>
+            <h2 className={styles.chapter13}>Hosea Chpt I</h2>
+            <p id="verse-1">
+1 The word of the Lord that came to Hosea son of Beeri during the reigns of Uzziah, Jotham, Ahaz and Hezekiah, kings of Judah, and during the reign of Jeroboam son of Jehoash[a] king of Israel:
+
+Hosea’s Wife and Children
+2 When the Lord began to speak through Hosea, the Lord said to him, “Go, marry a promiscuous woman and have children with her, for like an adulterous wife this land is guilty of unfaithfulness to the Lord.” 3 So he married Gomer daughter of Diblaim, and she conceived and bore him a son.
+
+4 Then the Lord said to Hosea, “Call him Jezreel, because I will soon punish the house of Jehu for the massacre at Jezreel, and I will put an end to the kingdom of Israel. 5 In that day I will break Israel’s bow in the Valley of Jezreel.”
+
+6 Gomer conceived again and gave birth to a daughter. Then the Lord said to Hosea, “Call her Lo-Ruhamah (which means “not loved”), for I will no longer show love to Israel, that I should at all forgive them. 7 Yet I will show love to Judah; and I will save them—not by bow, sword or battle, or by horses and horsemen, but I, the Lord their God, will save them.”
+
+8 After she had weaned Lo-Ruhamah, Gomer had another son. 9 Then the Lord said, “Call him Lo-Ammi (which means “not my people”), for you are not my people, and I am not your God.[b]
+
+10 “Yet the Israelites will be like the sand on the seashore, which cannot be measured or counted. In the place where it was said to them, ‘You are not my people,’ they will be called ‘children of the living God.’ 11 The people of Judah and the people of Israel will come together; they will appoint one leader and will come up out of the land, for great will be the day of Jezreel.                               
+                                  </p>
+              </div>
+
+          <div className={styles.card}>
+           <h2 className={styles.chapter13}>Hosea Chpt II</h2>
+            <p>
+
+2 [a]“Say of your brothers, ‘My people,’ and of your sisters, ‘My loved one.’
+
+Israel Punished and Restored
+2 “Rebuke your mother, rebuke her,
+    for she is not my wife,
+    and I am not her husband.
+Let her remove the adulterous look from her face
+    and the unfaithfulness from between her breasts.
+3 Otherwise I will strip her naked
+    and make her as bare as on the day she was born;
+I will make her like a desert,
+    turn her into a parched land,
+    and slay her with thirst.
+4 I will not show my love to her children,
+    because they are the children of adultery.
+5 Their mother has been unfaithful
+    and has conceived them in disgrace.
+She said, ‘I will go after my lovers,
+    who give me my food and my water,
+    my wool and my linen, my olive oil and my drink.’
+6 Therefore I will block her path with thornbushes;
+    I will wall her in so that she cannot find her way.
+7 She will chase after her lovers but not catch them;
+    she will look for them but not find them.
+Then she will say,
+    ‘I will go back to my husband as at first,
+    for then I was better off than now.’
+8 She has not acknowledged that I was the one
+    who gave her the grain, the new wine and oil,
+who lavished on her the silver and gold—
+    which they used for Baal.
+
+9 “Therefore I will take away my grain when it ripens,
+    and my new wine when it is ready.
+I will take back my wool and my linen,
+    intended to cover her naked body.
+10 So now I will expose her lewdness
+    before the eyes of her lovers;
+    no one will take her out of my hands.
+11 I will stop all her celebrations:
+    her yearly festivals, her New Moons,
+    her Sabbath days—all her appointed festivals.
+12 I will ruin her vines and her fig trees,
+    which she said were her pay from her lovers;
+I will make them a thicket,
+    and wild animals will devour them.
+13 I will punish her for the days
+    she burned incense to the Baals;
+she decked herself with rings and jewelry,
+    and went after her lovers,
+    but me she forgot,”
+declares the Lord.
+
+14 “Therefore I am now going to allure her;
+    I will lead her into the wilderness
+    and speak tenderly to her.
+15 There I will give her back her vineyards,
+    and will make the Valley of Achor[b] a door of hope.
+There she will respond[c] as in the days of her youth,
+    as in the day she came up out of Egypt.
+
+16 “In that day,” declares the Lord,
+    “you will call me ‘my husband’;
+    you will no longer call me ‘my master.[d]’
+17 I will remove the names of the Baals from her lips;
+    no longer will their names be invoked.
+18 In that day I will make a covenant for them
+    with the beasts of the field, the birds in the sky
+    and the creatures that move along the ground.
+Bow and sword and battle
+    I will abolish from the land,
+    so that all may lie down in safety.
+19 I will betroth you to me forever;
+    I will betroth you in[e] righteousness and justice,
+    in[f] love and compassion.
+20 I will betroth you in[g] faithfulness,
+    and you will acknowledge the Lord.
+
+21 “In that day I will respond,”
+    declares the Lord—
+“I will respond to the skies,
+    and they will respond to the earth;
+22 and the earth will respond to the grain,
+    the new wine and the olive oil,
+    and they will respond to Jezreel.[h]
+23 I will plant her for myself in the land;
+    I will show my love to the one I called ‘Not my loved one.[i]’
+I will say to those called ‘Not my people,[j]’ ‘You are my people’;
+    and they will say, ‘You are my God.’”
+
+         </p>
+          </div>
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter13}>Hosea Chpt III</h2>
+            <p>
+
+Hosea’s Reconciliation With His Wife
+3 The Lord said to me, “Go, show your love to your wife again, though she is loved by another man and is an adulteress. Love her as the Lord loves the Israelites, though they turn to other gods and love the sacred raisin cakes.”
+
+2 So I bought her for fifteen shekels[a] of silver and about a homer and a lethek[b] of barley. 3 Then I told her, “You are to live with me many days; you must not be a prostitute or be intimate with any man, and I will behave the same way toward you.”
+
+4 For the Israelites will live many days without king or prince, without sacrifice or sacred stones, without ephod or household gods. 5 Afterward the Israelites will return and seek the Lord their God and David their king. They will come trembling to the Lord and to his blessings in the last days.            </p>
+          </div>
 
 
+ <div className={styles.card}>
+            <h2 className={styles.chapter13}>Hosea Chpt IV</h2>
+            <p>
+
+The Charge Against Israel
+4 Hear the word of the Lord, you Israelites,
+    because the Lord has a charge to bring
+    against you who live in the land:
+“There is no faithfulness, no love,
+    no acknowledgment of God in the land.
+2 There is only cursing,[a] lying and murder,
+    stealing and adultery;
+they break all bounds,
+    and bloodshed follows bloodshed.
+3 Because of this the land dries up,
+    and all who live in it waste away;
+the beasts of the field, the birds in the sky
+    and the fish in the sea are swept away.
+
+4 “But let no one bring a charge,
+    let no one accuse another,
+for your people are like those
+    who bring charges against a priest.
+5 You stumble day and night,
+    and the prophets stumble with you.
+So I will destroy your mother—
+6     my people are destroyed from lack of knowledge.
+
+“Because you have rejected knowledge,
+    I also reject you as my priests;
+because you have ignored the law of your God,
+    I also will ignore your children.
+7 The more priests there were,
+    the more they sinned against me;
+    they exchanged their glorious God[b] for something disgraceful.
+8 They feed on the sins of my people
+    and relish their wickedness.
+9 And it will be: Like people, like priests.
+    I will punish both of them for their ways
+    and repay them for their deeds.
+
+10 “They will eat but not have enough;
+    they will engage in prostitution but not flourish,
+because they have deserted the Lord
+    to give themselves 11 to prostitution;
+old wine and new wine
+    take away their understanding.
+12 My people consult a wooden idol,
+    and a diviner’s rod speaks to them.
+A spirit of prostitution leads them astray;
+    they are unfaithful to their God.
+13 They sacrifice on the mountaintops
+    and burn offerings on the hills,
+under oak, poplar and terebinth,
+    where the shade is pleasant.
+Therefore your daughters turn to prostitution
+    and your daughters-in-law to adultery.
+
+14 “I will not punish your daughters
+    when they turn to prostitution,
+nor your daughters-in-law
+    when they commit adultery,
+because the men themselves consort with harlots
+    and sacrifice with shrine prostitutes—
+    a people without understanding will come to ruin!
+
+15 “Though you, Israel, commit adultery,
+    do not let Judah become guilty.
+
+“Do not go to Gilgal;
+    do not go up to Beth Aven.[c]
+    And do not swear, ‘As surely as the Lord lives!’
+16 The Israelites are stubborn,
+    like a stubborn heifer.
+How then can the Lord pasture them
+    like lambs in a meadow?
+17 Ephraim is joined to idols;
+    leave him alone!
+18 Even when their drinks are gone,
+    they continue their prostitution;
+    their rulers dearly love shameful ways.
+19 A whirlwind will sweep them away,
+    and their sacrifices will bring them shame.
+      
+                                  </p>
+              </div>
+
+          <div className={styles.card}>
+           <h2 className={styles.chapter13}>Hosea Chpt V</h2>
+            <p>
+
+Judgment Against Israel
+5 “Hear this, you priests!
+    Pay attention, you Israelites!
+Listen, royal house!
+    This judgment is against you:
+You have been a snare at Mizpah,
+    a net spread out on Tabor.
+2 The rebels are knee-deep in slaughter.
+    I will discipline all of them.
+3 I know all about Ephraim;
+    Israel is not hidden from me.
+Ephraim, you have now turned to prostitution;
+    Israel is corrupt.
+
+4 “Their deeds do not permit them
+    to return to their God.
+A spirit of prostitution is in their heart;
+    they do not acknowledge the Lord.
+5 Israel’s arrogance testifies against them;
+    the Israelites, even Ephraim, stumble in their sin;
+    Judah also stumbles with them.
+6 When they go with their flocks and herds
+    to seek the Lord,
+they will not find him;
+    he has withdrawn himself from them.
+7 They are unfaithful to the Lord;
+    they give birth to illegitimate children.
+When they celebrate their New Moon feasts,
+    he will devour[a] their fields.
+
+8 “Sound the trumpet in Gibeah,
+    the horn in Ramah.
+Raise the battle cry in Beth Aven[b];
+    lead on, Benjamin.
+9 Ephraim will be laid waste
+    on the day of reckoning.
+Among the tribes of Israel
+    I proclaim what is certain.
+10 Judah’s leaders are like those
+    who move boundary stones.
+I will pour out my wrath on them
+    like a flood of water.
+11 Ephraim is oppressed,
+    trampled in judgment,
+    intent on pursuing idols.[c]
+12 I am like a moth to Ephraim,
+    like rot to the people of Judah.
+
+13 “When Ephraim saw his sickness,
+    and Judah his sores,
+then Ephraim turned to Assyria,
+    and sent to the great king for help.
+But he is not able to cure you,
+    not able to heal your sores.
+14 For I will be like a lion to Ephraim,
+    like a great lion to Judah.
+I will tear them to pieces and go away;
+    I will carry them off, with no one to rescue them.
+15 Then I will return to my lair
+    until they have borne their guilt
+    and seek my face—
+in their misery
+    they will earnestly seek me.”         </p>
+          </div>
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter13}>Hosea Chpt VI</h2>
+            <p>
+
+Israel Unrepentant
+6 “Come, let us return to the Lord.
+He has torn us to pieces
+    but he will heal us;
+he has injured us
+    but he will bind up our wounds.
+2 After two days he will revive us;
+    on the third day he will restore us,
+    that we may live in his presence.
+3 Let us acknowledge the Lord;
+    let us press on to acknowledge him.
+As surely as the sun rises,
+    he will appear;
+he will come to us like the winter rains,
+    like the spring rains that water the earth.”
+
+4 “What can I do with you, Ephraim?
+    What can I do with you, Judah?
+Your love is like the morning mist,
+    like the early dew that disappears.
+5 Therefore I cut you in pieces with my prophets,
+    I killed you with the words of my mouth—
+    then my judgments go forth like the sun.[a]
+6 For I desire mercy, not sacrifice,
+    and acknowledgment of God rather than burnt offerings.
+7 As at Adam,[b] they have broken the covenant;
+    they were unfaithful to me there.
+8 Gilead is a city of evildoers,
+    stained with footprints of blood.
+9 As marauders lie in ambush for a victim,
+    so do bands of priests;
+they murder on the road to Shechem,
+    carrying out their wicked schemes.
+10 I have seen a horrible thing in Israel:
+    There Ephraim is given to prostitution,
+    Israel is defiled.
+
+11 “Also for you, Judah,
+    a harvest is appointed.
+
+“Whenever I would restore the fortunes of my people,            </p>
+          </div>
+
+
+ <div className={styles.card}>
+            <h2 className={styles.chapter13}>Hosea Chpt VII</h2>
+            <p>
+7 1 whenever I would heal Israel,
+the sins of Ephraim are exposed
+    and the crimes of Samaria revealed.
+They practice deceit,
+    thieves break into houses,
+    bandits rob in the streets;
+2 but they do not realize
+    that I remember all their evil deeds.
+Their sins engulf them;
+    they are always before me.
+
+3 “They delight the king with their wickedness,
+    the princes with their lies.
+4 They are all adulterers,
+    burning like an oven
+whose fire the baker need not stir
+    from the kneading of the dough till it rises.
+5 On the day of the festival of our king
+    the princes become inflamed with wine,
+    and he joins hands with the mockers.
+6 Their hearts are like an oven;
+    they approach him with intrigue.
+Their passion smolders all night;
+    in the morning it blazes like a flaming fire.
+7 All of them are hot as an oven;
+    they devour their rulers.
+All their kings fall,
+    and none of them calls on me.
+
+8 “Ephraim mixes with the nations;
+    Ephraim is a flat loaf not turned over.
+9 Foreigners sap his strength,
+    but he does not realize it.
+His hair is sprinkled with gray,
+    but he does not notice.
+10 Israel’s arrogance testifies against him,
+    but despite all this
+he does not return to the Lord his God
+    or search for him.
+
+11 “Ephraim is like a dove,
+    easily deceived and senseless—
+now calling to Egypt,
+    now turning to Assyria.
+12 When they go, I will throw my net over them;
+    I will pull them down like the birds in the sky.
+When I hear them flocking together,
+    I will catch them.
+13 Woe to them,
+    because they have strayed from me!
+Destruction to them,
+    because they have rebelled against me!
+I long to redeem them
+    but they speak about me falsely.
+14 They do not cry out to me from their hearts
+    but wail on their beds.
+They slash themselves,[a] appealing to their gods
+    for grain and new wine,
+    but they turn away from me.
+15 I trained them and strengthened their arms,
+    but they plot evil against me.
+16 They do not turn to the Most High;
+    they are like a faulty bow.
+Their leaders will fall by the sword
+    because of their insolent words.
+For this they will be ridiculed
+    in the land of Egypt.                               
+                                  </p>
+              </div>
+
+          <div className={styles.card}>
+           <h2 className={styles.chapter13}>Hosea Chpt VIII</h2>
+            <p>
+
+Israel to Reap the Whirlwind
+8 “Put the trumpet to your lips!
+    An eagle is over the house of the Lord
+because the people have broken my covenant
+    and rebelled against my law.
+2 Israel cries out to me,
+    ‘Our God, we acknowledge you!’
+3 But Israel has rejected what is good;
+    an enemy will pursue him.
+4 They set up kings without my consent;
+    they choose princes without my approval.
+With their silver and gold
+    they make idols for themselves
+    to their own destruction.
+5 Samaria, throw out your calf-idol!
+    My anger burns against them.
+How long will they be incapable of purity?
+6     They are from Israel!
+This calf—a metalworker has made it;
+    it is not God.
+It will be broken in pieces,
+    that calf of Samaria.
+
+7 “They sow the wind
+    and reap the whirlwind.
+The stalk has no head;
+    it will produce no flour.
+Were it to yield grain,
+    foreigners would swallow it up.
+8 Israel is swallowed up;
+    now she is among the nations
+    like something no one wants.
+9 For they have gone up to Assyria
+    like a wild donkey wandering alone.
+    Ephraim has sold herself to lovers.
+10 Although they have sold themselves among the nations,
+    I will now gather them together.
+They will begin to waste away
+    under the oppression of the mighty king.
+
+11 “Though Ephraim built many altars for sin offerings,
+    these have become altars for sinning.
+12 I wrote for them the many things of my law,
+    but they regarded them as something foreign.
+13 Though they offer sacrifices as gifts to me,
+    and though they eat the meat,
+    the Lord is not pleased with them.
+Now he will remember their wickedness
+    and punish their sins:
+    They will return to Egypt.
+14 Israel has forgotten their Maker
+    and built palaces;
+    Judah has fortified many towns.
+But I will send fire on their cities
+    that will consume their fortresses.”
+      
+      </p>
+          </div>
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter13}>Hosea Chpt IX</h2>
+            <p>
+
+Punishment for Israel
+9 Do not rejoice, Israel;
+    do not be jubilant like the other nations.
+For you have been unfaithful to your God;
+    you love the wages of a prostitute
+    at every threshing floor.
+2 Threshing floors and winepresses will not feed the people;
+    the new wine will fail them.
+3 They will not remain in the Lord’s land;
+    Ephraim will return to Egypt
+    and eat unclean food in Assyria.
+4 They will not pour out wine offerings to the Lord,
+    nor will their sacrifices please him.
+Such sacrifices will be to them like the bread of mourners;
+    all who eat them will be unclean.
+This food will be for themselves;
+    it will not come into the temple of the Lord.
+
+5 What will you do on the day of your appointed festivals,
+    on the feast days of the Lord?
+6 Even if they escape from destruction,
+    Egypt will gather them,
+    and Memphis will bury them.
+Their treasures of silver will be taken over by briers,
+    and thorns will overrun their tents.
+7 The days of punishment are coming,
+    the days of reckoning are at hand.
+    Let Israel know this.
+Because your sins are so many
+    and your hostility so great,
+the prophet is considered a fool,
+    the inspired person a maniac.
+8 The prophet, along with my God,
+    is the watchman over Ephraim,[a]
+yet snares await him on all his paths,
+    and hostility in the house of his God.
+9 They have sunk deep into corruption,
+    as in the days of Gibeah.
+God will remember their wickedness
+    and punish them for their sins.
+
+10 “When I found Israel,
+    it was like finding grapes in the desert;
+when I saw your ancestors,
+    it was like seeing the early fruit on the fig tree.
+But when they came to Baal Peor,
+    they consecrated themselves to that shameful idol
+    and became as vile as the thing they loved.
+11 Ephraim’s glory will fly away like a bird—
+    no birth, no pregnancy, no conception.
+12 Even if they rear children,
+    I will bereave them of every one.
+Woe to them
+    when I turn away from them!
+13 I have seen Ephraim, like Tyre,
+    planted in a pleasant place.
+But Ephraim will bring out
+    their children to the slayer.”
+
+14 Give them, Lord—
+    what will you give them?
+Give them wombs that miscarry
+    and breasts that are dry.
+
+15 “Because of all their wickedness in Gilgal,
+    I hated them there.
+Because of their sinful deeds,
+    I will drive them out of my house.
+I will no longer love them;
+    all their leaders are rebellious.
+16 Ephraim is blighted,
+    their root is withered,
+    they yield no fruit.
+Even if they bear children,
+    I will slay their cherished offspring.”
+
+17 My God will reject them
+    because they have not obeyed him;
+    they will be wanderers among the nations.            </p>
+          </div>
+
+
+ <div className={styles.card}>
+            <h2 className={styles.chapter13}>Hosea Chpt X</h2>
+            <p>
+10 Israel was a spreading vine;
+    he brought forth fruit for himself.
+As his fruit increased,
+    he built more altars;
+as his land prospered,
+    he adorned his sacred stones.
+2 Their heart is deceitful,
+    and now they must bear their guilt.
+The Lord will demolish their altars
+    and destroy their sacred stones.
+
+3 Then they will say, “We have no king
+    because we did not revere the Lord.
+But even if we had a king,
+    what could he do for us?”
+4 They make many promises,
+    take false oaths
+    and make agreements;
+therefore lawsuits spring up
+    like poisonous weeds in a plowed field.
+5 The people who live in Samaria fear
+    for the calf-idol of Beth Aven.[a]
+Its people will mourn over it,
+    and so will its idolatrous priests,
+those who had rejoiced over its splendor,
+    because it is taken from them into exile.
+6 It will be carried to Assyria
+    as tribute for the great king.
+Ephraim will be disgraced;
+    Israel will be ashamed of its foreign alliances.
+7 Samaria’s king will be destroyed,
+    swept away like a twig on the surface of the waters.
+8 The high places of wickedness[b] will be destroyed—
+    it is the sin of Israel.
+Thorns and thistles will grow up
+    and cover their altars.
+Then they will say to the mountains, “Cover us!”
+    and to the hills, “Fall on us!”
+
+9 “Since the days of Gibeah, you have sinned, Israel,
+    and there you have remained.[c]
+Will not war again overtake
+    the evildoers in Gibeah?
+10 When I please, I will punish them;
+    nations will be gathered against them
+    to put them in bonds for their double sin.
+11 Ephraim is a trained heifer
+    that loves to thresh;
+so I will put a yoke
+    on her fair neck.
+I will drive Ephraim,
+    Judah must plow,
+    and Jacob must break up the ground.
+12 Sow righteousness for yourselves,
+    reap the fruit of unfailing love,
+and break up your unplowed ground;
+    for it is time to seek the Lord,
+until he comes
+    and showers his righteousness on you.
+13 But you have planted wickedness,
+    you have reaped evil,
+    you have eaten the fruit of deception.
+Because you have depended on your own strength
+    and on your many warriors,
+14 the roar of battle will rise against your people,
+    so that all your fortresses will be devastated—
+as Shalman devastated Beth Arbel on the day of battle,
+    when mothers were dashed to the ground with their children.
+15 So will it happen to you, Bethel,
+    because your wickedness is great.
+When that day dawns,
+    the king of Israel will be completely destroyed.
+                            
+                                  </p>
+              </div>
+
+          <div className={styles.card}>
+           <h2 className={styles.chapter13}>Hosea Chpt XI</h2>
+            <p>
+God’s Love for Israel
+11 “When Israel was a child, I loved him,
+    and out of Egypt I called my son.
+2 But the more they were called,
+    the more they went away from me.[a]
+They sacrificed to the Baals
+    and they burned incense to images.
+3 It was I who taught Ephraim to walk,
+    taking them by the arms;
+but they did not realize
+    it was I who healed them.
+4 I led them with cords of human kindness,
+    with ties of love.
+To them I was like one who lifts
+    a little child to the cheek,
+    and I bent down to feed them.
+
+5 “Will they not return to Egypt
+    and will not Assyria rule over them
+    because they refuse to repent?
+6 A sword will flash in their cities;
+    it will devour their false prophets
+    and put an end to their plans.
+7 My people are determined to turn from me.
+    Even though they call me God Most High,
+    I will by no means exalt them.
+
+8 “How can I give you up, Ephraim?
+    How can I hand you over, Israel?
+How can I treat you like Admah?
+    How can I make you like Zeboyim?
+My heart is changed within me;
+    all my compassion is aroused.
+9 I will not carry out my fierce anger,
+    nor will I devastate Ephraim again.
+For I am God, and not a man—
+    the Holy One among you.
+    I will not come against their cities.
+10 They will follow the Lord;
+    he will roar like a lion.
+When he roars,
+    his children will come trembling from the west.
+11 They will come from Egypt,
+    trembling like sparrows,
+    from Assyria, fluttering like doves.
+I will settle them in their homes,”
+    declares the Lord.
+
+Israel’s Sin
+12 Ephraim has surrounded me with lies,
+    Israel with deceit.
+And Judah is unruly against God,
+    even against the faithful Holy One.
+         </p>
+          </div>
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter13}>Hosea Chpt XII</h2>
+            <p>
+
+12 [a]1 Ephraim feeds on the wind;
+    he pursues the east wind all day
+    and multiplies lies and violence.
+He makes a treaty with Assyria
+    and sends olive oil to Egypt.
+2 The Lord has a charge to bring against Judah;
+    he will punish Jacob[b] according to his ways
+    and repay him according to his deeds.
+3 In the womb he grasped his brother’s heel;
+    as a man he struggled with God.
+4 He struggled with the angel and overcame him;
+    he wept and begged for his favor.
+He found him at Bethel
+    and talked with him there—
+5 the Lord God Almighty,
+    the Lord is his name!
+6 But you must return to your God;
+    maintain love and justice,
+    and wait for your God always.
+
+7 The merchant uses dishonest scales
+    and loves to defraud.
+8 Ephraim boasts,
+    “I am very rich; I have become wealthy.
+With all my wealth they will not find in me
+    any iniquity or sin.”
+
+9 “I have been the Lord your God
+    ever since you came out of Egypt;
+I will make you live in tents again,
+    as in the days of your appointed festivals.
+10 I spoke to the prophets,
+    gave them many visions
+    and told parables through them.”
+
+11 Is Gilead wicked?
+    Its people are worthless!
+Do they sacrifice bulls in Gilgal?
+    Their altars will be like piles of stones
+    on a plowed field.
+12 Jacob fled to the country of Aram[c];
+    Israel served to get a wife,
+    and to pay for her he tended sheep.
+13 The Lord used a prophet to bring Israel up from Egypt,
+    by a prophet he cared for him.
+14 But Ephraim has aroused his bitter anger;
+    his Lord will leave on him the guilt of his bloodshed
+    and will repay him for his contempt.            </p>
+          </div>
+                                  
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter13}>Hosea Chpt XIII</h2>
+            <p>
+
+The Lord’s Anger Against Israel
+13 When Ephraim spoke, people trembled;
+    he was exalted in Israel.
+    But he became guilty of Baal worship and died.
+2 Now they sin more and more;
+    they make idols for themselves from their silver,
+cleverly fashioned images,
+    all of them the work of craftsmen.
+It is said of these people,
+    “They offer human sacrifices!
+    They kiss[a] calf-idols!”
+3 Therefore they will be like the morning mist,
+    like the early dew that disappears,
+    like chaff swirling from a threshing floor,
+    like smoke escaping through a window.
+
+4 “But I have been the Lord your God
+    ever since you came out of Egypt.
+You shall acknowledge no God but me,
+    no Savior except me.
+5 I cared for you in the wilderness,
+    in the land of burning heat.
+6 When I fed them, they were satisfied;
+    when they were satisfied, they became proud;
+    then they forgot me.
+7 So I will be like a lion to them,
+    like a leopard I will lurk by the path.
+8 Like a bear robbed of her cubs,
+    I will attack them and rip them open;
+like a lion I will devour them—
+    a wild animal will tear them apart.
+
+9 “You are destroyed, Israel,
+    because you are against me, against your helper.
+10 Where is your king, that he may save you?
+    Where are your rulers in all your towns,
+of whom you said,
+    ‘Give me a king and princes’?
+11 So in my anger I gave you a king,
+    and in my wrath I took him away.
+12 The guilt of Ephraim is stored up,
+    his sins are kept on record.
+13 Pains as of a woman in childbirth come to him,
+    but he is a child without wisdom;
+when the time arrives,
+    he doesn’t have the sense to come out of the womb.
+
+14 “I will deliver this people from the power of the grave;
+    I will redeem them from death.
+Where, O death, are your plagues?
+    Where, O grave, is your destruction?
+
+“I will have no compassion,
+15     even though he thrives among his brothers.
+An east wind from the Lord will come,
+    blowing in from the desert;
+his spring will fail
+    and his well dry up.
+His storehouse will be plundered
+    of all its treasures.
+16 The people of Samaria must bear their guilt,
+    because they have rebelled against their God.
+They will fall by the sword;
+    their little ones will be dashed to the ground,
+    their pregnant women ripped open.”         </p>
+          </div>
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter13}>Hosea Chpt XIV</h2>
+            <p>
+Repentance to Bring Blessing
+14 [a]Return, Israel, to the Lord your God.
+    Your sins have been your downfall!
+2 Take words with you
+    and return to the Lord.
+Say to him:
+    “Forgive all our sins
+and receive us graciously,
+    that we may offer the fruit of our lips.[b]
+3 Assyria cannot save us;
+    we will not mount warhorses.
+We will never again say ‘Our gods’
+    to what our own hands have made,
+    for in you the fatherless find compassion.”
+
+4 “I will heal their waywardness
+    and love them freely,
+    for my anger has turned away from them.
+5 I will be like the dew to Israel;
+    he will blossom like a lily.
+Like a cedar of Lebanon
+    he will send down his roots;
+6     his young shoots will grow.
+His splendor will be like an olive tree,
+    his fragrance like a cedar of Lebanon.
+7 People will dwell again in his shade;
+    they will flourish like the grain,
+they will blossom like the vine—
+    Israel’s fame will be like the wine of Lebanon.
+8 Ephraim, what more have I[c] to do with idols?
+    I will answer him and care for him.
+I am like a flourishing juniper;
+    your fruitfulness comes from me.”
+
+9 Who is wise? Let them realize these things.
+    Who is discerning? Let them understand.
+The ways of the Lord are right;
+    the righteous walk in them,
+    but the rebellious stumble in them.
+
+
+            </p>
+          </div>                                  
+                                  
+
+                          
+                            </div>
+                      </div>
+              
+      </main>
 
 
 <main id="hosea" className={styles.main}>
