@@ -79,9 +79,9 @@ Hosea's love for his unfaithful wife is a reflection of Israel's unfaithfulness 
                 </div> 
  
       <div className={styles.grid13}>
-          <div className={styles.card}>
+          <div id="chapter-1" className={styles.card}>
             <h2 className={styles.chapter13}>Hosea Chpt I</h2>
-            <p>
+            <p id="verse-1">
 1 The word of the Lord that came to Hosea son of Beeri during the reigns of Uzziah, Jotham, Ahaz and Hezekiah, kings of Judah, and during the reign of Jeroboam son of Jehoash[a] king of Israel:
 
 Hosea’s Wife and Children
