@@ -50,7 +50,7 @@ Joel -son of Pethuel, sees a sign of the final judgement, he warns people to rep
                               />
        </a>
 
-         <a href="#PayPalButton">
+         <a href="https://cash.app/$JNutt367">
             <Image 
                                 src="/upward_pointing.webp"
                                 alt="home"
@@ -472,7 +472,7 @@ Amos means "burden" or "burden-bearer", He was a shepard called by God to announ
                               />
        </a>
 
-         <a href="#PayPalButton">
+         <a href="https://cash.app/$JNutt367">
             <Image 
                                 src="/upward_pointing.webp"
                                 alt="home"
@@ -1247,7 +1247,7 @@ Obadiah means "servant of Jehovah". Nothing more is known about this prophet oth
                               />
        </a>
 
-         <a href="#">
+         <a href="https://cash.app/$JNutt367">
             <Image 
                                 src="/upward_pointing.webp"
                                 alt="home"
@@ -1426,7 +1426,7 @@ Jonah tries to run from God & is swallowed by a great fish. Jonah is a good less
                               />
        </a>
 
-         <a href="#PayPalButton">
+         <a href="https://cash.app/$JNutt367">
             <Image 
                                 src="/upward_pointing.webp"
                                 alt="home"
@@ -1611,7 +1611,7 @@ Micah promised the restoration of Zion and a kingdom of peace for those who trul
                               />
        </a>
 
-         <a href="#PayPalButton">
+         <a href="https://cash.app/$JNutt367">
             <Image 
                                 src="/upward_pointing.webp"
                                 alt="home"
@@ -2223,7 +2223,7 @@ An oracle concerning Nineveh. The vision of Nehum the Eloshite. "The Lord is a j
                               />
        </a>
 
-         <a href="#PayPalButton">
+         <a href="https://cash.app/$JNutt367">
             <Image 
                                 src="/upward_pointing.webp"
                                 alt="home"
@@ -2531,7 +2531,7 @@ The prophecy Habakkuk the prophet received... How long, Lord, must I call for he
                               />
        </a>
 
-         <a href="#PayPalButton">
+         <a href="https://cash.app/$JNutt367">
             <Image 
                                 src="/upward_pointing.webp"
                                 alt="home"
@@ -2850,7 +2850,7 @@ For the director of music. On my stringed instruments.
                               />
        </a>
 
-         <a href="#PayPalButton">
+         <a href="https://cash.app/$JNutt367">
             <Image 
                                 src="/upward_pointing.webp"
                                 alt="home"
@@ -3230,7 +3230,7 @@ says the Lord.
                               />
        </a>
 
-         <a href="#PayPalButton">
+         <a href="https://cash.app/$JNutt367">
             <Image 
                                 src="/upward_pointing.webp"
                                 alt="home"
@@ -4051,7 +4051,7 @@ for you created all things,
                               />
        </a>
 
-         <a href="#PayPalButton">
+         <a href="https://cash.app/$JNutt367">
             <Image 
                                 src="/upward_pointing.webp"
                                 alt="home"
@@ -9830,7 +9830,7 @@ he will bring down his anger with fury,
                               />
        </a>
 
-         <a href="#PayPalButton">
+         <a href="https://cash.app/$JNutt367">
             <Image 
                                 src="/upward_pointing.webp"
                                 alt="home"
@@ -9965,7 +9965,7 @@ Zerubbabel the Lord’s Signet Ring
                               />
        </a>
 
-         <a href="#PayPalButton">
+         <a href="https://cash.app/$JNutt367">
             <Image 
                                 src="/upward_pointing.webp"
                                 alt="home"
@@ -10427,7 +10427,7 @@ May the sword strike his arm and his right eye!
 
                                      <div className={styles.card}>
 
-                                        <h2 className={styles.chapter4}>Zachariah Chpt XII </h2>
+                                        <h2 className={styles.chapter4}>Zechariah Chpt XII </h2>
                                         <p>
                                        Jerusalem’s Enemies to Be Destroyed
 12 A prophecy: The word of the Lord concerning Israel.
@@ -10547,7 +10547,7 @@ The Lord Comes and Reigns
                               />
        </a>
 
-         <a href="#PayPalButton">
+         <a href="https://cash.app/$JNutt367">
             <Image 
                                 src="/upward_pointing.webp"
                                 alt="home"
