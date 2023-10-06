@@ -506,6 +506,24 @@
 } 
 
 
+.nav13 {
+    background-color: #819EC9;
+    color: white;
+    opacity: 1;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: sticky;
+}
+
+.nav13 a:hover {
+    scale: 1.1;
+    background-color: black;
+    opacity: 0.8;
+    border: 2px dotted whitesmoke;
+    border-radius: 50%;
+} 
 
 
 
@@ -630,7 +648,14 @@
     flex-wrap: wrap;    
 }
 
-
+.grid13 {
+    background-color: #819EC9;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;    
+}
 
 
 
@@ -925,8 +950,25 @@
     font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
 }
 
+.chapter13 {
+    background-color: #819EC9;
+    color: white;
+    opacity: 0.8;
+    opacity: 1;
+    position: sticky;
+    z-index: 1;
+    width: 100%;
+    font-weight: 200;
+    text-align: center;
+    top: 0px;
+    margin: 0;
+    padding-top: 25px;
+    padding-bottom: 5px;
+    font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+}
 
- 
+
+
 .card:hover,
 .card:focus,
 .card:active {
