@@ -11,7 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-<main id="hosea" className={styles.main}>
+<main id="daniel" className={styles.main}>
       
        
        
@@ -22,21 +22,20 @@ export default function Home() {
                 </h1>
         
         <h1 className={styles.title}>
-          HOSEA
+          DANIEL
         </h1>
          <div  className={styles.image}>
        <Image 
-                                src="/hosea.png"
-                                alt="haggai image"
+                                src="/daniel.png"
+                                alt="daniel image"
                                 height={900}
                                 width={2000}
                                 priority
                               />
         </div>
 <p className={styles.parables}>
-Hosea's love for his unfaithful wife is a reflection of Israel's unfaithfulness in her covenant relationship with God.
-    </p>
-                      <div className={styles.nav13}>           
+The stroy of Baalthashazar (Daniel) & his friends, revelation that came to Daniel in dreams & visions during his lifetime.
+                      <div className={styles.nav14}>           
       <a href="https://the-revelation.vercel.app/#micah">
              <Image 
                                 src="/previous.webp"
@@ -71,874 +70,483 @@ Hosea's love for his unfaithful wife is a reflection of Israel's unfaithfulness 
                </div>
   
                 <div className={styles.iframe}>
-                   <iframe width="100%" height="315" src="https://www.youtube.com/embed/kE6SZ1ogOVU?si=yGv6GWJt9A95rfMl?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                   <iframe width="100%" height="315" src="https://www.youtube.com/embed/9cSC9uobtPM?si=BxWc9yw_dNNKYyO7?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div> 
  
-      <div className={styles.grid13}>
-          <div id="chapter-1" className={styles.card}>
-            <h2 className={styles.chapter13}>Hosea Chpt I</h2>
-            <p id="verse-1">
-1 The word of the Lord that came to Hosea son of Beeri during the reigns of Uzziah, Jotham, Ahaz and Hezekiah, kings of Judah, and during the reign of Jeroboam son of Jehoash[a] king of Israel:
+      <div className={styles.grid14}>
+          <div className={styles.card}>
+            <h2 className={styles.chapter13}>Daniel Chpt I</h2>
+            <p>
+Daniel’s Training in Babylon
+1 In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it. 2 And the Lord delivered Jehoiakim king of Judah into his hand, along with some of the articles from the temple of God. These he carried off to the temple of his god in Babylonia[a] and put in the treasure house of his god.
 
-Hosea’s Wife and Children
-2 When the Lord began to speak through Hosea, the Lord said to him, “Go, marry a promiscuous woman and have children with her, for like an adulterous wife this land is guilty of unfaithfulness to the Lord.” 3 So he married Gomer daughter of Diblaim, and she conceived and bore him a son.
+3 Then the king ordered Ashpenaz, chief of his court officials, to bring into the king’s service some of the Israelites from the royal family and the nobility— 4 young men without any physical defect, handsome, showing aptitude for every kind of learning, well informed, quick to understand, and qualified to serve in the king’s palace. He was to teach them the language and literature of the Babylonians.[b] 5 The king assigned them a daily amount of food and wine from the king’s table. They were to be trained for three years, and after that they were to enter the king’s service.
 
-4 Then the Lord said to Hosea, “Call him Jezreel, because I will soon punish the house of Jehu for the massacre at Jezreel, and I will put an end to the kingdom of Israel. 5 In that day I will break Israel’s bow in the Valley of Jezreel.”
+6 Among those who were chosen were some from Judah: Daniel, Hananiah, Mishael and Azariah. 7 The chief official gave them new names: to Daniel, the name Belteshazzar; to Hananiah, Shadrach; to Mishael, Meshach; and to Azariah, Abednego.
 
-6 Gomer conceived again and gave birth to a daughter. Then the Lord said to Hosea, “Call her Lo-Ruhamah (which means “not loved”), for I will no longer show love to Israel, that I should at all forgive them. 7 Yet I will show love to Judah; and I will save them—not by bow, sword or battle, or by horses and horsemen, but I, the Lord their God, will save them.”
+8 But Daniel resolved not to defile himself with the royal food and wine, and he asked the chief official for permission not to defile himself this way. 9 Now God had caused the official to show favor and compassion to Daniel, 10 but the official told Daniel, “I am afraid of my lord the king, who has assigned your[c] food and drink. Why should he see you looking worse than the other young men your age? The king would then have my head because of you.”
 
-8 After she had weaned Lo-Ruhamah, Gomer had another son. 9 Then the Lord said, “Call him Lo-Ammi (which means “not my people”), for you are not my people, and I am not your God.[b]
+11 Daniel then said to the guard whom the chief official had appointed over Daniel, Hananiah, Mishael and Azariah, 12 “Please test your servants for ten days: Give us nothing but vegetables to eat and water to drink. 13 Then compare our appearance with that of the young men who eat the royal food, and treat your servants in accordance with what you see.” 14 So he agreed to this and tested them for ten days.
 
-10 “Yet the Israelites will be like the sand on the seashore, which cannot be measured or counted. In the place where it was said to them, ‘You are not my people,’ they will be called ‘children of the living God.’ 11 The people of Judah and the people of Israel will come together; they will appoint one leader and will come up out of the land, for great will be the day of Jezreel.                               
-                                  </p>
+15 At the end of the ten days they looked healthier and better nourished than any of the young men who ate the royal food. 16 So the guard took away their choice food and the wine they were to drink and gave them vegetables instead.
+
+17 To these four young men God gave knowledge and understanding of all kinds of literature and learning. And Daniel could understand visions and dreams of all kinds.
+
+18 At the end of the time set by the king to bring them into his service, the chief official presented them to Nebuchadnezzar. 19 The king talked with them, and he found none equal to Daniel, Hananiah, Mishael and Azariah; so they entered the king’s service. 20 In every matter of wisdom and understanding about which the king questioned them, he found them ten times better than all the magicians and enchanters in his whole kingdom.
+
+21 And Daniel remained there until the first year of King Cyrus.              
+            </p>
               </div>
 
           <div className={styles.card}>
-           <h2 className={styles.chapter13}>Hosea Chpt II</h2>
+           <h2 className={styles.chapter13}>Daniel Chpt II</h2>
             <p>
 
-2 [a]“Say of your brothers, ‘My people,’ and of your sisters, ‘My loved one.’
+Nebuchadnezzar’s Dream
+2 In the second year of his reign, Nebuchadnezzar had dreams; his mind was troubled and he could not sleep. 2 So the king summoned the magicians, enchanters, sorcerers and astrologers[a] to tell him what he had dreamed. When they came in and stood before the king, 3 he said to them, “I have had a dream that troubles me and I want to know what it means.[b]”
 
-Israel Punished and Restored
-2 “Rebuke your mother, rebuke her,
-    for she is not my wife,
-    and I am not her husband.
-Let her remove the adulterous look from her face
-    and the unfaithfulness from between her breasts.
-3 Otherwise I will strip her naked
-    and make her as bare as on the day she was born;
-I will make her like a desert,
-    turn her into a parched land,
-    and slay her with thirst.
-4 I will not show my love to her children,
-    because they are the children of adultery.
-5 Their mother has been unfaithful
-    and has conceived them in disgrace.
-She said, ‘I will go after my lovers,
-    who give me my food and my water,
-    my wool and my linen, my olive oil and my drink.’
-6 Therefore I will block her path with thornbushes;
-    I will wall her in so that she cannot find her way.
-7 She will chase after her lovers but not catch them;
-    she will look for them but not find them.
-Then she will say,
-    ‘I will go back to my husband as at first,
-    for then I was better off than now.’
-8 She has not acknowledged that I was the one
-    who gave her the grain, the new wine and oil,
-who lavished on her the silver and gold—
-    which they used for Baal.
+4 Then the astrologers answered the king,[c] “May the king live forever! Tell your servants the dream, and we will interpret it.”
 
-9 “Therefore I will take away my grain when it ripens,
-    and my new wine when it is ready.
-I will take back my wool and my linen,
-    intended to cover her naked body.
-10 So now I will expose her lewdness
-    before the eyes of her lovers;
-    no one will take her out of my hands.
-11 I will stop all her celebrations:
-    her yearly festivals, her New Moons,
-    her Sabbath days—all her appointed festivals.
-12 I will ruin her vines and her fig trees,
-    which she said were her pay from her lovers;
-I will make them a thicket,
-    and wild animals will devour them.
-13 I will punish her for the days
-    she burned incense to the Baals;
-she decked herself with rings and jewelry,
-    and went after her lovers,
-    but me she forgot,”
-declares the Lord.
+5 The king replied to the astrologers, “This is what I have firmly decided: If you do not tell me what my dream was and interpret it, I will have you cut into pieces and your houses turned into piles of rubble. 6 But if you tell me the dream and explain it, you will receive from me gifts and rewards and great honor. So tell me the dream and interpret it for me.”
 
-14 “Therefore I am now going to allure her;
-    I will lead her into the wilderness
-    and speak tenderly to her.
-15 There I will give her back her vineyards,
-    and will make the Valley of Achor[b] a door of hope.
-There she will respond[c] as in the days of her youth,
-    as in the day she came up out of Egypt.
+7 Once more they replied, “Let the king tell his servants the dream, and we will interpret it.”
 
-16 “In that day,” declares the Lord,
-    “you will call me ‘my husband’;
-    you will no longer call me ‘my master.[d]’
-17 I will remove the names of the Baals from her lips;
-    no longer will their names be invoked.
-18 In that day I will make a covenant for them
-    with the beasts of the field, the birds in the sky
-    and the creatures that move along the ground.
-Bow and sword and battle
-    I will abolish from the land,
-    so that all may lie down in safety.
-19 I will betroth you to me forever;
-    I will betroth you in[e] righteousness and justice,
-    in[f] love and compassion.
-20 I will betroth you in[g] faithfulness,
-    and you will acknowledge the Lord.
+8 Then the king answered, “I am certain that you are trying to gain time, because you realize that this is what I have firmly decided: 9 If you do not tell me the dream, there is only one penalty for you. You have conspired to tell me misleading and wicked things, hoping the situation will change. So then, tell me the dream, and I will know that you can interpret it for me.”
 
-21 “In that day I will respond,”
-    declares the Lord—
-“I will respond to the skies,
-    and they will respond to the earth;
-22 and the earth will respond to the grain,
-    the new wine and the olive oil,
-    and they will respond to Jezreel.[h]
-23 I will plant her for myself in the land;
-    I will show my love to the one I called ‘Not my loved one.[i]’
-I will say to those called ‘Not my people,[j]’ ‘You are my people’;
-    and they will say, ‘You are my God.’”
+10 The astrologers answered the king, “There is no one on earth who can do what the king asks! No king, however great and mighty, has ever asked such a thing of any magician or enchanter or astrologer. 11 What the king asks is too difficult. No one can reveal it to the king except the gods, and they do not live among humans.”
 
+12 This made the king so angry and furious that he ordered the execution of all the wise men of Babylon. 13 So the decree was issued to put the wise men to death, and men were sent to look for Daniel and his friends to put them to death.
+
+14 When Arioch, the commander of the king’s guard, had gone out to put to death the wise men of Babylon, Daniel spoke to him with wisdom and tact. 15 He asked the king’s officer, “Why did the king issue such a harsh decree?” Arioch then explained the matter to Daniel. 16 At this, Daniel went in to the king and asked for time, so that he might interpret the dream for him.
+
+17 Then Daniel returned to his house and explained the matter to his friends Hananiah, Mishael and Azariah. 18 He urged them to plead for mercy from the God of heaven concerning this mystery, so that he and his friends might not be executed with the rest of the wise men of Babylon. 19 During the night the mystery was revealed to Daniel in a vision. Then Daniel praised the God of heaven 20 and said:
+
+“Praise be to the name of God for ever and ever;
+    wisdom and power are his.
+21 He changes times and seasons;
+    he deposes kings and raises up others.
+He gives wisdom to the wise
+    and knowledge to the discerning.
+22 He reveals deep and hidden things;
+    he knows what lies in darkness,
+    and light dwells with him.
+23 I thank and praise you, God of my ancestors:
+    You have given me wisdom and power,
+you have made known to me what we asked of you,
+    you have made known to us the dream of the king.”
+
+Daniel Interprets the Dream
+24 Then Daniel went to Arioch, whom the king had appointed to execute the wise men of Babylon, and said to him, “Do not execute the wise men of Babylon. Take me to the king, and I will interpret his dream for him.”
+
+25 Arioch took Daniel to the king at once and said, “I have found a man among the exiles from Judah who can tell the king what his dream means.”
+
+26 The king asked Daniel (also called Belteshazzar), “Are you able to tell me what I saw in my dream and interpret it?”
+
+27 Daniel replied, “No wise man, enchanter, magician or diviner can explain to the king the mystery he has asked about, 28 but there is a God in heaven who reveals mysteries. He has shown King Nebuchadnezzar what will happen in days to come. Your dream and the visions that passed through your mind as you were lying in bed are these:
+
+29 “As Your Majesty was lying there, your mind turned to things to come, and the revealer of mysteries showed you what is going to happen. 30 As for me, this mystery has been revealed to me, not because I have greater wisdom than anyone else alive, but so that Your Majesty may know the interpretation and that you may understand what went through your mind.
+
+31 “Your Majesty looked, and there before you stood a large statue—an enormous, dazzling statue, awesome in appearance. 32 The head of the statue was made of pure gold, its chest and arms of silver, its belly and thighs of bronze, 33 its legs of iron, its feet partly of iron and partly of baked clay. 34 While you were watching, a rock was cut out, but not by human hands. It struck the statue on its feet of iron and clay and smashed them. 35 Then the iron, the clay, the bronze, the silver and the gold were all broken to pieces and became like chaff on a threshing floor in the summer. The wind swept them away without leaving a trace. But the rock that struck the statue became a huge mountain and filled the whole earth.
+
+36 “This was the dream, and now we will interpret it to the king. 37 Your Majesty, you are the king of kings. The God of heaven has given you dominion and power and might and glory; 38 in your hands he has placed all mankind and the beasts of the field and the birds in the sky. Wherever they live, he has made you ruler over them all. You are that head of gold.
+
+39 “After you, another kingdom will arise, inferior to yours. Next, a third kingdom, one of bronze, will rule over the whole earth. 40 Finally, there will be a fourth kingdom, strong as iron—for iron breaks and smashes everything—and as iron breaks things to pieces, so it will crush and break all the others. 41 Just as you saw that the feet and toes were partly of baked clay and partly of iron, so this will be a divided kingdom; yet it will have some of the strength of iron in it, even as you saw iron mixed with clay. 42 As the toes were partly iron and partly clay, so this kingdom will be partly strong and partly brittle. 43 And just as you saw the iron mixed with baked clay, so the people will be a mixture and will not remain united, any more than iron mixes with clay.
+
+44 “In the time of those kings, the God of heaven will set up a kingdom that will never be destroyed, nor will it be left to another people. It will crush all those kingdoms and bring them to an end, but it will itself endure forever. 45 This is the meaning of the vision of the rock cut out of a mountain, but not by human hands—a rock that broke the iron, the bronze, the clay, the silver and the gold to pieces.
+
+“The great God has shown the king what will take place in the future. The dream is true and its interpretation is trustworthy.”
+
+46 Then King Nebuchadnezzar fell prostrate before Daniel and paid him honor and ordered that an offering and incense be presented to him. 47 The king said to Daniel, “Surely your God is the God of gods and the Lord of kings and a revealer of mysteries, for you were able to reveal this mystery.”
+
+48 Then the king placed Daniel in a high position and lavished many gifts on him. He made him ruler over the entire province of Babylon and placed him in charge of all its wise men. 49 Moreover, at Daniel’s request the king appointed Shadrach, Meshach and Abednego administrators over the province of Babylon, while Daniel himself remained at the royal court.
          </p>
           </div>
 
  <div className={styles.card}>
-           <h2 className={styles.chapter13}>Hosea Chpt III</h2>
+           <h2 className={styles.chapter13}>Daniel Chpt III</h2>
             <p>
 
-Hosea’s Reconciliation With His Wife
-3 The Lord said to me, “Go, show your love to your wife again, though she is loved by another man and is an adulteress. Love her as the Lord loves the Israelites, though they turn to other gods and love the sacred raisin cakes.”
+The Image of Gold and the Blazing Furnace
+3 King Nebuchadnezzar made an image of gold, sixty cubits high and six cubits wide,[a] and set it up on the plain of Dura in the province of Babylon. 2 He then summoned the satraps, prefects, governors, advisers, treasurers, judges, magistrates and all the other provincial officials to come to the dedication of the image he had set up. 3 So the satraps, prefects, governors, advisers, treasurers, judges, magistrates and all the other provincial officials assembled for the dedication of the image that King Nebuchadnezzar had set up, and they stood before it.
 
-2 So I bought her for fifteen shekels[a] of silver and about a homer and a lethek[b] of barley. 3 Then I told her, “You are to live with me many days; you must not be a prostitute or be intimate with any man, and I will behave the same way toward you.”
+4 Then the herald loudly proclaimed, “Nations and peoples of every language, this is what you are commanded to do: 5 As soon as you hear the sound of the horn, flute, zither, lyre, harp, pipe and all kinds of music, you must fall down and worship the image of gold that King Nebuchadnezzar has set up. 6 Whoever does not fall down and worship will immediately be thrown into a blazing furnace.”
 
-4 For the Israelites will live many days without king or prince, without sacrifice or sacred stones, without ephod or household gods. 5 Afterward the Israelites will return and seek the Lord their God and David their king. They will come trembling to the Lord and to his blessings in the last days.            </p>
+7 Therefore, as soon as they heard the sound of the horn, flute, zither, lyre, harp and all kinds of music, all the nations and peoples of every language fell down and worshiped the image of gold that King Nebuchadnezzar had set up.
+
+8 At this time some astrologers[b] came forward and denounced the Jews. 9 They said to King Nebuchadnezzar, “May the king live forever! 10 Your Majesty has issued a decree that everyone who hears the sound of the horn, flute, zither, lyre, harp, pipe and all kinds of music must fall down and worship the image of gold, 11 and that whoever does not fall down and worship will be thrown into a blazing furnace. 12 But there are some Jews whom you have set over the affairs of the province of Babylon—Shadrach, Meshach and Abednego—who pay no attention to you, Your Majesty. They neither serve your gods nor worship the image of gold you have set up.”
+
+13 Furious with rage, Nebuchadnezzar summoned Shadrach, Meshach and Abednego. So these men were brought before the king, 14 and Nebuchadnezzar said to them, “Is it true, Shadrach, Meshach and Abednego, that you do not serve my gods or worship the image of gold I have set up? 15 Now when you hear the sound of the horn, flute, zither, lyre, harp, pipe and all kinds of music, if you are ready to fall down and worship the image I made, very good. But if you do not worship it, you will be thrown immediately into a blazing furnace. Then what god will be able to rescue you from my hand?”
+
+16 Shadrach, Meshach and Abednego replied to him, “King Nebuchadnezzar, we do not need to defend ourselves before you in this matter. 17 If we are thrown into the blazing furnace, the God we serve is able to deliver us from it, and he will deliver us[c] from Your Majesty’s hand. 18 But even if he does not, we want you to know, Your Majesty, that we will not serve your gods or worship the image of gold you have set up.”
+
+19 Then Nebuchadnezzar was furious with Shadrach, Meshach and Abednego, and his attitude toward them changed. He ordered the furnace heated seven times hotter than usual 20 and commanded some of the strongest soldiers in his army to tie up Shadrach, Meshach and Abednego and throw them into the blazing furnace. 21 So these men, wearing their robes, trousers, turbans and other clothes, were bound and thrown into the blazing furnace. 22 The king’s command was so urgent and the furnace so hot that the flames of the fire killed the soldiers who took up Shadrach, Meshach and Abednego, 23 and these three men, firmly tied, fell into the blazing furnace.
+
+24 Then King Nebuchadnezzar leaped to his feet in amazement and asked his advisers, “Weren’t there three men that we tied up and threw into the fire?”
+
+They replied, “Certainly, Your Majesty.”
+
+25 He said, “Look! I see four men walking around in the fire, unbound and unharmed, and the fourth looks like a son of the gods.”
+
+26 Nebuchadnezzar then approached the opening of the blazing furnace and shouted, “Shadrach, Meshach and Abednego, servants of the Most High God, come out! Come here!”
+
+So Shadrach, Meshach and Abednego came out of the fire, 27 and the satraps, prefects, governors and royal advisers crowded around them. They saw that the fire had not harmed their bodies, nor was a hair of their heads singed; their robes were not scorched, and there was no smell of fire on them.
+
+28 Then Nebuchadnezzar said, “Praise be to the God of Shadrach, Meshach and Abednego, who has sent his angel and rescued his servants! They trusted in him and defied the king’s command and were willing to give up their lives rather than serve or worship any god except their own God. 29 Therefore I decree that the people of any nation or language who say anything against the God of Shadrach, Meshach and Abednego be cut into pieces and their houses be turned into piles of rubble, for no other god can save in this way.”
+
+30 Then the king promoted Shadrach, Meshach and Abednego in the province of Babylon.      
+                                  </p>
+              </div>
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter13}>Daniel Chpt IV</h2>
+            <p>
+
+Nebuchadnezzar’s Dream of a Tree
+4 [a]King Nebuchadnezzar,
+
+To the nations and peoples of every language, who live in all the earth:
+
+May you prosper greatly!
+
+2 It is my pleasure to tell you about the miraculous signs and wonders that the Most High God has performed for me.
+
+3 How great are his signs,
+    how mighty his wonders!
+His kingdom is an eternal kingdom;
+    his dominion endures from generation to generation.
+
+4 I, Nebuchadnezzar, was at home in my palace, contented and prosperous. 5 I had a dream that made me afraid. As I was lying in bed, the images and visions that passed through my mind terrified me. 6 So I commanded that all the wise men of Babylon be brought before me to interpret the dream for me. 7 When the magicians, enchanters, astrologers[b] and diviners came, I told them the dream, but they could not interpret it for me. 8 Finally, Daniel came into my presence and I told him the dream. (He is called Belteshazzar, after the name of my god, and the spirit of the holy gods is in him.)
+
+9 I said, “Belteshazzar, chief of the magicians, I know that the spirit of the holy gods is in you, and no mystery is too difficult for you. Here is my dream; interpret it for me. 10 These are the visions I saw while lying in bed: I looked, and there before me stood a tree in the middle of the land. Its height was enormous. 11 The tree grew large and strong and its top touched the sky; it was visible to the ends of the earth. 12 Its leaves were beautiful, its fruit abundant, and on it was food for all. Under it the wild animals found shelter, and the birds lived in its branches; from it every creature was fed.
+
+13 “In the visions I saw while lying in bed, I looked, and there before me was a holy one, a messenger,[c] coming down from heaven. 14 He called in a loud voice: ‘Cut down the tree and trim off its branches; strip off its leaves and scatter its fruit. Let the animals flee from under it and the birds from its branches. 15 But let the stump and its roots, bound with iron and bronze, remain in the ground, in the grass of the field.
+
+“‘Let him be drenched with the dew of heaven, and let him live with the animals among the plants of the earth. 16 Let his mind be changed from that of a man and let him be given the mind of an animal, till seven times[d] pass by for him.
+
+17 “‘The decision is announced by messengers, the holy ones declare the verdict, so that the living may know that the Most High is sovereign over all kingdoms on earth and gives them to anyone he wishes and sets over them the lowliest of people.’
+
+18 “This is the dream that I, King Nebuchadnezzar, had. Now, Belteshazzar, tell me what it means, for none of the wise men in my kingdom can interpret it for me. But you can, because the spirit of the holy gods is in you.”
+
+Daniel Interprets the Dream
+19 Then Daniel (also called Belteshazzar) was greatly perplexed for a time, and his thoughts terrified him. So the king said, “Belteshazzar, do not let the dream or its meaning alarm you.”
+
+Belteshazzar answered, “My lord, if only the dream applied to your enemies and its meaning to your adversaries! 20 The tree you saw, which grew large and strong, with its top touching the sky, visible to the whole earth, 21 with beautiful leaves and abundant fruit, providing food for all, giving shelter to the wild animals, and having nesting places in its branches for the birds— 22 Your Majesty, you are that tree! You have become great and strong; your greatness has grown until it reaches the sky, and your dominion extends to distant parts of the earth.
+
+23 “Your Majesty saw a holy one, a messenger, coming down from heaven and saying, ‘Cut down the tree and destroy it, but leave the stump, bound with iron and bronze, in the grass of the field, while its roots remain in the ground. Let him be drenched with the dew of heaven; let him live with the wild animals, until seven times pass by for him.’
+
+24 “This is the interpretation, Your Majesty, and this is the decree the Most High has issued against my lord the king: 25 You will be driven away from people and will live with the wild animals; you will eat grass like the ox and be drenched with the dew of heaven. Seven times will pass by for you until you acknowledge that the Most High is sovereign over all kingdoms on earth and gives them to anyone he wishes. 26 The command to leave the stump of the tree with its roots means that your kingdom will be restored to you when you acknowledge that Heaven rules. 27 Therefore, Your Majesty, be pleased to accept my advice: Renounce your sins by doing what is right, and your wickedness by being kind to the oppressed. It may be that then your prosperity will continue.”
+
+The Dream Is Fulfilled
+28 All this happened to King Nebuchadnezzar. 29 Twelve months later, as the king was walking on the roof of the royal palace of Babylon, 30 he said, “Is not this the great Babylon I have built as the royal residence, by my mighty power and for the glory of my majesty?”
+
+31 Even as the words were on his lips, a voice came from heaven, “This is what is decreed for you, King Nebuchadnezzar: Your royal authority has been taken from you. 32 You will be driven away from people and will live with the wild animals; you will eat grass like the ox. Seven times will pass by for you until you acknowledge that the Most High is sovereign over all kingdoms on earth and gives them to anyone he wishes.”
+
+33 Immediately what had been said about Nebuchadnezzar was fulfilled. He was driven away from people and ate grass like the ox. His body was drenched with the dew of heaven until his hair grew like the feathers of an eagle and his nails like the claws of a bird.
+
+34 At the end of that time, I, Nebuchadnezzar, raised my eyes toward heaven, and my sanity was restored. Then I praised the Most High; I honored and glorified him who lives forever.
+
+His dominion is an eternal dominion;
+    his kingdom endures from generation to generation.
+35 All the peoples of the earth
+    are regarded as nothing.
+He does as he pleases
+    with the powers of heaven
+    and the peoples of the earth.
+No one can hold back his hand
+    or say to him: “What have you done?”
+
+36 At the same time that my sanity was restored, my honor and splendor were returned to me for the glory of my kingdom. My advisers and nobles sought me out, and I was restored to my throne and became even greater than before. 37 Now I, Nebuchadnezzar, praise and exalt and glorify the King of heaven, because everything he does is right and all his ways are just. And those who walk in pride he is able to humble.      
+                                  </p>
+              </div>                                  
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter13}>Daniel Chpt V</h2>
+            <p>
+
+The Writing on the Wall
+5 King Belshazzar gave a great banquet for a thousand of his nobles and drank wine with them. 2 While Belshazzar was drinking his wine, he gave orders to bring in the gold and silver goblets that Nebuchadnezzar his father[a] had taken from the temple in Jerusalem, so that the king and his nobles, his wives and his concubines might drink from them. 3 So they brought in the gold goblets that had been taken from the temple of God in Jerusalem, and the king and his nobles, his wives and his concubines drank from them. 4 As they drank the wine, they praised the gods of gold and silver, of bronze, iron, wood and stone.
+
+5 Suddenly the fingers of a human hand appeared and wrote on the plaster of the wall, near the lampstand in the royal palace. The king watched the hand as it wrote. 6 His face turned pale and he was so frightened that his legs became weak and his knees were knocking.
+
+7 The king summoned the enchanters, astrologers[b] and diviners. Then he said to these wise men of Babylon, “Whoever reads this writing and tells me what it means will be clothed in purple and have a gold chain placed around his neck, and he will be made the third highest ruler in the kingdom.”
+
+8 Then all the king’s wise men came in, but they could not read the writing or tell the king what it meant. 9 So King Belshazzar became even more terrified and his face grew more pale. His nobles were baffled.
+
+10 The queen,[c] hearing the voices of the king and his nobles, came into the banquet hall. “May the king live forever!” she said. “Don’t be alarmed! Don’t look so pale! 11 There is a man in your kingdom who has the spirit of the holy gods in him. In the time of your father he was found to have insight and intelligence and wisdom like that of the gods. Your father, King Nebuchadnezzar, appointed him chief of the magicians, enchanters, astrologers and diviners. 12 He did this because Daniel, whom the king called Belteshazzar, was found to have a keen mind and knowledge and understanding, and also the ability to interpret dreams, explain riddles and solve difficult problems. Call for Daniel, and he will tell you what the writing means.”
+
+13 So Daniel was brought before the king, and the king said to him, “Are you Daniel, one of the exiles my father the king brought from Judah? 14 I have heard that the spirit of the gods is in you and that you have insight, intelligence and outstanding wisdom. 15 The wise men and enchanters were brought before me to read this writing and tell me what it means, but they could not explain it. 16 Now I have heard that you are able to give interpretations and to solve difficult problems. If you can read this writing and tell me what it means, you will be clothed in purple and have a gold chain placed around your neck, and you will be made the third highest ruler in the kingdom.”
+
+17 Then Daniel answered the king, “You may keep your gifts for yourself and give your rewards to someone else. Nevertheless, I will read the writing for the king and tell him what it means.
+
+18 “Your Majesty, the Most High God gave your father Nebuchadnezzar sovereignty and greatness and glory and splendor. 19 Because of the high position he gave him, all the nations and peoples of every language dreaded and feared him. Those the king wanted to put to death, he put to death; those he wanted to spare, he spared; those he wanted to promote, he promoted; and those he wanted to humble, he humbled. 20 But when his heart became arrogant and hardened with pride, he was deposed from his royal throne and stripped of his glory. 21 He was driven away from people and given the mind of an animal; he lived with the wild donkeys and ate grass like the ox; and his body was drenched with the dew of heaven, until he acknowledged that the Most High God is sovereign over all kingdoms on earth and sets over them anyone he wishes.
+
+22 “But you, Belshazzar, his son,[d] have not humbled yourself, though you knew all this. 23 Instead, you have set yourself up against the Lord of heaven. You had the goblets from his temple brought to you, and you and your nobles, your wives and your concubines drank wine from them. You praised the gods of silver and gold, of bronze, iron, wood and stone, which cannot see or hear or understand. But you did not honor the God who holds in his hand your life and all your ways. 24 Therefore he sent the hand that wrote the inscription.
+
+25 “This is the inscription that was written:
+
+mene, mene, tekel, parsin
+
+26 “Here is what these words mean:
+
+Mene[e]: God has numbered the days of your reign and brought it to an end.
+
+27 Tekel[f]: You have been weighed on the scales and found wanting.
+
+28 Peres[g]: Your kingdom is divided and given to the Medes and Persians.”
+
+29 Then at Belshazzar’s command, Daniel was clothed in purple, a gold chain was placed around his neck, and he was proclaimed the third highest ruler in the kingdom.
+
+30 That very night Belshazzar, king of the Babylonians,[h] was slain, 31 and Darius the Mede took over the kingdom, at the age of sixty-two.      
+                                  </p>
+              </div>                                  
+
+          <div className={styles.card}>
+           <h2 className={styles.chapter13}>Daniel Chpt VI</h2>
+            <p>
+Daniel in the Den of Lions
+6 [a]It pleased Darius to appoint 120 satraps to rule throughout the kingdom, 2 with three administrators over them, one of whom was Daniel. The satraps were made accountable to them so that the king might not suffer loss. 3 Now Daniel so distinguished himself among the administrators and the satraps by his exceptional qualities that the king planned to set him over the whole kingdom. 4 At this, the administrators and the satraps tried to find grounds for charges against Daniel in his conduct of government affairs, but they were unable to do so. They could find no corruption in him, because he was trustworthy and neither corrupt nor negligent. 5 Finally these men said, “We will never find any basis for charges against this man Daniel unless it has something to do with the law of his God.”
+
+6 So these administrators and satraps went as a group to the king and said: “May King Darius live forever! 7 The royal administrators, prefects, satraps, advisers and governors have all agreed that the king should issue an edict and enforce the decree that anyone who prays to any god or human being during the next thirty days, except to you, Your Majesty, shall be thrown into the lions’ den. 8 Now, Your Majesty, issue the decree and put it in writing so that it cannot be altered—in accordance with the law of the Medes and Persians, which cannot be repealed.” 9 So King Darius put the decree in writing.
+
+10 Now when Daniel learned that the decree had been published, he went home to his upstairs room where the windows opened toward Jerusalem. Three times a day he got down on his knees and prayed, giving thanks to his God, just as he had done before. 11 Then these men went as a group and found Daniel praying and asking God for help. 12 So they went to the king and spoke to him about his royal decree: “Did you not publish a decree that during the next thirty days anyone who prays to any god or human being except to you, Your Majesty, would be thrown into the lions’ den?”
+
+The king answered, “The decree stands—in accordance with the law of the Medes and Persians, which cannot be repealed.”
+
+13 Then they said to the king, “Daniel, who is one of the exiles from Judah, pays no attention to you, Your Majesty, or to the decree you put in writing. He still prays three times a day.” 14 When the king heard this, he was greatly distressed; he was determined to rescue Daniel and made every effort until sundown to save him.
+
+15 Then the men went as a group to King Darius and said to him, “Remember, Your Majesty, that according to the law of the Medes and Persians no decree or edict that the king issues can be changed.”
+
+16 So the king gave the order, and they brought Daniel and threw him into the lions’ den. The king said to Daniel, “May your God, whom you serve continually, rescue you!”
+
+17 A stone was brought and placed over the mouth of the den, and the king sealed it with his own signet ring and with the rings of his nobles, so that Daniel’s situation might not be changed. 18 Then the king returned to his palace and spent the night without eating and without any entertainment being brought to him. And he could not sleep.
+
+19 At the first light of dawn, the king got up and hurried to the lions’ den. 20 When he came near the den, he called to Daniel in an anguished voice, “Daniel, servant of the living God, has your God, whom you serve continually, been able to rescue you from the lions?”
+
+21 Daniel answered, “May the king live forever! 22 My God sent his angel, and he shut the mouths of the lions. They have not hurt me, because I was found innocent in his sight. Nor have I ever done any wrong before you, Your Majesty.”
+
+23 The king was overjoyed and gave orders to lift Daniel out of the den. And when Daniel was lifted from the den, no wound was found on him, because he had trusted in his God.
+
+24 At the king’s command, the men who had falsely accused Daniel were brought in and thrown into the lions’ den, along with their wives and children. And before they reached the floor of the den, the lions overpowered them and crushed all their bones.
+
+25 Then King Darius wrote to all the nations and peoples of every language in all the earth:
+
+“May you prosper greatly!
+
+26 “I issue a decree that in every part of my kingdom people must fear and reverence the God of Daniel.
+
+“For he is the living God
+    and he endures forever;
+his kingdom will not be destroyed,
+    his dominion will never end.
+27 He rescues and he saves;
+    he performs signs and wonders
+    in the heavens and on the earth.
+He has rescued Daniel
+    from the power of the lions.”
+
+28 So Daniel prospered during the reign of Darius and the reign of Cyrus[b] the Persian.
+                                  
+                                  </p>
           </div>
 
 
  <div className={styles.card}>
-            <h2 className={styles.chapter13}>Hosea Chpt IV</h2>
+            <h2 className={styles.chapter13}>Daniel Chpt VII</h2>
             <p>
+Daniel’s Dream of Four Beasts
+7 In the first year of Belshazzar king of Babylon, Daniel had a dream, and visions passed through his mind as he was lying in bed. He wrote down the substance of his dream.
 
-The Charge Against Israel
-4 Hear the word of the Lord, you Israelites,
-    because the Lord has a charge to bring
-    against you who live in the land:
-“There is no faithfulness, no love,
-    no acknowledgment of God in the land.
-2 There is only cursing,[a] lying and murder,
-    stealing and adultery;
-they break all bounds,
-    and bloodshed follows bloodshed.
-3 Because of this the land dries up,
-    and all who live in it waste away;
-the beasts of the field, the birds in the sky
-    and the fish in the sea are swept away.
+2 Daniel said: “In my vision at night I looked, and there before me were the four winds of heaven churning up the great sea. 3 Four great beasts, each different from the others, came up out of the sea.
 
-4 “But let no one bring a charge,
-    let no one accuse another,
-for your people are like those
-    who bring charges against a priest.
-5 You stumble day and night,
-    and the prophets stumble with you.
-So I will destroy your mother—
-6     my people are destroyed from lack of knowledge.
+4 “The first was like a lion, and it had the wings of an eagle. I watched until its wings were torn off and it was lifted from the ground so that it stood on two feet like a human being, and the mind of a human was given to it.
 
-“Because you have rejected knowledge,
-    I also reject you as my priests;
-because you have ignored the law of your God,
-    I also will ignore your children.
-7 The more priests there were,
-    the more they sinned against me;
-    they exchanged their glorious God[b] for something disgraceful.
-8 They feed on the sins of my people
-    and relish their wickedness.
-9 And it will be: Like people, like priests.
-    I will punish both of them for their ways
-    and repay them for their deeds.
+5 “And there before me was a second beast, which looked like a bear. It was raised up on one of its sides, and it had three ribs in its mouth between its teeth. It was told, ‘Get up and eat your fill of flesh!’
 
-10 “They will eat but not have enough;
-    they will engage in prostitution but not flourish,
-because they have deserted the Lord
-    to give themselves 11 to prostitution;
-old wine and new wine
-    take away their understanding.
-12 My people consult a wooden idol,
-    and a diviner’s rod speaks to them.
-A spirit of prostitution leads them astray;
-    they are unfaithful to their God.
-13 They sacrifice on the mountaintops
-    and burn offerings on the hills,
-under oak, poplar and terebinth,
-    where the shade is pleasant.
-Therefore your daughters turn to prostitution
-    and your daughters-in-law to adultery.
+6 “After that, I looked, and there before me was another beast, one that looked like a leopard. And on its back it had four wings like those of a bird. This beast had four heads, and it was given authority to rule.
 
-14 “I will not punish your daughters
-    when they turn to prostitution,
-nor your daughters-in-law
-    when they commit adultery,
-because the men themselves consort with harlots
-    and sacrifice with shrine prostitutes—
-    a people without understanding will come to ruin!
+7 “After that, in my vision at night I looked, and there before me was a fourth beast—terrifying and frightening and very powerful. It had large iron teeth; it crushed and devoured its victims and trampled underfoot whatever was left. It was different from all the former beasts, and it had ten horns.
 
-15 “Though you, Israel, commit adultery,
-    do not let Judah become guilty.
+8 “While I was thinking about the horns, there before me was another horn, a little one, which came up among them; and three of the first horns were uprooted before it. This horn had eyes like the eyes of a human being and a mouth that spoke boastfully.
 
-“Do not go to Gilgal;
-    do not go up to Beth Aven.[c]
-    And do not swear, ‘As surely as the Lord lives!’
-16 The Israelites are stubborn,
-    like a stubborn heifer.
-How then can the Lord pasture them
-    like lambs in a meadow?
-17 Ephraim is joined to idols;
-    leave him alone!
-18 Even when their drinks are gone,
-    they continue their prostitution;
-    their rulers dearly love shameful ways.
-19 A whirlwind will sweep them away,
-    and their sacrifices will bring them shame.
-      
+9 “As I looked,
+
+“thrones were set in place,
+    and the Ancient of Days took his seat.
+His clothing was as white as snow;
+    the hair of his head was white like wool.
+His throne was flaming with fire,
+    and its wheels were all ablaze.
+10 A river of fire was flowing,
+    coming out from before him.
+Thousands upon thousands attended him;
+    ten thousand times ten thousand stood before him.
+The court was seated,
+    and the books were opened.
+
+11 “Then I continued to watch because of the boastful words the horn was speaking. I kept looking until the beast was slain and its body destroyed and thrown into the blazing fire. 12 (The other beasts had been stripped of their authority, but were allowed to live for a period of time.)
+
+13 “In my vision at night I looked, and there before me was one like a son of man,[a] coming with the clouds of heaven. He approached the Ancient of Days and was led into his presence. 14 He was given authority, glory and sovereign power; all nations and peoples of every language worshiped him. His dominion is an everlasting dominion that will not pass away, and his kingdom is one that will never be destroyed.
+
+The Interpretation of the Dream
+15 “I, Daniel, was troubled in spirit, and the visions that passed through my mind disturbed me. 16 I approached one of those standing there and asked him the meaning of all this.
+
+“So he told me and gave me the interpretation of these things: 17 ‘The four great beasts are four kings that will rise from the earth. 18 But the holy people of the Most High will receive the kingdom and will possess it forever—yes, for ever and ever.’
+
+19 “Then I wanted to know the meaning of the fourth beast, which was different from all the others and most terrifying, with its iron teeth and bronze claws—the beast that crushed and devoured its victims and trampled underfoot whatever was left. 20 I also wanted to know about the ten horns on its head and about the other horn that came up, before which three of them fell—the horn that looked more imposing than the others and that had eyes and a mouth that spoke boastfully. 21 As I watched, this horn was waging war against the holy people and defeating them, 22 until the Ancient of Days came and pronounced judgment in favor of the holy people of the Most High, and the time came when they possessed the kingdom.
+
+23 “He gave me this explanation: ‘The fourth beast is a fourth kingdom that will appear on earth. It will be different from all the other kingdoms and will devour the whole earth, trampling it down and crushing it. 24 The ten horns are ten kings who will come from this kingdom. After them another king will arise, different from the earlier ones; he will subdue three kings. 25 He will speak against the Most High and oppress his holy people and try to change the set times and the laws. The holy people will be delivered into his hands for a time, times and half a time.[b]
+
+26 “‘But the court will sit, and his power will be taken away and completely destroyed forever. 27 Then the sovereignty, power and greatness of all the kingdoms under heaven will be handed over to the holy people of the Most High. His kingdom will be an everlasting kingdom, and all rulers will worship and obey him.’
+
+28 “This is the end of the matter. I, Daniel, was deeply troubled by my thoughts, and my face turned pale, but I kept the matter to myself.”                                  
                                   </p>
               </div>
 
           <div className={styles.card}>
-           <h2 className={styles.chapter13}>Hosea Chpt V</h2>
+           <h2 className={styles.chapter13}>Daniel Chpt VIII</h2>
             <p>
+Daniel’s Vision of a Ram and a Goat
+8 In the third year of King Belshazzar’s reign, I, Daniel, had a vision, after the one that had already appeared to me. 2 In my vision I saw myself in the citadel of Susa in the province of Elam; in the vision I was beside the Ulai Canal. 3 I looked up, and there before me was a ram with two horns, standing beside the canal, and the horns were long. One of the horns was longer than the other but grew up later. 4 I watched the ram as it charged toward the west and the north and the south. No animal could stand against it, and none could rescue from its power. It did as it pleased and became great.
 
-Judgment Against Israel
-5 “Hear this, you priests!
-    Pay attention, you Israelites!
-Listen, royal house!
-    This judgment is against you:
-You have been a snare at Mizpah,
-    a net spread out on Tabor.
-2 The rebels are knee-deep in slaughter.
-    I will discipline all of them.
-3 I know all about Ephraim;
-    Israel is not hidden from me.
-Ephraim, you have now turned to prostitution;
-    Israel is corrupt.
+5 As I was thinking about this, suddenly a goat with a prominent horn between its eyes came from the west, crossing the whole earth without touching the ground. 6 It came toward the two-horned ram I had seen standing beside the canal and charged at it in great rage. 7 I saw it attack the ram furiously, striking the ram and shattering its two horns. The ram was powerless to stand against it; the goat knocked it to the ground and trampled on it, and none could rescue the ram from its power. 8 The goat became very great, but at the height of its power the large horn was broken off, and in its place four prominent horns grew up toward the four winds of heaven.
 
-4 “Their deeds do not permit them
-    to return to their God.
-A spirit of prostitution is in their heart;
-    they do not acknowledge the Lord.
-5 Israel’s arrogance testifies against them;
-    the Israelites, even Ephraim, stumble in their sin;
-    Judah also stumbles with them.
-6 When they go with their flocks and herds
-    to seek the Lord,
-they will not find him;
-    he has withdrawn himself from them.
-7 They are unfaithful to the Lord;
-    they give birth to illegitimate children.
-When they celebrate their New Moon feasts,
-    he will devour[a] their fields.
+9 Out of one of them came another horn, which started small but grew in power to the south and to the east and toward the Beautiful Land. 10 It grew until it reached the host of the heavens, and it threw some of the starry host down to the earth and trampled on them. 11 It set itself up to be as great as the commander of the army of the Lord; it took away the daily sacrifice from the Lord, and his sanctuary was thrown down. 12 Because of rebellion, the Lord’s people[a] and the daily sacrifice were given over to it. It prospered in everything it did, and truth was thrown to the ground.
 
-8 “Sound the trumpet in Gibeah,
-    the horn in Ramah.
-Raise the battle cry in Beth Aven[b];
-    lead on, Benjamin.
-9 Ephraim will be laid waste
-    on the day of reckoning.
-Among the tribes of Israel
-    I proclaim what is certain.
-10 Judah’s leaders are like those
-    who move boundary stones.
-I will pour out my wrath on them
-    like a flood of water.
-11 Ephraim is oppressed,
-    trampled in judgment,
-    intent on pursuing idols.[c]
-12 I am like a moth to Ephraim,
-    like rot to the people of Judah.
+13 Then I heard a holy one speaking, and another holy one said to him, “How long will it take for the vision to be fulfilled—the vision concerning the daily sacrifice, the rebellion that causes desolation, the surrender of the sanctuary and the trampling underfoot of the Lord’s people?”
 
-13 “When Ephraim saw his sickness,
-    and Judah his sores,
-then Ephraim turned to Assyria,
-    and sent to the great king for help.
-But he is not able to cure you,
-    not able to heal your sores.
-14 For I will be like a lion to Ephraim,
-    like a great lion to Judah.
-I will tear them to pieces and go away;
-    I will carry them off, with no one to rescue them.
-15 Then I will return to my lair
-    until they have borne their guilt
-    and seek my face—
-in their misery
-    they will earnestly seek me.”         </p>
-          </div>
+14 He said to me, “It will take 2,300 evenings and mornings; then the sanctuary will be reconsecrated.”
 
- <div className={styles.card}>
-           <h2 className={styles.chapter13}>Hosea Chpt VI</h2>
-            <p>
+The Interpretation of the Vision
+15 While I, Daniel, was watching the vision and trying to understand it, there before me stood one who looked like a man. 16 And I heard a man’s voice from the Ulai calling, “Gabriel, tell this man the meaning of the vision.”
 
-Israel Unrepentant
-6 “Come, let us return to the Lord.
-He has torn us to pieces
-    but he will heal us;
-he has injured us
-    but he will bind up our wounds.
-2 After two days he will revive us;
-    on the third day he will restore us,
-    that we may live in his presence.
-3 Let us acknowledge the Lord;
-    let us press on to acknowledge him.
-As surely as the sun rises,
-    he will appear;
-he will come to us like the winter rains,
-    like the spring rains that water the earth.”
+17 As he came near the place where I was standing, I was terrified and fell prostrate. “Son of man,”[b] he said to me, “understand that the vision concerns the time of the end.”
 
-4 “What can I do with you, Ephraim?
-    What can I do with you, Judah?
-Your love is like the morning mist,
-    like the early dew that disappears.
-5 Therefore I cut you in pieces with my prophets,
-    I killed you with the words of my mouth—
-    then my judgments go forth like the sun.[a]
-6 For I desire mercy, not sacrifice,
-    and acknowledgment of God rather than burnt offerings.
-7 As at Adam,[b] they have broken the covenant;
-    they were unfaithful to me there.
-8 Gilead is a city of evildoers,
-    stained with footprints of blood.
-9 As marauders lie in ambush for a victim,
-    so do bands of priests;
-they murder on the road to Shechem,
-    carrying out their wicked schemes.
-10 I have seen a horrible thing in Israel:
-    There Ephraim is given to prostitution,
-    Israel is defiled.
+18 While he was speaking to me, I was in a deep sleep, with my face to the ground. Then he touched me and raised me to my feet.
 
-11 “Also for you, Judah,
-    a harvest is appointed.
+19 He said: “I am going to tell you what will happen later in the time of wrath, because the vision concerns the appointed time of the end.[c] 20 The two-horned ram that you saw represents the kings of Media and Persia. 21 The shaggy goat is the king of Greece, and the large horn between its eyes is the first king. 22 The four horns that replaced the one that was broken off represent four kingdoms that will emerge from his nation but will not have the same power.
 
-“Whenever I would restore the fortunes of my people,            </p>
-          </div>
+23 “In the latter part of their reign, when rebels have become completely wicked, a fierce-looking king, a master of intrigue, will arise. 24 He will become very strong, but not by his own power. He will cause astounding devastation and will succeed in whatever he does. He will destroy those who are mighty, the holy people. 25 He will cause deceit to prosper, and he will consider himself superior. When they feel secure, he will destroy many and take his stand against the Prince of princes. Yet he will be destroyed, but not by human power.
 
+26 “The vision of the evenings and mornings that has been given you is true, but seal up the vision, for it concerns the distant future.”
 
- <div className={styles.card}>
-            <h2 className={styles.chapter13}>Hosea Chpt VII</h2>
-            <p>
-7 1 whenever I would heal Israel,
-the sins of Ephraim are exposed
-    and the crimes of Samaria revealed.
-They practice deceit,
-    thieves break into houses,
-    bandits rob in the streets;
-2 but they do not realize
-    that I remember all their evil deeds.
-Their sins engulf them;
-    they are always before me.
-
-3 “They delight the king with their wickedness,
-    the princes with their lies.
-4 They are all adulterers,
-    burning like an oven
-whose fire the baker need not stir
-    from the kneading of the dough till it rises.
-5 On the day of the festival of our king
-    the princes become inflamed with wine,
-    and he joins hands with the mockers.
-6 Their hearts are like an oven;
-    they approach him with intrigue.
-Their passion smolders all night;
-    in the morning it blazes like a flaming fire.
-7 All of them are hot as an oven;
-    they devour their rulers.
-All their kings fall,
-    and none of them calls on me.
-
-8 “Ephraim mixes with the nations;
-    Ephraim is a flat loaf not turned over.
-9 Foreigners sap his strength,
-    but he does not realize it.
-His hair is sprinkled with gray,
-    but he does not notice.
-10 Israel’s arrogance testifies against him,
-    but despite all this
-he does not return to the Lord his God
-    or search for him.
-
-11 “Ephraim is like a dove,
-    easily deceived and senseless—
-now calling to Egypt,
-    now turning to Assyria.
-12 When they go, I will throw my net over them;
-    I will pull them down like the birds in the sky.
-When I hear them flocking together,
-    I will catch them.
-13 Woe to them,
-    because they have strayed from me!
-Destruction to them,
-    because they have rebelled against me!
-I long to redeem them
-    but they speak about me falsely.
-14 They do not cry out to me from their hearts
-    but wail on their beds.
-They slash themselves,[a] appealing to their gods
-    for grain and new wine,
-    but they turn away from me.
-15 I trained them and strengthened their arms,
-    but they plot evil against me.
-16 They do not turn to the Most High;
-    they are like a faulty bow.
-Their leaders will fall by the sword
-    because of their insolent words.
-For this they will be ridiculed
-    in the land of Egypt.                               
-                                  </p>
-              </div>
-
-          <div className={styles.card}>
-           <h2 className={styles.chapter13}>Hosea Chpt VIII</h2>
-            <p>
-
-Israel to Reap the Whirlwind
-8 “Put the trumpet to your lips!
-    An eagle is over the house of the Lord
-because the people have broken my covenant
-    and rebelled against my law.
-2 Israel cries out to me,
-    ‘Our God, we acknowledge you!’
-3 But Israel has rejected what is good;
-    an enemy will pursue him.
-4 They set up kings without my consent;
-    they choose princes without my approval.
-With their silver and gold
-    they make idols for themselves
-    to their own destruction.
-5 Samaria, throw out your calf-idol!
-    My anger burns against them.
-How long will they be incapable of purity?
-6     They are from Israel!
-This calf—a metalworker has made it;
-    it is not God.
-It will be broken in pieces,
-    that calf of Samaria.
-
-7 “They sow the wind
-    and reap the whirlwind.
-The stalk has no head;
-    it will produce no flour.
-Were it to yield grain,
-    foreigners would swallow it up.
-8 Israel is swallowed up;
-    now she is among the nations
-    like something no one wants.
-9 For they have gone up to Assyria
-    like a wild donkey wandering alone.
-    Ephraim has sold herself to lovers.
-10 Although they have sold themselves among the nations,
-    I will now gather them together.
-They will begin to waste away
-    under the oppression of the mighty king.
-
-11 “Though Ephraim built many altars for sin offerings,
-    these have become altars for sinning.
-12 I wrote for them the many things of my law,
-    but they regarded them as something foreign.
-13 Though they offer sacrifices as gifts to me,
-    and though they eat the meat,
-    the Lord is not pleased with them.
-Now he will remember their wickedness
-    and punish their sins:
-    They will return to Egypt.
-14 Israel has forgotten their Maker
-    and built palaces;
-    Judah has fortified many towns.
-But I will send fire on their cities
-    that will consume their fortresses.”
-      
+27 I, Daniel, was worn out. I lay exhausted for several days. Then I got up and went about the king’s business. I was appalled by the vision; it was beyond understanding.      
       </p>
           </div>
 
  <div className={styles.card}>
-           <h2 className={styles.chapter13}>Hosea Chpt IX</h2>
+           <h2 className={styles.chapter13}>Daniel Chpt IX</h2>
             <p>
 
-Punishment for Israel
-9 Do not rejoice, Israel;
-    do not be jubilant like the other nations.
-For you have been unfaithful to your God;
-    you love the wages of a prostitute
-    at every threshing floor.
-2 Threshing floors and winepresses will not feed the people;
-    the new wine will fail them.
-3 They will not remain in the Lord’s land;
-    Ephraim will return to Egypt
-    and eat unclean food in Assyria.
-4 They will not pour out wine offerings to the Lord,
-    nor will their sacrifices please him.
-Such sacrifices will be to them like the bread of mourners;
-    all who eat them will be unclean.
-This food will be for themselves;
-    it will not come into the temple of the Lord.
+Daniel’s Prayer
+9 In the first year of Darius son of Xerxes[a] (a Mede by descent), who was made ruler over the Babylonian[b] kingdom— 2 in the first year of his reign, I, Daniel, understood from the Scriptures, according to the word of the Lord given to Jeremiah the prophet, that the desolation of Jerusalem would last seventy years. 3 So I turned to the Lord God and pleaded with him in prayer and petition, in fasting, and in sackcloth and ashes.
 
-5 What will you do on the day of your appointed festivals,
-    on the feast days of the Lord?
-6 Even if they escape from destruction,
-    Egypt will gather them,
-    and Memphis will bury them.
-Their treasures of silver will be taken over by briers,
-    and thorns will overrun their tents.
-7 The days of punishment are coming,
-    the days of reckoning are at hand.
-    Let Israel know this.
-Because your sins are so many
-    and your hostility so great,
-the prophet is considered a fool,
-    the inspired person a maniac.
-8 The prophet, along with my God,
-    is the watchman over Ephraim,[a]
-yet snares await him on all his paths,
-    and hostility in the house of his God.
-9 They have sunk deep into corruption,
-    as in the days of Gibeah.
-God will remember their wickedness
-    and punish them for their sins.
+4 I prayed to the Lord my God and confessed:
 
-10 “When I found Israel,
-    it was like finding grapes in the desert;
-when I saw your ancestors,
-    it was like seeing the early fruit on the fig tree.
-But when they came to Baal Peor,
-    they consecrated themselves to that shameful idol
-    and became as vile as the thing they loved.
-11 Ephraim’s glory will fly away like a bird—
-    no birth, no pregnancy, no conception.
-12 Even if they rear children,
-    I will bereave them of every one.
-Woe to them
-    when I turn away from them!
-13 I have seen Ephraim, like Tyre,
-    planted in a pleasant place.
-But Ephraim will bring out
-    their children to the slayer.”
+“Lord, the great and awesome God, who keeps his covenant of love with those who love him and keep his commandments, 5 we have sinned and done wrong. We have been wicked and have rebelled; we have turned away from your commands and laws. 6 We have not listened to your servants the prophets, who spoke in your name to our kings, our princes and our ancestors, and to all the people of the land.
 
-14 Give them, Lord—
-    what will you give them?
-Give them wombs that miscarry
-    and breasts that are dry.
+7 “Lord, you are righteous, but this day we are covered with shame—the people of Judah and the inhabitants of Jerusalem and all Israel, both near and far, in all the countries where you have scattered us because of our unfaithfulness to you. 8 We and our kings, our princes and our ancestors are covered with shame, Lord, because we have sinned against you. 9 The Lord our God is merciful and forgiving, even though we have rebelled against him; 10 we have not obeyed the Lord our God or kept the laws he gave us through his servants the prophets. 11 All Israel has transgressed your law and turned away, refusing to obey you.
 
-15 “Because of all their wickedness in Gilgal,
-    I hated them there.
-Because of their sinful deeds,
-    I will drive them out of my house.
-I will no longer love them;
-    all their leaders are rebellious.
-16 Ephraim is blighted,
-    their root is withered,
-    they yield no fruit.
-Even if they bear children,
-    I will slay their cherished offspring.”
+“Therefore the curses and sworn judgments written in the Law of Moses, the servant of God, have been poured out on us, because we have sinned against you. 12 You have fulfilled the words spoken against us and against our rulers by bringing on us great disaster. Under the whole heaven nothing has ever been done like what has been done to Jerusalem. 13 Just as it is written in the Law of Moses, all this disaster has come on us, yet we have not sought the favor of the Lord our God by turning from our sins and giving attention to your truth. 14 The Lord did not hesitate to bring the disaster on us, for the Lord our God is righteous in everything he does; yet we have not obeyed him.
 
-17 My God will reject them
-    because they have not obeyed him;
-    they will be wanderers among the nations.            </p>
+15 “Now, Lord our God, who brought your people out of Egypt with a mighty hand and who made for yourself a name that endures to this day, we have sinned, we have done wrong. 16 Lord, in keeping with all your righteous acts, turn away your anger and your wrath from Jerusalem, your city, your holy hill. Our sins and the iniquities of our ancestors have made Jerusalem and your people an object of scorn to all those around us.
+
+17 “Now, our God, hear the prayers and petitions of your servant. For your sake, Lord, look with favor on your desolate sanctuary. 18 Give ear, our God, and hear; open your eyes and see the desolation of the city that bears your Name. We do not make requests of you because we are righteous, but because of your great mercy. 19 Lord, listen! Lord, forgive! Lord, hear and act! For your sake, my God, do not delay, because your city and your people bear your Name.”
+
+The Seventy “Sevens”
+20 While I was speaking and praying, confessing my sin and the sin of my people Israel and making my request to the Lord my God for his holy hill— 21 while I was still in prayer, Gabriel, the man I had seen in the earlier vision, came to me in swift flight about the time of the evening sacrifice. 22 He instructed me and said to me, “Daniel, I have now come to give you insight and understanding. 23 As soon as you began to pray, a word went out, which I have come to tell you, for you are highly esteemed. Therefore, consider the word and understand the vision:
+
+24 “Seventy ‘sevens’[c] are decreed for your people and your holy city to finish[d] transgression, to put an end to sin, to atone for wickedness, to bring in everlasting righteousness, to seal up vision and prophecy and to anoint the Most Holy Place.[e]
+
+25 “Know and understand this: From the time the word goes out to restore and rebuild Jerusalem until the Anointed One,[f] the ruler, comes, there will be seven ‘sevens,’ and sixty-two ‘sevens.’ It will be rebuilt with streets and a trench, but in times of trouble. 26 After the sixty-two ‘sevens,’ the Anointed One will be put to death and will have nothing.[g] The people of the ruler who will come will destroy the city and the sanctuary. The end will come like a flood: War will continue until the end, and desolations have been decreed. 27 He will confirm a covenant with many for one ‘seven.’[h] In the middle of the ‘seven’[i] he will put an end to sacrifice and offering. And at the temple[j] he will set up an abomination that causes desolation, until the end that is decreed is poured out on him.                                  
+                                  </p>
           </div>
 
 
  <div className={styles.card}>
-            <h2 className={styles.chapter13}>Hosea Chpt X</h2>
+            <h2 className={styles.chapter13}>Daniel Chpt X</h2>
             <p>
-10 Israel was a spreading vine;
-    he brought forth fruit for himself.
-As his fruit increased,
-    he built more altars;
-as his land prospered,
-    he adorned his sacred stones.
-2 Their heart is deceitful,
-    and now they must bear their guilt.
-The Lord will demolish their altars
-    and destroy their sacred stones.
+Daniel’s Vision of a Man
+10 In the third year of Cyrus king of Persia, a revelation was given to Daniel (who was called Belteshazzar). Its message was true and it concerned a great war.[a] The understanding of the message came to him in a vision.
 
-3 Then they will say, “We have no king
-    because we did not revere the Lord.
-But even if we had a king,
-    what could he do for us?”
-4 They make many promises,
-    take false oaths
-    and make agreements;
-therefore lawsuits spring up
-    like poisonous weeds in a plowed field.
-5 The people who live in Samaria fear
-    for the calf-idol of Beth Aven.[a]
-Its people will mourn over it,
-    and so will its idolatrous priests,
-those who had rejoiced over its splendor,
-    because it is taken from them into exile.
-6 It will be carried to Assyria
-    as tribute for the great king.
-Ephraim will be disgraced;
-    Israel will be ashamed of its foreign alliances.
-7 Samaria’s king will be destroyed,
-    swept away like a twig on the surface of the waters.
-8 The high places of wickedness[b] will be destroyed—
-    it is the sin of Israel.
-Thorns and thistles will grow up
-    and cover their altars.
-Then they will say to the mountains, “Cover us!”
-    and to the hills, “Fall on us!”
+2 At that time I, Daniel, mourned for three weeks. 3 I ate no choice food; no meat or wine touched my lips; and I used no lotions at all until the three weeks were over.
 
-9 “Since the days of Gibeah, you have sinned, Israel,
-    and there you have remained.[c]
-Will not war again overtake
-    the evildoers in Gibeah?
-10 When I please, I will punish them;
-    nations will be gathered against them
-    to put them in bonds for their double sin.
-11 Ephraim is a trained heifer
-    that loves to thresh;
-so I will put a yoke
-    on her fair neck.
-I will drive Ephraim,
-    Judah must plow,
-    and Jacob must break up the ground.
-12 Sow righteousness for yourselves,
-    reap the fruit of unfailing love,
-and break up your unplowed ground;
-    for it is time to seek the Lord,
-until he comes
-    and showers his righteousness on you.
-13 But you have planted wickedness,
-    you have reaped evil,
-    you have eaten the fruit of deception.
-Because you have depended on your own strength
-    and on your many warriors,
-14 the roar of battle will rise against your people,
-    so that all your fortresses will be devastated—
-as Shalman devastated Beth Arbel on the day of battle,
-    when mothers were dashed to the ground with their children.
-15 So will it happen to you, Bethel,
-    because your wickedness is great.
-When that day dawns,
-    the king of Israel will be completely destroyed.
-                            
+4 On the twenty-fourth day of the first month, as I was standing on the bank of the great river, the Tigris, 5 I looked up and there before me was a man dressed in linen, with a belt of fine gold from Uphaz around his waist. 6 His body was like topaz, his face like lightning, his eyes like flaming torches, his arms and legs like the gleam of burnished bronze, and his voice like the sound of a multitude.
+
+7 I, Daniel, was the only one who saw the vision; those who were with me did not see it, but such terror overwhelmed them that they fled and hid themselves. 8 So I was left alone, gazing at this great vision; I had no strength left, my face turned deathly pale and I was helpless. 9 Then I heard him speaking, and as I listened to him, I fell into a deep sleep, my face to the ground.
+
+10 A hand touched me and set me trembling on my hands and knees. 11 He said, “Daniel, you who are highly esteemed, consider carefully the words I am about to speak to you, and stand up, for I have now been sent to you.” And when he said this to me, I stood up trembling.
+
+12 Then he continued, “Do not be afraid, Daniel. Since the first day that you set your mind to gain understanding and to humble yourself before your God, your words were heard, and I have come in response to them. 13 But the prince of the Persian kingdom resisted me twenty-one days. Then Michael, one of the chief princes, came to help me, because I was detained there with the king of Persia. 14 Now I have come to explain to you what will happen to your people in the future, for the vision concerns a time yet to come.”
+
+15 While he was saying this to me, I bowed with my face toward the ground and was speechless. 16 Then one who looked like a man[b] touched my lips, and I opened my mouth and began to speak. I said to the one standing before me, “I am overcome with anguish because of the vision, my lord, and I feel very weak. 17 How can I, your servant, talk with you, my lord? My strength is gone and I can hardly breathe.”
+
+18 Again the one who looked like a man touched me and gave me strength. 19 “Do not be afraid, you who are highly esteemed,” he said. “Peace! Be strong now; be strong.”
+
+When he spoke to me, I was strengthened and said, “Speak, my lord, since you have given me strength.”
+
+20 So he said, “Do you know why I have come to you? Soon I will return to fight against the prince of Persia, and when I go, the prince of Greece will come; 21 but first I will tell you what is written in the Book of Truth. (No one supports me against them except Michael, your prince.                            
                                   </p>
               </div>
 
           <div className={styles.card}>
-           <h2 className={styles.chapter13}>Hosea Chpt XI</h2>
+           <h2 className={styles.chapter13}>Daniel Chpt XI</h2>
             <p>
-God’s Love for Israel
-11 “When Israel was a child, I loved him,
-    and out of Egypt I called my son.
-2 But the more they were called,
-    the more they went away from me.[a]
-They sacrificed to the Baals
-    and they burned incense to images.
-3 It was I who taught Ephraim to walk,
-    taking them by the arms;
-but they did not realize
-    it was I who healed them.
-4 I led them with cords of human kindness,
-    with ties of love.
-To them I was like one who lifts
-    a little child to the cheek,
-    and I bent down to feed them.
 
-5 “Will they not return to Egypt
-    and will not Assyria rule over them
-    because they refuse to repent?
-6 A sword will flash in their cities;
-    it will devour their false prophets
-    and put an end to their plans.
-7 My people are determined to turn from me.
-    Even though they call me God Most High,
-    I will by no means exalt them.
+11 1 And in the first year of Darius the Mede, I took my stand to support and protect him.)
 
-8 “How can I give you up, Ephraim?
-    How can I hand you over, Israel?
-How can I treat you like Admah?
-    How can I make you like Zeboyim?
-My heart is changed within me;
-    all my compassion is aroused.
-9 I will not carry out my fierce anger,
-    nor will I devastate Ephraim again.
-For I am God, and not a man—
-    the Holy One among you.
-    I will not come against their cities.
-10 They will follow the Lord;
-    he will roar like a lion.
-When he roars,
-    his children will come trembling from the west.
-11 They will come from Egypt,
-    trembling like sparrows,
-    from Assyria, fluttering like doves.
-I will settle them in their homes,”
-    declares the Lord.
+The Kings of the South and the North
+2 “Now then, I tell you the truth: Three more kings will arise in Persia, and then a fourth, who will be far richer than all the others. When he has gained power by his wealth, he will stir up everyone against the kingdom of Greece. 3 Then a mighty king will arise, who will rule with great power and do as he pleases. 4 After he has arisen, his empire will be broken up and parceled out toward the four winds of heaven. It will not go to his descendants, nor will it have the power he exercised, because his empire will be uprooted and given to others.
 
-Israel’s Sin
-12 Ephraim has surrounded me with lies,
-    Israel with deceit.
-And Judah is unruly against God,
-    even against the faithful Holy One.
+5 “The king of the South will become strong, but one of his commanders will become even stronger than he and will rule his own kingdom with great power. 6 After some years, they will become allies. The daughter of the king of the South will go to the king of the North to make an alliance, but she will not retain her power, and he and his power[a] will not last. In those days she will be betrayed, together with her royal escort and her father[b] and the one who supported her.
+
+7 “One from her family line will arise to take her place. He will attack the forces of the king of the North and enter his fortress; he will fight against them and be victorious. 8 He will also seize their gods, their metal images and their valuable articles of silver and gold and carry them off to Egypt. For some years he will leave the king of the North alone. 9 Then the king of the North will invade the realm of the king of the South but will retreat to his own country. 10 His sons will prepare for war and assemble a great army, which will sweep on like an irresistible flood and carry the battle as far as his fortress.
+
+11 “Then the king of the South will march out in a rage and fight against the king of the North, who will raise a large army, but it will be defeated. 12 When the army is carried off, the king of the South will be filled with pride and will slaughter many thousands, yet he will not remain triumphant. 13 For the king of the North will muster another army, larger than the first; and after several years, he will advance with a huge army fully equipped.
+
+14 “In those times many will rise against the king of the South. Those who are violent among your own people will rebel in fulfillment of the vision, but without success. 15 Then the king of the North will come and build up siege ramps and will capture a fortified city. The forces of the South will be powerless to resist; even their best troops will not have the strength to stand. 16 The invader will do as he pleases; no one will be able to stand against him. He will establish himself in the Beautiful Land and will have the power to destroy it. 17 He will determine to come with the might of his entire kingdom and will make an alliance with the king of the South. And he will give him a daughter in marriage in order to overthrow the kingdom, but his plans[c] will not succeed or help him. 18 Then he will turn his attention to the coastlands and will take many of them, but a commander will put an end to his insolence and will turn his insolence back on him. 19 After this, he will turn back toward the fortresses of his own country but will stumble and fall, to be seen no more.
+
+20 “His successor will send out a tax collector to maintain the royal splendor. In a few years, however, he will be destroyed, yet not in anger or in battle.
+
+21 “He will be succeeded by a contemptible person who has not been given the honor of royalty. He will invade the kingdom when its people feel secure, and he will seize it through intrigue. 22 Then an overwhelming army will be swept away before him; both it and a prince of the covenant will be destroyed. 23 After coming to an agreement with him, he will act deceitfully, and with only a few people he will rise to power. 24 When the richest provinces feel secure, he will invade them and will achieve what neither his fathers nor his forefathers did. He will distribute plunder, loot and wealth among his followers. He will plot the overthrow of fortresses—but only for a time.
+
+25 “With a large army he will stir up his strength and courage against the king of the South. The king of the South will wage war with a large and very powerful army, but he will not be able to stand because of the plots devised against him. 26 Those who eat from the king’s provisions will try to destroy him; his army will be swept away, and many will fall in battle. 27 The two kings, with their hearts bent on evil, will sit at the same table and lie to each other, but to no avail, because an end will still come at the appointed time. 28 The king of the North will return to his own country with great wealth, but his heart will be set against the holy covenant. He will take action against it and then return to his own country.
+
+29 “At the appointed time he will invade the South again, but this time the outcome will be different from what it was before. 30 Ships of the western coastlands will oppose him, and he will lose heart. Then he will turn back and vent his fury against the holy covenant. He will return and show favor to those who forsake the holy covenant.
+
+31 “His armed forces will rise up to desecrate the temple fortress and will abolish the daily sacrifice. Then they will set up the abomination that causes desolation. 32 With flattery he will corrupt those who have violated the covenant, but the people who know their God will firmly resist him.
+
+33 “Those who are wise will instruct many, though for a time they will fall by the sword or be burned or captured or plundered. 34 When they fall, they will receive a little help, and many who are not sincere will join them. 35 Some of the wise will stumble, so that they may be refined, purified and made spotless until the time of the end, for it will still come at the appointed time.
+
+The King Who Exalts Himself
+36 “The king will do as he pleases. He will exalt and magnify himself above every god and will say unheard-of things against the God of gods. He will be successful until the time of wrath is completed, for what has been determined must take place. 37 He will show no regard for the gods of his ancestors or for the one desired by women, nor will he regard any god, but will exalt himself above them all. 38 Instead of them, he will honor a god of fortresses; a god unknown to his ancestors he will honor with gold and silver, with precious stones and costly gifts. 39 He will attack the mightiest fortresses with the help of a foreign god and will greatly honor those who acknowledge him. He will make them rulers over many people and will distribute the land at a price.[d]
+
+40 “At the time of the end the king of the South will engage him in battle, and the king of the North will storm out against him with chariots and cavalry and a great fleet of ships. He will invade many countries and sweep through them like a flood. 41 He will also invade the Beautiful Land. Many countries will fall, but Edom, Moab and the leaders of Ammon will be delivered from his hand. 42 He will extend his power over many countries; Egypt will not escape. 43 He will gain control of the treasures of gold and silver and all the riches of Egypt, with the Libyans and Cushites[e] in submission. 44 But reports from the east and the north will alarm him, and he will set out in a great rage to destroy and annihilate many. 45 He will pitch his royal tents between the seas at[f] the beautiful holy mountain. Yet he will come to his end, and no one will help him.                                  
          </p>
           </div>
 
  <div className={styles.card}>
-           <h2 className={styles.chapter13}>Hosea Chpt XII</h2>
+           <h2 className={styles.chapter13}>Daniel Chpt XII</h2>
             <p>
 
-12 [a]1 Ephraim feeds on the wind;
-    he pursues the east wind all day
-    and multiplies lies and violence.
-He makes a treaty with Assyria
-    and sends olive oil to Egypt.
-2 The Lord has a charge to bring against Judah;
-    he will punish Jacob[b] according to his ways
-    and repay him according to his deeds.
-3 In the womb he grasped his brother’s heel;
-    as a man he struggled with God.
-4 He struggled with the angel and overcame him;
-    he wept and begged for his favor.
-He found him at Bethel
-    and talked with him there—
-5 the Lord God Almighty,
-    the Lord is his name!
-6 But you must return to your God;
-    maintain love and justice,
-    and wait for your God always.
+The End Times
+12 “At that time Michael, the great prince who protects your people, will arise. There will be a time of distress such as has not happened from the beginning of nations until then. But at that time your people—everyone whose name is found written in the book—will be delivered. 2 Multitudes who sleep in the dust of the earth will awake: some to everlasting life, others to shame and everlasting contempt. 3 Those who are wise[a] will shine like the brightness of the heavens, and those who lead many to righteousness, like the stars for ever and ever. 4 But you, Daniel, roll up and seal the words of the scroll until the time of the end. Many will go here and there to increase knowledge.”
 
-7 The merchant uses dishonest scales
-    and loves to defraud.
-8 Ephraim boasts,
-    “I am very rich; I have become wealthy.
-With all my wealth they will not find in me
-    any iniquity or sin.”
+5 Then I, Daniel, looked, and there before me stood two others, one on this bank of the river and one on the opposite bank. 6 One of them said to the man clothed in linen, who was above the waters of the river, “How long will it be before these astonishing things are fulfilled?”
 
-9 “I have been the Lord your God
-    ever since you came out of Egypt;
-I will make you live in tents again,
-    as in the days of your appointed festivals.
-10 I spoke to the prophets,
-    gave them many visions
-    and told parables through them.”
+7 The man clothed in linen, who was above the waters of the river, lifted his right hand and his left hand toward heaven, and I heard him swear by him who lives forever, saying, “It will be for a time, times and half a time.[b] When the power of the holy people has been finally broken, all these things will be completed.”
 
-11 Is Gilead wicked?
-    Its people are worthless!
-Do they sacrifice bulls in Gilgal?
-    Their altars will be like piles of stones
-    on a plowed field.
-12 Jacob fled to the country of Aram[c];
-    Israel served to get a wife,
-    and to pay for her he tended sheep.
-13 The Lord used a prophet to bring Israel up from Egypt,
-    by a prophet he cared for him.
-14 But Ephraim has aroused his bitter anger;
-    his Lord will leave on him the guilt of his bloodshed
-    and will repay him for his contempt.            </p>
+8 I heard, but I did not understand. So I asked, “My lord, what will the outcome of all this be?”
+
+9 He replied, “Go your way, Daniel, because the words are rolled up and sealed until the time of the end. 10 Many will be purified, made spotless and refined, but the wicked will continue to be wicked. None of the wicked will understand, but those who are wise will understand.
+
+11 “From the time that the daily sacrifice is abolished and the abomination that causes desolation is set up, there will be 1,290 days. 12 Blessed is the one who waits for and reaches the end of the 1,335 days.
+
+13 “As for you, go your way till the end. You will rest, and then at the end of the days you will rise to receive your allotted inheritance.”                                  
+                                  </p>
           </div>
                                   
 
- <div className={styles.card}>
-           <h2 className={styles.chapter13}>Hosea Chpt XIII</h2>
-            <p>
-
-The Lord’s Anger Against Israel
-13 When Ephraim spoke, people trembled;
-    he was exalted in Israel.
-    But he became guilty of Baal worship and died.
-2 Now they sin more and more;
-    they make idols for themselves from their silver,
-cleverly fashioned images,
-    all of them the work of craftsmen.
-It is said of these people,
-    “They offer human sacrifices!
-    They kiss[a] calf-idols!”
-3 Therefore they will be like the morning mist,
-    like the early dew that disappears,
-    like chaff swirling from a threshing floor,
-    like smoke escaping through a window.
-
-4 “But I have been the Lord your God
-    ever since you came out of Egypt.
-You shall acknowledge no God but me,
-    no Savior except me.
-5 I cared for you in the wilderness,
-    in the land of burning heat.
-6 When I fed them, they were satisfied;
-    when they were satisfied, they became proud;
-    then they forgot me.
-7 So I will be like a lion to them,
-    like a leopard I will lurk by the path.
-8 Like a bear robbed of her cubs,
-    I will attack them and rip them open;
-like a lion I will devour them—
-    a wild animal will tear them apart.
-
-9 “You are destroyed, Israel,
-    because you are against me, against your helper.
-10 Where is your king, that he may save you?
-    Where are your rulers in all your towns,
-of whom you said,
-    ‘Give me a king and princes’?
-11 So in my anger I gave you a king,
-    and in my wrath I took him away.
-12 The guilt of Ephraim is stored up,
-    his sins are kept on record.
-13 Pains as of a woman in childbirth come to him,
-    but he is a child without wisdom;
-when the time arrives,
-    he doesn’t have the sense to come out of the womb.
-
-14 “I will deliver this people from the power of the grave;
-    I will redeem them from death.
-Where, O death, are your plagues?
-    Where, O grave, is your destruction?
-
-“I will have no compassion,
-15     even though he thrives among his brothers.
-An east wind from the Lord will come,
-    blowing in from the desert;
-his spring will fail
-    and his well dry up.
-His storehouse will be plundered
-    of all its treasures.
-16 The people of Samaria must bear their guilt,
-    because they have rebelled against their God.
-They will fall by the sword;
-    their little ones will be dashed to the ground,
-    their pregnant women ripped open.”         </p>
-          </div>
-
- <div className={styles.card}>
-           <h2 className={styles.chapter13}>Hosea Chpt XIV</h2>
-            <p>
-Repentance to Bring Blessing
-14 [a]Return, Israel, to the Lord your God.
-    Your sins have been your downfall!
-2 Take words with you
-    and return to the Lord.
-Say to him:
-    “Forgive all our sins
-and receive us graciously,
-    that we may offer the fruit of our lips.[b]
-3 Assyria cannot save us;
-    we will not mount warhorses.
-We will never again say ‘Our gods’
-    to what our own hands have made,
-    for in you the fatherless find compassion.”
-
-4 “I will heal their waywardness
-    and love them freely,
-    for my anger has turned away from them.
-5 I will be like the dew to Israel;
-    he will blossom like a lily.
-Like a cedar of Lebanon
-    he will send down his roots;
-6     his young shoots will grow.
-His splendor will be like an olive tree,
-    his fragrance like a cedar of Lebanon.
-7 People will dwell again in his shade;
-    they will flourish like the grain,
-they will blossom like the vine—
-    Israel’s fame will be like the wine of Lebanon.
-8 Ephraim, what more have I[c] to do with idols?
-    I will answer him and care for him.
-I am like a flourishing juniper;
-    your fruitfulness comes from me.”
-
-9 Who is wise? Let them realize these things.
-    Who is discerning? Let them understand.
-The ways of the Lord are right;
-    the righteous walk in them,
-    but the rebellious stumble in them.
-
-
-            </p>
-          </div>                                  
+                             
                                   
 
                           
