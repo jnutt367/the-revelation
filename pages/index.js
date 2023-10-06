@@ -38,7 +38,7 @@ export default function Home() {
                               />
         </div>
 <p className={styles.parables}>
-Hosea's love for his unfaithful wife is a reflaction of Israel's unfaithfulness in her covenant relationship with God.
+Hosea's love for his unfaithful wife is a reflection of Israel's unfaithfulness in her covenant relationship with God.
     </p>
                       <div className={styles.nav13}>           
       <a href="https://the-revelation.vercel.app/#micah">
