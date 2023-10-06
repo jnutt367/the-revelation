@@ -542,7 +542,9 @@ The End Times
 11 “From the time that the daily sacrifice is abolished and the abomination that causes desolation is set up, there will be 1,290 days. 12 Blessed is the one who waits for and reaches the end of the 1,335 days.
 
 13 “As for you, go your way till the end. You will rest, and then at the end of the days you will rise to receive your allotted inheritance.”                                  
-                                  </p>
+                               
+  
+  </p>
           </div>
                                   
 
@@ -744,7 +746,9 @@ Hosea’s Reconciliation With His Wife
 
 2 So I bought her for fifteen shekels[a] of silver and about a homer and a lethek[b] of barley. 3 Then I told her, “You are to live with me many days; you must not be a prostitute or be intimate with any man, and I will behave the same way toward you.”
 
-4 For the Israelites will live many days without king or prince, without sacrifice or sacred stones, without ephod or household gods. 5 Afterward the Israelites will return and seek the Lord their God and David their king. They will come trembling to the Lord and to his blessings in the last days.            </p>
+4 For the Israelites will live many days without king or prince, without sacrifice or sacred stones, without ephod or household gods. 5 Afterward the Israelites will return and seek the Lord their God and David their king. They will come trembling to the Lord and to his blessings in the last days.    
+  
+  </p>
           </div>
 
 
@@ -901,7 +905,9 @@ I will tear them to pieces and go away;
     until they have borne their guilt
     and seek my face—
 in their misery
-    they will earnestly seek me.”         </p>
+    they will earnestly seek me.”       
+      
+      </p>
           </div>
 
  <div className={styles.card}>
