@@ -35,6 +35,8 @@ export default function Home() {
         </div>
 <p className={styles.parables}>
 The stroy of Baalthashazar (Daniel) & his friends, revelation that came to Daniel in dreams & visions during his lifetime.
+         </p>
+                                  
                       <div className={styles.nav14}>           
       <a href="https://the-revelation.vercel.app/#micah">
              <Image 
@@ -553,7 +555,7 @@ The End Times
 
                           
                             </div>
-</p>
+
   </div>
               
       </main>
