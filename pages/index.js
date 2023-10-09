@@ -509,6 +509,577 @@ Jerusalem’s Judgment Inescapable
           </div>                                  
                                   
 
+   <div className={styles.card}>
+           <h2 className={styles.chapter13}>Ezekiel Chpt V</h2>
+            <p>
+God’s Razor of Judgment
+5 “Now, son of man, take a sharp sword and use it as a barber’s razor to shave your head and your beard. Then take a set of scales and divide up the hair. 2 When the days of your siege come to an end, burn a third of the hair inside the city. Take a third and strike it with the sword all around the city. And scatter a third to the wind. For I will pursue them with drawn sword. 3 But take a few hairs and tuck them away in the folds of your garment. 4 Again, take a few of these and throw them into the fire and burn them up. A fire will spread from there to all Israel.
+
+5 “This is what the Sovereign Lord says: This is Jerusalem, which I have set in the center of the nations, with countries all around her. 6 Yet in her wickedness she has rebelled against my laws and decrees more than the nations and countries around her. She has rejected my laws and has not followed my decrees.
+
+7 “Therefore this is what the Sovereign Lord says: You have been more unruly than the nations around you and have not followed my decrees or kept my laws. You have not even[a] conformed to the standards of the nations around you.
+
+8 “Therefore this is what the Sovereign Lord says: I myself am against you, Jerusalem, and I will inflict punishment on you in the sight of the nations. 9 Because of all your detestable idols, I will do to you what I have never done before and will never do again. 10 Therefore in your midst parents will eat their children, and children will eat their parents. I will inflict punishment on you and will scatter all your survivors to the winds. 11 Therefore as surely as I live, declares the Sovereign Lord, because you have defiled my sanctuary with all your vile images and detestable practices, I myself will shave you; I will not look on you with pity or spare you. 12 A third of your people will die of the plague or perish by famine inside you; a third will fall by the sword outside your walls; and a third I will scatter to the winds and pursue with drawn sword.
+
+13 “Then my anger will cease and my wrath against them will subside, and I will be avenged. And when I have spent my wrath on them, they will know that I the Lord have spoken in my zeal.
+
+14 “I will make you a ruin and a reproach among the nations around you, in the sight of all who pass by. 15 You will be a reproach and a taunt, a warning and an object of horror to the nations around you when I inflict punishment on you in anger and in wrath and with stinging rebuke. I the Lord have spoken. 16 When I shoot at you with my deadly and destructive arrows of famine, I will shoot to destroy you. I will bring more and more famine upon you and cut off your supply of food. 17 I will send famine and wild beasts against you, and they will leave you childless. Plague and bloodshed will sweep through you, and I will bring the sword against you. I the Lord have spoken.”      
+      
+      </p>
+          </div>
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter13}>Ezekiel Chpt VI</h2>
+            <p>
+
+Doom for the Mountains of Israel
+6 The word of the Lord came to me: 2 “Son of man, set your face against the mountains of Israel; prophesy against them 3 and say: ‘You mountains of Israel, hear the word of the Sovereign Lord. This is what the Sovereign Lord says to the mountains and hills, to the ravines and valleys: I am about to bring a sword against you, and I will destroy your high places. 4 Your altars will be demolished and your incense altars will be smashed; and I will slay your people in front of your idols. 5 I will lay the dead bodies of the Israelites in front of their idols, and I will scatter your bones around your altars. 6 Wherever you live, the towns will be laid waste and the high places demolished, so that your altars will be laid waste and devastated, your idols smashed and ruined, your incense altars broken down, and what you have made wiped out. 7 Your people will fall slain among you, and you will know that I am the Lord.
+
+8 “‘But I will spare some, for some of you will escape the sword when you are scattered among the lands and nations. 9 Then in the nations where they have been carried captive, those who escape will remember me—how I have been grieved by their adulterous hearts, which have turned away from me, and by their eyes, which have lusted after their idols. They will loathe themselves for the evil they have done and for all their detestable practices. 10 And they will know that I am the Lord; I did not threaten in vain to bring this calamity on them.
+
+11 “‘This is what the Sovereign Lord says: Strike your hands together and stamp your feet and cry out “Alas!” because of all the wicked and detestable practices of the people of Israel, for they will fall by the sword, famine and plague. 12 One who is far away will die of the plague, and one who is near will fall by the sword, and anyone who survives and is spared will die of famine. So will I pour out my wrath on them. 13 And they will know that I am the Lord, when their people lie slain among their idols around their altars, on every high hill and on all the mountaintops, under every spreading tree and every leafy oak—places where they offered fragrant incense to all their idols. 14 And I will stretch out my hand against them and make the land a desolate waste from the desert to Diblah[a]—wherever they live. Then they will know that I am the Lord.’”
+
+  
+           </p>
+          </div>
+
+
+ <div className={styles.card}>
+            <h2 className={styles.chapter13}>Ezekiel Chpt VII</h2>
+            <p>
+The End Has Come
+7 The word of the Lord came to me: 2 “Son of man, this is what the Sovereign Lord says to the land of Israel:
+
+“‘The end! The end has come
+    upon the four corners of the land!
+3 The end is now upon you,
+    and I will unleash my anger against you.
+I will judge you according to your conduct
+    and repay you for all your detestable practices.
+4 I will not look on you with pity;
+    I will not spare you.
+I will surely repay you for your conduct
+    and for the detestable practices among you.
+
+“‘Then you will know that I am the Lord.’
+
+5 “This is what the Sovereign Lord says:
+
+“‘Disaster! Unheard-of[a] disaster!
+    See, it comes!
+6 The end has come!
+    The end has come!
+It has roused itself against you.
+    See, it comes!
+7 Doom has come upon you,
+    upon you who dwell in the land.
+The time has come! The day is near!
+    There is panic, not joy, on the mountains.
+8 I am about to pour out my wrath on you
+    and spend my anger against you.
+I will judge you according to your conduct
+    and repay you for all your detestable practices.
+9 I will not look on you with pity;
+    I will not spare you.
+I will repay you for your conduct
+    and for the detestable practices among you.
+
+“‘Then you will know that it is I the Lord who strikes you.
+
+10 “‘See, the day!
+    See, it comes!
+Doom has burst forth,
+    the rod has budded,
+    arrogance has blossomed!
+11 Violence has arisen,[b]
+    a rod to punish the wicked.
+None of the people will be left,
+    none of that crowd—
+none of their wealth,
+    nothing of value.
+12 The time has come!
+    The day has arrived!
+Let not the buyer rejoice
+    nor the seller grieve,
+    for my wrath is on the whole crowd.
+13 The seller will not recover
+    the property that was sold—
+    as long as both buyer and seller live.
+For the vision concerning the whole crowd
+    will not be reversed.
+Because of their sins, not one of them
+    will preserve their life.
+
+14 “‘They have blown the trumpet,
+    they have made all things ready,
+but no one will go into battle,
+    for my wrath is on the whole crowd.
+15 Outside is the sword;
+    inside are plague and famine.
+Those in the country
+    will die by the sword;
+those in the city
+    will be devoured by famine and plague.
+16 The fugitives who escape
+    will flee to the mountains.
+Like doves of the valleys,
+    they will all moan,
+    each for their own sins.
+17 Every hand will go limp;
+    every leg will be wet with urine.
+18 They will put on sackcloth
+    and be clothed with terror.
+Every face will be covered with shame,
+    and every head will be shaved.
+
+19 “‘They will throw their silver into the streets,
+    and their gold will be treated as a thing unclean.
+Their silver and gold
+    will not be able to deliver them
+    in the day of the Lord’s wrath.
+It will not satisfy their hunger
+    or fill their stomachs,
+    for it has caused them to stumble into sin.
+20 They took pride in their beautiful jewelry
+    and used it to make their detestable idols.
+They made it into vile images;
+    therefore I will make it a thing unclean for them.
+21 I will give their wealth as plunder to foreigners
+    and as loot to the wicked of the earth,
+    who will defile it.
+22 I will turn my face away from the people,
+    and robbers will desecrate the place I treasure.
+They will enter it
+    and will defile it.
+
+23 “‘Prepare chains!
+    For the land is full of bloodshed,
+    and the city is full of violence.
+24 I will bring the most wicked of nations
+    to take possession of their houses.
+I will put an end to the pride of the mighty,
+    and their sanctuaries will be desecrated.
+25 When terror comes,
+    they will seek peace in vain.
+26 Calamity upon calamity will come,
+    and rumor upon rumor.
+They will go searching for a vision from the prophet,
+    priestly instruction in the law will cease,
+    the counsel of the elders will come to an end.
+27 The king will mourn,
+    the prince will be clothed with despair,
+    and the hands of the people of the land will tremble.
+I will deal with them according to their conduct,
+    and by their own standards I will judge them.
+
+“‘Then they will know that I am the Lord.’”  
+                        
+                                  </p>
+              </div>
+
+          <div className={styles.card}>
+           <h2 className={styles.chapter13}>Ezekiel Chpt VIII</h2>
+            <p>
+
+Idolatry in the Temple
+8 In the sixth year, in the sixth month on the fifth day, while I was sitting in my house and the elders of Judah were sitting before me, the hand of the Sovereign Lord came on me there. 2 I looked, and I saw a figure like that of a man.[a] From what appeared to be his waist down he was like fire, and from there up his appearance was as bright as glowing metal. 3 He stretched out what looked like a hand and took me by the hair of my head. The Spirit lifted me up between earth and heaven and in visions of God he took me to Jerusalem, to the entrance of the north gate of the inner court, where the idol that provokes to jealousy stood. 4 And there before me was the glory of the God of Israel, as in the vision I had seen in the plain.
+
+5 Then he said to me, “Son of man, look toward the north.” So I looked, and in the entrance north of the gate of the altar I saw this idol of jealousy.
+
+6 And he said to me, “Son of man, do you see what they are doing—the utterly detestable things the Israelites are doing here, things that will drive me far from my sanctuary? But you will see things that are even more detestable.”
+
+7 Then he brought me to the entrance to the court. I looked, and I saw a hole in the wall. 8 He said to me, “Son of man, now dig into the wall.” So I dug into the wall and saw a doorway there.
+
+9 And he said to me, “Go in and see the wicked and detestable things they are doing here.” 10 So I went in and looked, and I saw portrayed all over the walls all kinds of crawling things and unclean animals and all the idols of Israel. 11 In front of them stood seventy elders of Israel, and Jaazaniah son of Shaphan was standing among them. Each had a censer in his hand, and a fragrant cloud of incense was rising.
+
+12 He said to me, “Son of man, have you seen what the elders of Israel are doing in the darkness, each at the shrine of his own idol? They say, ‘The Lord does not see us; the Lord has forsaken the land.’” 13 Again, he said, “You will see them doing things that are even more detestable.”
+
+14 Then he brought me to the entrance of the north gate of the house of the Lord, and I saw women sitting there, mourning the god Tammuz. 15 He said to me, “Do you see this, son of man? You will see things that are even more detestable than this.”
+
+16 He then brought me into the inner court of the house of the Lord, and there at the entrance to the temple, between the portico and the altar, were about twenty-five men. With their backs toward the temple of the Lord and their faces toward the east, they were bowing down to the sun in the east.
+
+17 He said to me, “Have you seen this, son of man? Is it a trivial matter for the people of Judah to do the detestable things they are doing here? Must they also fill the land with violence and continually arouse my anger? Look at them putting the branch to their nose! 18 Therefore I will deal with them in anger; I will not look on them with pity or spare them. Although they shout in my ears, I will not listen to them.”      
+      </p>
+          </div>
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter13}>Ezekiel Chpt IX</h2>
+            <p>
+
+Judgment on the Idolaters
+9 Then I heard him call out in a loud voice, “Bring near those who are appointed to execute judgment on the city, each with a weapon in his hand.” 2 And I saw six men coming from the direction of the upper gate, which faces north, each with a deadly weapon in his hand. With them was a man clothed in linen who had a writing kit at his side. They came in and stood beside the bronze altar.
+
+3 Now the glory of the God of Israel went up from above the cherubim, where it had been, and moved to the threshold of the temple. Then the Lord called to the man clothed in linen who had the writing kit at his side 4 and said to him, “Go throughout the city of Jerusalem and put a mark on the foreheads of those who grieve and lament over all the detestable things that are done in it.”
+
+5 As I listened, he said to the others, “Follow him through the city and kill, without showing pity or compassion. 6 Slaughter the old men, the young men and women, the mothers and children, but do not touch anyone who has the mark. Begin at my sanctuary.” So they began with the old men who were in front of the temple.
+
+7 Then he said to them, “Defile the temple and fill the courts with the slain. Go!” So they went out and began killing throughout the city. 8 While they were killing and I was left alone, I fell facedown, crying out, “Alas, Sovereign Lord! Are you going to destroy the entire remnant of Israel in this outpouring of your wrath on Jerusalem?”
+
+9 He answered me, “The sin of the people of Israel and Judah is exceedingly great; the land is full of bloodshed and the city is full of injustice. They say, ‘The Lord has forsaken the land; the Lord does not see.’ 10 So I will not look on them with pity or spare them, but I will bring down on their own heads what they have done.”
+
+11 Then the man in linen with the writing kit at his side brought back word, saying, “I have done as you commanded.”  
+            </p>
+          </div>
+
+
+ <div className={styles.card}>
+            <h2 className={styles.chapter13}>Ezekiel Chpt X</h2>
+            <p>
+
+God’s Glory Departs From the Temple
+10 I looked, and I saw the likeness of a throne of lapis lazuli above the vault that was over the heads of the cherubim. 2 The Lord said to the man clothed in linen, “Go in among the wheels beneath the cherubim. Fill your hands with burning coals from among the cherubim and scatter them over the city.” And as I watched, he went in.
+
+3 Now the cherubim were standing on the south side of the temple when the man went in, and a cloud filled the inner court. 4 Then the glory of the Lord rose from above the cherubim and moved to the threshold of the temple. The cloud filled the temple, and the court was full of the radiance of the glory of the Lord. 5 The sound of the wings of the cherubim could be heard as far away as the outer court, like the voice of God Almighty[a] when he speaks.
+
+6 When the Lord commanded the man in linen, “Take fire from among the wheels, from among the cherubim,” the man went in and stood beside a wheel. 7 Then one of the cherubim reached out his hand to the fire that was among them. He took up some of it and put it into the hands of the man in linen, who took it and went out. 8 (Under the wings of the cherubim could be seen what looked like human hands.)
+
+9 I looked, and I saw beside the cherubim four wheels, one beside each of the cherubim; the wheels sparkled like topaz. 10 As for their appearance, the four of them looked alike; each was like a wheel intersecting a wheel. 11 As they moved, they would go in any one of the four directions the cherubim faced; the wheels did not turn about[b] as the cherubim went. The cherubim went in whatever direction the head faced, without turning as they went. 12 Their entire bodies, including their backs, their hands and their wings, were completely full of eyes, as were their four wheels. 13 I heard the wheels being called “the whirling wheels.” 14 Each of the cherubim had four faces: One face was that of a cherub, the second the face of a human being, the third the face of a lion, and the fourth the face of an eagle.
+
+15 Then the cherubim rose upward. These were the living creatures I had seen by the Kebar River. 16 When the cherubim moved, the wheels beside them moved; and when the cherubim spread their wings to rise from the ground, the wheels did not leave their side. 17 When the cherubim stood still, they also stood still; and when the cherubim rose, they rose with them, because the spirit of the living creatures was in them.
+
+18 Then the glory of the Lord departed from over the threshold of the temple and stopped above the cherubim. 19 While I watched, the cherubim spread their wings and rose from the ground, and as they went, the wheels went with them. They stopped at the entrance of the east gate of the Lord’s house, and the glory of the God of Israel was above them.
+
+20 These were the living creatures I had seen beneath the God of Israel by the Kebar River, and I realized that they were cherubim. 21 Each had four faces and four wings, and under their wings was what looked like human hands. 22 Their faces had the same appearance as those I had seen by the Kebar River. Each one went straight ahead.
+
+
+  
+                            
+                                  </p>
+              </div>
+
+          <div className={styles.card}>
+           <h2 className={styles.chapter13}>Ezekiel Chpt XI</h2>
+            <p>
+
+God’s Sure Judgment on Jerusalem
+11 Then the Spirit lifted me up and brought me to the gate of the house of the Lord that faces east. There at the entrance of the gate were twenty-five men, and I saw among them Jaazaniah son of Azzur and Pelatiah son of Benaiah, leaders of the people. 2 The Lord said to me, “Son of man, these are the men who are plotting evil and giving wicked advice in this city. 3 They say, ‘Haven’t our houses been recently rebuilt? This city is a pot, and we are the meat in it.’ 4 Therefore prophesy against them; prophesy, son of man.”
+
+5 Then the Spirit of the Lord came on me, and he told me to say: “This is what the Lord says: That is what you are saying, you leaders in Israel, but I know what is going through your mind. 6 You have killed many people in this city and filled its streets with the dead.
+
+7 “Therefore this is what the Sovereign Lord says: The bodies you have thrown there are the meat and this city is the pot, but I will drive you out of it. 8 You fear the sword, and the sword is what I will bring against you, declares the Sovereign Lord. 9 I will drive you out of the city and deliver you into the hands of foreigners and inflict punishment on you. 10 You will fall by the sword, and I will execute judgment on you at the borders of Israel. Then you will know that I am the Lord. 11 This city will not be a pot for you, nor will you be the meat in it; I will execute judgment on you at the borders of Israel. 12 And you will know that I am the Lord, for you have not followed my decrees or kept my laws but have conformed to the standards of the nations around you.”
+
+13 Now as I was prophesying, Pelatiah son of Benaiah died. Then I fell facedown and cried out in a loud voice, “Alas, Sovereign Lord! Will you completely destroy the remnant of Israel?”
+
+The Promise of Israel’s Return
+14 The word of the Lord came to me: 15 “Son of man, the people of Jerusalem have said of your fellow exiles and all the other Israelites, ‘They are far away from the Lord; this land was given to us as our possession.’
+
+16 “Therefore say: ‘This is what the Sovereign Lord says: Although I sent them far away among the nations and scattered them among the countries, yet for a little while I have been a sanctuary for them in the countries where they have gone.’
+
+17 “Therefore say: ‘This is what the Sovereign Lord says: I will gather you from the nations and bring you back from the countries where you have been scattered, and I will give you back the land of Israel again.’
+
+18 “They will return to it and remove all its vile images and detestable idols. 19 I will give them an undivided heart and put a new spirit in them; I will remove from them their heart of stone and give them a heart of flesh. 20 Then they will follow my decrees and be careful to keep my laws. They will be my people, and I will be their God. 21 But as for those whose hearts are devoted to their vile images and detestable idols, I will bring down on their own heads what they have done, declares the Sovereign Lord.”
+
+22 Then the cherubim, with the wheels beside them, spread their wings, and the glory of the God of Israel was above them. 23 The glory of the Lord went up from within the city and stopped above the mountain east of it. 24 The Spirit lifted me up and brought me to the exiles in Babylonia[a] in the vision given by the Spirit of God.
+
+Then the vision I had seen went up from me, 25 and I told the exiles everything the Lord had shown me.
+  
+         </p>
+          </div>
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter13}>Ezekiel Chpt XII</h2>
+            <p>
+
+The Exile Symbolized
+12 The word of the Lord came to me: 2 “Son of man, you are living among a rebellious people. They have eyes to see but do not see and ears to hear but do not hear, for they are a rebellious people.
+
+3 “Therefore, son of man, pack your belongings for exile and in the daytime, as they watch, set out and go from where you are to another place. Perhaps they will understand, though they are a rebellious people. 4 During the daytime, while they watch, bring out your belongings packed for exile. Then in the evening, while they are watching, go out like those who go into exile. 5 While they watch, dig through the wall and take your belongings out through it. 6 Put them on your shoulder as they are watching and carry them out at dusk. Cover your face so that you cannot see the land, for I have made you a sign to the Israelites.”
+
+7 So I did as I was commanded. During the day I brought out my things packed for exile. Then in the evening I dug through the wall with my hands. I took my belongings out at dusk, carrying them on my shoulders while they watched.
+
+8 In the morning the word of the Lord came to me: 9 “Son of man, did not the Israelites, that rebellious people, ask you, ‘What are you doing?’
+
+10 “Say to them, ‘This is what the Sovereign Lord says: This prophecy concerns the prince in Jerusalem and all the Israelites who are there.’ 11 Say to them, ‘I am a sign to you.’
+
+“As I have done, so it will be done to them. They will go into exile as captives.
+
+12 “The prince among them will put his things on his shoulder at dusk and leave, and a hole will be dug in the wall for him to go through. He will cover his face so that he cannot see the land. 13 I will spread my net for him, and he will be caught in my snare; I will bring him to Babylonia, the land of the Chaldeans, but he will not see it, and there he will die. 14 I will scatter to the winds all those around him—his staff and all his troops—and I will pursue them with drawn sword.
+
+15 “They will know that I am the Lord, when I disperse them among the nations and scatter them through the countries. 16 But I will spare a few of them from the sword, famine and plague, so that in the nations where they go they may acknowledge all their detestable practices. Then they will know that I am the Lord.”
+
+17 The word of the Lord came to me: 18 “Son of man, tremble as you eat your food, and shudder in fear as you drink your water. 19 Say to the people of the land: ‘This is what the Sovereign Lord says about those living in Jerusalem and in the land of Israel: They will eat their food in anxiety and drink their water in despair, for their land will be stripped of everything in it because of the violence of all who live there. 20 The inhabited towns will be laid waste and the land will be desolate. Then you will know that I am the Lord.’”
+
+There Will Be No Delay
+21 The word of the Lord came to me: 22 “Son of man, what is this proverb you have in the land of Israel: ‘The days go by and every vision comes to nothing’? 23 Say to them, ‘This is what the Sovereign Lord says: I am going to put an end to this proverb, and they will no longer quote it in Israel.’ Say to them, ‘The days are near when every vision will be fulfilled. 24 For there will be no more false visions or flattering divinations among the people of Israel. 25 But I the Lord will speak what I will, and it shall be fulfilled without delay. For in your days, you rebellious people, I will fulfill whatever I say, declares the Sovereign Lord.’”
+
+26 The word of the Lord came to me: 27 “Son of man, the Israelites are saying, ‘The vision he sees is for many years from now, and he prophesies about the distant future.’
+
+28 “Therefore say to them, ‘This is what the Sovereign Lord says: None of my words will be delayed any longer; whatever I say will be fulfilled, declares the Sovereign Lord.’”
+  
+         </p>
+          </div>
+                                  
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter13}>Ezekiel Chpt XIII</h2>
+            <p>
+
+False Prophets Condemned
+13 The word of the Lord came to me: 2 “Son of man, prophesy against the prophets of Israel who are now prophesying. Say to those who prophesy out of their own imagination: ‘Hear the word of the Lord! 3 This is what the Sovereign Lord says: Woe to the foolish[a] prophets who follow their own spirit and have seen nothing! 4 Your prophets, Israel, are like jackals among ruins. 5 You have not gone up to the breaches in the wall to repair it for the people of Israel so that it will stand firm in the battle on the day of the Lord. 6 Their visions are false and their divinations a lie. Even though the Lord has not sent them, they say, “The Lord declares,” and expect him to fulfill their words. 7 Have you not seen false visions and uttered lying divinations when you say, “The Lord declares,” though I have not spoken?
+
+8 “‘Therefore this is what the Sovereign Lord says: Because of your false words and lying visions, I am against you, declares the Sovereign Lord. 9 My hand will be against the prophets who see false visions and utter lying divinations. They will not belong to the council of my people or be listed in the records of Israel, nor will they enter the land of Israel. Then you will know that I am the Sovereign Lord.
+
+10 “‘Because they lead my people astray, saying, “Peace,” when there is no peace, and because, when a flimsy wall is built, they cover it with whitewash, 11 therefore tell those who cover it with whitewash that it is going to fall. Rain will come in torrents, and I will send hailstones hurtling down, and violent winds will burst forth. 12 When the wall collapses, will people not ask you, “Where is the whitewash you covered it with?”
+
+13 “‘Therefore this is what the Sovereign Lord says: In my wrath I will unleash a violent wind, and in my anger hailstones and torrents of rain will fall with destructive fury. 14 I will tear down the wall you have covered with whitewash and will level it to the ground so that its foundation will be laid bare. When it[b] falls, you will be destroyed in it; and you will know that I am the Lord. 15 So I will pour out my wrath against the wall and against those who covered it with whitewash. I will say to you, “The wall is gone and so are those who whitewashed it, 16 those prophets of Israel who prophesied to Jerusalem and saw visions of peace for her when there was no peace, declares the Sovereign Lord.”’
+
+17 “Now, son of man, set your face against the daughters of your people who prophesy out of their own imagination. Prophesy against them 18 and say, ‘This is what the Sovereign Lord says: Woe to the women who sew magic charms on all their wrists and make veils of various lengths for their heads in order to ensnare people. Will you ensnare the lives of my people but preserve your own? 19 You have profaned me among my people for a few handfuls of barley and scraps of bread. By lying to my people, who listen to lies, you have killed those who should not have died and have spared those who should not live.
+
+20 “‘Therefore this is what the Sovereign Lord says: I am against your magic charms with which you ensnare people like birds and I will tear them from your arms; I will set free the people that you ensnare like birds. 21 I will tear off your veils and save my people from your hands, and they will no longer fall prey to your power. Then you will know that I am the Lord. 22 Because you disheartened the righteous with your lies, when I had brought them no grief, and because you encouraged the wicked not to turn from their evil ways and so save their lives, 23 therefore you will no longer see false visions or practice divination. I will save my people from your hands. And then you will know that I am the Lord.’”  
+     </p>
+          </div>
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter13}>Ezekiel Chpt XIV</h2>
+            <p>
+
+Idolaters Condemned
+14 Some of the elders of Israel came to me and sat down in front of me. 2 Then the word of the Lord came to me: 3 “Son of man, these men have set up idols in their hearts and put wicked stumbling blocks before their faces. Should I let them inquire of me at all? 4 Therefore speak to them and tell them, ‘This is what the Sovereign Lord says: When any of the Israelites set up idols in their hearts and put a wicked stumbling block before their faces and then go to a prophet, I the Lord will answer them myself in keeping with their great idolatry. 5 I will do this to recapture the hearts of the people of Israel, who have all deserted me for their idols.’
+
+6 “Therefore say to the people of Israel, ‘This is what the Sovereign Lord says: Repent! Turn from your idols and renounce all your detestable practices!
+
+7 “‘When any of the Israelites or any foreigner residing in Israel separate themselves from me and set up idols in their hearts and put a wicked stumbling block before their faces and then go to a prophet to inquire of me, I the Lord will answer them myself. 8 I will set my face against them and make them an example and a byword. I will remove them from my people. Then you will know that I am the Lord.
+
+9 “‘And if the prophet is enticed to utter a prophecy, I the Lord have enticed that prophet, and I will stretch out my hand against him and destroy him from among my people Israel. 10 They will bear their guilt—the prophet will be as guilty as the one who consults him. 11 Then the people of Israel will no longer stray from me, nor will they defile themselves anymore with all their sins. They will be my people, and I will be their God, declares the Sovereign Lord.’”
+
+Jerusalem’s Judgment Inescapable
+12 The word of the Lord came to me: 13 “Son of man, if a country sins against me by being unfaithful and I stretch out my hand against it to cut off its food supply and send famine upon it and kill its people and their animals, 14 even if these three men—Noah, Daniel[a] and Job—were in it, they could save only themselves by their righteousness, declares the Sovereign Lord.
+
+15 “Or if I send wild beasts through that country and they leave it childless and it becomes desolate so that no one can pass through it because of the beasts, 16 as surely as I live, declares the Sovereign Lord, even if these three men were in it, they could not save their own sons or daughters. They alone would be saved, but the land would be desolate.
+
+17 “Or if I bring a sword against that country and say, ‘Let the sword pass throughout the land,’ and I kill its people and their animals, 18 as surely as I live, declares the Sovereign Lord, even if these three men were in it, they could not save their own sons or daughters. They alone would be saved.
+
+19 “Or if I send a plague into that land and pour out my wrath on it through bloodshed, killing its people and their animals, 20 as surely as I live, declares the Sovereign Lord, even if Noah, Daniel and Job were in it, they could save neither son nor daughter. They would save only themselves by their righteousness.
+
+21 “For this is what the Sovereign Lord says: How much worse will it be when I send against Jerusalem my four dreadful judgments—sword and famine and wild beasts and plague—to kill its men and their animals! 22 Yet there will be some survivors—sons and daughters who will be brought out of it. They will come to you, and when you see their conduct and their actions, you will be consoled regarding the disaster I have brought on Jerusalem—every disaster I have brought on it. 23 You will be consoled when you see their conduct and their actions, for you will know that I have done nothing in it without cause, declares the Sovereign Lord.”
+  
+            </p>
+          </div>              
+
+
+
+   <div className={styles.card}>
+           <h2 className={styles.chapter13}>Ezekiel Chpt XV</h2>
+            <p>
+     Jerusalem as a Useless Vine
+15 The word of the Lord came to me: 2 “Son of man, how is the wood of a vine different from that of a branch from any of the trees in the forest? 3 Is wood ever taken from it to make anything useful? Do they make pegs from it to hang things on? 4 And after it is thrown on the fire as fuel and the fire burns both ends and chars the middle, is it then useful for anything? 5 If it was not useful for anything when it was whole, how much less can it be made into something useful when the fire has burned it and it is charred?
+
+6 “Therefore this is what the Sovereign Lord says: As I have given the wood of the vine among the trees of the forest as fuel for the fire, so will I treat the people living in Jerusalem. 7 I will set my face against them. Although they have come out of the fire, the fire will yet consume them. And when I set my face against them, you will know that I am the Lord. 8 I will make the land desolate because they have been unfaithful, declares the Sovereign Lord.”    
+  
+  </p>
+          </div>
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter13}>Ezekiel Chpt XVI</h2>
+            <p>
+
+  Jerusalem as an Adulterous Wife
+16 The word of the Lord came to me: 2 “Son of man, confront Jerusalem with her detestable practices 3 and say, ‘This is what the Sovereign Lord says to Jerusalem: Your ancestry and birth were in the land of the Canaanites; your father was an Amorite and your mother a Hittite. 4 On the day you were born your cord was not cut, nor were you washed with water to make you clean, nor were you rubbed with salt or wrapped in cloths. 5 No one looked on you with pity or had compassion enough to do any of these things for you. Rather, you were thrown out into the open field, for on the day you were born you were despised.
+
+6 “‘Then I passed by and saw you kicking about in your blood, and as you lay there in your blood I said to you, “Live!”[a] 7 I made you grow like a plant of the field. You grew and developed and entered puberty. Your breasts had formed and your hair had grown, yet you were stark naked.
+
+8 “‘Later I passed by, and when I looked at you and saw that you were old enough for love, I spread the corner of my garment over you and covered your naked body. I gave you my solemn oath and entered into a covenant with you, declares the Sovereign Lord, and you became mine.
+
+9 “‘I bathed you with water and washed the blood from you and put ointments on you. 10 I clothed you with an embroidered dress and put sandals of fine leather on you. I dressed you in fine linen and covered you with costly garments. 11 I adorned you with jewelry: I put bracelets on your arms and a necklace around your neck, 12 and I put a ring on your nose, earrings on your ears and a beautiful crown on your head. 13 So you were adorned with gold and silver; your clothes were of fine linen and costly fabric and embroidered cloth. Your food was honey, olive oil and the finest flour. You became very beautiful and rose to be a queen. 14 And your fame spread among the nations on account of your beauty, because the splendor I had given you made your beauty perfect, declares the Sovereign Lord.
+
+15 “‘But you trusted in your beauty and used your fame to become a prostitute. You lavished your favors on anyone who passed by and your beauty became his. 16 You took some of your garments to make gaudy high places, where you carried on your prostitution. You went to him, and he possessed your beauty.[b] 17 You also took the fine jewelry I gave you, the jewelry made of my gold and silver, and you made for yourself male idols and engaged in prostitution with them. 18 And you took your embroidered clothes to put on them, and you offered my oil and incense before them. 19 Also the food I provided for you—the flour, olive oil and honey I gave you to eat—you offered as fragrant incense before them. That is what happened, declares the Sovereign Lord.
+
+20 “‘And you took your sons and daughters whom you bore to me and sacrificed them as food to the idols. Was your prostitution not enough? 21 You slaughtered my children and sacrificed them to the idols. 22 In all your detestable practices and your prostitution you did not remember the days of your youth, when you were naked and bare, kicking about in your blood.
+
+23 “‘Woe! Woe to you, declares the Sovereign Lord. In addition to all your other wickedness, 24 you built a mound for yourself and made a lofty shrine in every public square. 25 At every street corner you built your lofty shrines and degraded your beauty, spreading your legs with increasing promiscuity to anyone who passed by. 26 You engaged in prostitution with the Egyptians, your neighbors with large genitals, and aroused my anger with your increasing promiscuity. 27 So I stretched out my hand against you and reduced your territory; I gave you over to the greed of your enemies, the daughters of the Philistines, who were shocked by your lewd conduct. 28 You engaged in prostitution with the Assyrians too, because you were insatiable; and even after that, you still were not satisfied. 29 Then you increased your promiscuity to include Babylonia,[c] a land of merchants, but even with this you were not satisfied.
+
+30 “‘I am filled with fury against you,[d] declares the Sovereign Lord, when you do all these things, acting like a brazen prostitute! 31 When you built your mounds at every street corner and made your lofty shrines in every public square, you were unlike a prostitute, because you scorned payment.
+
+32 “‘You adulterous wife! You prefer strangers to your own husband! 33 All prostitutes receive gifts, but you give gifts to all your lovers, bribing them to come to you from everywhere for your illicit favors. 34 So in your prostitution you are the opposite of others; no one runs after you for your favors. You are the very opposite, for you give payment and none is given to you.
+
+35 “‘Therefore, you prostitute, hear the word of the Lord! 36 This is what the Sovereign Lord says: Because you poured out your lust and exposed your naked body in your promiscuity with your lovers, and because of all your detestable idols, and because you gave them your children’s blood, 37 therefore I am going to gather all your lovers, with whom you found pleasure, those you loved as well as those you hated. I will gather them against you from all around and will strip you in front of them, and they will see you stark naked. 38 I will sentence you to the punishment of women who commit adultery and who shed blood; I will bring on you the blood vengeance of my wrath and jealous anger. 39 Then I will deliver you into the hands of your lovers, and they will tear down your mounds and destroy your lofty shrines. They will strip you of your clothes and take your fine jewelry and leave you stark naked. 40 They will bring a mob against you, who will stone you and hack you to pieces with their swords. 41 They will burn down your houses and inflict punishment on you in the sight of many women. I will put a stop to your prostitution, and you will no longer pay your lovers. 42 Then my wrath against you will subside and my jealous anger will turn away from you; I will be calm and no longer angry.
+
+43 “‘Because you did not remember the days of your youth but enraged me with all these things, I will surely bring down on your head what you have done, declares the Sovereign Lord. Did you not add lewdness to all your other detestable practices?
+
+44 “‘Everyone who quotes proverbs will quote this proverb about you: “Like mother, like daughter.” 45 You are a true daughter of your mother, who despised her husband and her children; and you are a true sister of your sisters, who despised their husbands and their children. Your mother was a Hittite and your father an Amorite. 46 Your older sister was Samaria, who lived to the north of you with her daughters; and your younger sister, who lived to the south of you with her daughters, was Sodom. 47 You not only followed their ways and copied their detestable practices, but in all your ways you soon became more depraved than they. 48 As surely as I live, declares the Sovereign Lord, your sister Sodom and her daughters never did what you and your daughters have done.
+
+49 “‘Now this was the sin of your sister Sodom: She and her daughters were arrogant, overfed and unconcerned; they did not help the poor and needy. 50 They were haughty and did detestable things before me. Therefore I did away with them as you have seen. 51 Samaria did not commit half the sins you did. You have done more detestable things than they, and have made your sisters seem righteous by all these things you have done. 52 Bear your disgrace, for you have furnished some justification for your sisters. Because your sins were more vile than theirs, they appear more righteous than you. So then, be ashamed and bear your disgrace, for you have made your sisters appear righteous.
+
+53 “‘However, I will restore the fortunes of Sodom and her daughters and of Samaria and her daughters, and your fortunes along with them, 54 so that you may bear your disgrace and be ashamed of all you have done in giving them comfort. 55 And your sisters, Sodom with her daughters and Samaria with her daughters, will return to what they were before; and you and your daughters will return to what you were before. 56 You would not even mention your sister Sodom in the day of your pride, 57 before your wickedness was uncovered. Even so, you are now scorned by the daughters of Edom[e] and all her neighbors and the daughters of the Philistines—all those around you who despise you. 58 You will bear the consequences of your lewdness and your detestable practices, declares the Lord.
+
+59 “‘This is what the Sovereign Lord says: I will deal with you as you deserve, because you have despised my oath by breaking the covenant. 60 Yet I will remember the covenant I made with you in the days of your youth, and I will establish an everlasting covenant with you. 61 Then you will remember your ways and be ashamed when you receive your sisters, both those who are older than you and those who are younger. I will give them to you as daughters, but not on the basis of my covenant with you. 62 So I will establish my covenant with you, and you will know that I am the Lord. 63 Then, when I make atonement for you for all you have done, you will remember and be ashamed and never again open your mouth because of your humiliation, declares the Sovereign Lord.’”           </p>
+          </div>
+
+
+ <div className={styles.card}>
+            <h2 className={styles.chapter13}>Ezekiel Chpt XVII</h2>
+            <p>
+
+
+
+  
+                                  </p>
+              </div>
+
+          <div className={styles.card}>
+           <h2 className={styles.chapter13}>Ezekiel Chpt XVIII</h2>
+            <p>
+
+     </p>
+          </div>
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter13}>Ezekiel Chpt XIX</h2>
+            <p>
+
+            </p>
+          </div>
+
+
+ <div className={styles.card}>
+            <h2 className={styles.chapter13}>Ezekiel Chpt XX</h2>
+            <p>
+
+
+
+  
+                            
+                                  </p>
+              </div>
+
+          <div className={styles.card}>
+           <h2 className={styles.chapter13}>Ezekiel Chpt XXI</h2>
+            <p>
+
+         </p>
+          </div>
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter13}>Ezekiel Chpt XXII</h2>
+            <p>
+
+         </p>
+          </div>
+                                  
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter13}>Ezekiel Chpt XXIII</h2>
+            <p>
+
+
+            </p>
+          </div>
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter13}>Ezekiel Chpt XXIV</h2>
+            <p>
+
+
+            </p>
+          </div>              
+
+
+<div className={styles.card}>
+           <h2 className={styles.chapter13}>Ezekiel Chpt XXV</h2>
+            <p>
+     
+      </p>
+          </div>
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter13}>Ezekiel Chpt XXVI</h2>
+            <p>
+
+  
+           </p>
+          </div>
+
+
+ <div className={styles.card}>
+            <h2 className={styles.chapter13}>Ezekiel Chpt XXVII</h2>
+            <p>
+
+                                  </p>
+              </div>
+
+          <div className={styles.card}>
+           <h2 className={styles.chapter13}>Ezekiel Chpt XXVIII</h2>
+            <p>
+
+     </p>
+          </div>
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter13}>Ezekiel Chpt XXIX</h2>
+            <p>
+
+            </p>
+          </div>
+
+
+ <div className={styles.card}>
+            <h2 className={styles.chapter13}>Ezekiel Chpt XXX</h2>
+            <p>
+
+
+
+  
+                            
+                                  </p>
+              </div>
+
+          <div className={styles.card}>
+           <h2 className={styles.chapter13}>Ezekiel Chpt XXXI</h2>
+            <p>
+
+         </p>
+          </div>
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter13}>Ezekiel Chpt XXXII</h2>
+            <p>
+
+         </p>
+          </div>
+                                  
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter13}>Ezekiel Chpt XXXIII</h2>
+            <p>
+
+
+            </p>
+          </div>
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter13}>Ezekiel Chpt XXXIV</h2>
+            <p>
+
+
+            </p>
+          </div>              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
                           
                             </div>
                       </div>
