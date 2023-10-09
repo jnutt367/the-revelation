@@ -992,7 +992,18 @@ Ezekiel’s Wife Dies
    <div className={styles.card}>
            <h2 className={styles.chapter13}>Ezekiel Chpt XXV</h2>
             <p>
- 
+
+A Prophecy Against Ammon
+25 The word of the Lord came to me: 2 “Son of man, set your face against the Ammonites and prophesy against them. 3 Say to them, ‘Hear the word of the Sovereign Lord. This is what the Sovereign Lord says: Because you said “Aha!” over my sanctuary when it was desecrated and over the land of Israel when it was laid waste and over the people of Judah when they went into exile, 4 therefore I am going to give you to the people of the East as a possession. They will set up their camps and pitch their tents among you; they will eat your fruit and drink your milk. 5 I will turn Rabbah into a pasture for camels and Ammon into a resting place for sheep. Then you will know that I am the Lord. 6 For this is what the Sovereign Lord says: Because you have clapped your hands and stamped your feet, rejoicing with all the malice of your heart against the land of Israel, 7 therefore I will stretch out my hand against you and give you as plunder to the nations. I will wipe you out from among the nations and exterminate you from the countries. I will destroy you, and you will know that I am the Lord.’”
+
+A Prophecy Against Moab
+8 “This is what the Sovereign Lord says: ‘Because Moab and Seir said, “Look, Judah has become like all the other nations,” 9 therefore I will expose the flank of Moab, beginning at its frontier towns—Beth Jeshimoth, Baal Meon and Kiriathaim—the glory of that land. 10 I will give Moab along with the Ammonites to the people of the East as a possession, so that the Ammonites will not be remembered among the nations; 11 and I will inflict punishment on Moab. Then they will know that I am the Lord.’”
+
+A Prophecy Against Edom
+12 “This is what the Sovereign Lord says: ‘Because Edom took revenge on Judah and became very guilty by doing so, 13 therefore this is what the Sovereign Lord says: I will stretch out my hand against Edom and kill both man and beast. I will lay it waste, and from Teman to Dedan they will fall by the sword. 14 I will take vengeance on Edom by the hand of my people Israel, and they will deal with Edom in accordance with my anger and my wrath; they will know my vengeance, declares the Sovereign Lord.’”
+
+A Prophecy Against Philistia
+15 “This is what the Sovereign Lord says: ‘Because the Philistines acted in vengeance and took revenge with malice in their hearts, and with ancient hostility sought to destroy Judah, 16 therefore this is what the Sovereign Lord says: I am about to stretch out my hand against the Philistines, and I will wipe out the Kerethites and destroy those remaining along the coast. 17 I will carry out great vengeance on them and punish them in my wrath. Then they will know that I am the Lord, when I take vengeance on them.’”  
   </p>
           </div>
 
@@ -1000,6 +1011,25 @@ Ezekiel’s Wife Dies
            <h2 className={styles.chapter13}>Ezekiel Chpt XXVI</h2>
             <p>
 
+A Prophecy Against Tyre
+26 In the eleventh month of the twelfth[a] year, on the first day of the month, the word of the Lord came to me: 2 “Son of man, because Tyre has said of Jerusalem, ‘Aha! The gate to the nations is broken, and its doors have swung open to me; now that she lies in ruins I will prosper,’ 3 therefore this is what the Sovereign Lord says: I am against you, Tyre, and I will bring many nations against you, like the sea casting up its waves. 4 They will destroy the walls of Tyre and pull down her towers; I will scrape away her rubble and make her a bare rock. 5 Out in the sea she will become a place to spread fishnets, for I have spoken, declares the Sovereign Lord. She will become plunder for the nations, 6 and her settlements on the mainland will be ravaged by the sword. Then they will know that I am the Lord.
+
+7 “For this is what the Sovereign Lord says: From the north I am going to bring against Tyre Nebuchadnezzar[b] king of Babylon, king of kings, with horses and chariots, with horsemen and a great army. 8 He will ravage your settlements on the mainland with the sword; he will set up siege works against you, build a ramp up to your walls and raise his shields against you. 9 He will direct the blows of his battering rams against your walls and demolish your towers with his weapons. 10 His horses will be so many that they will cover you with dust. Your walls will tremble at the noise of the warhorses, wagons and chariots when he enters your gates as men enter a city whose walls have been broken through. 11 The hooves of his horses will trample all your streets; he will kill your people with the sword, and your strong pillars will fall to the ground. 12 They will plunder your wealth and loot your merchandise; they will break down your walls and demolish your fine houses and throw your stones, timber and rubble into the sea. 13 I will put an end to your noisy songs, and the music of your harps will be heard no more. 14 I will make you a bare rock, and you will become a place to spread fishnets. You will never be rebuilt, for I the Lord have spoken, declares the Sovereign Lord.
+
+15 “This is what the Sovereign Lord says to Tyre: Will not the coastlands tremble at the sound of your fall, when the wounded groan and the slaughter takes place in you? 16 Then all the princes of the coast will step down from their thrones and lay aside their robes and take off their embroidered garments. Clothed with terror, they will sit on the ground, trembling every moment, appalled at you. 17 Then they will take up a lament concerning you and say to you:
+
+“‘How you are destroyed, city of renown,
+    peopled by men of the sea!
+You were a power on the seas,
+    you and your citizens;
+you put your terror
+    on all who lived there.
+18 Now the coastlands tremble
+    on the day of your fall;
+the islands in the sea
+    are terrified at your collapse.’
+
+19 “This is what the Sovereign Lord says: When I make you a desolate city, like cities no longer inhabited, and when I bring the ocean depths over you and its vast waters cover you, 20 then I will bring you down with those who go down to the pit, to the people of long ago. I will make you dwell in the earth below, as in ancient ruins, with those who go down to the pit, and you will not return or take your place[c] in the land of the living. 21 I will bring you to a horrible end and you will be no more. You will be sought, but you will never again be found, declares the Sovereign Lord.”  
         </p>
           </div>
 
@@ -1008,8 +1038,112 @@ Ezekiel’s Wife Dies
             <h2 className={styles.chapter13}>Ezekiel Chpt XXVII</h2>
             <p>
 
+A Lament Over Tyre
+27 The word of the Lord came to me: 2 “Son of man, take up a lament concerning Tyre. 3 Say to Tyre, situated at the gateway to the sea, merchant of peoples on many coasts, ‘This is what the Sovereign Lord says:
 
+“‘You say, Tyre,
+    “I am perfect in beauty.”
+4 Your domain was on the high seas;
+    your builders brought your beauty to perfection.
+5 They made all your timbers
+    of juniper from Senir[a];
+they took a cedar from Lebanon
+    to make a mast for you.
+6 Of oaks from Bashan
+    they made your oars;
+of cypress wood[b] from the coasts of Cyprus
+    they made your deck, adorned with ivory.
+7 Fine embroidered linen from Egypt was your sail
+    and served as your banner;
+your awnings were of blue and purple
+    from the coasts of Elishah.
+8 Men of Sidon and Arvad were your oarsmen;
+    your skilled men, Tyre, were aboard as your sailors.
+9 Veteran craftsmen of Byblos were on board
+    as shipwrights to caulk your seams.
+All the ships of the sea and their sailors
+    came alongside to trade for your wares.
 
+10 “‘Men of Persia, Lydia and Put
+    served as soldiers in your army.
+They hung their shields and helmets on your walls,
+    bringing you splendor.
+11 Men of Arvad and Helek
+    guarded your walls on every side;
+men of Gammad
+    were in your towers.
+They hung their shields around your walls;
+    they brought your beauty to perfection.
+
+12 “‘Tarshish did business with you because of your great wealth of goods; they exchanged silver, iron, tin and lead for your merchandise.
+
+13 “‘Greece, Tubal and Meshek did business with you; they traded human beings and articles of bronze for your wares.
+
+14 “‘Men of Beth Togarmah exchanged chariot horses, cavalry horses and mules for your merchandise.
+
+15 “‘The men of Rhodes[c] traded with you, and many coastlands were your customers; they paid you with ivory tusks and ebony.
+
+16 “‘Aram[d] did business with you because of your many products; they exchanged turquoise, purple fabric, embroidered work, fine linen, coral and rubies for your merchandise.
+
+17 “‘Judah and Israel traded with you; they exchanged wheat from Minnith and confections,[e] honey, olive oil and balm for your wares.
+
+18 “‘Damascus did business with you because of your many products and great wealth of goods. They offered wine from Helbon, wool from Zahar 19 and casks of wine from Izal in exchange for your wares: wrought iron, cassia and calamus.
+
+20 “‘Dedan traded in saddle blankets with you.
+
+21 “‘Arabia and all the princes of Kedar were your customers; they did business with you in lambs, rams and goats.
+
+22 “‘The merchants of Sheba and Raamah traded with you; for your merchandise they exchanged the finest of all kinds of spices and precious stones, and gold.
+
+23 “‘Harran, Kanneh and Eden and merchants of Sheba, Ashur and Kilmad traded with you. 24 In your marketplace they traded with you beautiful garments, blue fabric, embroidered work and multicolored rugs with cords twisted and tightly knotted.
+
+25 “‘The ships of Tarshish serve
+    as carriers for your wares.
+You are filled with heavy cargo
+    as you sail the sea.
+26 Your oarsmen take you
+    out to the high seas.
+But the east wind will break you to pieces
+    far out at sea.
+27 Your wealth, merchandise and wares,
+    your mariners, sailors and shipwrights,
+your merchants and all your soldiers,
+    and everyone else on board
+will sink into the heart of the sea
+    on the day of your shipwreck.
+28 The shorelands will quake
+    when your sailors cry out.
+29 All who handle the oars
+    will abandon their ships;
+the mariners and all the sailors
+    will stand on the shore.
+30 They will raise their voice
+    and cry bitterly over you;
+they will sprinkle dust on their heads
+    and roll in ashes.
+31 They will shave their heads because of you
+    and will put on sackcloth.
+They will weep over you with anguish of soul
+    and with bitter mourning.
+32 As they wail and mourn over you,
+    they will take up a lament concerning you:
+“Who was ever silenced like Tyre,
+    surrounded by the sea?”
+33 When your merchandise went out on the seas,
+    you satisfied many nations;
+with your great wealth and your wares
+    you enriched the kings of the earth.
+34 Now you are shattered by the sea
+    in the depths of the waters;
+your wares and all your company
+    have gone down with you.
+35 All who live in the coastlands
+    are appalled at you;
+their kings shudder with horror
+    and their faces are distorted with fear.
+36 The merchants among the nations scoff at you;
+    you have come to a horrible end
+    and will be no more.’”
   
                                   </p>
               </div>
@@ -1018,6 +1152,108 @@ Ezekiel’s Wife Dies
            <h2 className={styles.chapter13}>Ezekiel Chpt XXVIII</h2>
             <p>
 
+A Prophecy Against the King of Tyre
+28 The word of the Lord came to me: 2 “Son of man, say to the ruler of Tyre, ‘This is what the Sovereign Lord says:
+
+“‘In the pride of your heart
+    you say, “I am a god;
+I sit on the throne of a god
+    in the heart of the seas.”
+But you are a mere mortal and not a god,
+    though you think you are as wise as a god.
+3 Are you wiser than Daniel[a]?
+    Is no secret hidden from you?
+4 By your wisdom and understanding
+    you have gained wealth for yourself
+and amassed gold and silver
+    in your treasuries.
+5 By your great skill in trading
+    you have increased your wealth,
+and because of your wealth
+    your heart has grown proud.
+
+6 “‘Therefore this is what the Sovereign Lord says:
+
+“‘Because you think you are wise,
+    as wise as a god,
+7 I am going to bring foreigners against you,
+    the most ruthless of nations;
+they will draw their swords against your beauty and wisdom
+    and pierce your shining splendor.
+8 They will bring you down to the pit,
+    and you will die a violent death
+    in the heart of the seas.
+9 Will you then say, “I am a god,”
+    in the presence of those who kill you?
+You will be but a mortal, not a god,
+    in the hands of those who slay you.
+10 You will die the death of the uncircumcised
+    at the hands of foreigners.
+
+I have spoken, declares the Sovereign Lord.’”
+
+11 The word of the Lord came to me: 12 “Son of man, take up a lament concerning the king of Tyre and say to him: ‘This is what the Sovereign Lord says:
+
+“‘You were the seal of perfection,
+    full of wisdom and perfect in beauty.
+13 You were in Eden,
+    the garden of God;
+every precious stone adorned you:
+    carnelian, chrysolite and emerald,
+    topaz, onyx and jasper,
+    lapis lazuli, turquoise and beryl.[b]
+Your settings and mountings[c] were made of gold;
+    on the day you were created they were prepared.
+14 You were anointed as a guardian cherub,
+    for so I ordained you.
+You were on the holy mount of God;
+    you walked among the fiery stones.
+15 You were blameless in your ways
+    from the day you were created
+    till wickedness was found in you.
+16 Through your widespread trade
+    you were filled with violence,
+    and you sinned.
+So I drove you in disgrace from the mount of God,
+    and I expelled you, guardian cherub,
+    from among the fiery stones.
+17 Your heart became proud
+    on account of your beauty,
+and you corrupted your wisdom
+    because of your splendor.
+So I threw you to the earth;
+    I made a spectacle of you before kings.
+18 By your many sins and dishonest trade
+    you have desecrated your sanctuaries.
+So I made a fire come out from you,
+    and it consumed you,
+and I reduced you to ashes on the ground
+    in the sight of all who were watching.
+19 All the nations who knew you
+    are appalled at you;
+you have come to a horrible end
+    and will be no more.’”
+
+A Prophecy Against Sidon
+20 The word of the Lord came to me: 21 “Son of man, set your face against Sidon; prophesy against her 22 and say: ‘This is what the Sovereign Lord says:
+
+“‘I am against you, Sidon,
+    and among you I will display my glory.
+You will know that I am the Lord,
+    when I inflict punishment on you
+    and within you am proved to be holy.
+23 I will send a plague upon you
+    and make blood flow in your streets.
+The slain will fall within you,
+    with the sword against you on every side.
+Then you will know that I am the Lord.
+
+24 “‘No longer will the people of Israel have malicious neighbors who are painful briers and sharp thorns. Then they will know that I am the Sovereign Lord.
+
+25 “‘This is what the Sovereign Lord says: When I gather the people of Israel from the nations where they have been scattered, I will be proved holy through them in the sight of the nations. Then they will live in their own land, which I gave to my servant Jacob. 26 They will live there in safety and will build houses and plant vineyards; they will live in safety when I inflict punishment on all their neighbors who maligned them. Then they will know that I am the Lord their God.’”
+
+
+      
      </p>
           </div>
 
@@ -1025,6 +1261,39 @@ Ezekiel’s Wife Dies
            <h2 className={styles.chapter13}>Ezekiel Chpt XXIX</h2>
             <p>
 
+A Prophecy Against Egypt
+Judgment on Pharaoh
+29 In the tenth year, in the tenth month on the twelfth day, the word of the Lord came to me: 2 “Son of man, set your face against Pharaoh king of Egypt and prophesy against him and against all Egypt. 3 Speak to him and say: ‘This is what the Sovereign Lord says:
+
+“‘I am against you, Pharaoh king of Egypt,
+    you great monster lying among your streams.
+You say, “The Nile belongs to me;
+    I made it for myself.”
+4 But I will put hooks in your jaws
+    and make the fish of your streams stick to your scales.
+I will pull you out from among your streams,
+    with all the fish sticking to your scales.
+5 I will leave you in the desert,
+    you and all the fish of your streams.
+You will fall on the open field
+    and not be gathered or picked up.
+I will give you as food
+    to the beasts of the earth and the birds of the sky.
+
+6 Then all who live in Egypt will know that I am the Lord.
+
+“‘You have been a staff of reed for the people of Israel. 7 When they grasped you with their hands, you splintered and you tore open their shoulders; when they leaned on you, you broke and their backs were wrenched.[a]
+
+8 “‘Therefore this is what the Sovereign Lord says: I will bring a sword against you and kill both man and beast. 9 Egypt will become a desolate wasteland. Then they will know that I am the Lord.
+
+“‘Because you said, “The Nile is mine; I made it,” 10 therefore I am against you and against your streams, and I will make the land of Egypt a ruin and a desolate waste from Migdol to Aswan, as far as the border of Cush.[b] 11 The foot of neither man nor beast will pass through it; no one will live there for forty years. 12 I will make the land of Egypt desolate among devastated lands, and her cities will lie desolate forty years among ruined cities. And I will disperse the Egyptians among the nations and scatter them through the countries.
+
+13 “‘Yet this is what the Sovereign Lord says: At the end of forty years I will gather the Egyptians from the nations where they were scattered. 14 I will bring them back from captivity and return them to Upper Egypt, the land of their ancestry. There they will be a lowly kingdom. 15 It will be the lowliest of kingdoms and will never again exalt itself above the other nations. I will make it so weak that it will never again rule over the nations. 16 Egypt will no longer be a source of confidence for the people of Israel but will be a reminder of their sin in turning to her for help. Then they will know that I am the Sovereign Lord.’”
+
+Nebuchadnezzar’s Reward
+17 In the twenty-seventh year, in the first month on the first day, the word of the Lord came to me: 18 “Son of man, Nebuchadnezzar king of Babylon drove his army in a hard campaign against Tyre; every head was rubbed bare and every shoulder made raw. Yet he and his army got no reward from the campaign he led against Tyre. 19 Therefore this is what the Sovereign Lord says: I am going to give Egypt to Nebuchadnezzar king of Babylon, and he will carry off its wealth. He will loot and plunder the land as pay for his army. 20 I have given him Egypt as a reward for his efforts because he and his army did it for me, declares the Sovereign Lord.
+
+21 “On that day I will make a horn[c] grow for the Israelites, and I will open your mouth among them. Then they will know that I am the Lord.”  
             </p>
           </div>
 
@@ -1034,8 +1303,84 @@ Ezekiel’s Wife Dies
             <p>
 
 
+A Lament Over Egypt
+30 The word of the Lord came to me: 2 “Son of man, prophesy and say: ‘This is what the Sovereign Lord says:
 
-  
+“‘Wail and say,
+    “Alas for that day!”
+3 For the day is near,
+    the day of the Lord is near—
+a day of clouds,
+    a time of doom for the nations.
+4 A sword will come against Egypt,
+    and anguish will come upon Cush.[a]
+When the slain fall in Egypt,
+    her wealth will be carried away
+    and her foundations torn down.
+
+5 Cush and Libya, Lydia and all Arabia, Kub and the people of the covenant land will fall by the sword along with Egypt.
+
+6 “‘This is what the Lord says:
+
+“‘The allies of Egypt will fall
+    and her proud strength will fail.
+From Migdol to Aswan
+    they will fall by the sword within her,
+declares the Sovereign Lord.
+7 “‘They will be desolate
+    among desolate lands,
+and their cities will lie
+    among ruined cities.
+8 Then they will know that I am the Lord,
+    when I set fire to Egypt
+    and all her helpers are crushed.
+
+9 “‘On that day messengers will go out from me in ships to frighten Cush out of her complacency. Anguish will take hold of them on the day of Egypt’s doom, for it is sure to come.
+
+10 “‘This is what the Sovereign Lord says:
+
+“‘I will put an end to the hordes of Egypt
+    by the hand of Nebuchadnezzar king of Babylon.
+11 He and his army—the most ruthless of nations—
+    will be brought in to destroy the land.
+They will draw their swords against Egypt
+    and fill the land with the slain.
+12 I will dry up the waters of the Nile
+    and sell the land to an evil nation;
+by the hand of foreigners
+    I will lay waste the land and everything in it.
+
+I the Lord have spoken.
+
+13 “‘This is what the Sovereign Lord says:
+
+“‘I will destroy the idols
+    and put an end to the images in Memphis.
+No longer will there be a prince in Egypt,
+    and I will spread fear throughout the land.
+14 I will lay waste Upper Egypt,
+    set fire to Zoan
+    and inflict punishment on Thebes.
+15 I will pour out my wrath on Pelusium,
+    the stronghold of Egypt,
+    and wipe out the hordes of Thebes.
+16 I will set fire to Egypt;
+    Pelusium will writhe in agony.
+Thebes will be taken by storm;
+    Memphis will be in constant distress.
+17 The young men of Heliopolis and Bubastis
+    will fall by the sword,
+    and the cities themselves will go into captivity.
+18 Dark will be the day at Tahpanhes
+    when I break the yoke of Egypt;
+    there her proud strength will come to an end.
+She will be covered with clouds,
+    and her villages will go into captivity.
+19 So I will inflict punishment on Egypt,
+    and they will know that I am the Lord.’”
+
+Pharaoh’s Arms Are Broken
+20 In the eleventh year, in the first month on the seventh day, the word of the Lord came to me: 21 “Son of man, I have broken the arm of Pharaoh king of Egypt. It has not been bound up to be healed or put in a splint so that it may become strong enough to hold a sword. 22 Therefore this is what the Sovereign Lord says: I am against Pharaoh king of Egypt. I will break both his arms, the good arm as well as the broken one, and make the sword fall from his hand. 23 I will disperse the Egyptians among the nations and scatter them through the countries. 24 I will strengthen the arms of the king of Babylon and put my sword in his hand, but I will break the arms of Pharaoh, and he will groan before him like a mortally wounded man. 25 I will strengthen the arms of the king of Babylon, but the arms of Pharaoh will fall limp. Then they will know that I am the Lord, when I put my sword into the hand of the king of Babylon and he brandishes it against Egypt. 26 I will disperse the Egyptians among the nations and scatter them through the countries. Then they will know that I am the Lord.”  
                             
                                   </p>
               </div>
@@ -1044,13 +1389,142 @@ Ezekiel’s Wife Dies
            <h2 className={styles.chapter13}>Ezekiel Chpt XXXI</h2>
             <p>
 
+Pharaoh as a Felled Cedar of Lebanon
+31 In the eleventh year, in the third month on the first day, the word of the Lord came to me: 2 “Son of man, say to Pharaoh king of Egypt and to his hordes:
+
+“‘Who can be compared with you in majesty?
+3 Consider Assyria, once a cedar in Lebanon,
+    with beautiful branches overshadowing the forest;
+it towered on high,
+    its top above the thick foliage.
+4 The waters nourished it,
+    deep springs made it grow tall;
+their streams flowed
+    all around its base
+and sent their channels
+    to all the trees of the field.
+5 So it towered higher
+    than all the trees of the field;
+its boughs increased
+    and its branches grew long,
+    spreading because of abundant waters.
+6 All the birds of the sky
+    nested in its boughs,
+all the animals of the wild
+    gave birth under its branches;
+all the great nations
+    lived in its shade.
+7 It was majestic in beauty,
+    with its spreading boughs,
+for its roots went down
+    to abundant waters.
+8 The cedars in the garden of God
+    could not rival it,
+nor could the junipers
+    equal its boughs,
+nor could the plane trees
+    compare with its branches—
+no tree in the garden of God
+    could match its beauty.
+9 I made it beautiful
+    with abundant branches,
+the envy of all the trees of Eden
+    in the garden of God.
+
+10 “‘Therefore this is what the Sovereign Lord says: Because the great cedar towered over the thick foliage, and because it was proud of its height, 11 I gave it into the hands of the ruler of the nations, for him to deal with according to its wickedness. I cast it aside, 12 and the most ruthless of foreign nations cut it down and left it. Its boughs fell on the mountains and in all the valleys; its branches lay broken in all the ravines of the land. All the nations of the earth came out from under its shade and left it. 13 All the birds settled on the fallen tree, and all the wild animals lived among its branches. 14 Therefore no other trees by the waters are ever to tower proudly on high, lifting their tops above the thick foliage. No other trees so well-watered are ever to reach such a height; they are all destined for death, for the earth below, among mortals who go down to the realm of the dead.
+
+15 “‘This is what the Sovereign Lord says: On the day it was brought down to the realm of the dead I covered the deep springs with mourning for it; I held back its streams, and its abundant waters were restrained. Because of it I clothed Lebanon with gloom, and all the trees of the field withered away. 16 I made the nations tremble at the sound of its fall when I brought it down to the realm of the dead to be with those who go down to the pit. Then all the trees of Eden, the choicest and best of Lebanon, the well-watered trees, were consoled in the earth below. 17 They too, like the great cedar, had gone down to the realm of the dead, to those killed by the sword, along with the armed men who lived in its shade among the nations.
+
+18 “‘Which of the trees of Eden can be compared with you in splendor and majesty? Yet you, too, will be brought down with the trees of Eden to the earth below; you will lie among the uncircumcised, with those killed by the sword.
+
+“‘This is Pharaoh and all his hordes, declares the Sovereign Lord.’”  
          </p>
           </div>
 
  <div className={styles.card}>
            <h2 className={styles.chapter13}>Ezekiel Chpt XXXII</h2>
             <p>
+A Lament Over Pharaoh
+32 In the twelfth year, in the twelfth month on the first day, the word of the Lord came to me: 2 “Son of man, take up a lament concerning Pharaoh king of Egypt and say to him:
 
+“‘You are like a lion among the nations;
+    you are like a monster in the seas
+thrashing about in your streams,
+    churning the water with your feet
+    and muddying the streams.
+
+3 “‘This is what the Sovereign Lord says:
+
+“‘With a great throng of people
+    I will cast my net over you,
+    and they will haul you up in my net.
+4 I will throw you on the land
+    and hurl you on the open field.
+I will let all the birds of the sky settle on you
+    and all the animals of the wild gorge themselves on you.
+5 I will spread your flesh on the mountains
+    and fill the valleys with your remains.
+6 I will drench the land with your flowing blood
+    all the way to the mountains,
+    and the ravines will be filled with your flesh.
+7 When I snuff you out, I will cover the heavens
+    and darken their stars;
+I will cover the sun with a cloud,
+    and the moon will not give its light.
+8 All the shining lights in the heavens
+    I will darken over you;
+    I will bring darkness over your land,
+declares the Sovereign Lord.
+9 I will trouble the hearts of many peoples
+    when I bring about your destruction among the nations,
+    among[a] lands you have not known.
+10 I will cause many peoples to be appalled at you,
+    and their kings will shudder with horror because of you
+    when I brandish my sword before them.
+On the day of your downfall
+    each of them will tremble
+    every moment for his life.
+
+11 “‘For this is what the Sovereign Lord says:
+
+“‘The sword of the king of Babylon
+    will come against you.
+12 I will cause your hordes to fall
+    by the swords of mighty men—
+    the most ruthless of all nations.
+They will shatter the pride of Egypt,
+    and all her hordes will be overthrown.
+13 I will destroy all her cattle
+    from beside abundant waters
+no longer to be stirred by the foot of man
+    or muddied by the hooves of cattle.
+14 Then I will let her waters settle
+    and make her streams flow like oil,
+declares the Sovereign Lord.
+15 When I make Egypt desolate
+    and strip the land of everything in it,
+when I strike down all who live there,
+    then they will know that I am the Lord.’
+
+16 “This is the lament they will chant for her. The daughters of the nations will chant it; for Egypt and all her hordes they will chant it, declares the Sovereign Lord.”
+
+Egypt’s Descent Into the Realm of the Dead
+17 In the twelfth year, on the fifteenth day of the month, the word of the Lord came to me: 18 “Son of man, wail for the hordes of Egypt and consign to the earth below both her and the daughters of mighty nations, along with those who go down to the pit. 19 Say to them, ‘Are you more favored than others? Go down and be laid among the uncircumcised.’ 20 They will fall among those killed by the sword. The sword is drawn; let her be dragged off with all her hordes. 21 From within the realm of the dead the mighty leaders will say of Egypt and her allies, ‘They have come down and they lie with the uncircumcised, with those killed by the sword.’
+
+22 “Assyria is there with her whole army; she is surrounded by the graves of all her slain, all who have fallen by the sword. 23 Their graves are in the depths of the pit and her army lies around her grave. All who had spread terror in the land of the living are slain, fallen by the sword.
+
+24 “Elam is there, with all her hordes around her grave. All of them are slain, fallen by the sword. All who had spread terror in the land of the living went down uncircumcised to the earth below. They bear their shame with those who go down to the pit. 25 A bed is made for her among the slain, with all her hordes around her grave. All of them are uncircumcised, killed by the sword. Because their terror had spread in the land of the living, they bear their shame with those who go down to the pit; they are laid among the slain.
+
+26 “Meshek and Tubal are there, with all their hordes around their graves. All of them are uncircumcised, killed by the sword because they spread their terror in the land of the living. 27 But they do not lie with the fallen warriors of old,[b] who went down to the realm of the dead with their weapons of war—their swords placed under their heads and their shields[c] resting on their bones—though these warriors also had terrorized the land of the living.
+
+28 “You too, Pharaoh, will be broken and will lie among the uncircumcised, with those killed by the sword.
+
+29 “Edom is there, her kings and all her princes; despite their power, they are laid with those killed by the sword. They lie with the uncircumcised, with those who go down to the pit.
+
+30 “All the princes of the north and all the Sidonians are there; they went down with the slain in disgrace despite the terror caused by their power. They lie uncircumcised with those killed by the sword and bear their shame with those who go down to the pit.
+
+31 “Pharaoh—he and all his army—will see them and he will be consoled for all his hordes that were killed by the sword, declares the Sovereign Lord. 32 Although I had him spread terror in the land of the living, Pharaoh and all his hordes will be laid among the uncircumcised, with those killed by the sword, declares the Sovereign Lord.”
+  
          </p>
           </div>
                                   
@@ -1058,6 +1532,27 @@ Ezekiel’s Wife Dies
  <div className={styles.card}>
            <h2 className={styles.chapter13}>Ezekiel Chpt XXXIII</h2>
             <p>
+Renewal of Ezekiel’s Call as Watchman
+33 The word of the Lord came to me: 2 “Son of man, speak to your people and say to them: ‘When I bring the sword against a land, and the people of the land choose one of their men and make him their watchman, 3 and he sees the sword coming against the land and blows the trumpet to warn the people, 4 then if anyone hears the trumpet but does not heed the warning and the sword comes and takes their life, their blood will be on their own head. 5 Since they heard the sound of the trumpet but did not heed the warning, their blood will be on their own head. If they had heeded the warning, they would have saved themselves. 6 But if the watchman sees the sword coming and does not blow the trumpet to warn the people and the sword comes and takes someone’s life, that person’s life will be taken because of their sin, but I will hold the watchman accountable for their blood.’
+
+7 “Son of man, I have made you a watchman for the people of Israel; so hear the word I speak and give them warning from me. 8 When I say to the wicked, ‘You wicked person, you will surely die,’ and you do not speak out to dissuade them from their ways, that wicked person will die for[a] their sin, and I will hold you accountable for their blood. 9 But if you do warn the wicked person to turn from their ways and they do not do so, they will die for their sin, though you yourself will be saved.
+
+10 “Son of man, say to the Israelites, ‘This is what you are saying: “Our offenses and sins weigh us down, and we are wasting away because of[b] them. How then can we live?”’ 11 Say to them, ‘As surely as I live, declares the Sovereign Lord, I take no pleasure in the death of the wicked, but rather that they turn from their ways and live. Turn! Turn from your evil ways! Why will you die, people of Israel?’
+
+12 “Therefore, son of man, say to your people, ‘If someone who is righteous disobeys, that person’s former righteousness will count for nothing. And if someone who is wicked repents, that person’s former wickedness will not bring condemnation. The righteous person who sins will not be allowed to live even though they were formerly righteous.’ 13 If I tell a righteous person that they will surely live, but then they trust in their righteousness and do evil, none of the righteous things that person has done will be remembered; they will die for the evil they have done. 14 And if I say to a wicked person, ‘You will surely die,’ but they then turn away from their sin and do what is just and right— 15 if they give back what they took in pledge for a loan, return what they have stolen, follow the decrees that give life, and do no evil—that person will surely live; they will not die. 16 None of the sins that person has committed will be remembered against them. They have done what is just and right; they will surely live.
+
+17 “Yet your people say, ‘The way of the Lord is not just.’ But it is their way that is not just. 18 If a righteous person turns from their righteousness and does evil, they will die for it. 19 And if a wicked person turns away from their wickedness and does what is just and right, they will live by doing so. 20 Yet you Israelites say, ‘The way of the Lord is not just.’ But I will judge each of you according to your own ways.”
+
+Jerusalem’s Fall Explained
+21 In the twelfth year of our exile, in the tenth month on the fifth day, a man who had escaped from Jerusalem came to me and said, “The city has fallen!” 22 Now the evening before the man arrived, the hand of the Lord was on me, and he opened my mouth before the man came to me in the morning. So my mouth was opened and I was no longer silent.
+
+23 Then the word of the Lord came to me: 24 “Son of man, the people living in those ruins in the land of Israel are saying, ‘Abraham was only one man, yet he possessed the land. But we are many; surely the land has been given to us as our possession.’ 25 Therefore say to them, ‘This is what the Sovereign Lord says: Since you eat meat with the blood still in it and look to your idols and shed blood, should you then possess the land? 26 You rely on your sword, you do detestable things, and each of you defiles his neighbor’s wife. Should you then possess the land?’
+
+27 “Say this to them: ‘This is what the Sovereign Lord says: As surely as I live, those who are left in the ruins will fall by the sword, those out in the country I will give to the wild animals to be devoured, and those in strongholds and caves will die of a plague. 28 I will make the land a desolate waste, and her proud strength will come to an end, and the mountains of Israel will become desolate so that no one will cross them. 29 Then they will know that I am the Lord, when I have made the land a desolate waste because of all the detestable things they have done.’
+
+30 “As for you, son of man, your people are talking together about you by the walls and at the doors of the houses, saying to each other, ‘Come and hear the message that has come from the Lord.’ 31 My people come to you, as they usually do, and sit before you to hear your words, but they do not put them into practice. Their mouths speak of love, but their hearts are greedy for unjust gain. 32 Indeed, to them you are nothing more than one who sings love songs with a beautiful voice and plays an instrument well, for they hear your words but do not put them into practice.
+
+33 “When all this comes true—and it surely will—then they will know that a prophet has been among them.”
 
 
             </p>
@@ -1067,24 +1562,72 @@ Ezekiel’s Wife Dies
            <h2 className={styles.chapter13}>Ezekiel Chpt XXXIV</h2>
             <p>
 
+The Lord Will Be Israel’s Shepherd
+34 The word of the Lord came to me: 2 “Son of man, prophesy against the shepherds of Israel; prophesy and say to them: ‘This is what the Sovereign Lord says: Woe to you shepherds of Israel who only take care of yourselves! Should not shepherds take care of the flock? 3 You eat the curds, clothe yourselves with the wool and slaughter the choice animals, but you do not take care of the flock. 4 You have not strengthened the weak or healed the sick or bound up the injured. You have not brought back the strays or searched for the lost. You have ruled them harshly and brutally. 5 So they were scattered because there was no shepherd, and when they were scattered they became food for all the wild animals. 6 My sheep wandered over all the mountains and on every high hill. They were scattered over the whole earth, and no one searched or looked for them.
 
-            </p>
+7 “‘Therefore, you shepherds, hear the word of the Lord: 8 As surely as I live, declares the Sovereign Lord, because my flock lacks a shepherd and so has been plundered and has become food for all the wild animals, and because my shepherds did not search for my flock but cared for themselves rather than for my flock, 9 therefore, you shepherds, hear the word of the Lord: 10 This is what the Sovereign Lord says: I am against the shepherds and will hold them accountable for my flock. I will remove them from tending the flock so that the shepherds can no longer feed themselves. I will rescue my flock from their mouths, and it will no longer be food for them.
+
+11 “‘For this is what the Sovereign Lord says: I myself will search for my sheep and look after them. 12 As a shepherd looks after his scattered flock when he is with them, so will I look after my sheep. I will rescue them from all the places where they were scattered on a day of clouds and darkness. 13 I will bring them out from the nations and gather them from the countries, and I will bring them into their own land. I will pasture them on the mountains of Israel, in the ravines and in all the settlements in the land. 14 I will tend them in a good pasture, and the mountain heights of Israel will be their grazing land. There they will lie down in good grazing land, and there they will feed in a rich pasture on the mountains of Israel. 15 I myself will tend my sheep and have them lie down, declares the Sovereign Lord. 16 I will search for the lost and bring back the strays. I will bind up the injured and strengthen the weak, but the sleek and the strong I will destroy. I will shepherd the flock with justice.
+
+17 “‘As for you, my flock, this is what the Sovereign Lord says: I will judge between one sheep and another, and between rams and goats. 18 Is it not enough for you to feed on the good pasture? Must you also trample the rest of your pasture with your feet? Is it not enough for you to drink clear water? Must you also muddy the rest with your feet? 19 Must my flock feed on what you have trampled and drink what you have muddied with your feet?
+
+20 “‘Therefore this is what the Sovereign Lord says to them: See, I myself will judge between the fat sheep and the lean sheep. 21 Because you shove with flank and shoulder, butting all the weak sheep with your horns until you have driven them away, 22 I will save my flock, and they will no longer be plundered. I will judge between one sheep and another. 23 I will place over them one shepherd, my servant David, and he will tend them; he will tend them and be their shepherd. 24 I the Lord will be their God, and my servant David will be prince among them. I the Lord have spoken.
+
+25 “‘I will make a covenant of peace with them and rid the land of savage beasts so that they may live in the wilderness and sleep in the forests in safety. 26 I will make them and the places surrounding my hill a blessing.[a] I will send down showers in season; there will be showers of blessing. 27 The trees will yield their fruit and the ground will yield its crops; the people will be secure in their land. They will know that I am the Lord, when I break the bars of their yoke and rescue them from the hands of those who enslaved them. 28 They will no longer be plundered by the nations, nor will wild animals devour them. They will live in safety, and no one will make them afraid. 29 I will provide for them a land renowned for its crops, and they will no longer be victims of famine in the land or bear the scorn of the nations. 30 Then they will know that I, the Lord their God, am with them and that they, the Israelites, are my people, declares the Sovereign Lord. 31 You are my sheep, the sheep of my pasture, and I am your God, declares the Sovereign Lord.’”
+  
+  </p>
           </div>              
 
 
 <div className={styles.card}>
            <h2 className={styles.chapter13}>Ezekiel Chpt XXXV</h2>
             <p>
-     
-      </p>
+
+Find answers to your Bible questions with Bible Gateway Plus. Try it free today!
+Jason
+Ezekiel 35
+New International Version (NIV)
+
+Bible Book List
+Font Size
+Resources
+Hebrew/Greek
+Your Content
+Ezekiel 35
+New International Version
+A Prophecy Against Edom
+35 The word of the Lord came to me: 2 “Son of man, set your face against Mount Seir; prophesy against it 3 and say: ‘This is what the Sovereign Lord says: I am against you, Mount Seir, and I will stretch out my hand against you and make you a desolate waste. 4 I will turn your towns into ruins and you will be desolate. Then you will know that I am the Lord.
+
+5 “‘Because you harbored an ancient hostility and delivered the Israelites over to the sword at the time of their calamity, the time their punishment reached its climax, 6 therefore as surely as I live, declares the Sovereign Lord, I will give you over to bloodshed and it will pursue you. Since you did not hate bloodshed, bloodshed will pursue you. 7 I will make Mount Seir a desolate waste and cut off from it all who come and go. 8 I will fill your mountains with the slain; those killed by the sword will fall on your hills and in your valleys and in all your ravines. 9 I will make you desolate forever; your towns will not be inhabited. Then you will know that I am the Lord.
+
+10 “‘Because you have said, “These two nations and countries will be ours and we will take possession of them,” even though I the Lord was there, 11 therefore as surely as I live, declares the Sovereign Lord, I will treat you in accordance with the anger and jealousy you showed in your hatred of them and I will make myself known among them when I judge you. 12 Then you will know that I the Lord have heard all the contemptible things you have said against the mountains of Israel. You said, “They have been laid waste and have been given over to us to devour.” 13 You boasted against me and spoke against me without restraint, and I heard it. 14 This is what the Sovereign Lord says: While the whole earth rejoices, I will make you desolate. 15 Because you rejoiced when the inheritance of Israel became desolate, that is how I will treat you. You will be desolate, Mount Seir, you and all of Edom. Then they will know that I am the Lord.’”  
+      
+  </p>
           </div>
 
  <div className={styles.card}>
            <h2 className={styles.chapter13}>Ezekiel Chpt XXXVI</h2>
             <p>
 
+  Hope for the Mountains of Israel
+36 “Son of man, prophesy to the mountains of Israel and say, ‘Mountains of Israel, hear the word of the Lord. 2 This is what the Sovereign Lord says: The enemy said of you, “Aha! The ancient heights have become our possession.”’ 3 Therefore prophesy and say, ‘This is what the Sovereign Lord says: Because they ravaged and crushed you from every side so that you became the possession of the rest of the nations and the object of people’s malicious talk and slander, 4 therefore, mountains of Israel, hear the word of the Sovereign Lord: This is what the Sovereign Lord says to the mountains and hills, to the ravines and valleys, to the desolate ruins and the deserted towns that have been plundered and ridiculed by the rest of the nations around you— 5 this is what the Sovereign Lord says: In my burning zeal I have spoken against the rest of the nations, and against all Edom, for with glee and with malice in their hearts they made my land their own possession so that they might plunder its pastureland.’ 6 Therefore prophesy concerning the land of Israel and say to the mountains and hills, to the ravines and valleys: ‘This is what the Sovereign Lord says: I speak in my jealous wrath because you have suffered the scorn of the nations. 7 Therefore this is what the Sovereign Lord says: I swear with uplifted hand that the nations around you will also suffer scorn.
+
+8 “‘But you, mountains of Israel, will produce branches and fruit for my people Israel, for they will soon come home. 9 I am concerned for you and will look on you with favor; you will be plowed and sown, 10 and I will cause many people to live on you—yes, all of Israel. The towns will be inhabited and the ruins rebuilt. 11 I will increase the number of people and animals living on you, and they will be fruitful and become numerous. I will settle people on you as in the past and will make you prosper more than before. Then you will know that I am the Lord. 12 I will cause people, my people Israel, to live on you. They will possess you, and you will be their inheritance; you will never again deprive them of their children.
+
+13 “‘This is what the Sovereign Lord says: Because some say to you, “You devour people and deprive your nation of its children,” 14 therefore you will no longer devour people or make your nation childless, declares the Sovereign Lord. 15 No longer will I make you hear the taunts of the nations, and no longer will you suffer the scorn of the peoples or cause your nation to fall, declares the Sovereign Lord.’”
+
+Israel’s Restoration Assured
+16 Again the word of the Lord came to me: 17 “Son of man, when the people of Israel were living in their own land, they defiled it by their conduct and their actions. Their conduct was like a woman’s monthly uncleanness in my sight. 18 So I poured out my wrath on them because they had shed blood in the land and because they had defiled it with their idols. 19 I dispersed them among the nations, and they were scattered through the countries; I judged them according to their conduct and their actions. 20 And wherever they went among the nations they profaned my holy name, for it was said of them, ‘These are the Lord’s people, and yet they had to leave his land.’ 21 I had concern for my holy name, which the people of Israel profaned among the nations where they had gone.
+
+22 “Therefore say to the Israelites, ‘This is what the Sovereign Lord says: It is not for your sake, people of Israel, that I am going to do these things, but for the sake of my holy name, which you have profaned among the nations where you have gone. 23 I will show the holiness of my great name, which has been profaned among the nations, the name you have profaned among them. Then the nations will know that I am the Lord, declares the Sovereign Lord, when I am proved holy through you before their eyes.
+
+24 “‘For I will take you out of the nations; I will gather you from all the countries and bring you back into your own land. 25 I will sprinkle clean water on you, and you will be clean; I will cleanse you from all your impurities and from all your idols. 26 I will give you a new heart and put a new spirit in you; I will remove from you your heart of stone and give you a heart of flesh. 27 And I will put my Spirit in you and move you to follow my decrees and be careful to keep my laws. 28 Then you will live in the land I gave your ancestors; you will be my people, and I will be your God. 29 I will save you from all your uncleanness. I will call for the grain and make it plentiful and will not bring famine upon you. 30 I will increase the fruit of the trees and the crops of the field, so that you will no longer suffer disgrace among the nations because of famine. 31 Then you will remember your evil ways and wicked deeds, and you will loathe yourselves for your sins and detestable practices. 32 I want you to know that I am not doing this for your sake, declares the Sovereign Lord. Be ashamed and disgraced for your conduct, people of Israel!
+
+33 “‘This is what the Sovereign Lord says: On the day I cleanse you from all your sins, I will resettle your towns, and the ruins will be rebuilt. 34 The desolate land will be cultivated instead of lying desolate in the sight of all who pass through it. 35 They will say, “This land that was laid waste has become like the garden of Eden; the cities that were lying in ruins, desolate and destroyed, are now fortified and inhabited.” 36 Then the nations around you that remain will know that I the Lord have rebuilt what was destroyed and have replanted what was desolate. I the Lord have spoken, and I will do it.’
+
+37 “This is what the Sovereign Lord says: Once again I will yield to Israel’s plea and do this for them: I will make their people as numerous as sheep, 38 as numerous as the flocks for offerings at Jerusalem during her appointed festivals. So will the ruined cities be filled with flocks of people. Then they will know that I am the Lord.”
   
-           </p>
+  </p>
           </div>
 
 
@@ -1092,13 +1635,46 @@ Ezekiel’s Wife Dies
             <h2 className={styles.chapter13}>Ezekiel Chpt XXXVII</h2>
             <p>
 
-                                  </p>
+The Valley of Dry Bones
+37 The hand of the Lord was on me, and he brought me out by the Spirit of the Lord and set me in the middle of a valley; it was full of bones. 2 He led me back and forth among them, and I saw a great many bones on the floor of the valley, bones that were very dry. 3 He asked me, “Son of man, can these bones live?”
+
+I said, “Sovereign Lord, you alone know.”
+
+4 Then he said to me, “Prophesy to these bones and say to them, ‘Dry bones, hear the word of the Lord! 5 This is what the Sovereign Lord says to these bones: I will make breath[a] enter you, and you will come to life. 6 I will attach tendons to you and make flesh come upon you and cover you with skin; I will put breath in you, and you will come to life. Then you will know that I am the Lord.’”
+
+7 So I prophesied as I was commanded. And as I was prophesying, there was a noise, a rattling sound, and the bones came together, bone to bone. 8 I looked, and tendons and flesh appeared on them and skin covered them, but there was no breath in them.
+
+9 Then he said to me, “Prophesy to the breath; prophesy, son of man, and say to it, ‘This is what the Sovereign Lord says: Come, breath, from the four winds and breathe into these slain, that they may live.’” 10 So I prophesied as he commanded me, and breath entered them; they came to life and stood up on their feet—a vast army.
+
+11 Then he said to me: “Son of man, these bones are the people of Israel. They say, ‘Our bones are dried up and our hope is gone; we are cut off.’ 12 Therefore prophesy and say to them: ‘This is what the Sovereign Lord says: My people, I am going to open your graves and bring you up from them; I will bring you back to the land of Israel. 13 Then you, my people, will know that I am the Lord, when I open your graves and bring you up from them. 14 I will put my Spirit in you and you will live, and I will settle you in your own land. Then you will know that I the Lord have spoken, and I have done it, declares the Lord.’”
+
+One Nation Under One King
+15 The word of the Lord came to me: 16 “Son of man, take a stick of wood and write on it, ‘Belonging to Judah and the Israelites associated with him.’ Then take another stick of wood, and write on it, ‘Belonging to Joseph (that is, to Ephraim) and all the Israelites associated with him.’ 17 Join them together into one stick so that they will become one in your hand.
+
+18 “When your people ask you, ‘Won’t you tell us what you mean by this?’ 19 say to them, ‘This is what the Sovereign Lord says: I am going to take the stick of Joseph—which is in Ephraim’s hand—and of the Israelite tribes associated with him, and join it to Judah’s stick. I will make them into a single stick of wood, and they will become one in my hand.’ 20 Hold before their eyes the sticks you have written on 21 and say to them, ‘This is what the Sovereign Lord says: I will take the Israelites out of the nations where they have gone. I will gather them from all around and bring them back into their own land. 22 I will make them one nation in the land, on the mountains of Israel. There will be one king over all of them and they will never again be two nations or be divided into two kingdoms. 23 They will no longer defile themselves with their idols and vile images or with any of their offenses, for I will save them from all their sinful backsliding,[b] and I will cleanse them. They will be my people, and I will be their God.
+
+24 “‘My servant David will be king over them, and they will all have one shepherd. They will follow my laws and be careful to keep my decrees. 25 They will live in the land I gave to my servant Jacob, the land where your ancestors lived. They and their children and their children’s children will live there forever, and David my servant will be their prince forever. 26 I will make a covenant of peace with them; it will be an everlasting covenant. I will establish them and increase their numbers, and I will put my sanctuary among them forever. 27 My dwelling place will be with them; I will be their God, and they will be my people. 28 Then the nations will know that I the Lord make Israel holy, when my sanctuary is among them forever.’”  
+                
+  
+  </p>
               </div>
 
           <div className={styles.card}>
            <h2 className={styles.chapter13}>Ezekiel Chpt XXXVIII</h2>
             <p>
+The Lord’s Great Victory Over the Nations
+38 The word of the Lord came to me: 2 “Son of man, set your face against Gog, of the land of Magog, the chief prince of[a] Meshek and Tubal; prophesy against him 3 and say: ‘This is what the Sovereign Lord says: I am against you, Gog, chief prince of[b] Meshek and Tubal. 4 I will turn you around, put hooks in your jaws and bring you out with your whole army—your horses, your horsemen fully armed, and a great horde with large and small shields, all of them brandishing their swords. 5 Persia, Cush[c] and Put will be with them, all with shields and helmets, 6 also Gomer with all its troops, and Beth Togarmah from the far north with all its troops—the many nations with you.
 
+7 “‘Get ready; be prepared, you and all the hordes gathered about you, and take command of them. 8 After many days you will be called to arms. In future years you will invade a land that has recovered from war, whose people were gathered from many nations to the mountains of Israel, which had long been desolate. They had been brought out from the nations, and now all of them live in safety. 9 You and all your troops and the many nations with you will go up, advancing like a storm; you will be like a cloud covering the land.
+
+10 “‘This is what the Sovereign Lord says: On that day thoughts will come into your mind and you will devise an evil scheme. 11 You will say, “I will invade a land of unwalled villages; I will attack a peaceful and unsuspecting people—all of them living without walls and without gates and bars. 12 I will plunder and loot and turn my hand against the resettled ruins and the people gathered from the nations, rich in livestock and goods, living at the center of the land.[d]” 13 Sheba and Dedan and the merchants of Tarshish and all her villages[e] will say to you, “Have you come to plunder? Have you gathered your hordes to loot, to carry off silver and gold, to take away livestock and goods and to seize much plunder?”’
+
+14 “Therefore, son of man, prophesy and say to Gog: ‘This is what the Sovereign Lord says: In that day, when my people Israel are living in safety, will you not take notice of it? 15 You will come from your place in the far north, you and many nations with you, all of them riding on horses, a great horde, a mighty army. 16 You will advance against my people Israel like a cloud that covers the land. In days to come, Gog, I will bring you against my land, so that the nations may know me when I am proved holy through you before their eyes.
+
+17 “‘This is what the Sovereign Lord says: You are the one I spoke of in former days by my servants the prophets of Israel. At that time they prophesied for years that I would bring you against them. 18 This is what will happen in that day: When Gog attacks the land of Israel, my hot anger will be aroused, declares the Sovereign Lord. 19 In my zeal and fiery wrath I declare that at that time there shall be a great earthquake in the land of Israel. 20 The fish in the sea, the birds in the sky, the beasts of the field, every creature that moves along the ground, and all the people on the face of the earth will tremble at my presence. The mountains will be overturned, the cliffs will crumble and every wall will fall to the ground. 21 I will summon a sword against Gog on all my mountains, declares the Sovereign Lord. Every man’s sword will be against his brother. 22 I will execute judgment on him with plague and bloodshed; I will pour down torrents of rain, hailstones and burning sulfur on him and on his troops and on the many nations with him. 23 And so I will show my greatness and my holiness, and I will make myself known in the sight of many nations. Then they will know that I am the Lord.’
+
+
+  
      </p>
           </div>
 
@@ -1106,7 +1682,26 @@ Ezekiel’s Wife Dies
            <h2 className={styles.chapter13}>Ezekiel Chpt XXXIX</h2>
             <p>
 
-            </p>
+39 “Son of man, prophesy against Gog and say: ‘This is what the Sovereign Lord says: I am against you, Gog, chief prince of[a] Meshek and Tubal. 2 I will turn you around and drag you along. I will bring you from the far north and send you against the mountains of Israel. 3 Then I will strike your bow from your left hand and make your arrows drop from your right hand. 4 On the mountains of Israel you will fall, you and all your troops and the nations with you. I will give you as food to all kinds of carrion birds and to the wild animals. 5 You will fall in the open field, for I have spoken, declares the Sovereign Lord. 6 I will send fire on Magog and on those who live in safety in the coastlands, and they will know that I am the Lord.
+
+7 “‘I will make known my holy name among my people Israel. I will no longer let my holy name be profaned, and the nations will know that I the Lord am the Holy One in Israel. 8 It is coming! It will surely take place, declares the Sovereign Lord. This is the day I have spoken of.
+
+9 “‘Then those who live in the towns of Israel will go out and use the weapons for fuel and burn them up—the small and large shields, the bows and arrows, the war clubs and spears. For seven years they will use them for fuel. 10 They will not need to gather wood from the fields or cut it from the forests, because they will use the weapons for fuel. And they will plunder those who plundered them and loot those who looted them, declares the Sovereign Lord.
+
+11 “‘On that day I will give Gog a burial place in Israel, in the valley of those who travel east of the Sea. It will block the way of travelers, because Gog and all his hordes will be buried there. So it will be called the Valley of Hamon Gog.[b]
+
+12 “‘For seven months the Israelites will be burying them in order to cleanse the land. 13 All the people of the land will bury them, and the day I display my glory will be a memorable day for them, declares the Sovereign Lord. 14 People will be continually employed in cleansing the land. They will spread out across the land and, along with others, they will bury any bodies that are lying on the ground.
+
+“‘After the seven months they will carry out a more detailed search. 15 As they go through the land, anyone who sees a human bone will leave a marker beside it until the gravediggers bury it in the Valley of Hamon Gog, 16 near a town called Hamonah.[c] And so they will cleanse the land.’
+
+17 “Son of man, this is what the Sovereign Lord says: Call out to every kind of bird and all the wild animals: ‘Assemble and come together from all around to the sacrifice I am preparing for you, the great sacrifice on the mountains of Israel. There you will eat flesh and drink blood. 18 You will eat the flesh of mighty men and drink the blood of the princes of the earth as if they were rams and lambs, goats and bulls—all of them fattened animals from Bashan. 19 At the sacrifice I am preparing for you, you will eat fat till you are glutted and drink blood till you are drunk. 20 At my table you will eat your fill of horses and riders, mighty men and soldiers of every kind,’ declares the Sovereign Lord.
+
+21 “I will display my glory among the nations, and all the nations will see the punishment I inflict and the hand I lay on them. 22 From that day forward the people of Israel will know that I am the Lord their God. 23 And the nations will know that the people of Israel went into exile for their sin, because they were unfaithful to me. So I hid my face from them and handed them over to their enemies, and they all fell by the sword. 24 I dealt with them according to their uncleanness and their offenses, and I hid my face from them.
+
+25 “Therefore this is what the Sovereign Lord says: I will now restore the fortunes of Jacob[d] and will have compassion on all the people of Israel, and I will be zealous for my holy name. 26 They will forget their shame and all the unfaithfulness they showed toward me when they lived in safety in their land with no one to make them afraid. 27 When I have brought them back from the nations and have gathered them from the countries of their enemies, I will be proved holy through them in the sight of many nations. 28 Then they will know that I am the Lord their God, for though I sent them into exile among the nations, I will gather them to their own land, not leaving any behind. 29 I will no longer hide my face from them, for I will pour out my Spirit on the people of Israel, declares the Sovereign Lord.”
+  
+            
+  </p>
           </div>
 
 
@@ -1114,8 +1709,44 @@ Ezekiel’s Wife Dies
             <h2 className={styles.chapter13}>Ezekiel Chpt XL</h2>
             <p>
 
+The Temple Area Restored
+40 In the twenty-fifth year of our exile, at the beginning of the year, on the tenth of the month, in the fourteenth year after the fall of the city—on that very day the hand of the Lord was on me and he took me there. 2 In visions of God he took me to the land of Israel and set me on a very high mountain, on whose south side were some buildings that looked like a city. 3 He took me there, and I saw a man whose appearance was like bronze; he was standing in the gateway with a linen cord and a measuring rod in his hand. 4 The man said to me, “Son of man, look carefully and listen closely and pay attention to everything I am going to show you, for that is why you have been brought here. Tell the people of Israel everything you see.”
 
+The East Gate to the Outer Court
+5 I saw a wall completely surrounding the temple area. The length of the measuring rod in the man’s hand was six long cubits,[a] each of which was a cubit and a handbreadth. He measured the wall; it was one measuring rod thick and one rod high.
 
+6 Then he went to the east gate. He climbed its steps and measured the threshold of the gate; it was one rod deep. 7 The alcoves for the guards were one rod long and one rod wide, and the projecting walls between the alcoves were five cubits[b] thick. And the threshold of the gate next to the portico facing the temple was one rod deep.
+
+8 Then he measured the portico of the gateway; 9 it[c] was eight cubits[d] deep and its jambs were two cubits[e] thick. The portico of the gateway faced the temple.
+
+10 Inside the east gate were three alcoves on each side; the three had the same measurements, and the faces of the projecting walls on each side had the same measurements. 11 Then he measured the width of the entrance of the gateway; it was ten cubits and its length was thirteen cubits.[f] 12 In front of each alcove was a wall one cubit high, and the alcoves were six cubits square. 13 Then he measured the gateway from the top of the rear wall of one alcove to the top of the opposite one; the distance was twenty-five cubits[g] from one parapet opening to the opposite one. 14 He measured along the faces of the projecting walls all around the inside of the gateway—sixty cubits.[h] The measurement was up to the portico[i] facing the courtyard.[j] 15 The distance from the entrance of the gateway to the far end of its portico was fifty cubits.[k] 16 The alcoves and the projecting walls inside the gateway were surmounted by narrow parapet openings all around, as was the portico; the openings all around faced inward. The faces of the projecting walls were decorated with palm trees.
+
+The Outer Court
+17 Then he brought me into the outer court. There I saw some rooms and a pavement that had been constructed all around the court; there were thirty rooms along the pavement. 18 It abutted the sides of the gateways and was as wide as they were long; this was the lower pavement. 19 Then he measured the distance from the inside of the lower gateway to the outside of the inner court; it was a hundred cubits[l] on the east side as well as on the north.
+
+The North Gate
+20 Then he measured the length and width of the north gate, leading into the outer court. 21 Its alcoves—three on each side—its projecting walls and its portico had the same measurements as those of the first gateway. It was fifty cubits long and twenty-five cubits wide. 22 Its openings, its portico and its palm tree decorations had the same measurements as those of the gate facing east. Seven steps led up to it, with its portico opposite them. 23 There was a gate to the inner court facing the north gate, just as there was on the east. He measured from one gate to the opposite one; it was a hundred cubits.
+
+The South Gate
+24 Then he led me to the south side and I saw the south gate. He measured its jambs and its portico, and they had the same measurements as the others. 25 The gateway and its portico had narrow openings all around, like the openings of the others. It was fifty cubits long and twenty-five cubits wide. 26 Seven steps led up to it, with its portico opposite them; it had palm tree decorations on the faces of the projecting walls on each side. 27 The inner court also had a gate facing south, and he measured from this gate to the outer gate on the south side; it was a hundred cubits.
+
+The Gates to the Inner Court
+28 Then he brought me into the inner court through the south gate, and he measured the south gate; it had the same measurements as the others. 29 Its alcoves, its projecting walls and its portico had the same measurements as the others. The gateway and its portico had openings all around. It was fifty cubits long and twenty-five cubits wide. 30 (The porticoes of the gateways around the inner court were twenty-five cubits wide and five cubits deep.) 31 Its portico faced the outer court; palm trees decorated its jambs, and eight steps led up to it.
+
+32 Then he brought me to the inner court on the east side, and he measured the gateway; it had the same measurements as the others. 33 Its alcoves, its projecting walls and its portico had the same measurements as the others. The gateway and its portico had openings all around. It was fifty cubits long and twenty-five cubits wide. 34 Its portico faced the outer court; palm trees decorated the jambs on either side, and eight steps led up to it.
+
+35 Then he brought me to the north gate and measured it. It had the same measurements as the others, 36 as did its alcoves, its projecting walls and its portico, and it had openings all around. It was fifty cubits long and twenty-five cubits wide. 37 Its portico[m] faced the outer court; palm trees decorated the jambs on either side, and eight steps led up to it.
+
+The Rooms for Preparing Sacrifices
+38 A room with a doorway was by the portico in each of the inner gateways, where the burnt offerings were washed. 39 In the portico of the gateway were two tables on each side, on which the burnt offerings, sin offerings[n] and guilt offerings were slaughtered. 40 By the outside wall of the portico of the gateway, near the steps at the entrance of the north gateway were two tables, and on the other side of the steps were two tables. 41 So there were four tables on one side of the gateway and four on the other—eight tables in all—on which the sacrifices were slaughtered. 42 There were also four tables of dressed stone for the burnt offerings, each a cubit and a half long, a cubit and a half wide and a cubit high.[o] On them were placed the utensils for slaughtering the burnt offerings and the other sacrifices. 43 And double-pronged hooks, each a handbreadth[p] long, were attached to the wall all around. The tables were for the flesh of the offerings.
+
+The Rooms for the Priests
+44 Outside the inner gate, within the inner court, were two rooms, one[q] at the side of the north gate and facing south, and another at the side of the south[r] gate and facing north. 45 He said to me, “The room facing south is for the priests who guard the temple, 46 and the room facing north is for the priests who guard the altar. These are the sons of Zadok, who are the only Levites who may draw near to the Lord to minister before him.”
+
+47 Then he measured the court: It was square—a hundred cubits long and a hundred cubits wide. And the altar was in front of the temple.
+
+The New Temple
+48 He brought me to the portico of the temple and measured the jambs of the portico; they were five cubits wide on either side. The width of the entrance was fourteen cubits[s] and its projecting walls were[t] three cubits[u] wide on either side. 49 The portico was twenty cubits[v] wide, and twelve[w] cubits[x] from front to back. It was reached by a flight of stairs,[y] and there were pillars on each side of the jambs.
   
                             
                                   </p>
@@ -1125,57 +1756,237 @@ Ezekiel’s Wife Dies
            <h2 className={styles.chapter13}>Ezekiel Chpt XLI</h2>
             <p>
 
-         </p>
+41 Then the man brought me to the main hall and measured the jambs; the width of the jambs was six cubits[a] on each side.[b] 2 The entrance was ten cubits[c] wide, and the projecting walls on each side of it were five cubits[d] wide. He also measured the main hall; it was forty cubits long and twenty cubits wide.[e]
+
+3 Then he went into the inner sanctuary and measured the jambs of the entrance; each was two cubits[f] wide. The entrance was six cubits wide, and the projecting walls on each side of it were seven cubits[g] wide. 4 And he measured the length of the inner sanctuary; it was twenty cubits, and its width was twenty cubits across the end of the main hall. He said to me, “This is the Most Holy Place.”
+
+5 Then he measured the wall of the temple; it was six cubits thick, and each side room around the temple was four cubits[h] wide. 6 The side rooms were on three levels, one above another, thirty on each level. There were ledges all around the wall of the temple to serve as supports for the side rooms, so that the supports were not inserted into the wall of the temple. 7 The side rooms all around the temple were wider at each successive level. The structure surrounding the temple was built in ascending stages, so that the rooms widened as one went upward. A stairway went up from the lowest floor to the top floor through the middle floor.
+
+8 I saw that the temple had a raised base all around it, forming the foundation of the side rooms. It was the length of the rod, six long cubits. 9 The outer wall of the side rooms was five cubits thick. The open area between the side rooms of the temple 10 and the priests’ rooms was twenty cubits wide all around the temple. 11 There were entrances to the side rooms from the open area, one on the north and another on the south; and the base adjoining the open area was five cubits wide all around.
+
+12 The building facing the temple courtyard on the west side was seventy cubits[i] wide. The wall of the building was five cubits thick all around, and its length was ninety cubits.[j]
+
+13 Then he measured the temple; it was a hundred cubits[k] long, and the temple courtyard and the building with its walls were also a hundred cubits long. 14 The width of the temple courtyard on the east, including the front of the temple, was a hundred cubits.
+
+15 Then he measured the length of the building facing the courtyard at the rear of the temple, including its galleries on each side; it was a hundred cubits.
+
+The main hall, the inner sanctuary and the portico facing the court, 16 as well as the thresholds and the narrow windows and galleries around the three of them—everything beyond and including the threshold was covered with wood. The floor, the wall up to the windows, and the windows were covered. 17 In the space above the outside of the entrance to the inner sanctuary and on the walls at regular intervals all around the inner and outer sanctuary 18 were carved cherubim and palm trees. Palm trees alternated with cherubim. Each cherub had two faces: 19 the face of a human being toward the palm tree on one side and the face of a lion toward the palm tree on the other. They were carved all around the whole temple. 20 From the floor to the area above the entrance, cherubim and palm trees were carved on the wall of the main hall.
+
+21 The main hall had a rectangular doorframe, and the one at the front of the Most Holy Place was similar. 22 There was a wooden altar three cubits[l] high and two cubits square[m]; its corners, its base[n] and its sides were of wood. The man said to me, “This is the table that is before the Lord.” 23 Both the main hall and the Most Holy Place had double doors. 24 Each door had two leaves—two hinged leaves for each door. 25 And on the doors of the main hall were carved cherubim and palm trees like those carved on the walls, and there was a wooden overhang on the front of the portico. 26 On the sidewalls of the portico were narrow windows with palm trees carved on each side. The side rooms of the temple also had overhangs.  
+        
+  
+  </p>
           </div>
 
  <div className={styles.card}>
-           <h2 className={styles.chapter13}>Ezekiel Chpt XXXII</h2>
+           <h2 className={styles.chapter13}>Ezekiel Chpt XLII</h2>
             <p>
 
-         </p>
+The Rooms for the Priests
+42 Then the man led me northward into the outer court and brought me to the rooms opposite the temple courtyard and opposite the outer wall on the north side. 2 The building whose door faced north was a hundred cubits long and fifty cubits wide.[a] 3 Both in the section twenty cubits[b] from the inner court and in the section opposite the pavement of the outer court, gallery faced gallery at the three levels. 4 In front of the rooms was an inner passageway ten cubits wide and a hundred cubits[c] long.[d] Their doors were on the north. 5 Now the upper rooms were narrower, for the galleries took more space from them than from the rooms on the lower and middle floors of the building. 6 The rooms on the top floor had no pillars, as the courts had; so they were smaller in floor space than those on the lower and middle floors. 7 There was an outer wall parallel to the rooms and the outer court; it extended in front of the rooms for fifty cubits. 8 While the row of rooms on the side next to the outer court was fifty cubits long, the row on the side nearest the sanctuary was a hundred cubits long. 9 The lower rooms had an entrance on the east side as one enters them from the outer court.
+
+10 On the south side[e] along the length of the wall of the outer court, adjoining the temple courtyard and opposite the outer wall, were rooms 11 with a passageway in front of them. These were like the rooms on the north; they had the same length and width, with similar exits and dimensions. Similar to the doorways on the north 12 were the doorways of the rooms on the south. There was a doorway at the beginning of the passageway that was parallel to the corresponding wall extending eastward, by which one enters the rooms.
+
+13 Then he said to me, “The north and south rooms facing the temple courtyard are the priests’ rooms, where the priests who approach the Lord will eat the most holy offerings. There they will put the most holy offerings—the grain offerings, the sin offerings[f] and the guilt offerings—for the place is holy. 14 Once the priests enter the holy precincts, they are not to go into the outer court until they leave behind the garments in which they minister, for these are holy. They are to put on other clothes before they go near the places that are for the people.”
+
+15 When he had finished measuring what was inside the temple area, he led me out by the east gate and measured the area all around: 16 He measured the east side with the measuring rod; it was five hundred cubits.[g][h] 17 He measured the north side; it was five hundred cubits[i] by the measuring rod. 18 He measured the south side; it was five hundred cubits by the measuring rod. 19 Then he turned to the west side and measured; it was five hundred cubits by the measuring rod. 20 So he measured the area on all four sides. It had a wall around it, five hundred cubits long and five hundred cubits wide, to separate the holy from the common.  
+  
+  
+  </p>
           </div>
                                   
 
  <div className={styles.card}>
-           <h2 className={styles.chapter13}>Ezekiel Chpt XXXIII</h2>
+           <h2 className={styles.chapter13}>Ezekiel Chpt XLIII</h2>
             <p>
+God’s Glory Returns to the Temple
+43 Then the man brought me to the gate facing east, 2 and I saw the glory of the God of Israel coming from the east. His voice was like the roar of rushing waters, and the land was radiant with his glory. 3 The vision I saw was like the vision I had seen when he[a] came to destroy the city and like the visions I had seen by the Kebar River, and I fell facedown. 4 The glory of the Lord entered the temple through the gate facing east. 5 Then the Spirit lifted me up and brought me into the inner court, and the glory of the Lord filled the temple.
+
+6 While the man was standing beside me, I heard someone speaking to me from inside the temple. 7 He said: “Son of man, this is the place of my throne and the place for the soles of my feet. This is where I will live among the Israelites forever. The people of Israel will never again defile my holy name—neither they nor their kings—by their prostitution and the funeral offerings[b] for their kings at their death.[c] 8 When they placed their threshold next to my threshold and their doorposts beside my doorposts, with only a wall between me and them, they defiled my holy name by their detestable practices. So I destroyed them in my anger. 9 Now let them put away from me their prostitution and the funeral offerings for their kings, and I will live among them forever.
+
+10 “Son of man, describe the temple to the people of Israel, that they may be ashamed of their sins. Let them consider its perfection, 11 and if they are ashamed of all they have done, make known to them the design of the temple—its arrangement, its exits and entrances—its whole design and all its regulations[d] and laws. Write these down before them so that they may be faithful to its design and follow all its regulations.
+
+12 “This is the law of the temple: All the surrounding area on top of the mountain will be most holy. Such is the law of the temple.
+
+The Great Altar Restored
+13 “These are the measurements of the altar in long cubits,[e] that cubit being a cubit and a handbreadth: Its gutter is a cubit deep and a cubit wide, with a rim of one span[f] around the edge. And this is the height of the altar: 14 From the gutter on the ground up to the lower ledge that goes around the altar it is two cubits high, and the ledge is a cubit wide.[g] From this lower ledge to the upper ledge that goes around the altar it is four cubits high, and that ledge is also a cubit wide.[h] 15 Above that, the altar hearth is four cubits high, and four horns project upward from the hearth. 16 The altar hearth is square, twelve cubits[i] long and twelve cubits wide. 17 The upper ledge also is square, fourteen cubits[j] long and fourteen cubits wide. All around the altar is a gutter of one cubit with a rim of half a cubit.[k] The steps of the altar face east.”
+
+18 Then he said to me, “Son of man, this is what the Sovereign Lord says: These will be the regulations for sacrificing burnt offerings and splashing blood against the altar when it is built: 19 You are to give a young bull as a sin offering[l] to the Levitical priests of the family of Zadok, who come near to minister before me, declares the Sovereign Lord. 20 You are to take some of its blood and put it on the four horns of the altar and on the four corners of the upper ledge and all around the rim, and so purify the altar and make atonement for it. 21 You are to take the bull for the sin offering and burn it in the designated part of the temple area outside the sanctuary.
+
+22 “On the second day you are to offer a male goat without defect for a sin offering, and the altar is to be purified as it was purified with the bull. 23 When you have finished purifying it, you are to offer a young bull and a ram from the flock, both without defect. 24 You are to offer them before the Lord, and the priests are to sprinkle salt on them and sacrifice them as a burnt offering to the Lord.
+
+25 “For seven days you are to provide a male goat daily for a sin offering; you are also to provide a young bull and a ram from the flock, both without defect. 26 For seven days they are to make atonement for the altar and cleanse it; thus they will dedicate it. 27 At the end of these days, from the eighth day on, the priests are to present your burnt offerings and fellowship offerings on the altar. Then I will accept you, declares the Sovereign Lord.”
 
 
             </p>
           </div>
 
  <div className={styles.card}>
-           <h2 className={styles.chapter13}>Ezekiel Chpt XXXIV</h2>
+           <h2 className={styles.chapter13}>Ezekiel Chpt XLIV</h2>
             <p>
+The Priesthood Restored
+44 Then the man brought me back to the outer gate of the sanctuary, the one facing east, and it was shut. 2 The Lord said to me, “This gate is to remain shut. It must not be opened; no one may enter through it. It is to remain shut because the Lord, the God of Israel, has entered through it. 3 The prince himself is the only one who may sit inside the gateway to eat in the presence of the Lord. He is to enter by way of the portico of the gateway and go out the same way.”
 
+4 Then the man brought me by way of the north gate to the front of the temple. I looked and saw the glory of the Lord filling the temple of the Lord, and I fell facedown.
 
-            </p>
+5 The Lord said to me, “Son of man, look carefully, listen closely and give attention to everything I tell you concerning all the regulations and instructions regarding the temple of the Lord. Give attention to the entrance to the temple and all the exits of the sanctuary. 6 Say to rebellious Israel, ‘This is what the Sovereign Lord says: Enough of your detestable practices, people of Israel! 7 In addition to all your other detestable practices, you brought foreigners uncircumcised in heart and flesh into my sanctuary, desecrating my temple while you offered me food, fat and blood, and you broke my covenant. 8 Instead of carrying out your duty in regard to my holy things, you put others in charge of my sanctuary. 9 This is what the Sovereign Lord says: No foreigner uncircumcised in heart and flesh is to enter my sanctuary, not even the foreigners who live among the Israelites.
+
+10 “‘The Levites who went far from me when Israel went astray and who wandered from me after their idols must bear the consequences of their sin. 11 They may serve in my sanctuary, having charge of the gates of the temple and serving in it; they may slaughter the burnt offerings and sacrifices for the people and stand before the people and serve them. 12 But because they served them in the presence of their idols and made the people of Israel fall into sin, therefore I have sworn with uplifted hand that they must bear the consequences of their sin, declares the Sovereign Lord. 13 They are not to come near to serve me as priests or come near any of my holy things or my most holy offerings; they must bear the shame of their detestable practices. 14 And I will appoint them to guard the temple for all the work that is to be done in it.
+
+15 “‘But the Levitical priests, who are descendants of Zadok and who guarded my sanctuary when the Israelites went astray from me, are to come near to minister before me; they are to stand before me to offer sacrifices of fat and blood, declares the Sovereign Lord. 16 They alone are to enter my sanctuary; they alone are to come near my table to minister before me and serve me as guards.
+
+17 “‘When they enter the gates of the inner court, they are to wear linen clothes; they must not wear any woolen garment while ministering at the gates of the inner court or inside the temple. 18 They are to wear linen turbans on their heads and linen undergarments around their waists. They must not wear anything that makes them perspire. 19 When they go out into the outer court where the people are, they are to take off the clothes they have been ministering in and are to leave them in the sacred rooms, and put on other clothes, so that the people are not consecrated through contact with their garments.
+
+20 “‘They must not shave their heads or let their hair grow long, but they are to keep the hair of their heads trimmed. 21 No priest is to drink wine when he enters the inner court. 22 They must not marry widows or divorced women; they may marry only virgins of Israelite descent or widows of priests. 23 They are to teach my people the difference between the holy and the common and show them how to distinguish between the unclean and the clean.
+
+24 “‘In any dispute, the priests are to serve as judges and decide it according to my ordinances. They are to keep my laws and my decrees for all my appointed festivals, and they are to keep my Sabbaths holy.
+
+25 “‘A priest must not defile himself by going near a dead person; however, if the dead person was his father or mother, son or daughter, brother or unmarried sister, then he may defile himself. 26 After he is cleansed, he must wait seven days. 27 On the day he goes into the inner court of the sanctuary to minister in the sanctuary, he is to offer a sin offering[a] for himself, declares the Sovereign Lord.
+
+28 “‘I am to be the only inheritance the priests have. You are to give them no possession in Israel; I will be their possession. 29 They will eat the grain offerings, the sin offerings and the guilt offerings; and everything in Israel devoted[b] to the Lord will belong to them. 30 The best of all the firstfruits and of all your special gifts will belong to the priests. You are to give them the first portion of your ground meal so that a blessing may rest on your household. 31 The priests must not eat anything, whether bird or animal, found dead or torn by wild animals.
+          
+  
+  </p>
           </div>              
 
 
 
 
+          <div className={styles.card}>
+           <h2 className={styles.chapter13}>Ezekiel Chpt XLV</h2>
+            <p>
 
+Israel Fully Restored
+45 “‘When you allot the land as an inheritance, you are to present to the Lord a portion of the land as a sacred district, 25,000 cubits[a] long and 20,000[b] cubits[c] wide; the entire area will be holy. 2 Of this, a section 500 cubits[d] square is to be for the sanctuary, with 50 cubits[e] around it for open land. 3 In the sacred district, measure off a section 25,000 cubits long and 10,000 cubits[f] wide. In it will be the sanctuary, the Most Holy Place. 4 It will be the sacred portion of the land for the priests, who minister in the sanctuary and who draw near to minister before the Lord. It will be a place for their houses as well as a holy place for the sanctuary. 5 An area 25,000 cubits long and 10,000 cubits wide will belong to the Levites, who serve in the temple, as their possession for towns to live in.[g]
 
+6 “‘You are to give the city as its property an area 5,000 cubits[h] wide and 25,000 cubits long, adjoining the sacred portion; it will belong to all Israel.
 
+7 “‘The prince will have the land bordering each side of the area formed by the sacred district and the property of the city. It will extend westward from the west side and eastward from the east side, running lengthwise from the western to the eastern border parallel to one of the tribal portions. 8 This land will be his possession in Israel. And my princes will no longer oppress my people but will allow the people of Israel to possess the land according to their tribes.
 
+9 “‘This is what the Sovereign Lord says: You have gone far enough, princes of Israel! Give up your violence and oppression and do what is just and right. Stop dispossessing my people, declares the Sovereign Lord. 10 You are to use accurate scales, an accurate ephah[i] and an accurate bath.[j] 11 The ephah and the bath are to be the same size, the bath containing a tenth of a homer and the ephah a tenth of a homer; the homer is to be the standard measure for both. 12 The shekel[k] is to consist of twenty gerahs. Twenty shekels plus twenty-five shekels plus fifteen shekels equal one mina.[l]
 
+13 “‘This is the special gift you are to offer: a sixth of an ephah[m] from each homer of wheat and a sixth of an ephah[n] from each homer of barley. 14 The prescribed portion of olive oil, measured by the bath, is a tenth of a bath[o] from each cor (which consists of ten baths or one homer, for ten baths are equivalent to a homer). 15 Also one sheep is to be taken from every flock of two hundred from the well-watered pastures of Israel. These will be used for the grain offerings, burnt offerings and fellowship offerings to make atonement for the people, declares the Sovereign Lord. 16 All the people of the land will be required to give this special offering to the prince in Israel. 17 It will be the duty of the prince to provide the burnt offerings, grain offerings and drink offerings at the festivals, the New Moons and the Sabbaths—at all the appointed festivals of Israel. He will provide the sin offerings,[p] grain offerings, burnt offerings and fellowship offerings to make atonement for the Israelites.
 
+18 “‘This is what the Sovereign Lord says: In the first month on the first day you are to take a young bull without defect and purify the sanctuary. 19 The priest is to take some of the blood of the sin offering and put it on the doorposts of the temple, on the four corners of the upper ledge of the altar and on the gateposts of the inner court. 20 You are to do the same on the seventh day of the month for anyone who sins unintentionally or through ignorance; so you are to make atonement for the temple.
 
+21 “‘In the first month on the fourteenth day you are to observe the Passover, a festival lasting seven days, during which you shall eat bread made without yeast. 22 On that day the prince is to provide a bull as a sin offering for himself and for all the people of the land. 23 Every day during the seven days of the festival he is to provide seven bulls and seven rams without defect as a burnt offering to the Lord, and a male goat for a sin offering. 24 He is to provide as a grain offering an ephah for each bull and an ephah for each ram, along with a hin[q] of olive oil for each ephah.
 
+25 “‘During the seven days of the festival, which begins in the seventh month on the fifteenth day, he is to make the same provision for sin offerings, burnt offerings, grain offerings and oil.  
+         </p>
+          </div>
 
+ <div className={styles.card}>
+           <h2 className={styles.chapter13}>Ezekiel Chpt XLVI</h2>
+            <p>
 
+46 “‘This is what the Sovereign Lord says: The gate of the inner court facing east is to be shut on the six working days, but on the Sabbath day and on the day of the New Moon it is to be opened. 2 The prince is to enter from the outside through the portico of the gateway and stand by the gatepost. The priests are to sacrifice his burnt offering and his fellowship offerings. He is to bow down in worship at the threshold of the gateway and then go out, but the gate will not be shut until evening. 3 On the Sabbaths and New Moons the people of the land are to worship in the presence of the Lord at the entrance of that gateway. 4 The burnt offering the prince brings to the Lord on the Sabbath day is to be six male lambs and a ram, all without defect. 5 The grain offering given with the ram is to be an ephah,[a] and the grain offering with the lambs is to be as much as he pleases, along with a hin[b] of olive oil for each ephah. 6 On the day of the New Moon he is to offer a young bull, six lambs and a ram, all without defect. 7 He is to provide as a grain offering one ephah with the bull, one ephah with the ram, and with the lambs as much as he wants to give, along with a hin of oil for each ephah. 8 When the prince enters, he is to go in through the portico of the gateway, and he is to come out the same way.
 
+9 “‘When the people of the land come before the Lord at the appointed festivals, whoever enters by the north gate to worship is to go out the south gate; and whoever enters by the south gate is to go out the north gate. No one is to return through the gate by which they entered, but each is to go out the opposite gate. 10 The prince is to be among them, going in when they go in and going out when they go out. 11 At the feasts and the appointed festivals, the grain offering is to be an ephah with a bull, an ephah with a ram, and with the lambs as much as he pleases, along with a hin of oil for each ephah.
 
+12 “‘When the prince provides a freewill offering to the Lord—whether a burnt offering or fellowship offerings—the gate facing east is to be opened for him. He shall offer his burnt offering or his fellowship offerings as he does on the Sabbath day. Then he shall go out, and after he has gone out, the gate will be shut.
 
+13 “‘Every day you are to provide a year-old lamb without defect for a burnt offering to the Lord; morning by morning you shall provide it. 14 You are also to provide with it morning by morning a grain offering, consisting of a sixth of an ephah[c] with a third of a hin[d] of oil to moisten the flour. The presenting of this grain offering to the Lord is a lasting ordinance. 15 So the lamb and the grain offering and the oil shall be provided morning by morning for a regular burnt offering.
 
+16 “‘This is what the Sovereign Lord says: If the prince makes a gift from his inheritance to one of his sons, it will also belong to his descendants; it is to be their property by inheritance. 17 If, however, he makes a gift from his inheritance to one of his servants, the servant may keep it until the year of freedom; then it will revert to the prince. His inheritance belongs to his sons only; it is theirs. 18 The prince must not take any of the inheritance of the people, driving them off their property. He is to give his sons their inheritance out of his own property, so that not one of my people will be separated from their property.’”
 
+19 Then the man brought me through the entrance at the side of the gate to the sacred rooms facing north, which belonged to the priests, and showed me a place at the western end. 20 He said to me, “This is the place where the priests are to cook the guilt offering and the sin offering[e] and bake the grain offering, to avoid bringing them into the outer court and consecrating the people.”
+
+21 He then brought me to the outer court and led me around to its four corners, and I saw in each corner another court. 22 In the four corners of the outer court were enclosed[f] courts, forty cubits long and thirty cubits wide;[g] each of the courts in the four corners was the same size. 23 Around the inside of each of the four courts was a ledge of stone, with places for fire built all around under the ledge. 24 He said to me, “These are the kitchens where those who minister at the temple are to cook the sacrifices of the people.”
 
 
   
+         </p>
+          </div>
+                                  
 
+ <div className={styles.card}>
+           <h2 className={styles.chapter13}>Ezekiel Chpt XLVII</h2>
+            <p>
 
+The River From the Temple
+47 The man brought me back to the entrance to the temple, and I saw water coming out from under the threshold of the temple toward the east (for the temple faced east). The water was coming down from under the south side of the temple, south of the altar. 2 He then brought me out through the north gate and led me around the outside to the outer gate facing east, and the water was trickling from the south side.
 
+3 As the man went eastward with a measuring line in his hand, he measured off a thousand cubits[a] and then led me through water that was ankle-deep. 4 He measured off another thousand cubits and led me through water that was knee-deep. He measured off another thousand and led me through water that was up to the waist. 5 He measured off another thousand, but now it was a river that I could not cross, because the water had risen and was deep enough to swim in—a river that no one could cross. 6 He asked me, “Son of man, do you see this?”
+
+Then he led me back to the bank of the river. 7 When I arrived there, I saw a great number of trees on each side of the river. 8 He said to me, “This water flows toward the eastern region and goes down into the Arabah,[b] where it enters the Dead Sea. When it empties into the sea, the salty water there becomes fresh. 9 Swarms of living creatures will live wherever the river flows. There will be large numbers of fish, because this water flows there and makes the salt water fresh; so where the river flows everything will live. 10 Fishermen will stand along the shore; from En Gedi to En Eglaim there will be places for spreading nets. The fish will be of many kinds—like the fish of the Mediterranean Sea. 11 But the swamps and marshes will not become fresh; they will be left for salt. 12 Fruit trees of all kinds will grow on both banks of the river. Their leaves will not wither, nor will their fruit fail. Every month they will bear fruit, because the water from the sanctuary flows to them. Their fruit will serve for food and their leaves for healing.”
+
+The Boundaries of the Land
+13 This is what the Sovereign Lord says: “These are the boundaries of the land that you will divide among the twelve tribes of Israel as their inheritance, with two portions for Joseph. 14 You are to divide it equally among them. Because I swore with uplifted hand to give it to your ancestors, this land will become your inheritance.
+
+15 “This is to be the boundary of the land:
+
+“On the north side it will run from the Mediterranean Sea by the Hethlon road past Lebo Hamath to Zedad, 16 Berothah[c] and Sibraim (which lies on the border between Damascus and Hamath), as far as Hazer Hattikon, which is on the border of Hauran. 17 The boundary will extend from the sea to Hazar Enan,[d] along the northern border of Damascus, with the border of Hamath to the north. This will be the northern boundary.
+
+18 “On the east side the boundary will run between Hauran and Damascus, along the Jordan between Gilead and the land of Israel, to the Dead Sea and as far as Tamar.[e] This will be the eastern boundary.
+
+19 “On the south side it will run from Tamar as far as the waters of Meribah Kadesh, then along the Wadi of Egypt to the Mediterranean Sea. This will be the southern boundary.
+
+20 “On the west side, the Mediterranean Sea will be the boundary to a point opposite Lebo Hamath. This will be the western boundary.
+
+21 “You are to distribute this land among yourselves according to the tribes of Israel. 22 You are to allot it as an inheritance for yourselves and for the foreigners residing among you and who have children. You are to consider them as native-born Israelites; along with you they are to be allotted an inheritance among the tribes of Israel. 23 In whatever tribe a foreigner resides, there you are to give them their inheritance,” declares the Sovereign Lord.     
+  
+  
+  </p>
+          </div>
+
+ <div className={styles.card}>
+           <h2 className={styles.chapter13}>Ezekiel Chpt XLVIII</h2>
+            <p>
+The Division of the Land
+48 “These are the tribes, listed by name: At the northern frontier, Dan will have one portion; it will follow the Hethlon road to Lebo Hamath; Hazar Enan and the northern border of Damascus next to Hamath will be part of its border from the east side to the west side.
+
+2 “Asher will have one portion; it will border the territory of Dan from east to west.
+
+3 “Naphtali will have one portion; it will border the territory of Asher from east to west.
+
+4 “Manasseh will have one portion; it will border the territory of Naphtali from east to west.
+
+5 “Ephraim will have one portion; it will border the territory of Manasseh from east to west.
+
+6 “Reuben will have one portion; it will border the territory of Ephraim from east to west.
+
+7 “Judah will have one portion; it will border the territory of Reuben from east to west.
+
+8 “Bordering the territory of Judah from east to west will be the portion you are to present as a special gift. It will be 25,000 cubits[a] wide, and its length from east to west will equal one of the tribal portions; the sanctuary will be in the center of it.
+
+9 “The special portion you are to offer to the Lord will be 25,000 cubits long and 10,000 cubits[b] wide. 10 This will be the sacred portion for the priests. It will be 25,000 cubits long on the north side, 10,000 cubits wide on the west side, 10,000 cubits wide on the east side and 25,000 cubits long on the south side. In the center of it will be the sanctuary of the Lord. 11 This will be for the consecrated priests, the Zadokites, who were faithful in serving me and did not go astray as the Levites did when the Israelites went astray. 12 It will be a special gift to them from the sacred portion of the land, a most holy portion, bordering the territory of the Levites.
+
+13 “Alongside the territory of the priests, the Levites will have an allotment 25,000 cubits long and 10,000 cubits wide. Its total length will be 25,000 cubits and its width 10,000 cubits. 14 They must not sell or exchange any of it. This is the best of the land and must not pass into other hands, because it is holy to the Lord.
+
+15 “The remaining area, 5,000 cubits[c] wide and 25,000 cubits long, will be for the common use of the city, for houses and for pastureland. The city will be in the center of it 16 and will have these measurements: the north side 4,500 cubits,[d] the south side 4,500 cubits, the east side 4,500 cubits, and the west side 4,500 cubits. 17 The pastureland for the city will be 250 cubits[e] on the north, 250 cubits on the south, 250 cubits on the east, and 250 cubits on the west. 18 What remains of the area, bordering on the sacred portion and running the length of it, will be 10,000 cubits on the east side and 10,000 cubits on the west side. Its produce will supply food for the workers of the city. 19 The workers from the city who farm it will come from all the tribes of Israel. 20 The entire portion will be a square, 25,000 cubits on each side. As a special gift you will set aside the sacred portion, along with the property of the city.
+
+21 “What remains on both sides of the area formed by the sacred portion and the property of the city will belong to the prince. It will extend eastward from the 25,000 cubits of the sacred portion to the eastern border, and westward from the 25,000 cubits to the western border. Both these areas running the length of the tribal portions will belong to the prince, and the sacred portion with the temple sanctuary will be in the center of them. 22 So the property of the Levites and the property of the city will lie in the center of the area that belongs to the prince. The area belonging to the prince will lie between the border of Judah and the border of Benjamin.
+
+23 “As for the rest of the tribes: Benjamin will have one portion; it will extend from the east side to the west side.
+
+24 “Simeon will have one portion; it will border the territory of Benjamin from east to west.
+
+25 “Issachar will have one portion; it will border the territory of Simeon from east to west.
+
+26 “Zebulun will have one portion; it will border the territory of Issachar from east to west.
+
+27 “Gad will have one portion; it will border the territory of Zebulun from east to west.
+
+28 “The southern boundary of Gad will run south from Tamar to the waters of Meribah Kadesh, then along the Wadi of Egypt to the Mediterranean Sea.
+
+29 “This is the land you are to allot as an inheritance to the tribes of Israel, and these will be their portions,” declares the Sovereign Lord.
+
+The Gates of the New City
+30 “These will be the exits of the city: Beginning on the north side, which is 4,500 cubits long, 31 the gates of the city will be named after the tribes of Israel. The three gates on the north side will be the gate of Reuben, the gate of Judah and the gate of Levi.
+
+32 “On the east side, which is 4,500 cubits long, will be three gates: the gate of Joseph, the gate of Benjamin and the gate of Dan.
+
+33 “On the south side, which measures 4,500 cubits, will be three gates: the gate of Simeon, the gate of Issachar and the gate of Zebulun.
+
+34 “On the west side, which is 4,500 cubits long, will be three gates: the gate of Gad, the gate of Asher and the gate of Naphtali.
+
+35 “The distance all around will be 18,000 cubits.[f]
+
+“And the name of the city from that time on will be:
+
+the Lord is there.”
+            </p>
+          </div>              
 
   
                           
