@@ -35,9 +35,9 @@ export default function Home() {
                               />
         </div>
 <p className={styles.parables}>
-Ezekiel is 1 of 3 books that have yet to be coded & this will be a complete bible! Praise, honor & glory be to God most high! Holy, holy, holy is the Lord God Almighty.
+Ezekiel is finished, there are 3 to go! Song of Songs, Lamentations & Jeremiah! Praise, honor & glory be to God most high! Holy, holy, holy is the Lord God Almighty.
     </p>
-                      <div className={styles.nav13}>           
+                      <div className={styles.nav15}>           
       <a href="https://the-revelation.vercel.app/#micah">
              <Image 
                                 src="/previous.webp"
@@ -75,9 +75,9 @@ Ezekiel is 1 of 3 books that have yet to be coded & this will be a complete bibl
                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/R-CIPu1nko8?si=3goBJVAIB7q2tpGo?autop;ay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div> 
  
-      <div className={styles.grid13}>
+      <div className={styles.grid15}>
           <div className={styles.card}>
-            <h2 className={styles.chapter13}>Ezekiel Chpt I</h2>
+            <h2 className={styles.chapter15}>Ezekiel Chpt I</h2>
             <p>
 Ezekiel’s Inaugural Vision
 1 In my thirtieth year, in the fourth month on the fifth day, while I was among the exiles by the Kebar River, the heavens were opened and I saw visions of God.
@@ -115,7 +115,7 @@ Ezekiel’s Call to Be a Prophet
           </div>
 
  <div className={styles.card}>
-           <h2 className={styles.chapter13}>Ezekiel Chpt III</h2>
+           <h2 className={styles.chapter15}>Ezekiel Chpt III</h2>
             <p>
 
 3 And he said to me, “Son of man, eat what is before you, eat this scroll; then go and speak to the people of Israel.” 2 So I opened my mouth, and he gave me the scroll to eat.
@@ -162,7 +162,7 @@ Siege of Jerusalem Symbolized
               </div>
 
           <div className={styles.card}>
-           <h2 className={styles.chapter13}>Ezekiel Chpt V</h2>
+           <h2 className={styles.chapter15}>Ezekiel Chpt V</h2>
             <p>
 God’s Razor of Judgment
 5 “Now, son of man, take a sharp sword and use it as a barber’s razor to shave your head and your beard. Then take a set of scales and divide up the hair. 2 When the days of your siege come to an end, burn a third of the hair inside the city. Take a third and strike it with the sword all around the city. And scatter a third to the wind. For I will pursue them with drawn sword. 3 But take a few hairs and tuck them away in the folds of your garment. 4 Again, take a few of these and throw them into the fire and burn them up. A fire will spread from there to all Israel.
@@ -197,7 +197,7 @@ Doom for the Mountains of Israel
 
 
  <div className={styles.card}>
-            <h2 className={styles.chapter13}>Ezekiel Chpt VII</h2>
+            <h2 className={styles.chapter15}>Ezekiel Chpt VII</h2>
             <p>
 The End Has Come
 7 The word of the Lord came to me: 2 “Son of man, this is what the Sovereign Lord says to the land of Israel:
@@ -355,7 +355,7 @@ Idolatry in the Temple
           </div>
 
  <div className={styles.card}>
-           <h2 className={styles.chapter13}>Ezekiel Chpt IX</h2>
+           <h2 className={styles.chapter15}>Ezekiel Chpt IX</h2>
             <p>
 
 Judgment on the Idolaters
@@ -400,7 +400,7 @@ God’s Glory Departs From the Temple
               </div>
 
           <div className={styles.card}>
-           <h2 className={styles.chapter13}>Ezekiel Chpt XI</h2>
+           <h2 className={styles.chapter15}>Ezekiel Chpt XI</h2>
             <p>
 
 God’s Sure Judgment on Jerusalem
@@ -463,7 +463,7 @@ There Will Be No Delay
                                   
 
  <div className={styles.card}>
-           <h2 className={styles.chapter13}>Ezekiel Chpt XIII</h2>
+           <h2 className={styles.chapter15}>Ezekiel Chpt XIII</h2>
             <p>
 
 False Prophets Condemned
@@ -510,7 +510,7 @@ Jerusalem’s Judgment Inescapable
                                   
 
    <div className={styles.card}>
-           <h2 className={styles.chapter13}>Ezekiel Chpt XV</h2>
+           <h2 className={styles.chapter15}>Ezekiel Chpt XV</h2>
             <p>
 Jerusalem as a Useless Vine
 15 The word of the Lord came to me: 2 “Son of man, how is the wood of a vine different from that of a branch from any of the trees in the forest? 3 Is wood ever taken from it to make anything useful? Do they make pegs from it to hang things on? 4 And after it is thrown on the fire as fuel and the fire burns both ends and chars the middle, is it then useful for anything? 5 If it was not useful for anything when it was whole, how much less can it be made into something useful when the fire has burned it and it is charred?
@@ -561,7 +561,7 @@ Jerusalem as an Adulterous Wife
 
 
  <div className={styles.card}>
-            <h2 className={styles.chapter13}>Ezekiel Chpt XVII</h2>
+            <h2 className={styles.chapter15}>Ezekiel Chpt XVII</h2>
                       <p>
 
   Two Eagles and a Vine
@@ -660,7 +660,7 @@ He will not die for his father’s sin; he will surely live. 18 But his father w
           </div>
 
  <div className={styles.card}>
-           <h2 className={styles.chapter13}>Ezekiel Chpt XIX</h2>
+           <h2 className={styles.chapter15}>Ezekiel Chpt XIX</h2>
             <p>
 
 A Lament Over Israel’s Princes
@@ -763,7 +763,7 @@ Prophecy Against the South
               </div>
 
           <div className={styles.card}>
-           <h2 className={styles.chapter13}>Ezekiel Chpt XXI</h2>
+           <h2 className={styles.chapter15}>Ezekiel Chpt XXI</h2>
             <p>
 
 Babylon as God’s Sword of Judgment
@@ -871,7 +871,7 @@ Judgment on Jerusalem’s Sins
                                   
 
  <div className={styles.card}>
-           <h2 className={styles.chapter13}>Ezekiel Chpt XXIII</h2>
+           <h2 className={styles.chapter15}>Ezekiel Chpt XXIII</h2>
             <p>
 
 Two Adulterous Sisters
@@ -990,7 +990,7 @@ Ezekiel’s Wife Dies
 
 
    <div className={styles.card}>
-           <h2 className={styles.chapter13}>Ezekiel Chpt XXV</h2>
+           <h2 className={styles.chapter15}>Ezekiel Chpt XXV</h2>
             <p>
 
 A Prophecy Against Ammon
@@ -1035,7 +1035,7 @@ the islands in the sea
 
 
  <div className={styles.card}>
-            <h2 className={styles.chapter13}>Ezekiel Chpt XXVII</h2>
+            <h2 className={styles.chapter15}>Ezekiel Chpt XXVII</h2>
             <p>
 
 A Lament Over Tyre
@@ -1258,7 +1258,7 @@ Then you will know that I am the Lord.
           </div>
 
  <div className={styles.card}>
-           <h2 className={styles.chapter13}>Ezekiel Chpt XXIX</h2>
+           <h2 className={styles.chapter15}>Ezekiel Chpt XXIX</h2>
             <p>
 
 A Prophecy Against Egypt
@@ -1386,7 +1386,7 @@ Pharaoh’s Arms Are Broken
               </div>
 
           <div className={styles.card}>
-           <h2 className={styles.chapter13}>Ezekiel Chpt XXXI</h2>
+           <h2 className={styles.chapter15}>Ezekiel Chpt XXXI</h2>
             <p>
 
 Pharaoh as a Felled Cedar of Lebanon
@@ -1530,7 +1530,7 @@ Egypt’s Descent Into the Realm of the Dead
                                   
 
  <div className={styles.card}>
-           <h2 className={styles.chapter13}>Ezekiel Chpt XXXIII</h2>
+           <h2 className={styles.chapter15}>Ezekiel Chpt XXXIII</h2>
             <p>
 Renewal of Ezekiel’s Call as Watchman
 33 The word of the Lord came to me: 2 “Son of man, speak to your people and say to them: ‘When I bring the sword against a land, and the people of the land choose one of their men and make him their watchman, 3 and he sees the sword coming against the land and blows the trumpet to warn the people, 4 then if anyone hears the trumpet but does not heed the warning and the sword comes and takes their life, their blood will be on their own head. 5 Since they heard the sound of the trumpet but did not heed the warning, their blood will be on their own head. If they had heeded the warning, they would have saved themselves. 6 But if the watchman sees the sword coming and does not blow the trumpet to warn the people and the sword comes and takes someone’s life, that person’s life will be taken because of their sin, but I will hold the watchman accountable for their blood.’
@@ -1580,7 +1580,7 @@ The Lord Will Be Israel’s Shepherd
 
 
 <div className={styles.card}>
-           <h2 className={styles.chapter13}>Ezekiel Chpt XXXV</h2>
+           <h2 className={styles.chapter15}>Ezekiel Chpt XXXV</h2>
             <p>
 
 Find answers to your Bible questions with Bible Gateway Plus. Try it free today!
@@ -1632,7 +1632,7 @@ Israel’s Restoration Assured
 
 
  <div className={styles.card}>
-            <h2 className={styles.chapter13}>Ezekiel Chpt XXXVII</h2>
+            <h2 className={styles.chapter15}>Ezekiel Chpt XXXVII</h2>
             <p>
 
 The Valley of Dry Bones
@@ -1679,7 +1679,7 @@ The Lord’s Great Victory Over the Nations
           </div>
 
  <div className={styles.card}>
-           <h2 className={styles.chapter13}>Ezekiel Chpt XXXIX</h2>
+           <h2 className={styles.chapter15}>Ezekiel Chpt XXXIX</h2>
             <p>
 
 39 “Son of man, prophesy against Gog and say: ‘This is what the Sovereign Lord says: I am against you, Gog, chief prince of[a] Meshek and Tubal. 2 I will turn you around and drag you along. I will bring you from the far north and send you against the mountains of Israel. 3 Then I will strike your bow from your left hand and make your arrows drop from your right hand. 4 On the mountains of Israel you will fall, you and all your troops and the nations with you. I will give you as food to all kinds of carrion birds and to the wild animals. 5 You will fall in the open field, for I have spoken, declares the Sovereign Lord. 6 I will send fire on Magog and on those who live in safety in the coastlands, and they will know that I am the Lord.
@@ -1753,7 +1753,7 @@ The New Temple
               </div>
 
           <div className={styles.card}>
-           <h2 className={styles.chapter13}>Ezekiel Chpt XLI</h2>
+           <h2 className={styles.chapter15}>Ezekiel Chpt XLI</h2>
             <p>
 
 41 Then the man brought me to the main hall and measured the jambs; the width of the jambs was six cubits[a] on each side.[b] 2 The entrance was ten cubits[c] wide, and the projecting walls on each side of it were five cubits[d] wide. He also measured the main hall; it was forty cubits long and twenty cubits wide.[e]
@@ -1797,7 +1797,7 @@ The Rooms for the Priests
                                   
 
  <div className={styles.card}>
-           <h2 className={styles.chapter13}>Ezekiel Chpt XLIII</h2>
+           <h2 className={styles.chapter15}>Ezekiel Chpt XLIII</h2>
             <p>
 God’s Glory Returns to the Temple
 43 Then the man brought me to the gate facing east, 2 and I saw the glory of the God of Israel coming from the east. His voice was like the roar of rushing waters, and the land was radiant with his glory. 3 The vision I saw was like the vision I had seen when he[a] came to destroy the city and like the visions I had seen by the Kebar River, and I fell facedown. 4 The glory of the Lord entered the temple through the gate facing east. 5 Then the Spirit lifted me up and brought me into the inner court, and the glory of the Lord filled the temple.
@@ -1853,7 +1853,7 @@ The Priesthood Restored
 
 
           <div className={styles.card}>
-           <h2 className={styles.chapter13}>Ezekiel Chpt XLV</h2>
+           <h2 className={styles.chapter15}>Ezekiel Chpt XLV</h2>
             <p>
 
 Israel Fully Restored
@@ -1900,7 +1900,7 @@ Israel Fully Restored
                                   
 
  <div className={styles.card}>
-           <h2 className={styles.chapter13}>Ezekiel Chpt XLVII</h2>
+           <h2 className={styles.chapter15}>Ezekiel Chpt XLVII</h2>
             <p>
 
 The River From the Temple
