@@ -11,6 +11,1105 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
+<main id="jeremiah" className={styles.main}>
+      
+      <div className={styles.hero}>
+      
+            <h2 className={styles.holy}>THE WORD</h2>
+                <h1 className={styles.bible}>
+                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
+                </h1>
+          
+        <h1 className={styles.title}>
+        JEREMIAH
+        </h1>
+         <div  className={styles.image}>
+                   
+                               <Image 
+                                src="/jeremiah.png"
+                                alt="isaiah"
+                                height={900}
+                                width={2000}
+                                priority
+                              />
+                    
+              
+                            
+</div> 
+<p className={styles.parables}>
+       
+                     Isaiah has a vision from the Lord pertaining to Judah & Jerusalem.             
+      </p>
+<div className={styles.nav3}>               
+
+    <a href="https://john-zeta.vercel.app/">
+           <Image className={styles.arrow}
+                                src="/previous.webp"
+                                alt="Left arrow"
+                                height={75}
+                                width={75}
+                                priority
+                              />
+       </a>  
+  
+  <a href="https://cash.app/$JNutt367">
+              <Image className={styles.arrow}
+                                src="/donations_please.webp"
+                                alt="youtube-icon"
+                                height={75}
+                                width={90}
+                                priority
+                              /> 
+       </a>
+           
+           
+        <a href="https://mytorah.vercel.app/#exodus">
+             <Image className={styles.arrow}
+                                src="/next.webp"
+                                alt="right arrow"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+       </a>           
+        </div>
+   <div className={styles.iframe}>
+             <iframe width="100%" height="315" src="https://www.youtube.com/embed/RSK36cHbrk0?si=aNM6Jj2xd18dppVN?autoplay=1mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                  
+          </div>
+        
+         <div className={styles.grid3}>
+                                  <div className={styles.card}>
+            <h2  className={styles.chapter}>Jeremiah Chapter I</h2>
+            <p>
+<h4 className={styles.h4}>The Call of Jeremiah</h4>
+
+
+1 The words of Jeremiah son of Hilkiah, one of the priests at Anathoth in the territory of Benjamin. 2 The word of the Lord came to him in the thirteenth year of the reign of Josiah son of Amon king of Judah, 3 and through the reign of Jehoiakim son of Josiah king of Judah, down to the fifth month of the eleventh year of Zedekiah son of Josiah king of Judah, when the people of Jerusalem went into exile.
+
+The Call of Jeremiah
+4 The word of the Lord came to me, saying,
+
+5 “Before I formed you in the womb I knew[a] you,
+    before you were born I set you apart;
+    I appointed you as a prophet to the nations.”
+
+6 “Alas, Sovereign Lord,” I said, “I do not know how to speak; I am too young.”
+
+7 But the Lord said to me, “Do not say, ‘I am too young.’ You must go to everyone I send you to and say whatever I command you. 8 Do not be afraid of them, for I am with you and will rescue you,” declares the Lord.
+
+9 Then the Lord reached out his hand and touched my mouth and said to me, “I have put my words in your mouth. 10 See, today I appoint you over nations and kingdoms to uproot and tear down, to destroy and overthrow, to build and to plant.”
+
+11 The word of the Lord came to me: “What do you see, Jeremiah?”
+
+“I see the branch of an almond tree,” I replied.
+
+12 The Lord said to me, “You have seen correctly, for I am watching[b] to see that my word is fulfilled.”
+
+13 The word of the Lord came to me again: “What do you see?”
+
+“I see a pot that is boiling,” I answered. “It is tilting toward us from the north.”
+
+14 The Lord said to me, “From the north disaster will be poured out on all who live in the land. 15 I am about to summon all the peoples of the northern kingdoms,” declares the Lord.
+
+“Their kings will come and set up their thrones
+    in the entrance of the gates of Jerusalem;
+they will come against all her surrounding walls
+    and against all the towns of Judah.
+16 I will pronounce my judgments on my people
+    because of their wickedness in forsaking me,
+in burning incense to other gods
+    and in worshiping what their hands have made.
+
+17 “Get yourself ready! Stand up and say to them whatever I command you. Do not be terrified by them, or I will terrify you before them. 18 Today I have made you a fortified city, an iron pillar and a bronze wall to stand against the whole land—against the kings of Judah, its officials, its priests and the people of the land. 19 They will fight against you but will not overcome you, for I am with you and will rescue you,” declares the Lord.                   
+                                  </p>
+          </div>
+
+          <div className={styles.card}>
+              <h2  className={styles.chapter}>Jeremiah Chapter II</h2>
+            <p>
+                           <h4 className={styles.h4}>Israel Forsakes God</h4> 
+
+
+
+2 The word of the Lord came to me: 2 “Go and proclaim in the hearing of Jerusalem:
+
+“This is what the Lord says:
+
+“‘I remember the devotion of your youth,
+    how as a bride you loved me
+and followed me through the wilderness,
+    through a land not sown.
+3 Israel was holy to the Lord,
+    the firstfruits of his harvest;
+all who devoured her were held guilty,
+    and disaster overtook them,’”
+declares the Lord.
+
+4 Hear the word of the Lord, you descendants of Jacob,
+    all you clans of Israel.
+
+5 This is what the Lord says:
+
+“What fault did your ancestors find in me,
+    that they strayed so far from me?
+They followed worthless idols
+    and became worthless themselves.
+6 They did not ask, ‘Where is the Lord,
+    who brought us up out of Egypt
+and led us through the barren wilderness,
+    through a land of deserts and ravines,
+a land of drought and utter darkness,
+    a land where no one travels and no one lives?’
+7 I brought you into a fertile land
+    to eat its fruit and rich produce.
+But you came and defiled my land
+    and made my inheritance detestable.
+8 The priests did not ask,
+    ‘Where is the Lord?’
+Those who deal with the law did not know me;
+    the leaders rebelled against me.
+The prophets prophesied by Baal,
+    following worthless idols.
+
+9 “Therefore I bring charges against you again,”
+declares the Lord.
+    “And I will bring charges against your children’s children.
+10 Cross over to the coasts of Cyprus and look,
+    send to Kedar[a] and observe closely;
+    see if there has ever been anything like this:
+11 Has a nation ever changed its gods?
+    (Yet they are not gods at all.)
+But my people have exchanged their glorious God
+    for worthless idols.
+12 Be appalled at this, you heavens,
+    and shudder with great horror,”
+declares the Lord.
+13 “My people have committed two sins:
+They have forsaken me,
+    the spring of living water,
+and have dug their own cisterns,
+    broken cisterns that cannot hold water.
+14 Is Israel a servant, a slave by birth?
+    Why then has he become plunder?
+15 Lions have roared;
+    they have growled at him.
+They have laid waste his land;
+    his towns are burned and deserted.
+16 Also, the men of Memphis and Tahpanhes
+    have cracked your skull.
+17 Have you not brought this on yourselves
+    by forsaking the Lord your God
+    when he led you in the way?
+18 Now why go to Egypt
+    to drink water from the Nile[b]?
+And why go to Assyria
+    to drink water from the Euphrates?
+19 Your wickedness will punish you;
+    your backsliding will rebuke you.
+Consider then and realize
+    how evil and bitter it is for you
+when you forsake the Lord your God
+    and have no awe of me,”
+declares the Lord, the Lord Almighty.
+
+20 “Long ago you broke off your yoke
+    and tore off your bonds;
+    you said, ‘I will not serve you!’
+Indeed, on every high hill
+    and under every spreading tree
+    you lay down as a prostitute.
+21 I had planted you like a choice vine
+    of sound and reliable stock.
+How then did you turn against me
+    into a corrupt, wild vine?
+22 Although you wash yourself with soap
+    and use an abundance of cleansing powder,
+    the stain of your guilt is still before me,”
+declares the Sovereign Lord.
+23 “How can you say, ‘I am not defiled;
+    I have not run after the Baals’?
+See how you behaved in the valley;
+    consider what you have done.
+You are a swift she-camel
+    running here and there,
+24 a wild donkey accustomed to the desert,
+    sniffing the wind in her craving—
+    in her heat who can restrain her?
+Any males that pursue her need not tire themselves;
+    at mating time they will find her.
+25 Do not run until your feet are bare
+    and your throat is dry.
+But you said, ‘It’s no use!
+    I love foreign gods,
+    and I must go after them.’
+
+26 “As a thief is disgraced when he is caught,
+    so the people of Israel are disgraced—
+they, their kings and their officials,
+    their priests and their prophets.
+27 They say to wood, ‘You are my father,’
+    and to stone, ‘You gave me birth.’
+They have turned their backs to me
+    and not their faces;
+yet when they are in trouble, they say,
+    ‘Come and save us!’
+28 Where then are the gods you made for yourselves?
+    Let them come if they can save you
+    when you are in trouble!
+For you, Judah, have as many gods
+    as you have towns.
+
+29 “Why do you bring charges against me?
+    You have all rebelled against me,”
+declares the Lord.
+30 “In vain I punished your people;
+    they did not respond to correction.
+Your sword has devoured your prophets
+    like a ravenous lion.
+
+31 “You of this generation, consider the word of the Lord:
+
+“Have I been a desert to Israel
+    or a land of great darkness?
+Why do my people say, ‘We are free to roam;
+    we will come to you no more’?
+32 Does a young woman forget her jewelry,
+    a bride her wedding ornaments?
+Yet my people have forgotten me,
+    days without number.
+33 How skilled you are at pursuing love!
+    Even the worst of women can learn from your ways.
+34 On your clothes is found
+    the lifeblood of the innocent poor,
+    though you did not catch them breaking in.
+Yet in spite of all this
+35     you say, ‘I am innocent;
+    he is not angry with me.’
+But I will pass judgment on you
+    because you say, ‘I have not sinned.’
+36 Why do you go about so much,
+    changing your ways?
+You will be disappointed by Egypt
+    as you were by Assyria.
+37 You will also leave that place
+    with your hands on your head,
+for the Lord has rejected those you trust;
+    you will not be helped by them.
+            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+             <h2  className={styles.chapter}>Jeremiah Chapter III</h2>
+            <p>
+<h4 className={styles.h4}>should he return to her again?</h4>
+
+
+“If a man divorces his wife
+    and she leaves him and marries another man,
+should he return to her again?
+    Would not the land be completely defiled?
+But you have lived as a prostitute with many lovers—
+    would you now return to me?”
+declares the Lord.
+2 “Look up to the barren heights and see.
+    Is there any place where you have not been ravished?
+By the roadside you sat waiting for lovers,
+    sat like a nomad in the desert.
+You have defiled the land
+    with your prostitution and wickedness.
+3 Therefore the showers have been withheld,
+    and no spring rains have fallen.
+Yet you have the brazen look of a prostitute;
+    you refuse to blush with shame.
+4 Have you not just called to me:
+    ‘My Father, my friend from my youth,
+5 will you always be angry?
+    Will your wrath continue forever?’
+This is how you talk,
+    but you do all the evil you can.”
+
+Unfaithful Israel
+6 During the reign of King Josiah, the Lord said to me, “Have you seen what faithless Israel has done? She has gone up on every high hill and under every spreading tree and has committed adultery there. 7 I thought that after she had done all this she would return to me but she did not, and her unfaithful sister Judah saw it. 8 I gave faithless Israel her certificate of divorce and sent her away because of all her adulteries. Yet I saw that her unfaithful sister Judah had no fear; she also went out and committed adultery. 9 Because Israel’s immorality mattered so little to her, she defiled the land and committed adultery with stone and wood. 10 In spite of all this, her unfaithful sister Judah did not return to me with all her heart, but only in pretense,” declares the Lord.
+
+11 The Lord said to me, “Faithless Israel is more righteous than unfaithful Judah. 12 Go, proclaim this message toward the north:
+
+“‘Return, faithless Israel,’ declares the Lord,
+    ‘I will frown on you no longer,
+for I am faithful,’ declares the Lord,
+    ‘I will not be angry forever.
+13 Only acknowledge your guilt—
+    you have rebelled against the Lord your God,
+you have scattered your favors to foreign gods
+    under every spreading tree,
+    and have not obeyed me,’”
+declares the Lord.
+
+14 “Return, faithless people,” declares the Lord, “for I am your husband. I will choose you—one from a town and two from a clan—and bring you to Zion. 15 Then I will give you shepherds after my own heart, who will lead you with knowledge and understanding. 16 In those days, when your numbers have increased greatly in the land,” declares the Lord, “people will no longer say, ‘The ark of the covenant of the Lord.’ It will never enter their minds or be remembered; it will not be missed, nor will another one be made. 17 At that time they will call Jerusalem The Throne of the Lord, and all nations will gather in Jerusalem to honor the name of the Lord. No longer will they follow the stubbornness of their evil hearts. 18 In those days the people of Judah will join the people of Israel, and together they will come from a northern land to the land I gave your ancestors as an inheritance.
+
+19 “I myself said,
+
+“‘How gladly would I treat you like my children
+    and give you a pleasant land,
+    the most beautiful inheritance of any nation.’
+I thought you would call me ‘Father’
+    and not turn away from following me.
+20 But like a woman unfaithful to her husband,
+    so you, Israel, have been unfaithful to me,”
+declares the Lord.
+
+21 A cry is heard on the barren heights,
+    the weeping and pleading of the people of Israel,
+because they have perverted their ways
+    and have forgotten the Lord their God.
+
+22 “Return, faithless people;
+    I will cure you of backsliding.”
+
+“Yes, we will come to you,
+    for you are the Lord our God.
+23 Surely the idolatrous commotion on the hills
+    and mountains is a deception;
+surely in the Lord our God
+    is the salvation of Israel.
+24 From our youth shameful gods have consumed
+    the fruits of our ancestors’ labor—
+their flocks and herds,
+    their sons and daughters.
+25 Let us lie down in our shame,
+    and let our disgrace cover us.
+We have sinned against the Lord our God,
+    both we and our ancestors;
+from our youth till this day
+    we have not obeyed the Lord our God.”
+              </p>
+  </div>
+
+          <div
+            className={styles.card}
+          >
+             <h2  className={styles.chapter}>Jeremiah Chapter IV</h2>
+            <p>
+            
+<h4 className={styles.h4}>“If you, Israel, will return,
+    then return to me,”
+declares the Lord.</h4>
+
+“If you, Israel, will return,
+    then return to me,”
+declares the Lord.
+“If you put your detestable idols out of my sight
+    and no longer go astray,
+2 and if in a truthful, just and righteous way
+    you swear, ‘As surely as the Lord lives,’
+then the nations will invoke blessings by him
+    and in him they will boast.”
+
+3 This is what the Lord says to the people of Judah and to Jerusalem:
+
+“Break up your unplowed ground
+    and do not sow among thorns.
+4 Circumcise yourselves to the Lord,
+    circumcise your hearts,
+    you people of Judah and inhabitants of Jerusalem,
+or my wrath will flare up and burn like fire
+    because of the evil you have done—
+    burn with no one to quench it.
+
+Disaster From the North
+5 “Announce in Judah and proclaim in Jerusalem and say:
+    ‘Sound the trumpet throughout the land!’
+Cry aloud and say:
+    ‘Gather together!
+    Let us flee to the fortified cities!’
+6 Raise the signal to go to Zion!
+    Flee for safety without delay!
+For I am bringing disaster from the north,
+    even terrible destruction.”
+
+7 A lion has come out of his lair;
+    a destroyer of nations has set out.
+He has left his place
+    to lay waste your land.
+Your towns will lie in ruins
+    without inhabitant.
+8 So put on sackcloth,
+    lament and wail,
+for the fierce anger of the Lord
+    has not turned away from us.
+
+9 “In that day,” declares the Lord,
+    “the king and the officials will lose heart,
+the priests will be horrified,
+    and the prophets will be appalled.”
+
+10 Then I said, “Alas, Sovereign Lord! How completely you have deceived this people and Jerusalem by saying, ‘You will have peace,’ when the sword is at our throats!”
+
+11 At that time this people and Jerusalem will be told, “A scorching wind from the barren heights in the desert blows toward my people, but not to winnow or cleanse; 12 a wind too strong for that comes from me. Now I pronounce my judgments against them.”
+
+13 Look! He advances like the clouds,
+    his chariots come like a whirlwind,
+his horses are swifter than eagles.
+    Woe to us! We are ruined!
+14 Jerusalem, wash the evil from your heart and be saved.
+    How long will you harbor wicked thoughts?
+15 A voice is announcing from Dan,
+    proclaiming disaster from the hills of Ephraim.
+16 “Tell this to the nations,
+    proclaim concerning Jerusalem:
+‘A besieging army is coming from a distant land,
+    raising a war cry against the cities of Judah.
+17 They surround her like men guarding a field,
+    because she has rebelled against me,’”
+declares the Lord.
+18 “Your own conduct and actions
+    have brought this on you.
+This is your punishment.
+    How bitter it is!
+    How it pierces to the heart!”
+
+19 Oh, my anguish, my anguish!
+    I writhe in pain.
+Oh, the agony of my heart!
+    My heart pounds within me,
+    I cannot keep silent.
+For I have heard the sound of the trumpet;
+    I have heard the battle cry.
+20 Disaster follows disaster;
+    the whole land lies in ruins.
+In an instant my tents are destroyed,
+    my shelter in a moment.
+21 How long must I see the battle standard
+    and hear the sound of the trumpet?
+
+22 “My people are fools;
+    they do not know me.
+They are senseless children;
+    they have no understanding.
+They are skilled in doing evil;
+    they know not how to do good.”
+
+23 I looked at the earth,
+    and it was formless and empty;
+and at the heavens,
+    and their light was gone.
+24 I looked at the mountains,
+    and they were quaking;
+    all the hills were swaying.
+25 I looked, and there were no people;
+    every bird in the sky had flown away.
+26 I looked, and the fruitful land was a desert;
+    all its towns lay in ruins
+    before the Lord, before his fierce anger.
+
+27 This is what the Lord says:
+
+“The whole land will be ruined,
+    though I will not destroy it completely.
+28 Therefore the earth will mourn
+    and the heavens above grow dark,
+because I have spoken and will not relent,
+    I have decided and will not turn back.”
+
+29 At the sound of horsemen and archers
+    every town takes to flight.
+Some go into the thickets;
+    some climb up among the rocks.
+All the towns are deserted;
+    no one lives in them.
+
+30 What are you doing, you devastated one?
+    Why dress yourself in scarlet
+    and put on jewels of gold?
+Why highlight your eyes with makeup?
+    You adorn yourself in vain.
+Your lovers despise you;
+    they want to kill you.
+
+31 I hear a cry as of a woman in labor,
+    a groan as of one bearing her first child—
+the cry of Daughter Zion gasping for breath,
+    stretching out her hands and saying,
+“Alas! I am fainting;
+    my life is given over to murderers.”
+      </p>
+          </div>
+          <div
+            className={styles.card}
+          >
+           <h2  className={styles.chapter}>Jeremiah Chapter V</h2>
+            <p>
+            
+<h4 className={styles.h4}>      </h4>
+
+
+
+  
+            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+           <h2  className={styles.chapter}>Jeremiah Chapter VI</h2>
+            <p>
+           
+<h4 className={styles.h4}>              </h4>
+ 
+
+  
+            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+             <h2  className={styles.chapter}>Jeremiah Chapter VII</h2>
+            <p>
+ <h4 className={styles.h4}>             </h4> 
+ 
+
+
+
+            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          > 
+           <h2  className={styles.chapter}>Jeremiah Chapter VIII</h2>
+            <p>
+            
+<h4 className={styles.h4}>              </h4>  
+
+
+              </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+  <h2  className={styles.chapter}>Jeremiah Chapter IX</h2>
+            <p>
+            
+<h4 className={styles.h4}>               </h4>
+
+
+            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+             <h2  className={styles.chapter}>Jeremiah Chapter X</h2>
+            <p>
+            
+<h4 className={styles.h4}>                   </h4>
+
+  
+            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+             <h2  className={styles.chapter}>Jeremiah Chapter XI</h2>
+            <p>
+            
+<h4 className={styles.h4}>                </h4>
+
+  
+            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+             <h2  className={styles.chapter}>Jeremiah Chapter XII</h2>
+            <p>
+           
+<h4 className={styles.h4}>            </h4>
+    
+            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+           <h2  className={styles.chapter}>Jeremiah Chapter XIII</h2>
+            <p>
+            
+<h4 className={styles.h4}>               </h4>
+     
+
+            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+             <h2  className={styles.chapter}>Jeremiah Chapter XIV</h2>
+            <p>
+            
+<h4 className={styles.h4}>              </h4>
+              
+              
+              </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+             <h2  className={styles.chapter}>Jeremiah Chapter XV</h2>
+            <p>
+           
+<h4 className={styles.h4}>                 </h4>
+ 
+
+             </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+             <h2  className={styles.chapter}>Jeremiah Chapter XVI</h2>
+            <p>
+          <h4 className={styles.h4}>                  </h4>
+    
+                </p>
+          </div>
+
+          <div className={styles.card}>
+            <h2  className={styles.chapter}>Jeremiah Chapter XVII</h2>
+            <p>
+                  <h4 className={styles.h4}>             </h4>
+ 
+  
+            </p>
+          </div>
+
+          <div className={styles.card}>
+            <h2  className={styles.chapter}>Jeremiah Chapter XVIII</h2>
+                        <p>
+ <h4 className={styles.h4}>                </h4>
+ 
+
+                        </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+            <h2  className={styles.chapter}>Jeremiah Chapter XIX</h2>
+                    <p>
+                            <h4 className={styles.h4}>               </h4>
+ 
+                      </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+           <h2  className={styles.chapter}>Jeremiah Chapter XX</h2>
+            <p>
+         <h4 className={styles.h4}>                 </h4>
+
+            </p>
+          </div>
+          <div
+            className={styles.card}
+          >
+         <h2  className={styles.chapter}>Jeremiah Chapter XXI</h2>
+            <p>
+            
+<h4 className={styles.h4}>               </h4>
+
+              </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+           <h2  className={styles.chapter}>Jeremiah Chapter XXII</h2>
+            <p>
+           
+<h4 className={styles.h4}>          </h4>
+  
+           </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+            <h2  className={styles.chapter}>Jeremiah Chapter XXIII</h2>
+                  <p>
+                 <h4 className={styles.h4}>               </h4>
+                  
+              
+                            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+            <h2  className={styles.chapter}>Jeremiah Chapter XXIV</h2>
+                        <p>
+                     <h4 className={styles.h4}>            </h4>
+
+                            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+           <h2  className={styles.chapter}>Jeremiah Chapter XXV</h2>
+            <p>
+            
+<h4 className={styles.h4}>              </h4>
+
+           
+            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+            <h2  className={styles.chapter}>Jeremiah Chapter XXVI</h2>
+                          <p>
+                         
+             <h4 className={styles.h4}>             </h4>
+
+                            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+           <h2  className={styles.chapter}>Jeremiah Chapter XXVII</h2>
+                                <p>
+                               
+<h4 className={styles.h4}>               </h4>
+              
+              
+              </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Jeremiah Chapter XXVIII</h2>
+                                          <p>
+                                         
+                             <h4 className={styles.h4}>                </h4> 
+
+              
+                                      </p>
+          </div>
+
+    <div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Jeremiah Chapter XXIX</h2>
+                                          <p>
+                                         
+                            <h4 className={styles.h4}>            </h4>
+
+
+  </p>
+          </div>
+
+
+    <div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Jeremiah Chapter XXX</h2>
+                                          <p>
+                                         
+
+
+  
+                                          </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Jeremiah Chapter XXXI</h2>
+                                          <p>
+                                         
+<h4 className={styles.h4}>             </h4>
+
+                                          </p>
+          </div>
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Jeremiah Chapter XXXII</h2>
+                                          <p>
+                                         
+<h4 className={styles.h4}>             </h4>
+                            
+  </p>
+          </div>
+
+
+              <div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Jeremiah Chapter XXXIII</h2>
+                                          <p>
+                                         
+                                         <h4 className={styles.h4}>           </h4>
+                                    
+                                          </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Jeremiah Chapter XXXIV</h2>
+                                          <p>
+                     <h4 className={styles.h4}>               </h4>
+                            
+
+
+
+                                          </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Jeremiah Chapter XXXV</h2>
+                                          <p>
+                                         
+                                       <h4 className={styles.h4}>                 </h4>
+                             
+                                          </p>
+          </div>
+
+
+              <div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Jeremiah Chapter XXXVI</h2>
+                                          <p>
+                                         
+                                  <h4 className={styles.h4}>                </h4>
+             
+                                          </p>
+          </div>
+
+
+              <div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Jeremiah Chapter XXXVII</h2>
+                                          <p>
+                                         
+                                                   <h4 className={styles.h4}>            </h4>
+                                                  
+                                          </p>
+          </div>
+              
+              <div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Jeremiah Chapter XXXVIII</h2>
+                                          <p>
+                                         
+                                            <h4 className={styles.h4}>               </h4>
+                                      
+                                          </p>
+          </div>
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Jeremiah Chapter XXXIX</h2>
+                                          <p>
+                                         
+                                             <h4 className={styles.h4}>              </h4>
+                                
+                                          </p>
+          </div>
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Jeremiah Chapter XL</h2>
+                                          <p>
+                                         
+                                              <h4 className={styles.h4}>                </h4>
+                                       
+                                          </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Jeremiah Chapter XLI</h2>
+                                          <p>
+                                         
+                                       <h4 className={styles.h4}>             </h4>
+                                      
+                                          </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Jeremiah Chapter XLII</h2>
+                                          <p>
+                                         
+                                             <h4 className={styles.h4}>                  </h4>
+                        
+                                          </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Jeremiah Chapter XLIII</h2>
+                                          <p>
+                                         
+                                                <h4 className={styles.h4}>                 </h4>
+                        
+              
+                                          </p>
+          </div>              
+              
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Jeremiah Chapter XLIV</h2>
+                                          <p>
+                                         
+                                              <h4 className={styles.h4}>            </h4>
+                                          
+                                            </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Jeremiah Chapter XLV</h2>
+                                          <p>
+                                         
+                                                  <h4 className={styles.h4}>                  </h4>
+                                                 
+                                          </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Jeremiah Chapter XLVI</h2>
+                                          <p>
+                                         
+                                         <h4 className={styles.h4}>              </h4>
+                                   
+              
+                                            </p>
+          </div>           
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Jeremiah Chapter XLVII</h2>
+                                          <p>
+                                         
+                                              <h4 className={styles.h4}>                 </h4> 
+              
+                                          </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Jeremiah Chapter XLVIII</h2>
+                                          <p>
+                                         
+                                               <h4 className={styles.h4}>                    </h4>
+                         
+              
+              </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Jeremiah Chapter XLIX</h2>
+                                          <p>
+                                         
+                                                          <h4 className={styles.h4}>            </h4>
+                                           
+
+                                          </p>
+          </div>           
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Jeremiah Chapter L</h2>
+                                          <p>
+                                         
+<h4 className={styles.h4}>              </h4>
+         
+4 
+                                          </p>
+          </div>           
+
+
+
+     <div className={styles.card}>
+            <h2  className={styles.chapter}>Jeremiah Chapter LI</h2>
+            <p>
+<h4 className={styles.h4}>            </h4>
+
+                                  
+                                  </p>
+          </div>
+
+          <div className={styles.card}>
+              <h2  className={styles.chapter}>Jeremiah Chapter LII</h2>
+            <p>
+                           <h4 className={styles.h4}>           </h4> 
+
+  
+            </p>
+          </div>
+
+             
+          </div>  
+           
+       </div>    
+ 
+  </main>  
+
+
+
+              
+
+
+    
+
+    
 
 <main id="ezekiel" className={styles.main}>
       
