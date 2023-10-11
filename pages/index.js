@@ -4177,7 +4177,7 @@ Jehoiachin Released
 
 
 
- <main id="malachi" className={styles.main}>
+ <main id="lamentations" className={styles.main}>
       
        
        
@@ -4188,7 +4188,7 @@ Jehoiachin Released
                 </h1>
         
         <h1 className={styles.title}>
-          MALACHI
+          LAMENTATIONS
         </h1>
          <div  className={styles.image}>
        <Image 
@@ -4200,7 +4200,7 @@ Jehoiachin Released
                               />
         </div>
 <p className={styles.parables}>
-     Lamentations means funeral songs, and is written in grievance to the destruction of Jerusalem.                     
+     Lamentations means funeral songs, and is written in grievance to the destruction of Jerusalem most likely by Jeremiah.                    
 </p>
                       <div className={styles.nav5}>           
       <a href="https://galatians.vercel.app/#first_peter">
