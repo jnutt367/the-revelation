@@ -2756,8 +2756,19 @@ Freedom for Slaves
           <h2  className={styles.chapter}>Jeremiah Chapter XXXV</h2>
                                           <p>
                                          
-                                       <h4 className={styles.h4}>                 </h4>
-                             
+                                       <h4 className={styles.h4}>The Rekabites</h4>
+35 This is the word that came to Jeremiah from the Lord during the reign of Jehoiakim son of Josiah king of Judah: 2 “Go to the Rekabite family and invite them to come to one of the side rooms of the house of the Lord and give them wine to drink.”
+
+3 So I went to get Jaazaniah son of Jeremiah, the son of Habazziniah, and his brothers and all his sons—the whole family of the Rekabites. 4 I brought them into the house of the Lord, into the room of the sons of Hanan son of Igdaliah the man of God. It was next to the room of the officials, which was over that of Maaseiah son of Shallum the doorkeeper. 5 Then I set bowls full of wine and some cups before the Rekabites and said to them, “Drink some wine.”
+
+6 But they replied, “We do not drink wine, because our forefather Jehonadab[a] son of Rekab gave us this command: ‘Neither you nor your descendants must ever drink wine. 7 Also you must never build houses, sow seed or plant vineyards; you must never have any of these things, but must always live in tents. Then you will live a long time in the land where you are nomads.’ 8 We have obeyed everything our forefather Jehonadab son of Rekab commanded us. Neither we nor our wives nor our sons and daughters have ever drunk wine 9 or built houses to live in or had vineyards, fields or crops. 10 We have lived in tents and have fully obeyed everything our forefather Jehonadab commanded us. 11 But when Nebuchadnezzar king of Babylon invaded this land, we said, ‘Come, we must go to Jerusalem to escape the Babylonian[b] and Aramean armies.’ So we have remained in Jerusalem.”
+
+12 Then the word of the Lord came to Jeremiah, saying: 13 “This is what the Lord Almighty, the God of Israel, says: Go and tell the people of Judah and those living in Jerusalem, ‘Will you not learn a lesson and obey my words?’ declares the Lord. 14 ‘Jehonadab son of Rekab ordered his descendants not to drink wine and this command has been kept. To this day they do not drink wine, because they obey their forefather’s command. But I have spoken to you again and again, yet you have not obeyed me. 15 Again and again I sent all my servants the prophets to you. They said, “Each of you must turn from your wicked ways and reform your actions; do not follow other gods to serve them. Then you will live in the land I have given to you and your ancestors.” But you have not paid attention or listened to me. 16 The descendants of Jehonadab son of Rekab have carried out the command their forefather gave them, but these people have not obeyed me.’
+
+17 “Therefore this is what the Lord God Almighty, the God of Israel, says: ‘Listen! I am going to bring on Judah and on everyone living in Jerusalem every disaster I pronounced against them. I spoke to them, but they did not listen; I called to them, but they did not answer.’”
+
+18 Then Jeremiah said to the family of the Rekabites, “This is what the Lord Almighty, the God of Israel, says: ‘You have obeyed the command of your forefather Jehonadab and have followed all his instructions and have done everything he ordered.’ 19 Therefore this is what the Lord Almighty, the God of Israel, says: ‘Jehonadab son of Rekab will never fail to have a descendant to serve me.’”
+              
                                           </p>
           </div>
 
@@ -2768,8 +2779,28 @@ Freedom for Slaves
           <h2  className={styles.chapter}>Jeremiah Chapter XXXVI</h2>
                                           <p>
                                          
-                                  <h4 className={styles.h4}>                </h4>
-             
+                                  <h4 className={styles.h4}>Jehoiakim Burns Jeremiah’s Scroll</h4>
+
+36 In the fourth year of Jehoiakim son of Josiah king of Judah, this word came to Jeremiah from the Lord: 2 “Take a scroll and write on it all the words I have spoken to you concerning Israel, Judah and all the other nations from the time I began speaking to you in the reign of Josiah till now. 3 Perhaps when the people of Judah hear about every disaster I plan to inflict on them, they will each turn from their wicked ways; then I will forgive their wickedness and their sin.”
+
+4 So Jeremiah called Baruch son of Neriah, and while Jeremiah dictated all the words the Lord had spoken to him, Baruch wrote them on the scroll. 5 Then Jeremiah told Baruch, “I am restricted; I am not allowed to go to the Lord’s temple. 6 So you go to the house of the Lord on a day of fasting and read to the people from the scroll the words of the Lord that you wrote as I dictated. Read them to all the people of Judah who come in from their towns. 7 Perhaps they will bring their petition before the Lord and will each turn from their wicked ways, for the anger and wrath pronounced against this people by the Lord are great.”
+
+8 Baruch son of Neriah did everything Jeremiah the prophet told him to do; at the Lord’s temple he read the words of the Lord from the scroll. 9 In the ninth month of the fifth year of Jehoiakim son of Josiah king of Judah, a time of fasting before the Lord was proclaimed for all the people in Jerusalem and those who had come from the towns of Judah. 10 From the room of Gemariah son of Shaphan the secretary, which was in the upper courtyard at the entrance of the New Gate of the temple, Baruch read to all the people at the Lord’s temple the words of Jeremiah from the scroll.
+
+11 When Micaiah son of Gemariah, the son of Shaphan, heard all the words of the Lord from the scroll, 12 he went down to the secretary’s room in the royal palace, where all the officials were sitting: Elishama the secretary, Delaiah son of Shemaiah, Elnathan son of Akbor, Gemariah son of Shaphan, Zedekiah son of Hananiah, and all the other officials. 13 After Micaiah told them everything he had heard Baruch read to the people from the scroll, 14 all the officials sent Jehudi son of Nethaniah, the son of Shelemiah, the son of Cushi, to say to Baruch, “Bring the scroll from which you have read to the people and come.” So Baruch son of Neriah went to them with the scroll in his hand. 15 They said to him, “Sit down, please, and read it to us.”
+
+So Baruch read it to them. 16 When they heard all these words, they looked at each other in fear and said to Baruch, “We must report all these words to the king.” 17 Then they asked Baruch, “Tell us, how did you come to write all this? Did Jeremiah dictate it?”
+
+18 “Yes,” Baruch replied, “he dictated all these words to me, and I wrote them in ink on the scroll.”
+
+19 Then the officials said to Baruch, “You and Jeremiah, go and hide. Don’t let anyone know where you are.”
+
+20 After they put the scroll in the room of Elishama the secretary, they went to the king in the courtyard and reported everything to him. 21 The king sent Jehudi to get the scroll, and Jehudi brought it from the room of Elishama the secretary and read it to the king and all the officials standing beside him. 22 It was the ninth month and the king was sitting in the winter apartment, with a fire burning in the firepot in front of him. 23 Whenever Jehudi had read three or four columns of the scroll, the king cut them off with a scribe’s knife and threw them into the firepot, until the entire scroll was burned in the fire. 24 The king and all his attendants who heard all these words showed no fear, nor did they tear their clothes. 25 Even though Elnathan, Delaiah and Gemariah urged the king not to burn the scroll, he would not listen to them. 26 Instead, the king commanded Jerahmeel, a son of the king, Seraiah son of Azriel and Shelemiah son of Abdeel to arrest Baruch the scribe and Jeremiah the prophet. But the Lord had hidden them.
+
+27 After the king burned the scroll containing the words that Baruch had written at Jeremiah’s dictation, the word of the Lord came to Jeremiah: 28 “Take another scroll and write on it all the words that were on the first scroll, which Jehoiakim king of Judah burned up. 29 Also tell Jehoiakim king of Judah, ‘This is what the Lord says: You burned that scroll and said, “Why did you write on it that the king of Babylon would certainly come and destroy this land and wipe from it both man and beast?” 30 Therefore this is what the Lord says about Jehoiakim king of Judah: He will have no one to sit on the throne of David; his body will be thrown out and exposed to the heat by day and the frost by night. 31 I will punish him and his children and his attendants for their wickedness; I will bring on them and those living in Jerusalem and the people of Judah every disaster I pronounced against them, because they have not listened.’”
+
+32 So Jeremiah took another scroll and gave it to the scribe Baruch son of Neriah, and as Jeremiah dictated, Baruch wrote on it all the words of the scroll that Jehoiakim king of Judah had burned in the fire. And many similar words were added to them.
+              
                                           </p>
           </div>
 
@@ -2780,8 +2811,29 @@ Freedom for Slaves
           <h2  className={styles.chapter}>Jeremiah Chapter XXXVII</h2>
                                           <p>
                                          
-                                                   <h4 className={styles.h4}>            </h4>
-                                                  
+                                                   <h4 className={styles.h4}>Jeremiah in Prison</h4>
+
+37 Zedekiah son of Josiah was made king of Judah by Nebuchadnezzar king of Babylon; he reigned in place of Jehoiachin[a] son of Jehoiakim. 2 Neither he nor his attendants nor the people of the land paid any attention to the words the Lord had spoken through Jeremiah the prophet.
+
+3 King Zedekiah, however, sent Jehukal son of Shelemiah with the priest Zephaniah son of Maaseiah to Jeremiah the prophet with this message: “Please pray to the Lord our God for us.”
+
+4 Now Jeremiah was free to come and go among the people, for he had not yet been put in prison. 5 Pharaoh’s army had marched out of Egypt, and when the Babylonians[b] who were besieging Jerusalem heard the report about them, they withdrew from Jerusalem.
+
+6 Then the word of the Lord came to Jeremiah the prophet: 7 “This is what the Lord, the God of Israel, says: Tell the king of Judah, who sent you to inquire of me, ‘Pharaoh’s army, which has marched out to support you, will go back to its own land, to Egypt. 8 Then the Babylonians will return and attack this city; they will capture it and burn it down.’
+
+9 “This is what the Lord says: Do not deceive yourselves, thinking, ‘The Babylonians will surely leave us.’ They will not! 10 Even if you were to defeat the entire Babylonian[c] army that is attacking you and only wounded men were left in their tents, they would come out and burn this city down.”
+
+11 After the Babylonian army had withdrawn from Jerusalem because of Pharaoh’s army, 12 Jeremiah started to leave the city to go to the territory of Benjamin to get his share of the property among the people there. 13 But when he reached the Benjamin Gate, the captain of the guard, whose name was Irijah son of Shelemiah, the son of Hananiah, arrested him and said, “You are deserting to the Babylonians!”
+
+14 “That’s not true!” Jeremiah said. “I am not deserting to the Babylonians.” But Irijah would not listen to him; instead, he arrested Jeremiah and brought him to the officials. 15 They were angry with Jeremiah and had him beaten and imprisoned in the house of Jonathan the secretary, which they had made into a prison.
+
+16 Jeremiah was put into a vaulted cell in a dungeon, where he remained a long time. 17 Then King Zedekiah sent for him and had him brought to the palace, where he asked him privately, “Is there any word from the Lord?”
+
+“Yes,” Jeremiah replied, “you will be delivered into the hands of the king of Babylon.”
+
+18 Then Jeremiah said to King Zedekiah, “What crime have I committed against you or your attendants or this people, that you have put me in prison? 19 Where are your prophets who prophesied to you, ‘The king of Babylon will not attack you or this land’? 20 But now, my lord the king, please listen. Let me bring my petition before you: Do not send me back to the house of Jonathan the secretary, or I will die there.”
+
+21 King Zedekiah then gave orders for Jeremiah to be placed in the courtyard of the guard and given a loaf of bread from the street of the bakers each day until all the bread in the city was gone. So Jeremiah remained in the courtyard of the guard.              
                                           </p>
           </div>
               
@@ -2791,8 +2843,51 @@ Freedom for Slaves
           <h2  className={styles.chapter}>Jeremiah Chapter XXXVIII</h2>
                                           <p>
                                          
-                                            <h4 className={styles.h4}>               </h4>
-                                      
+                                            <h4 className={styles.h4}>Jeremiah Thrown Into a Cistern</h4>
+
+
+38 Shephatiah son of Mattan, Gedaliah son of Pashhur, Jehukal[a] son of Shelemiah, and Pashhur son of Malkijah heard what Jeremiah was telling all the people when he said, 2 “This is what the Lord says: ‘Whoever stays in this city will die by the sword, famine or plague, but whoever goes over to the Babylonians[b] will live. They will escape with their lives; they will live.’ 3 And this is what the Lord says: ‘This city will certainly be given into the hands of the army of the king of Babylon, who will capture it.’”
+
+4 Then the officials said to the king, “This man should be put to death. He is discouraging the soldiers who are left in this city, as well as all the people, by the things he is saying to them. This man is not seeking the good of these people but their ruin.”
+
+5 “He is in your hands,” King Zedekiah answered. “The king can do nothing to oppose you.”
+
+6 So they took Jeremiah and put him into the cistern of Malkijah, the king’s son, which was in the courtyard of the guard. They lowered Jeremiah by ropes into the cistern; it had no water in it, only mud, and Jeremiah sank down into the mud.
+
+7 But Ebed-Melek, a Cushite,[c] an official[d] in the royal palace, heard that they had put Jeremiah into the cistern. While the king was sitting in the Benjamin Gate, 8 Ebed-Melek went out of the palace and said to him, 9 “My lord the king, these men have acted wickedly in all they have done to Jeremiah the prophet. They have thrown him into a cistern, where he will starve to death when there is no longer any bread in the city.”
+
+10 Then the king commanded Ebed-Melek the Cushite, “Take thirty men from here with you and lift Jeremiah the prophet out of the cistern before he dies.”
+
+11 So Ebed-Melek took the men with him and went to a room under the treasury in the palace. He took some old rags and worn-out clothes from there and let them down with ropes to Jeremiah in the cistern. 12 Ebed-Melek the Cushite said to Jeremiah, “Put these old rags and worn-out clothes under your arms to pad the ropes.” Jeremiah did so, 13 and they pulled him up with the ropes and lifted him out of the cistern. And Jeremiah remained in the courtyard of the guard.
+
+Zedekiah Questions Jeremiah Again
+14 Then King Zedekiah sent for Jeremiah the prophet and had him brought to the third entrance to the temple of the Lord. “I am going to ask you something,” the king said to Jeremiah. “Do not hide anything from me.”
+
+15 Jeremiah said to Zedekiah, “If I give you an answer, will you not kill me? Even if I did give you counsel, you would not listen to me.”
+
+16 But King Zedekiah swore this oath secretly to Jeremiah: “As surely as the Lord lives, who has given us breath, I will neither kill you nor hand you over to those who want to kill you.”
+
+17 Then Jeremiah said to Zedekiah, “This is what the Lord God Almighty, the God of Israel, says: ‘If you surrender to the officers of the king of Babylon, your life will be spared and this city will not be burned down; you and your family will live. 18 But if you will not surrender to the officers of the king of Babylon, this city will be given into the hands of the Babylonians and they will burn it down; you yourself will not escape from them.’”
+
+19 King Zedekiah said to Jeremiah, “I am afraid of the Jews who have gone over to the Babylonians, for the Babylonians may hand me over to them and they will mistreat me.”
+
+20 “They will not hand you over,” Jeremiah replied. “Obey the Lord by doing what I tell you. Then it will go well with you, and your life will be spared. 21 But if you refuse to surrender, this is what the Lord has revealed to me: 22 All the women left in the palace of the king of Judah will be brought out to the officials of the king of Babylon. Those women will say to you:
+
+“‘They misled you and overcame you—
+    those trusted friends of yours.
+Your feet are sunk in the mud;
+    your friends have deserted you.’
+
+23 “All your wives and children will be brought out to the Babylonians. You yourself will not escape from their hands but will be captured by the king of Babylon; and this city will[e] be burned down.”
+
+24 Then Zedekiah said to Jeremiah, “Do not let anyone know about this conversation, or you may die. 25 If the officials hear that I talked with you, and they come to you and say, ‘Tell us what you said to the king and what the king said to you; do not hide it from us or we will kill you,’ 26 then tell them, ‘I was pleading with the king not to send me back to Jonathan’s house to die there.’”
+
+27 All the officials did come to Jeremiah and question him, and he told them everything the king had ordered him to say. So they said no more to him, for no one had heard his conversation with the king.
+
+28 And Jeremiah remained in the courtyard of the guard until the day Jerusalem was captured.
+
+The Fall of Jerusalem
+This is how Jerusalem was taken:              
                                           </p>
           </div>
 
@@ -2802,8 +2897,16 @@ Freedom for Slaves
           <h2  className={styles.chapter}>Jeremiah Chapter XXXIX</h2>
                                           <p>
                                          
-                                             <h4 className={styles.h4}>              </h4>
-                                
+                                             <h4 className={styles.h4}>Nebuchadnezzar king of Babylon marched against Jerusalem</h4>
+39 1 In the ninth year of Zedekiah king of Judah, in the tenth month, Nebuchadnezzar king of Babylon marched against Jerusalem with his whole army and laid siege to it. 2 And on the ninth day of the fourth month of Zedekiah’s eleventh year, the city wall was broken through. 3 Then all the officials of the king of Babylon came and took seats in the Middle Gate: Nergal-Sharezer of Samgar, Nebo-Sarsekim a chief officer, Nergal-Sharezer a high official and all the other officials of the king of Babylon. 4 When Zedekiah king of Judah and all the soldiers saw them, they fled; they left the city at night by way of the king’s garden, through the gate between the two walls, and headed toward the Arabah.[a]
+
+5 But the Babylonian[b] army pursued them and overtook Zedekiah in the plains of Jericho. They captured him and took him to Nebuchadnezzar king of Babylon at Riblah in the land of Hamath, where he pronounced sentence on him. 6 There at Riblah the king of Babylon slaughtered the sons of Zedekiah before his eyes and also killed all the nobles of Judah. 7 Then he put out Zedekiah’s eyes and bound him with bronze shackles to take him to Babylon.
+
+8 The Babylonians[c] set fire to the royal palace and the houses of the people and broke down the walls of Jerusalem. 9 Nebuzaradan commander of the imperial guard carried into exile to Babylon the people who remained in the city, along with those who had gone over to him, and the rest of the people. 10 But Nebuzaradan the commander of the guard left behind in the land of Judah some of the poor people, who owned nothing; and at that time he gave them vineyards and fields.
+
+11 Now Nebuchadnezzar king of Babylon had given these orders about Jeremiah through Nebuzaradan commander of the imperial guard: 12 “Take him and look after him; don’t harm him but do for him whatever he asks.” 13 So Nebuzaradan the commander of the guard, Nebushazban a chief officer, Nergal-Sharezer a high official and all the other officers of the king of Babylon 14 sent and had Jeremiah taken out of the courtyard of the guard. They turned him over to Gedaliah son of Ahikam, the son of Shaphan, to take him back to his home. So he remained among his own people.
+
+15 While Jeremiah had been confined in the courtyard of the guard, the word of the Lord came to him: 16 “Go and tell Ebed-Melek the Cushite, ‘This is what the Lord Almighty, the God of Israel, says: I am about to fulfill my words against this city—words concerning disaster, not prosperity. At that time they will be fulfilled before your eyes. 17 But I will rescue you on that day, declares the Lord; you will not be given into the hands of those you fear. 18 I will save you; you will not fall by the sword but will escape with your life, because you trust in me, declares the Lord.’”              
                                           </p>
           </div>
 
@@ -2813,9 +2916,25 @@ Freedom for Slaves
           <h2  className={styles.chapter}>Jeremiah Chapter XL</h2>
                                           <p>
                                          
-                                              <h4 className={styles.h4}>                </h4>
-                                       
-                                          </p>
+                                              <h4 className={styles.h4}>Jeremiah</h4>
+
+              Jeremiah Freed
+40 The word came to  from the Lord after Nebuzaradan commander of the imperial guard had released him at Ramah. He had found Jeremiah bound in chains among all the captives from Jerusalem and Judah who were being carried into exile to Babylon. 2 When the commander of the guard found Jeremiah, he said to him, “The Lord your God decreed this disaster for this place. 3 And now the Lord has brought it about; he has done just as he said he would. All this happened because you people sinned against the Lord and did not obey him. 4 But today I am freeing you from the chains on your wrists. Come with me to Babylon, if you like, and I will look after you; but if you do not want to, then don’t come. Look, the whole country lies before you; go wherever you please.” 5 However, before Jeremiah turned to go,[a] Nebuzaradan added, “Go back to Gedaliah son of Ahikam, the son of Shaphan, whom the king of Babylon has appointed over the towns of Judah, and live with him among the people, or go anywhere else you please.”
+
+Then the commander gave him provisions and a present and let him go. 6 So Jeremiah went to Gedaliah son of Ahikam at Mizpah and stayed with him among the people who were left behind in the land.
+
+Gedaliah Assassinated
+7 When all the army officers and their men who were still in the open country heard that the king of Babylon had appointed Gedaliah son of Ahikam as governor over the land and had put him in charge of the men, women and children who were the poorest in the land and who had not been carried into exile to Babylon, 8 they came to Gedaliah at Mizpah—Ishmael son of Nethaniah, Johanan and Jonathan the sons of Kareah, Seraiah son of Tanhumeth, the sons of Ephai the Netophathite, and Jaazaniah[b] the son of the Maakathite, and their men. 9 Gedaliah son of Ahikam, the son of Shaphan, took an oath to reassure them and their men. “Do not be afraid to serve the Babylonians,[c]” he said. “Settle down in the land and serve the king of Babylon, and it will go well with you. 10 I myself will stay at Mizpah to represent you before the Babylonians who come to us, but you are to harvest the wine, summer fruit and olive oil, and put them in your storage jars, and live in the towns you have taken over.”
+
+11 When all the Jews in Moab, Ammon, Edom and all the other countries heard that the king of Babylon had left a remnant in Judah and had appointed Gedaliah son of Ahikam, the son of Shaphan, as governor over them, 12 they all came back to the land of Judah, to Gedaliah at Mizpah, from all the countries where they had been scattered. And they harvested an abundance of wine and summer fruit.
+
+13 Johanan son of Kareah and all the army officers still in the open country came to Gedaliah at Mizpah 14 and said to him, “Don’t you know that Baalis king of the Ammonites has sent Ishmael son of Nethaniah to take your life?” But Gedaliah son of Ahikam did not believe them.
+
+15 Then Johanan son of Kareah said privately to Gedaliah in Mizpah, “Let me go and kill Ishmael son of Nethaniah, and no one will know it. Why should he take your life and cause all the Jews who are gathered around you to be scattered and the remnant of Judah to perish?”
+
+16 But Gedaliah son of Ahikam said to Johanan son of Kareah, “Don’t do such a thing! What you are saying about Ishmael is not true.”     
+  
+  </p>
           </div>
 
 
@@ -2825,8 +2944,20 @@ Freedom for Slaves
           <h2  className={styles.chapter}>Jeremiah Chapter XLI</h2>
                                           <p>
                                          
-                                       <h4 className={styles.h4}>             </h4>
-                                      
+                                       <h4 className={styles.h4}>Ishmael also killed all the men of Judah</h4>
+
+41 In the seventh month Ishmael son of Nethaniah, the son of Elishama, who was of royal blood and had been one of the king’s officers, came with ten men to Gedaliah son of Ahikam at Mizpah. While they were eating together there, 2 Ishmael son of Nethaniah and the ten men who were with him got up and struck down Gedaliah son of Ahikam, the son of Shaphan, with the sword, killing the one whom the king of Babylon had appointed as governor over the land. 3 Ishmael also killed all the men of Judah who were with Gedaliah at Mizpah, as well as the Babylonian[a] soldiers who were there.
+
+4 The day after Gedaliah’s assassination, before anyone knew about it, 5 eighty men who had shaved off their beards, torn their clothes and cut themselves came from Shechem, Shiloh and Samaria, bringing grain offerings and incense with them to the house of the Lord. 6 Ishmael son of Nethaniah went out from Mizpah to meet them, weeping as he went. When he met them, he said, “Come to Gedaliah son of Ahikam.” 7 When they went into the city, Ishmael son of Nethaniah and the men who were with him slaughtered them and threw them into a cistern. 8 But ten of them said to Ishmael, “Don’t kill us! We have wheat and barley, olive oil and honey, hidden in a field.” So he let them alone and did not kill them with the others. 9 Now the cistern where he threw all the bodies of the men he had killed along with Gedaliah was the one King Asa had made as part of his defense against Baasha king of Israel. Ishmael son of Nethaniah filled it with the dead.
+
+10 Ishmael made captives of all the rest of the people who were in Mizpah—the king’s daughters along with all the others who were left there, over whom Nebuzaradan commander of the imperial guard had appointed Gedaliah son of Ahikam. Ishmael son of Nethaniah took them captive and set out to cross over to the Ammonites.
+
+11 When Johanan son of Kareah and all the army officers who were with him heard about all the crimes Ishmael son of Nethaniah had committed, 12 they took all their men and went to fight Ishmael son of Nethaniah. They caught up with him near the great pool in Gibeon. 13 When all the people Ishmael had with him saw Johanan son of Kareah and the army officers who were with him, they were glad. 14 All the people Ishmael had taken captive at Mizpah turned and went over to Johanan son of Kareah. 15 But Ishmael son of Nethaniah and eight of his men escaped from Johanan and fled to the Ammonites.
+
+Flight to Egypt
+16 Then Johanan son of Kareah and all the army officers who were with him led away all the people of Mizpah who had survived, whom Johanan had recovered from Ishmael son of Nethaniah after Ishmael had assassinated Gedaliah son of Ahikam—the soldiers, women, children and court officials he had recovered from Gibeon. 17 And they went on, stopping at Geruth Kimham near Bethlehem on their way to Egypt 18 to escape the Babylonians.[b] They were afraid of them because Ishmael son of Nethaniah had killed Gedaliah son of Ahikam, whom the king of Babylon had appointed as governor over the land.
+
+              
                                           </p>
           </div>
 
@@ -2837,8 +2968,19 @@ Freedom for Slaves
           <h2  className={styles.chapter}>Jeremiah Chapter XLII</h2>
                                           <p>
                                          
-                                             <h4 className={styles.h4}>                  </h4>
-                        
+                                             <h4 className={styles.h4}>I will certainly pray to the Lord your God as you have requested;</h4>
+
+42 Then all the army officers, including Johanan son of Kareah and Jezaniah[a] son of Hoshaiah, and all the people from the least to the greatest approached 2 Jeremiah the prophet and said to him, “Please hear our petition and pray to the Lord your God for this entire remnant. For as you now see, though we were once many, now only a few are left. 3 Pray that the Lord your God will tell us where we should go and what we should do.”
+
+4 “I have heard you,” replied Jeremiah the prophet. “I will certainly pray to the Lord your God as you have requested; I will tell you everything the Lord says and will keep nothing back from you.”
+
+5 Then they said to Jeremiah, “May the Lord be a true and faithful witness against us if we do not act in accordance with everything the Lord your God sends you to tell us. 6 Whether it is favorable or unfavorable, we will obey the Lord our God, to whom we are sending you, so that it will go well with us, for we will obey the Lord our God.”
+
+7 Ten days later the word of the Lord came to Jeremiah. 8 So he called together Johanan son of Kareah and all the army officers who were with him and all the people from the least to the greatest. 9 He said to them, “This is what the Lord, the God of Israel, to whom you sent me to present your petition, says: 10 ‘If you stay in this land, I will build you up and not tear you down; I will plant you and not uproot you, for I have relented concerning the disaster I have inflicted on you. 11 Do not be afraid of the king of Babylon, whom you now fear. Do not be afraid of him, declares the Lord, for I am with you and will save you and deliver you from his hands. 12 I will show you compassion so that he will have compassion on you and restore you to your land.’
+
+13 “However, if you say, ‘We will not stay in this land,’ and so disobey the Lord your God, 14 and if you say, ‘No, we will go and live in Egypt, where we will not see war or hear the trumpet or be hungry for bread,’ 15 then hear the word of the Lord, you remnant of Judah. This is what the Lord Almighty, the God of Israel, says: ‘If you are determined to go to Egypt and you do go to settle there, 16 then the sword you fear will overtake you there, and the famine you dread will follow you into Egypt, and there you will die. 17 Indeed, all who are determined to go to Egypt to settle there will die by the sword, famine and plague; not one of them will survive or escape the disaster I will bring on them.’ 18 This is what the Lord Almighty, the God of Israel, says: ‘As my anger and wrath have been poured out on those who lived in Jerusalem, so will my wrath be poured out on you when you go to Egypt. You will be a curse[b] and an object of horror, a curse[c] and an object of reproach; you will never see this place again.’
+
+19 “Remnant of Judah, the Lord has told you, ‘Do not go to Egypt.’ Be sure of this: I warn you today 20 that you made a fatal mistake when you sent me to the Lord your God and said, ‘Pray to the Lord our God for us; tell us everything he says and we will do it.’ 21 I have told you today, but you still have not obeyed the Lord your God in all he sent me to tell you. 22 So now, be sure of this: You will die by the sword, famine and plague in the place where you want to go to settle.”              
                                           </p>
           </div>
 
@@ -2849,9 +2991,15 @@ Freedom for Slaves
           <h2  className={styles.chapter}>Jeremiah Chapter XLIII</h2>
                                           <p>
                                          
-                                                <h4 className={styles.h4}>                 </h4>
+                                                <h4 className={styles.h4}>In Tahpanhes the word of the Lord came to Jeremiah</h4>
                         
-              
+43 When Jeremiah had finished telling the people all the words of the Lord their God—everything the Lord had sent him to tell them— 2 Azariah son of Hoshaiah and Johanan son of Kareah and all the arrogant men said to Jeremiah, “You are lying! The Lord our God has not sent you to say, ‘You must not go to Egypt to settle there.’ 3 But Baruch son of Neriah is inciting you against us to hand us over to the Babylonians,[a] so they may kill us or carry us into exile to Babylon.”
+
+4 So Johanan son of Kareah and all the army officers and all the people disobeyed the Lord’s command to stay in the land of Judah. 5 Instead, Johanan son of Kareah and all the army officers led away all the remnant of Judah who had come back to live in the land of Judah from all the nations where they had been scattered. 6 They also led away all those whom Nebuzaradan commander of the imperial guard had left with Gedaliah son of Ahikam, the son of Shaphan—the men, the women, the children and the king’s daughters. And they took Jeremiah the prophet and Baruch son of Neriah along with them. 7 So they entered Egypt in disobedience to the Lord and went as far as Tahpanhes.
+
+8 In Tahpanhes the word of the Lord came to Jeremiah: 9 “While the Jews are watching, take some large stones with you and bury them in clay in the brick pavement at the entrance to Pharaoh’s palace in Tahpanhes. 10 Then say to them, ‘This is what the Lord Almighty, the God of Israel, says: I will send for my servant Nebuchadnezzar king of Babylon, and I will set his throne over these stones I have buried here; he will spread his royal canopy above them. 11 He will come and attack Egypt, bringing death to those destined for death, captivity to those destined for captivity, and the sword to those destined for the sword. 12 He will set fire to the temples of the gods of Egypt; he will burn their temples and take their gods captive. As a shepherd picks his garment clean of lice, so he will pick Egypt clean and depart. 13 There in the temple of the sun[b] in Egypt he will demolish the sacred pillars and will burn down the temples of the gods of Egypt.’”
+
+
                                           </p>
           </div>              
               
@@ -2862,8 +3010,26 @@ Freedom for Slaves
           <h2  className={styles.chapter}>Jeremiah Chapter XLIV</h2>
                                           <p>
                                          
-                                              <h4 className={styles.h4}>            </h4>
-                                          
+                                              <h4 className={styles.h4}>Disaster Because of Idolatry</h4>
+
+
+44 This word came to Jeremiah concerning all the Jews living in Lower Egypt—in Migdol, Tahpanhes and Memphis—and in Upper Egypt: 2 “This is what the Lord Almighty, the God of Israel, says: You saw the great disaster I brought on Jerusalem and on all the towns of Judah. Today they lie deserted and in ruins 3 because of the evil they have done. They aroused my anger by burning incense to and worshiping other gods that neither they nor you nor your ancestors ever knew. 4 Again and again I sent my servants the prophets, who said, ‘Do not do this detestable thing that I hate!’ 5 But they did not listen or pay attention; they did not turn from their wickedness or stop burning incense to other gods. 6 Therefore, my fierce anger was poured out; it raged against the towns of Judah and the streets of Jerusalem and made them the desolate ruins they are today.
+
+7 “Now this is what the Lord God Almighty, the God of Israel, says: Why bring such great disaster on yourselves by cutting off from Judah the men and women, the children and infants, and so leave yourselves without a remnant? 8 Why arouse my anger with what your hands have made, burning incense to other gods in Egypt, where you have come to live? You will destroy yourselves and make yourselves a curse[a] and an object of reproach among all the nations on earth. 9 Have you forgotten the wickedness committed by your ancestors and by the kings and queens of Judah and the wickedness committed by you and your wives in the land of Judah and the streets of Jerusalem? 10 To this day they have not humbled themselves or shown reverence, nor have they followed my law and the decrees I set before you and your ancestors.
+
+11 “Therefore this is what the Lord Almighty, the God of Israel, says: I am determined to bring disaster on you and to destroy all Judah. 12 I will take away the remnant of Judah who were determined to go to Egypt to settle there. They will all perish in Egypt; they will fall by the sword or die from famine. From the least to the greatest, they will die by sword or famine. They will become a curse and an object of horror, a curse and an object of reproach. 13 I will punish those who live in Egypt with the sword, famine and plague, as I punished Jerusalem. 14 None of the remnant of Judah who have gone to live in Egypt will escape or survive to return to the land of Judah, to which they long to return and live; none will return except a few fugitives.”
+
+15 Then all the men who knew that their wives were burning incense to other gods, along with all the women who were present—a large assembly—and all the people living in Lower and Upper Egypt, said to Jeremiah, 16 “We will not listen to the message you have spoken to us in the name of the Lord! 17 We will certainly do everything we said we would: We will burn incense to the Queen of Heaven and will pour out drink offerings to her just as we and our ancestors, our kings and our officials did in the towns of Judah and in the streets of Jerusalem. At that time we had plenty of food and were well off and suffered no harm. 18 But ever since we stopped burning incense to the Queen of Heaven and pouring out drink offerings to her, we have had nothing and have been perishing by sword and famine.”
+
+19 The women added, “When we burned incense to the Queen of Heaven and poured out drink offerings to her, did not our husbands know that we were making cakes impressed with her image and pouring out drink offerings to her?”
+
+20 Then Jeremiah said to all the people, both men and women, who were answering him, 21 “Did not the Lord remember and call to mind the incense burned in the towns of Judah and the streets of Jerusalem by you and your ancestors, your kings and your officials and the people of the land? 22 When the Lord could no longer endure your wicked actions and the detestable things you did, your land became a curse and a desolate waste without inhabitants, as it is today. 23 Because you have burned incense and have sinned against the Lord and have not obeyed him or followed his law or his decrees or his stipulations, this disaster has come upon you, as you now see.”
+
+24 Then Jeremiah said to all the people, including the women, “Hear the word of the Lord, all you people of Judah in Egypt. 25 This is what the Lord Almighty, the God of Israel, says: You and your wives have done what you said you would do when you promised, ‘We will certainly carry out the vows we made to burn incense and pour out drink offerings to the Queen of Heaven.’
+
+“Go ahead then, do what you promised! Keep your vows! 26 But hear the word of the Lord, all you Jews living in Egypt: ‘I swear by my great name,’ says the Lord, ‘that no one from Judah living anywhere in Egypt will ever again invoke my name or swear, “As surely as the Sovereign Lord lives.” 27 For I am watching over them for harm, not for good; the Jews in Egypt will perish by sword and famine until they are all destroyed. 28 Those who escape the sword and return to the land of Judah from Egypt will be very few. Then the whole remnant of Judah who came to live in Egypt will know whose word will stand—mine or theirs.
+
+29 “‘This will be the sign to you that I will punish you in this place,’ declares the Lord, ‘so that you will know that my threats of harm against you will surely stand.’ 30 This is what the Lord says: ‘I am going to deliver Pharaoh Hophra king of Egypt into the hands of his enemies who want to kill him, just as I gave Zedekiah king of Judah into the hands of Nebuchadnezzar king of Babylon, the enemy who wanted to kill him.’”              
                                             </p>
           </div>
 
@@ -2874,9 +3040,10 @@ Freedom for Slaves
           <h2  className={styles.chapter}>Jeremiah Chapter XLV</h2>
                                           <p>
                                          
-                                                  <h4 className={styles.h4}>                  </h4>
-                                                 
-                                          </p>
+                                                  <h4 className={styles.h4}> A Message to Baruch</h4>
+
+             
+45 When Baruch son of Neriah wrote on a scroll the words Jeremiah the prophet dictated in the fourth year of Jehoiakim son of Josiah king of Judah, Jeremiah said this to Baruch: 2 “This is what the Lord, the God of Israel, says to you, Baruch: 3 You said, ‘Woe to me! The Lord has added sorrow to my pain; I am worn out with groaning and find no rest.’ 4 But the Lord has told me to say to you, ‘This is what the Lord says: I will overthrow what I have built and uproot what I have planted, throughout the earth. 5 Should you then seek great things for yourself? Do not seek them. For I will bring disaster on all people, declares the Lord, but wherever you go I will let you escape with your life.’”                                          </p>
           </div>
 
 
@@ -2886,8 +3053,124 @@ Freedom for Slaves
           <h2  className={styles.chapter}>Jeremiah Chapter XLVI</h2>
                                           <p>
                                          
-                                         <h4 className={styles.h4}>              </h4>
+                                         <h4 className={styles.h4}>A Message About Egypt</h4>
                                    
+46 This is the word of the Lord that came to Jeremiah the prophet concerning the nations:
+
+2 Concerning Egypt:
+
+This is the message against the army of Pharaoh Necho king of Egypt, which was defeated at Carchemish on the Euphrates River by Nebuchadnezzar king of Babylon in the fourth year of Jehoiakim son of Josiah king of Judah:
+
+3 “Prepare your shields, both large and small,
+    and march out for battle!
+4 Harness the horses,
+    mount the steeds!
+Take your positions
+    with helmets on!
+Polish your spears,
+    put on your armor!
+5 What do I see?
+    They are terrified,
+they are retreating,
+    their warriors are defeated.
+They flee in haste
+    without looking back,
+    and there is terror on every side,”
+declares the Lord.
+6 “The swift cannot flee
+    nor the strong escape.
+In the north by the River Euphrates
+    they stumble and fall.
+
+7 “Who is this that rises like the Nile,
+    like rivers of surging waters?
+8 Egypt rises like the Nile,
+    like rivers of surging waters.
+She says, ‘I will rise and cover the earth;
+    I will destroy cities and their people.’
+9 Charge, you horses!
+    Drive furiously, you charioteers!
+March on, you warriors—men of Cush[a] and Put who carry shields,
+    men of Lydia who draw the bow.
+10 But that day belongs to the Lord, the Lord Almighty—
+    a day of vengeance, for vengeance on his foes.
+The sword will devour till it is satisfied,
+    till it has quenched its thirst with blood.
+For the Lord, the Lord Almighty, will offer sacrifice
+    in the land of the north by the River Euphrates.
+
+11 “Go up to Gilead and get balm,
+    Virgin Daughter Egypt.
+But you try many medicines in vain;
+    there is no healing for you.
+12 The nations will hear of your shame;
+    your cries will fill the earth.
+One warrior will stumble over another;
+    both will fall down together.”
+
+13 This is the message the Lord spoke to Jeremiah the prophet about the coming of Nebuchadnezzar king of Babylon to attack Egypt:
+
+14 “Announce this in Egypt, and proclaim it in Migdol;
+    proclaim it also in Memphis and Tahpanhes:
+‘Take your positions and get ready,
+    for the sword devours those around you.’
+15 Why will your warriors be laid low?
+    They cannot stand, for the Lord will push them down.
+16 They will stumble repeatedly;
+    they will fall over each other.
+They will say, ‘Get up, let us go back
+    to our own people and our native lands,
+    away from the sword of the oppressor.’
+17 There they will exclaim,
+    ‘Pharaoh king of Egypt is only a loud noise;
+    he has missed his opportunity.’
+
+18 “As surely as I live,” declares the King,
+    whose name is the Lord Almighty,
+“one will come who is like Tabor among the mountains,
+    like Carmel by the sea.
+19 Pack your belongings for exile,
+    you who live in Egypt,
+for Memphis will be laid waste
+    and lie in ruins without inhabitant.
+
+20 “Egypt is a beautiful heifer,
+    but a gadfly is coming
+    against her from the north.
+21 The mercenaries in her ranks
+    are like fattened calves.
+They too will turn and flee together,
+    they will not stand their ground,
+for the day of disaster is coming upon them,
+    the time for them to be punished.
+22 Egypt will hiss like a fleeing serpent
+    as the enemy advances in force;
+they will come against her with axes,
+    like men who cut down trees.
+23 They will chop down her forest,”
+declares the Lord,
+    “dense though it be.
+They are more numerous than locusts,
+    they cannot be counted.
+24 Daughter Egypt will be put to shame,
+    given into the hands of the people of the north.”
+
+25 The Lord Almighty, the God of Israel, says: “I am about to bring punishment on Amon god of Thebes, on Pharaoh, on Egypt and her gods and her kings, and on those who rely on Pharaoh. 26 I will give them into the hands of those who want to kill them—Nebuchadnezzar king of Babylon and his officers. Later, however, Egypt will be inhabited as in times past,” declares the Lord.
+
+27 “Do not be afraid, Jacob my servant;
+    do not be dismayed, Israel.
+I will surely save you out of a distant place,
+    your descendants from the land of their exile.
+Jacob will again have peace and security,
+    and no one will make him afraid.
+28 Do not be afraid, Jacob my servant,
+    for I am with you,” declares the Lord.
+“Though I completely destroy all the nations
+    among which I scatter you,
+    I will not completely destroy you.
+I will discipline you but only in due measure;
+    I will not let you go entirely unpunished.”
+
               
                                             </p>
           </div>           
@@ -2900,7 +3183,41 @@ Freedom for Slaves
                                           <p>
                                          
                                               <h4 className={styles.h4}>                 </h4> 
-              
+A Message About the Philistines
+47 This is the word of the Lord that came to Jeremiah the prophet concerning the Philistines before Pharaoh attacked Gaza:
+
+2 This is what the Lord says:
+
+“See how the waters are rising in the north;
+    they will become an overflowing torrent.
+They will overflow the land and everything in it,
+    the towns and those who live in them.
+The people will cry out;
+    all who dwell in the land will wail
+3 at the sound of the hooves of galloping steeds,
+    at the noise of enemy chariots
+    and the rumble of their wheels.
+Parents will not turn to help their children;
+    their hands will hang limp.
+4 For the day has come
+    to destroy all the Philistines
+and to remove all survivors
+    who could help Tyre and Sidon.
+The Lord is about to destroy the Philistines,
+    the remnant from the coasts of Caphtor.[a]
+5 Gaza will shave her head in mourning;
+    Ashkelon will be silenced.
+You remnant on the plain,
+    how long will you cut yourselves?
+
+6 “‘Alas, sword of the Lord,
+    how long till you rest?
+Return to your sheath;
+    cease and be still.’
+7 But how can it rest
+    when the Lord has commanded it,
+when he has ordered it
+    to attack Ashkelon and the coast?”              
                                           </p>
           </div>
 
@@ -2911,9 +3228,198 @@ Freedom for Slaves
           <h2  className={styles.chapter}>Jeremiah Chapter XLVIII</h2>
                                           <p>
                                          
-                                               <h4 className={styles.h4}>                    </h4>
-                         
-              
+                                               <h4 className={styles.h4}> A Message About Moab</h4>
+                        
+48 Concerning Moab:
+
+This is what the Lord Almighty, the God of Israel, says:
+
+“Woe to Nebo, for it will be ruined.
+    Kiriathaim will be disgraced and captured;
+    the stronghold[a] will be disgraced and shattered.
+2 Moab will be praised no more;
+    in Heshbon[b] people will plot her downfall:
+    ‘Come, let us put an end to that nation.’
+You, the people of Madmen,[c] will also be silenced;
+    the sword will pursue you.
+3 Cries of anguish arise from Horonaim,
+    cries of great havoc and destruction.
+4 Moab will be broken;
+    her little ones will cry out.[d]
+5 They go up the hill to Luhith,
+    weeping bitterly as they go;
+on the road down to Horonaim
+    anguished cries over the destruction are heard.
+6 Flee! Run for your lives;
+    become like a bush[e] in the desert.
+7 Since you trust in your deeds and riches,
+    you too will be taken captive,
+and Chemosh will go into exile,
+    together with his priests and officials.
+8 The destroyer will come against every town,
+    and not a town will escape.
+The valley will be ruined
+    and the plateau destroyed,
+    because the Lord has spoken.
+9 Put salt on Moab,
+    for she will be laid waste[f];
+her towns will become desolate,
+    with no one to live in them.
+
+10 “A curse on anyone who is lax in doing the Lord’s work!
+    A curse on anyone who keeps their sword from bloodshed!
+
+11 “Moab has been at rest from youth,
+    like wine left on its dregs,
+not poured from one jar to another—
+    she has not gone into exile.
+So she tastes as she did,
+    and her aroma is unchanged.
+12 But days are coming,”
+    declares the Lord,
+“when I will send men who pour from pitchers,
+    and they will pour her out;
+they will empty her pitchers
+    and smash her jars.
+13 Then Moab will be ashamed of Chemosh,
+    as Israel was ashamed
+    when they trusted in Bethel.
+
+14 “How can you say, ‘We are warriors,
+    men valiant in battle’?
+15 Moab will be destroyed and her towns invaded;
+    her finest young men will go down in the slaughter,”
+    declares the King, whose name is the Lord Almighty.
+16 “The fall of Moab is at hand;
+    her calamity will come quickly.
+17 Mourn for her, all who live around her,
+    all who know her fame;
+say, ‘How broken is the mighty scepter,
+    how broken the glorious staff!’
+
+18 “Come down from your glory
+    and sit on the parched ground,
+    you inhabitants of Daughter Dibon,
+for the one who destroys Moab
+    will come up against you
+    and ruin your fortified cities.
+19 Stand by the road and watch,
+    you who live in Aroer.
+Ask the man fleeing and the woman escaping,
+    ask them, ‘What has happened?’
+20 Moab is disgraced, for she is shattered.
+    Wail and cry out!
+Announce by the Arnon
+    that Moab is destroyed.
+21 Judgment has come to the plateau—
+    to Holon, Jahzah and Mephaath,
+22     to Dibon, Nebo and Beth Diblathaim,
+23     to Kiriathaim, Beth Gamul and Beth Meon,
+24     to Kerioth and Bozrah—
+    to all the towns of Moab, far and near.
+25 Moab’s horn[g] is cut off;
+    her arm is broken,”
+declares the Lord.
+
+26 “Make her drunk,
+    for she has defied the Lord.
+Let Moab wallow in her vomit;
+    let her be an object of ridicule.
+27 Was not Israel the object of your ridicule?
+    Was she caught among thieves,
+that you shake your head in scorn
+    whenever you speak of her?
+28 Abandon your towns and dwell among the rocks,
+    you who live in Moab.
+Be like a dove that makes its nest
+    at the mouth of a cave.
+
+29 “We have heard of Moab’s pride—
+    how great is her arrogance!—
+of her insolence, her pride, her conceit
+    and the haughtiness of her heart.
+30 I know her insolence but it is futile,”
+declares the Lord,
+    “and her boasts accomplish nothing.
+31 Therefore I wail over Moab,
+    for all Moab I cry out,
+    I moan for the people of Kir Hareseth.
+32 I weep for you, as Jazer weeps,
+    you vines of Sibmah.
+Your branches spread as far as the sea[h];
+    they reached as far as[i] Jazer.
+The destroyer has fallen
+    on your ripened fruit and grapes.
+33 Joy and gladness are gone
+    from the orchards and fields of Moab.
+I have stopped the flow of wine from the presses;
+    no one treads them with shouts of joy.
+Although there are shouts,
+    they are not shouts of joy.
+
+34 “The sound of their cry rises
+    from Heshbon to Elealeh and Jahaz,
+from Zoar as far as Horonaim and Eglath Shelishiyah,
+    for even the waters of Nimrim are dried up.
+35 In Moab I will put an end
+    to those who make offerings on the high places
+    and burn incense to their gods,”
+declares the Lord.
+36 “So my heart laments for Moab like the music of a pipe;
+    it laments like a pipe for the people of Kir Hareseth.
+    The wealth they acquired is gone.
+37 Every head is shaved
+    and every beard cut off;
+every hand is slashed
+    and every waist is covered with sackcloth.
+38 On all the roofs in Moab
+    and in the public squares
+there is nothing but mourning,
+    for I have broken Moab
+    like a jar that no one wants,”
+declares the Lord.
+39 “How shattered she is! How they wail!
+    How Moab turns her back in shame!
+Moab has become an object of ridicule,
+    an object of horror to all those around her.”
+
+40 This is what the Lord says:
+
+“Look! An eagle is swooping down,
+    spreading its wings over Moab.
+41 Kerioth[j] will be captured
+    and the strongholds taken.
+In that day the hearts of Moab’s warriors
+    will be like the heart of a woman in labor.
+42 Moab will be destroyed as a nation
+    because she defied the Lord.
+43 Terror and pit and snare await you,
+    you people of Moab,”
+declares the Lord.
+44 “Whoever flees from the terror
+    will fall into a pit,
+whoever climbs out of the pit
+    will be caught in a snare;
+for I will bring on Moab
+    the year of her punishment,”
+declares the Lord.
+
+45 “In the shadow of Heshbon
+    the fugitives stand helpless,
+for a fire has gone out from Heshbon,
+    a blaze from the midst of Sihon;
+it burns the foreheads of Moab,
+    the skulls of the noisy boasters.
+46 Woe to you, Moab!
+    The people of Chemosh are destroyed;
+your sons are taken into exile
+    and your daughters into captivity.
+
+47 “Yet I will restore the fortunes of Moab
+    in days to come,”
+declares the Lord.
+
+Here ends the judgment on Moab.              
               </p>
           </div>
 
@@ -2924,8 +3430,194 @@ Freedom for Slaves
           <h2  className={styles.chapter}>Jeremiah Chapter XLIX</h2>
                                           <p>
                                          
-                                                          <h4 className={styles.h4}>            </h4>
+                                                          <h4 className={styles.h4}>A Message About Ammon</h4>
                                            
+49 Concerning the Ammonites:
+
+This is what the Lord says:
+
+“Has Israel no sons?
+    Has Israel no heir?
+Why then has Molek[a] taken possession of Gad?
+    Why do his people live in its towns?
+2 But the days are coming,”
+    declares the Lord,
+“when I will sound the battle cry
+    against Rabbah of the Ammonites;
+it will become a mound of ruins,
+    and its surrounding villages will be set on fire.
+Then Israel will drive out
+    those who drove her out,”
+says the Lord.
+3 “Wail, Heshbon, for Ai is destroyed!
+    Cry out, you inhabitants of Rabbah!
+Put on sackcloth and mourn;
+    rush here and there inside the walls,
+for Molek will go into exile,
+    together with his priests and officials.
+4 Why do you boast of your valleys,
+    boast of your valleys so fruitful?
+Unfaithful Daughter Ammon,
+    you trust in your riches and say,
+    ‘Who will attack me?’
+5 I will bring terror on you
+    from all those around you,”
+declares the Lord, the Lord Almighty.
+“Every one of you will be driven away,
+    and no one will gather the fugitives.
+
+6 “Yet afterward, I will restore the fortunes of the Ammonites,”
+declares the Lord.
+
+A Message About Edom
+7 Concerning Edom:
+
+This is what the Lord Almighty says:
+
+“Is there no longer wisdom in Teman?
+    Has counsel perished from the prudent?
+    Has their wisdom decayed?
+8 Turn and flee, hide in deep caves,
+    you who live in Dedan,
+for I will bring disaster on Esau
+    at the time when I punish him.
+9 If grape pickers came to you,
+    would they not leave a few grapes?
+If thieves came during the night,
+    would they not steal only as much as they wanted?
+10 But I will strip Esau bare;
+    I will uncover his hiding places,
+    so that he cannot conceal himself.
+His armed men are destroyed,
+    also his allies and neighbors,
+    so there is no one to say,
+11 ‘Leave your fatherless children; I will keep them alive.
+    Your widows too can depend on me.’”
+
+12 This is what the Lord says: “If those who do not deserve to drink the cup must drink it, why should you go unpunished? You will not go unpunished, but must drink it. 13 I swear by myself,” declares the Lord, “that Bozrah will become a ruin and a curse,[b] an object of horror and reproach; and all its towns will be in ruins forever.”
+
+14 I have heard a message from the Lord;
+    an envoy was sent to the nations to say,
+“Assemble yourselves to attack it!
+    Rise up for battle!”
+
+15 “Now I will make you small among the nations,
+    despised by mankind.
+16 The terror you inspire
+    and the pride of your heart have deceived you,
+you who live in the clefts of the rocks,
+    who occupy the heights of the hill.
+Though you build your nest as high as the eagle’s,
+    from there I will bring you down,”
+declares the Lord.
+17 “Edom will become an object of horror;
+    all who pass by will be appalled and will scoff
+    because of all its wounds.
+18 As Sodom and Gomorrah were overthrown,
+    along with their neighboring towns,”
+says the Lord,
+“so no one will live there;
+    no people will dwell in it.
+
+19 “Like a lion coming up from Jordan’s thickets
+    to a rich pastureland,
+I will chase Edom from its land in an instant.
+    Who is the chosen one I will appoint for this?
+Who is like me and who can challenge me?
+    And what shepherd can stand against me?”
+
+20 Therefore, hear what the Lord has planned against Edom,
+    what he has purposed against those who live in Teman:
+The young of the flock will be dragged away;
+    their pasture will be appalled at their fate.
+21 At the sound of their fall the earth will tremble;
+    their cry will resound to the Red Sea.[c]
+22 Look! An eagle will soar and swoop down,
+    spreading its wings over Bozrah.
+In that day the hearts of Edom’s warriors
+    will be like the heart of a woman in labor.
+
+A Message About Damascus
+23 Concerning Damascus:
+
+“Hamath and Arpad are dismayed,
+    for they have heard bad news.
+They are disheartened,
+    troubled like[d] the restless sea.
+24 Damascus has become feeble,
+    she has turned to flee
+    and panic has gripped her;
+anguish and pain have seized her,
+    pain like that of a woman in labor.
+25 Why has the city of renown not been abandoned,
+    the town in which I delight?
+26 Surely, her young men will fall in the streets;
+    all her soldiers will be silenced in that day,”
+declares the Lord Almighty.
+27 “I will set fire to the walls of Damascus;
+    it will consume the fortresses of Ben-Hadad.”
+
+A Message About Kedar and Hazor
+28 Concerning Kedar and the kingdoms of Hazor, which Nebuchadnezzar king of Babylon attacked:
+
+This is what the Lord says:
+
+“Arise, and attack Kedar
+    and destroy the people of the East.
+29 Their tents and their flocks will be taken;
+    their shelters will be carried off
+    with all their goods and camels.
+People will shout to them,
+    ‘Terror on every side!’
+
+30 “Flee quickly away!
+    Stay in deep caves, you who live in Hazor,”
+declares the Lord.
+“Nebuchadnezzar king of Babylon has plotted against you;
+    he has devised a plan against you.
+
+31 “Arise and attack a nation at ease,
+    which lives in confidence,”
+declares the Lord,
+“a nation that has neither gates nor bars;
+    its people live far from danger.
+32 Their camels will become plunder,
+    and their large herds will be spoils of war.
+I will scatter to the winds those who are in distant places[e]
+    and will bring disaster on them from every side,”
+declares the Lord.
+33 “Hazor will become a haunt of jackals,
+    a desolate place forever.
+No one will live there;
+    no people will dwell in it.”
+
+A Message About Elam
+34 This is the word of the Lord that came to Jeremiah the prophet concerning Elam, early in the reign of Zedekiah king of Judah:
+
+35 This is what the Lord Almighty says:
+
+“See, I will break the bow of Elam,
+    the mainstay of their might.
+36 I will bring against Elam the four winds
+    from the four quarters of heaven;
+I will scatter them to the four winds,
+    and there will not be a nation
+    where Elam’s exiles do not go.
+37 I will shatter Elam before their foes,
+    before those who want to kill them;
+I will bring disaster on them,
+    even my fierce anger,”
+declares the Lord.
+“I will pursue them with the sword
+    until I have made an end of them.
+38 I will set my throne in Elam
+    and destroy her king and officials,”
+declares the Lord.
+
+39 “Yet I will restore the fortunes of Elam
+    in days to come,”
+declares the Lord.
+
 
                                           </p>
           </div>           
@@ -2936,9 +3628,229 @@ Freedom for Slaves
           <h2  className={styles.chapter}>Jeremiah Chapter L</h2>
                                           <p>
                                          
-<h4 className={styles.h4}>              </h4>
-         
-4 
+<h4 className={styles.h4}>  A Message About Babylon</h4>
+       
+50 This is the word the Lord spoke through Jeremiah the prophet concerning Babylon and the land of the Babylonians[a]:
+
+2 “Announce and proclaim among the nations,
+    lift up a banner and proclaim it;
+    keep nothing back, but say,
+‘Babylon will be captured;
+    Bel will be put to shame,
+    Marduk filled with terror.
+Her images will be put to shame
+    and her idols filled with terror.’
+3 A nation from the north will attack her
+    and lay waste her land.
+No one will live in it;
+    both people and animals will flee away.
+
+4 “In those days, at that time,”
+    declares the Lord,
+“the people of Israel and the people of Judah together
+    will go in tears to seek the Lord their God.
+5 They will ask the way to Zion
+    and turn their faces toward it.
+They will come and bind themselves to the Lord
+    in an everlasting covenant
+    that will not be forgotten.
+
+6 “My people have been lost sheep;
+    their shepherds have led them astray
+    and caused them to roam on the mountains.
+They wandered over mountain and hill
+    and forgot their own resting place.
+7 Whoever found them devoured them;
+    their enemies said, ‘We are not guilty,
+for they sinned against the Lord, their verdant pasture,
+    the Lord, the hope of their ancestors.’
+
+8 “Flee out of Babylon;
+    leave the land of the Babylonians,
+    and be like the goats that lead the flock.
+9 For I will stir up and bring against Babylon
+    an alliance of great nations from the land of the north.
+They will take up their positions against her,
+    and from the north she will be captured.
+Their arrows will be like skilled warriors
+    who do not return empty-handed.
+10 So Babylonia[b] will be plundered;
+    all who plunder her will have their fill,”
+declares the Lord.
+
+11 “Because you rejoice and are glad,
+    you who pillage my inheritance,
+because you frolic like a heifer threshing grain
+    and neigh like stallions,
+12 your mother will be greatly ashamed;
+    she who gave you birth will be disgraced.
+She will be the least of the nations—
+    a wilderness, a dry land, a desert.
+13 Because of the Lord’s anger she will not be inhabited
+    but will be completely desolate.
+All who pass Babylon will be appalled;
+    they will scoff because of all her wounds.
+
+14 “Take up your positions around Babylon,
+    all you who draw the bow.
+Shoot at her! Spare no arrows,
+    for she has sinned against the Lord.
+15 Shout against her on every side!
+    She surrenders, her towers fall,
+    her walls are torn down.
+Since this is the vengeance of the Lord,
+    take vengeance on her;
+    do to her as she has done to others.
+16 Cut off from Babylon the sower,
+    and the reaper with his sickle at harvest.
+Because of the sword of the oppressor
+    let everyone return to their own people,
+    let everyone flee to their own land.
+
+17 “Israel is a scattered flock
+    that lions have chased away.
+The first to devour them
+    was the king of Assyria;
+the last to crush their bones
+    was Nebuchadnezzar king of Babylon.”
+
+18 Therefore this is what the Lord Almighty, the God of Israel, says:
+
+“I will punish the king of Babylon and his land
+    as I punished the king of Assyria.
+19 But I will bring Israel back to their own pasture,
+    and they will graze on Carmel and Bashan;
+their appetite will be satisfied
+    on the hills of Ephraim and Gilead.
+20 In those days, at that time,”
+    declares the Lord,
+“search will be made for Israel’s guilt,
+    but there will be none,
+and for the sins of Judah,
+    but none will be found,
+    for I will forgive the remnant I spare.
+
+21 “Attack the land of Merathaim
+    and those who live in Pekod.
+Pursue, kill and completely destroy[c] them,”
+declares the Lord.
+    “Do everything I have commanded you.
+22 The noise of battle is in the land,
+    the noise of great destruction!
+23 How broken and shattered
+    is the hammer of the whole earth!
+How desolate is Babylon
+    among the nations!
+24 I set a trap for you, Babylon,
+    and you were caught before you knew it;
+you were found and captured
+    because you opposed the Lord.
+25 The Lord has opened his arsenal
+    and brought out the weapons of his wrath,
+for the Sovereign Lord Almighty has work to do
+    in the land of the Babylonians.
+26 Come against her from afar.
+    Break open her granaries;
+    pile her up like heaps of grain.
+Completely destroy her
+    and leave her no remnant.
+27 Kill all her young bulls;
+    let them go down to the slaughter!
+Woe to them! For their day has come,
+    the time for them to be punished.
+28 Listen to the fugitives and refugees from Babylon
+    declaring in Zion
+how the Lord our God has taken vengeance,
+    vengeance for his temple.
+
+29 “Summon archers against Babylon,
+    all those who draw the bow.
+Encamp all around her;
+    let no one escape.
+Repay her for her deeds;
+    do to her as she has done.
+For she has defied the Lord,
+    the Holy One of Israel.
+30 Therefore, her young men will fall in the streets;
+    all her soldiers will be silenced in that day,”
+declares the Lord.
+31 “See, I am against you, you arrogant one,”
+    declares the Lord, the Lord Almighty,
+“for your day has come,
+    the time for you to be punished.
+32 The arrogant one will stumble and fall
+    and no one will help her up;
+I will kindle a fire in her towns
+    that will consume all who are around her.”
+
+33 This is what the Lord Almighty says:
+
+“The people of Israel are oppressed,
+    and the people of Judah as well.
+All their captors hold them fast,
+    refusing to let them go.
+34 Yet their Redeemer is strong;
+    the Lord Almighty is his name.
+He will vigorously defend their cause
+    so that he may bring rest to their land,
+    but unrest to those who live in Babylon.
+
+35 “A sword against the Babylonians!”
+    declares the Lord—
+“against those who live in Babylon
+    and against her officials and wise men!
+36 A sword against her false prophets!
+    They will become fools.
+A sword against her warriors!
+    They will be filled with terror.
+37 A sword against her horses and chariots
+    and all the foreigners in her ranks!
+    They will become weaklings.
+A sword against her treasures!
+    They will be plundered.
+38 A drought on[d] her waters!
+    They will dry up.
+For it is a land of idols,
+    idols that will go mad with terror.
+
+39 “So desert creatures and hyenas will live there,
+    and there the owl will dwell.
+It will never again be inhabited
+    or lived in from generation to generation.
+40 As I overthrew Sodom and Gomorrah
+    along with their neighboring towns,”
+declares the Lord,
+“so no one will live there;
+    no people will dwell in it.
+
+41 “Look! An army is coming from the north;
+    a great nation and many kings
+    are being stirred up from the ends of the earth.
+42 They are armed with bows and spears;
+    they are cruel and without mercy.
+They sound like the roaring sea
+    as they ride on their horses;
+they come like men in battle formation
+    to attack you, Daughter Babylon.
+43 The king of Babylon has heard reports about them,
+    and his hands hang limp.
+Anguish has gripped him,
+    pain like that of a woman in labor.
+44 Like a lion coming up from Jordan’s thickets
+    to a rich pastureland,
+I will chase Babylon from its land in an instant.
+    Who is the chosen one I will appoint for this?
+Who is like me and who can challenge me?
+    And what shepherd can stand against me?”
+
+45 Therefore, hear what the Lord has planned against Babylon,
+    what he has purposed against the land of the Babylonians:
+The young of the flock will be dragged away;
+    their pasture will be appalled at their fate.
+46 At the sound of Babylon’s capture the earth will tremble;
+    its cry will resound among the nations.
+
+
                                           </p>
           </div>           
 
@@ -2947,7 +3859,266 @@ Freedom for Slaves
      <div className={styles.card}>
             <h2  className={styles.chapter}>Jeremiah Chapter LI</h2>
             <p>
-<h4 className={styles.h4}>            </h4>
+<h4 className={styles.h4}>51 This is what the Lord says:</h4>
+
+
+“See, I will stir up the spirit of a destroyer
+    against Babylon and the people of Leb Kamai.[a]
+2 I will send foreigners to Babylon
+    to winnow her and to devastate her land;
+they will oppose her on every side
+    in the day of her disaster.
+3 Let not the archer string his bow,
+    nor let him put on his armor.
+Do not spare her young men;
+    completely destroy[b] her army.
+4 They will fall down slain in Babylon,[c]
+    fatally wounded in her streets.
+5 For Israel and Judah have not been forsaken
+    by their God, the Lord Almighty,
+though their land[d] is full of guilt
+    before the Holy One of Israel.
+
+6 “Flee from Babylon!
+    Run for your lives!
+    Do not be destroyed because of her sins.
+It is time for the Lord’s vengeance;
+    he will repay her what she deserves.
+7 Babylon was a gold cup in the Lord’s hand;
+    she made the whole earth drunk.
+The nations drank her wine;
+    therefore they have now gone mad.
+8 Babylon will suddenly fall and be broken.
+    Wail over her!
+Get balm for her pain;
+    perhaps she can be healed.
+
+9 “‘We would have healed Babylon,
+    but she cannot be healed;
+let us leave her and each go to our own land,
+    for her judgment reaches to the skies,
+    it rises as high as the heavens.’
+
+10 “‘The Lord has vindicated us;
+    come, let us tell in Zion
+    what the Lord our God has done.’
+
+11 “Sharpen the arrows,
+    take up the shields!
+The Lord has stirred up the kings of the Medes,
+    because his purpose is to destroy Babylon.
+The Lord will take vengeance,
+    vengeance for his temple.
+12 Lift up a banner against the walls of Babylon!
+    Reinforce the guard,
+station the watchmen,
+    prepare an ambush!
+The Lord will carry out his purpose,
+    his decree against the people of Babylon.
+13 You who live by many waters
+    and are rich in treasures,
+your end has come,
+    the time for you to be destroyed.
+14 The Lord Almighty has sworn by himself:
+    I will surely fill you with troops, as with a swarm of locusts,
+    and they will shout in triumph over you.
+
+15 “He made the earth by his power;
+    he founded the world by his wisdom
+    and stretched out the heavens by his understanding.
+16 When he thunders, the waters in the heavens roar;
+    he makes clouds rise from the ends of the earth.
+He sends lightning with the rain
+    and brings out the wind from his storehouses.
+
+17 “Everyone is senseless and without knowledge;
+    every goldsmith is shamed by his idols.
+The images he makes are a fraud;
+    they have no breath in them.
+18 They are worthless, the objects of mockery;
+    when their judgment comes, they will perish.
+19 He who is the Portion of Jacob is not like these,
+    for he is the Maker of all things,
+including the people of his inheritance—
+    the Lord Almighty is his name.
+
+20 “You are my war club,
+    my weapon for battle—
+with you I shatter nations,
+    with you I destroy kingdoms,
+21 with you I shatter horse and rider,
+    with you I shatter chariot and driver,
+22 with you I shatter man and woman,
+    with you I shatter old man and youth,
+    with you I shatter young man and young woman,
+23 with you I shatter shepherd and flock,
+    with you I shatter farmer and oxen,
+    with you I shatter governors and officials.
+
+24 “Before your eyes I will repay Babylon and all who live in Babylonia[e] for all the wrong they have done in Zion,” declares the Lord.
+
+25 “I am against you, you destroying mountain,
+    you who destroy the whole earth,”
+declares the Lord.
+“I will stretch out my hand against you,
+    roll you off the cliffs,
+    and make you a burned-out mountain.
+26 No rock will be taken from you for a cornerstone,
+    nor any stone for a foundation,
+    for you will be desolate forever,”
+declares the Lord.
+
+27 “Lift up a banner in the land!
+    Blow the trumpet among the nations!
+Prepare the nations for battle against her;
+    summon against her these kingdoms:
+    Ararat, Minni and Ashkenaz.
+Appoint a commander against her;
+    send up horses like a swarm of locusts.
+28 Prepare the nations for battle against her—
+    the kings of the Medes,
+their governors and all their officials,
+    and all the countries they rule.
+29 The land trembles and writhes,
+    for the Lord’s purposes against Babylon stand—
+to lay waste the land of Babylon
+    so that no one will live there.
+30 Babylon’s warriors have stopped fighting;
+    they remain in their strongholds.
+Their strength is exhausted;
+    they have become weaklings.
+Her dwellings are set on fire;
+    the bars of her gates are broken.
+31 One courier follows another
+    and messenger follows messenger
+to announce to the king of Babylon
+    that his entire city is captured,
+32 the river crossings seized,
+    the marshes set on fire,
+    and the soldiers terrified.”
+
+33 This is what the Lord Almighty, the God of Israel, says:
+
+“Daughter Babylon is like a threshing floor
+    at the time it is trampled;
+    the time to harvest her will soon come.”
+
+34 “Nebuchadnezzar king of Babylon has devoured us,
+    he has thrown us into confusion,
+    he has made us an empty jar.
+Like a serpent he has swallowed us
+    and filled his stomach with our delicacies,
+    and then has spewed us out.
+35 May the violence done to our flesh[f] be on Babylon,”
+    say the inhabitants of Zion.
+“May our blood be on those who live in Babylonia,”
+    says Jerusalem.
+
+36 Therefore this is what the Lord says:
+
+“See, I will defend your cause
+    and avenge you;
+I will dry up her sea
+    and make her springs dry.
+37 Babylon will be a heap of ruins,
+    a haunt of jackals,
+an object of horror and scorn,
+    a place where no one lives.
+38 Her people all roar like young lions,
+    they growl like lion cubs.
+39 But while they are aroused,
+    I will set out a feast for them
+    and make them drunk,
+so that they shout with laughter—
+    then sleep forever and not awake,”
+declares the Lord.
+40 “I will bring them down
+    like lambs to the slaughter,
+    like rams and goats.
+
+41 “How Sheshak[g] will be captured,
+    the boast of the whole earth seized!
+How desolate Babylon will be
+    among the nations!
+42 The sea will rise over Babylon;
+    its roaring waves will cover her.
+43 Her towns will be desolate,
+    a dry and desert land,
+a land where no one lives,
+    through which no one travels.
+44 I will punish Bel in Babylon
+    and make him spew out what he has swallowed.
+The nations will no longer stream to him.
+    And the wall of Babylon will fall.
+
+45 “Come out of her, my people!
+    Run for your lives!
+    Run from the fierce anger of the Lord.
+46 Do not lose heart or be afraid
+    when rumors are heard in the land;
+one rumor comes this year, another the next,
+    rumors of violence in the land
+    and of ruler against ruler.
+47 For the time will surely come
+    when I will punish the idols of Babylon;
+her whole land will be disgraced
+    and her slain will all lie fallen within her.
+48 Then heaven and earth and all that is in them
+    will shout for joy over Babylon,
+for out of the north
+    destroyers will attack her,”
+declares the Lord.
+
+49 “Babylon must fall because of Israel’s slain,
+    just as the slain in all the earth
+    have fallen because of Babylon.
+50 You who have escaped the sword,
+    leave and do not linger!
+Remember the Lord in a distant land,
+    and call to mind Jerusalem.”
+
+51 “We are disgraced,
+    for we have been insulted
+    and shame covers our faces,
+because foreigners have entered
+    the holy places of the Lord’s house.”
+
+52 “But days are coming,” declares the Lord,
+    “when I will punish her idols,
+and throughout her land
+    the wounded will groan.
+53 Even if Babylon ascends to the heavens
+    and fortifies her lofty stronghold,
+    I will send destroyers against her,”
+declares the Lord.
+
+54 “The sound of a cry comes from Babylon,
+    the sound of great destruction
+    from the land of the Babylonians.[h]
+55 The Lord will destroy Babylon;
+    he will silence her noisy din.
+Waves of enemies will rage like great waters;
+    the roar of their voices will resound.
+56 A destroyer will come against Babylon;
+    her warriors will be captured,
+    and their bows will be broken.
+For the Lord is a God of retribution;
+    he will repay in full.
+57 I will make her officials and wise men drunk,
+    her governors, officers and warriors as well;
+they will sleep forever and not awake,”
+    declares the King, whose name is the Lord Almighty.
+
+58 This is what the Lord Almighty says:
+
+“Babylon’s thick wall will be leveled
+    and her high gates set on fire;
+the peoples exhaust themselves for nothing,
+    the nations’ labor is only fuel for the flames.”
+
+59 This is the message Jeremiah the prophet gave to the staff officer Seraiah son of Neriah, the son of Mahseiah, when he went to Babylon with Zedekiah king of Judah in the fourth year of his reign. 60 Jeremiah had written on a scroll about all the disasters that would come upon Babylon—all that had been recorded concerning Babylon. 61 He said to Seraiah, “When you get to Babylon, see that you read all these words aloud. 62 Then say, ‘Lord, you have said you will destroy this place, so that neither people nor animals will live in it; it will be desolate forever.’ 63 When you finish reading this scroll, tie a stone to it and throw it into the Euphrates. 64 Then say, ‘So will Babylon sink to rise no more because of the disaster I will bring on her. And her people will fall.’”
+
+The words of Jeremiah end here.
 
                                   
                                   </p>
@@ -2956,7 +4127,42 @@ Freedom for Slaves
           <div className={styles.card}>
               <h2  className={styles.chapter}>Jeremiah Chapter LII</h2>
             <p>
-                           <h4 className={styles.h4}>           </h4> 
+                           <h4 className={styles.h4}>The Fall of Jerusalem</h4> 
+
+52 Zedekiah was twenty-one years old when he became king, and he reigned in Jerusalem eleven years. His mother’s name was Hamutal daughter of Jeremiah; she was from Libnah. 2 He did evil in the eyes of the Lord, just as Jehoiakim had done. 3 It was because of the Lord’s anger that all this happened to Jerusalem and Judah, and in the end he thrust them from his presence.
+
+Now Zedekiah rebelled against the king of Babylon.
+
+4 So in the ninth year of Zedekiah’s reign, on the tenth day of the tenth month, Nebuchadnezzar king of Babylon marched against Jerusalem with his whole army. They encamped outside the city and built siege works all around it. 5 The city was kept under siege until the eleventh year of King Zedekiah.
+
+6 By the ninth day of the fourth month the famine in the city had become so severe that there was no food for the people to eat. 7 Then the city wall was broken through, and the whole army fled. They left the city at night through the gate between the two walls near the king’s garden, though the Babylonians[a] were surrounding the city. They fled toward the Arabah,[b] 8 but the Babylonian[c] army pursued King Zedekiah and overtook him in the plains of Jericho. All his soldiers were separated from him and scattered, 9 and he was captured.
+
+He was taken to the king of Babylon at Riblah in the land of Hamath, where he pronounced sentence on him. 10 There at Riblah the king of Babylon killed the sons of Zedekiah before his eyes; he also killed all the officials of Judah. 11 Then he put out Zedekiah’s eyes, bound him with bronze shackles and took him to Babylon, where he put him in prison till the day of his death.
+
+12 On the tenth day of the fifth month, in the nineteenth year of Nebuchadnezzar king of Babylon, Nebuzaradan commander of the imperial guard, who served the king of Babylon, came to Jerusalem. 13 He set fire to the temple of the Lord, the royal palace and all the houses of Jerusalem. Every important building he burned down. 14 The whole Babylonian army, under the commander of the imperial guard, broke down all the walls around Jerusalem. 15 Nebuzaradan the commander of the guard carried into exile some of the poorest people and those who remained in the city, along with the rest of the craftsmen[d] and those who had deserted to the king of Babylon. 16 But Nebuzaradan left behind the rest of the poorest people of the land to work the vineyards and fields.
+
+17 The Babylonians broke up the bronze pillars, the movable stands and the bronze Sea that were at the temple of the Lord and they carried all the bronze to Babylon. 18 They also took away the pots, shovels, wick trimmers, sprinkling bowls, dishes and all the bronze articles used in the temple service. 19 The commander of the imperial guard took away the basins, censers, sprinkling bowls, pots, lampstands, dishes and bowls used for drink offerings—all that were made of pure gold or silver.
+
+20 The bronze from the two pillars, the Sea and the twelve bronze bulls under it, and the movable stands, which King Solomon had made for the temple of the Lord, was more than could be weighed. 21 Each pillar was eighteen cubits high and twelve cubits in circumference[e]; each was four fingers thick, and hollow. 22 The bronze capital on top of one pillar was five cubits[f] high and was decorated with a network and pomegranates of bronze all around. The other pillar, with its pomegranates, was similar. 23 There were ninety-six pomegranates on the sides; the total number of pomegranates above the surrounding network was a hundred.
+
+24 The commander of the guard took as prisoners Seraiah the chief priest, Zephaniah the priest next in rank and the three doorkeepers. 25 Of those still in the city, he took the officer in charge of the fighting men, and seven royal advisers. He also took the secretary who was chief officer in charge of conscripting the people of the land, sixty of whom were found in the city. 26 Nebuzaradan the commander took them all and brought them to the king of Babylon at Riblah. 27 There at Riblah, in the land of Hamath, the king had them executed.
+
+So Judah went into captivity, away from her land. 28 This is the number of the people Nebuchadnezzar carried into exile:
+
+in the seventh year, 3,023 Jews;
+
+29 in Nebuchadnezzar’s eighteenth year,
+
+832 people from Jerusalem;
+
+30 in his twenty-third year,
+
+745 Jews taken into exile by Nebuzaradan the commander of the imperial guard.
+
+There were 4,600 people in all.
+
+Jehoiachin Released
+31 In the thirty-seventh year of the exile of Jehoiachin king of Judah, in the year Awel-Marduk became king of Babylon, on the twenty-fifth day of the twelfth month, he released Jehoiachin king of Judah and freed him from prison. 32 He spoke kindly to him and gave him a seat of honor higher than those of the other kings who were with him in Babylon. 33 So Jehoiachin put aside his prison clothes and for the rest of his life ate regularly at the king’s table. 34 Day by day the king of Babylon gave Jehoiachin a regular allowance as long as he lived, till the day of his death.
 
   
             </p>
