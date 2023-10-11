@@ -38,7 +38,9 @@ export default function Home() {
 </div> 
 <p className={styles.parables}>
        
-                     Isaiah has a vision from the Lord pertaining to Judah & Jerusalem.             
+                    Jeremiah has a word from the Lord to Israel: “If you, Israel, will return,
+    then return to me,”
+declares the Lord.
       </p>
 <div className={styles.nav3}>               
 
@@ -54,8 +56,8 @@ export default function Home() {
   
   <a href="https://cash.app/$JNutt367">
               <Image className={styles.arrow}
-                                src="/donations_please.webp"
-                                alt="youtube-icon"
+                                src="/upward_pointing.webp"
+                                alt="contributions"
                                 height={75}
                                 width={90}
                                 priority
@@ -542,10 +544,132 @@ the cry of Daughter Zion gasping for breath,
            <h2  className={styles.chapter}>Jeremiah Chapter V</h2>
             <p>
             
-<h4 className={styles.h4}>      </h4>
+<h4 className={styles.h4}>Not One Is Upright</h4>
 
 
+5 “Go up and down the streets of Jerusalem,
+    look around and consider,
+    search through her squares.
+If you can find but one person
+    who deals honestly and seeks the truth,
+    I will forgive this city.
+2 Although they say, ‘As surely as the Lord lives,’
+    still they are swearing falsely.”
 
+3 Lord, do not your eyes look for truth?
+    You struck them, but they felt no pain;
+    you crushed them, but they refused correction.
+They made their faces harder than stone
+    and refused to repent.
+4 I thought, “These are only the poor;
+    they are foolish,
+for they do not know the way of the Lord,
+    the requirements of their God.
+5 So I will go to the leaders
+    and speak to them;
+surely they know the way of the Lord,
+    the requirements of their God.”
+But with one accord they too had broken off the yoke
+    and torn off the bonds.
+6 Therefore a lion from the forest will attack them,
+    a wolf from the desert will ravage them,
+a leopard will lie in wait near their towns
+    to tear to pieces any who venture out,
+for their rebellion is great
+    and their backslidings many.
+
+7 “Why should I forgive you?
+    Your children have forsaken me
+    and sworn by gods that are not gods.
+I supplied all their needs,
+    yet they committed adultery
+    and thronged to the houses of prostitutes.
+8 They are well-fed, lusty stallions,
+    each neighing for another man’s wife.
+9 Should I not punish them for this?”
+    declares the Lord.
+“Should I not avenge myself
+    on such a nation as this?
+
+10 “Go through her vineyards and ravage them,
+    but do not destroy them completely.
+Strip off her branches,
+    for these people do not belong to the Lord.
+11 The people of Israel and the people of Judah
+    have been utterly unfaithful to me,”
+declares the Lord.
+
+12 They have lied about the Lord;
+    they said, “He will do nothing!
+No harm will come to us;
+    we will never see sword or famine.
+13 The prophets are but wind
+    and the word is not in them;
+    so let what they say be done to them.”
+
+14 Therefore this is what the Lord God Almighty says:
+
+“Because the people have spoken these words,
+    I will make my words in your mouth a fire
+    and these people the wood it consumes.
+15 People of Israel,” declares the Lord,
+    “I am bringing a distant nation against you—
+an ancient and enduring nation,
+    a people whose language you do not know,
+    whose speech you do not understand.
+16 Their quivers are like an open grave;
+    all of them are mighty warriors.
+17 They will devour your harvests and food,
+    devour your sons and daughters;
+they will devour your flocks and herds,
+    devour your vines and fig trees.
+With the sword they will destroy
+    the fortified cities in which you trust.
+
+18 “Yet even in those days,” declares the Lord, “I will not destroy you completely. 19 And when the people ask, ‘Why has the Lord our God done all this to us?’ you will tell them, ‘As you have forsaken me and served foreign gods in your own land, so now you will serve foreigners in a land not your own.’
+
+20 “Announce this to the descendants of Jacob
+    and proclaim it in Judah:
+21 Hear this, you foolish and senseless people,
+    who have eyes but do not see,
+    who have ears but do not hear:
+22 Should you not fear me?” declares the Lord.
+    “Should you not tremble in my presence?
+I made the sand a boundary for the sea,
+    an everlasting barrier it cannot cross.
+The waves may roll, but they cannot prevail;
+    they may roar, but they cannot cross it.
+23 But these people have stubborn and rebellious hearts;
+    they have turned aside and gone away.
+24 They do not say to themselves,
+    ‘Let us fear the Lord our God,
+who gives autumn and spring rains in season,
+    who assures us of the regular weeks of harvest.’
+25 Your wrongdoings have kept these away;
+    your sins have deprived you of good.
+
+26 “Among my people are the wicked
+    who lie in wait like men who snare birds
+    and like those who set traps to catch people.
+27 Like cages full of birds,
+    their houses are full of deceit;
+they have become rich and powerful
+28     and have grown fat and sleek.
+Their evil deeds have no limit;
+    they do not seek justice.
+They do not promote the case of the fatherless;
+    they do not defend the just cause of the poor.
+29 Should I not punish them for this?”
+    declares the Lord.
+“Should I not avenge myself
+    on such a nation as this?
+
+30 “A horrible and shocking thing
+    has happened in the land:
+31 The prophets prophesy lies,
+    the priests rule by their own authority,
+and my people love it this way.
+    But what will you do in the end?
   
             </p>
           </div>
@@ -556,8 +680,154 @@ the cry of Daughter Zion gasping for breath,
            <h2  className={styles.chapter}>Jeremiah Chapter VI</h2>
             <p>
            
-<h4 className={styles.h4}>              </h4>
+<h4 className={styles.h4}>Jerusalem Under Siege</h4>
  
+
+6 “Flee for safety, people of Benjamin!
+    Flee from Jerusalem!
+Sound the trumpet in Tekoa!
+    Raise the signal over Beth Hakkerem!
+For disaster looms out of the north,
+    even terrible destruction.
+2 I will destroy Daughter Zion,
+    so beautiful and delicate.
+3 Shepherds with their flocks will come against her;
+    they will pitch their tents around her,
+    each tending his own portion.”
+
+4 “Prepare for battle against her!
+    Arise, let us attack at noon!
+But, alas, the daylight is fading,
+    and the shadows of evening grow long.
+5 So arise, let us attack at night
+    and destroy her fortresses!”
+
+6 This is what the Lord Almighty says:
+
+“Cut down the trees
+    and build siege ramps against Jerusalem.
+This city must be punished;
+    it is filled with oppression.
+7 As a well pours out its water,
+    so she pours out her wickedness.
+Violence and destruction resound in her;
+    her sickness and wounds are ever before me.
+8 Take warning, Jerusalem,
+    or I will turn away from you
+and make your land desolate
+    so no one can live in it.”
+
+9 This is what the Lord Almighty says:
+
+“Let them glean the remnant of Israel
+    as thoroughly as a vine;
+pass your hand over the branches again,
+    like one gathering grapes.”
+
+10 To whom can I speak and give warning?
+    Who will listen to me?
+Their ears are closed[a]
+    so they cannot hear.
+The word of the Lord is offensive to them;
+    they find no pleasure in it.
+11 But I am full of the wrath of the Lord,
+    and I cannot hold it in.
+
+“Pour it out on the children in the street
+    and on the young men gathered together;
+both husband and wife will be caught in it,
+    and the old, those weighed down with years.
+12 Their houses will be turned over to others,
+    together with their fields and their wives,
+when I stretch out my hand
+    against those who live in the land,”
+declares the Lord.
+13 “From the least to the greatest,
+    all are greedy for gain;
+prophets and priests alike,
+    all practice deceit.
+14 They dress the wound of my people
+    as though it were not serious.
+‘Peace, peace,’ they say,
+    when there is no peace.
+15 Are they ashamed of their detestable conduct?
+    No, they have no shame at all;
+    they do not even know how to blush.
+So they will fall among the fallen;
+    they will be brought down when I punish them,”
+says the Lord.
+
+16 This is what the Lord says:
+
+“Stand at the crossroads and look;
+    ask for the ancient paths,
+ask where the good way is, and walk in it,
+    and you will find rest for your souls.
+    But you said, ‘We will not walk in it.’
+17 I appointed watchmen over you and said,
+    ‘Listen to the sound of the trumpet!’
+    But you said, ‘We will not listen.’
+18 Therefore hear, you nations;
+    you who are witnesses,
+    observe what will happen to them.
+19 Hear, you earth:
+    I am bringing disaster on this people,
+    the fruit of their schemes,
+because they have not listened to my words
+    and have rejected my law.
+20 What do I care about incense from Sheba
+    or sweet calamus from a distant land?
+Your burnt offerings are not acceptable;
+    your sacrifices do not please me.”
+
+21 Therefore this is what the Lord says:
+
+“I will put obstacles before this people.
+    Parents and children alike will stumble over them;
+    neighbors and friends will perish.”
+
+22 This is what the Lord says:
+
+“Look, an army is coming
+    from the land of the north;
+a great nation is being stirred up
+    from the ends of the earth.
+23 They are armed with bow and spear;
+    they are cruel and show no mercy.
+They sound like the roaring sea
+    as they ride on their horses;
+they come like men in battle formation
+    to attack you, Daughter Zion.”
+
+24 We have heard reports about them,
+    and our hands hang limp.
+Anguish has gripped us,
+    pain like that of a woman in labor.
+25 Do not go out to the fields
+    or walk on the roads,
+for the enemy has a sword,
+    and there is terror on every side.
+26 Put on sackcloth, my people,
+    and roll in ashes;
+mourn with bitter wailing
+    as for an only son,
+for suddenly the destroyer
+    will come upon us.
+
+27 “I have made you a tester of metals
+    and my people the ore,
+that you may observe
+    and test their ways.
+28 They are all hardened rebels,
+    going about to slander.
+They are bronze and iron;
+    they all act corruptly.
+29 The bellows blow fiercely
+    to burn away the lead with fire,
+but the refining goes on in vain;
+    the wicked are not purged out.
+30 They are called rejected silver,
+    because the Lord has rejected them.”
 
   
             </p>
@@ -568,10 +838,29 @@ the cry of Daughter Zion gasping for breath,
           >
              <h2  className={styles.chapter}>Jeremiah Chapter VII</h2>
             <p>
- <h4 className={styles.h4}>             </h4> 
+ <h4 className={styles.h4}>False Religion Worthless</h4> 
  
 
+7 This is the word that came to Jeremiah from the Lord: 2 “Stand at the gate of the Lord’s house and there proclaim this message:
 
+“‘Hear the word of the Lord, all you people of Judah who come through these gates to worship the Lord. 3 This is what the Lord Almighty, the God of Israel, says: Reform your ways and your actions, and I will let you live in this place. 4 Do not trust in deceptive words and say, “This is the temple of the Lord, the temple of the Lord, the temple of the Lord!” 5 If you really change your ways and your actions and deal with each other justly, 6 if you do not oppress the foreigner, the fatherless or the widow and do not shed innocent blood in this place, and if you do not follow other gods to your own harm, 7 then I will let you live in this place, in the land I gave your ancestors for ever and ever. 8 But look, you are trusting in deceptive words that are worthless.
+
+9 “‘Will you steal and murder, commit adultery and perjury,[a] burn incense to Baal and follow other gods you have not known, 10 and then come and stand before me in this house, which bears my Name, and say, “We are safe”—safe to do all these detestable things? 11 Has this house, which bears my Name, become a den of robbers to you? But I have been watching! declares the Lord.
+
+12 “‘Go now to the place in Shiloh where I first made a dwelling for my Name, and see what I did to it because of the wickedness of my people Israel. 13 While you were doing all these things, declares the Lord, I spoke to you again and again, but you did not listen; I called you, but you did not answer. 14 Therefore, what I did to Shiloh I will now do to the house that bears my Name, the temple you trust in, the place I gave to you and your ancestors. 15 I will thrust you from my presence, just as I did all your fellow Israelites, the people of Ephraim.’
+
+16 “So do not pray for this people nor offer any plea or petition for them; do not plead with me, for I will not listen to you. 17 Do you not see what they are doing in the towns of Judah and in the streets of Jerusalem? 18 The children gather wood, the fathers light the fire, and the women knead the dough and make cakes to offer to the Queen of Heaven. They pour out drink offerings to other gods to arouse my anger. 19 But am I the one they are provoking? declares the Lord. Are they not rather harming themselves, to their own shame?
+
+20 “‘Therefore this is what the Sovereign Lord says: My anger and my wrath will be poured out on this place—on man and beast, on the trees of the field and on the crops of your land—and it will burn and not be quenched.
+
+21 “‘This is what the Lord Almighty, the God of Israel, says: Go ahead, add your burnt offerings to your other sacrifices and eat the meat yourselves! 22 For when I brought your ancestors out of Egypt and spoke to them, I did not just give them commands about burnt offerings and sacrifices, 23 but I gave them this command: Obey me, and I will be your God and you will be my people. Walk in obedience to all I command you, that it may go well with you. 24 But they did not listen or pay attention; instead, they followed the stubborn inclinations of their evil hearts. They went backward and not forward. 25 From the time your ancestors left Egypt until now, day after day, again and again I sent you my servants the prophets. 26 But they did not listen to me or pay attention. They were stiff-necked and did more evil than their ancestors.’
+
+27 “When you tell them all this, they will not listen to you; when you call to them, they will not answer. 28 Therefore say to them, ‘This is the nation that has not obeyed the Lord its God or responded to correction. Truth has perished; it has vanished from their lips.
+
+29 “‘Cut off your hair and throw it away; take up a lament on the barren heights, for the Lord has rejected and abandoned this generation that is under his wrath.
+
+The Valley of Slaughter
+30 “‘The people of Judah have done evil in my eyes, declares the Lord. They have set up their detestable idols in the house that bears my Name and have defiled it. 31 They have built the high places of Topheth in the Valley of Ben Hinnom to burn their sons and daughters in the fire—something I did not command, nor did it enter my mind. 32 So beware, the days are coming, declares the Lord, when people will no longer call it Topheth or the Valley of Ben Hinnom, but the Valley of Slaughter, for they will bury the dead in Topheth until there is no more room. 33 Then the carcasses of this people will become food for the birds and the wild animals, and there will be no one to frighten them away. 34 I will bring an end to the sounds of joy and gladness and to the voices of bride and bridegroom in the towns of Judah and the streets of Jerusalem, for the land will become desolate.
 
             </p>
           </div>
@@ -582,9 +871,111 @@ the cry of Daughter Zion gasping for breath,
            <h2  className={styles.chapter}>Jeremiah Chapter VIII</h2>
             <p>
             
-<h4 className={styles.h4}>              </h4>  
+<h4 className={styles.h4}>this evil nation will prefer death to life</h4>
+              
+8 “‘At that time, declares the Lord, the bones of the kings and officials of Judah, the bones of the priests and prophets, and the bones of the people of Jerusalem will be removed from their graves. 2 They will be exposed to the sun and the moon and all the stars of the heavens, which they have loved and served and which they have followed and consulted and worshiped. 
+  They will not be gathered up or buried, but will be like dung lying on the ground. 3 Wherever I banish them, all the survivors of this evil nation will prefer death to life, 
+  declares the Lord Almighty.’
 
+Sin and Punishment
+4 “Say to them, ‘This is what the Lord says:
 
+“‘When people fall down, do they not get up?
+    When someone turns away, do they not return?
+5 Why then have these people turned away?
+    Why does Jerusalem always turn away?
+They cling to deceit;
+    they refuse to return.
+6 I have listened attentively,
+    but they do not say what is right.
+None of them repent of their wickedness,
+    saying, “What have I done?”
+Each pursues their own course
+    like a horse charging into battle.
+7 Even the stork in the sky
+    knows her appointed seasons,
+and the dove, the swift and the thrush
+    observe the time of their migration.
+But my people do not know
+    the requirements of the Lord.
+
+8 “‘How can you say, “We are wise,
+    for we have the law of the Lord,”
+when actually the lying pen of the scribes
+    has handled it falsely?
+9 The wise will be put to shame;
+    they will be dismayed and trapped.
+Since they have rejected the word of the Lord,
+    what kind of wisdom do they have?
+10 Therefore I will give their wives to other men
+    and their fields to new owners.
+From the least to the greatest,
+    all are greedy for gain;
+prophets and priests alike,
+    all practice deceit.
+11 They dress the wound of my people
+    as though it were not serious.
+“Peace, peace,” they say,
+    when there is no peace.
+12 Are they ashamed of their detestable conduct?
+    No, they have no shame at all;
+    they do not even know how to blush.
+So they will fall among the fallen;
+    they will be brought down when they are punished,
+says the Lord.
+
+13 “‘I will take away their harvest,
+declares the Lord.
+    There will be no grapes on the vine.
+There will be no figs on the tree,
+    and their leaves will wither.
+What I have given them
+    will be taken from them.[a]’”
+
+14 Why are we sitting here?
+    Gather together!
+Let us flee to the fortified cities
+    and perish there!
+For the Lord our God has doomed us to perish
+    and given us poisoned water to drink,
+    because we have sinned against him.
+15 We hoped for peace
+    but no good has come,
+for a time of healing
+    but there is only terror.
+16 The snorting of the enemy’s horses
+    is heard from Dan;
+at the neighing of their stallions
+    the whole land trembles.
+They have come to devour
+    the land and everything in it,
+    the city and all who live there.
+
+17 “See, I will send venomous snakes among you,
+    vipers that cannot be charmed,
+    and they will bite you,”
+declares the Lord.
+
+18 You who are my Comforter[b] in sorrow,
+    my heart is faint within me.
+19 Listen to the cry of my people
+    from a land far away:
+“Is the Lord not in Zion?
+    Is her King no longer there?”
+
+“Why have they aroused my anger with their images,
+    with their worthless foreign idols?”
+
+20 “The harvest is past,
+    the summer has ended,
+    and we are not saved.”
+
+21 Since my people are crushed, I am crushed;
+    I mourn, and horror grips me.
+22 Is there no balm in Gilead?
+    Is there no physician there?
+Why then is there no healing
+    for the wound of my people?
               </p>
           </div>
 
@@ -595,6 +986,110 @@ the cry of Daughter Zion gasping for breath,
             <p>
             
 <h4 className={styles.h4}>               </h4>
+9 [a]1 Oh, that my head were a spring of water
+    and my eyes a fountain of tears!
+I would weep day and night
+    for the slain of my people.
+2 Oh, that I had in the desert
+    a lodging place for travelers,
+so that I might leave my people
+    and go away from them;
+for they are all adulterers,
+    a crowd of unfaithful people.
+
+3 “They make ready their tongue
+    like a bow, to shoot lies;
+it is not by truth
+    that they triumph[b] in the land.
+They go from one sin to another;
+    they do not acknowledge me,”
+declares the Lord.
+4 “Beware of your friends;
+    do not trust anyone in your clan.
+For every one of them is a deceiver,[c]
+    and every friend a slanderer.
+5 Friend deceives friend,
+    and no one speaks the truth.
+They have taught their tongues to lie;
+    they weary themselves with sinning.
+6 You[d] live in the midst of deception;
+    in their deceit they refuse to acknowledge me,”
+declares the Lord.
+
+7 Therefore this is what the Lord Almighty says:
+
+“See, I will refine and test them,
+    for what else can I do
+    because of the sin of my people?
+8 Their tongue is a deadly arrow;
+    it speaks deceitfully.
+With their mouths they all speak cordially to their neighbors,
+    but in their hearts they set traps for them.
+9 Should I not punish them for this?”
+    declares the Lord.
+“Should I not avenge myself
+    on such a nation as this?”
+
+10 I will weep and wail for the mountains
+    and take up a lament concerning the wilderness grasslands.
+They are desolate and untraveled,
+    and the lowing of cattle is not heard.
+The birds have all fled
+    and the animals are gone.
+
+11 “I will make Jerusalem a heap of ruins,
+    a haunt of jackals;
+and I will lay waste the towns of Judah
+    so no one can live there.”
+
+12 Who is wise enough to understand this? Who has been instructed by the Lord and can explain it? Why has the land been ruined and laid waste like a desert that no one can cross?
+
+13 The Lord said, “It is because they have forsaken my law, which I set before them; they have not obeyed me or followed my law. 14 Instead, they have followed the stubbornness of their hearts; they have followed the Baals, as their ancestors taught them.” 15 Therefore this is what the Lord Almighty, the God of Israel, says: “See, I will make this people eat bitter food and drink poisoned water. 16 I will scatter them among nations that neither they nor their ancestors have known, and I will pursue them with the sword until I have made an end of them.”
+
+17 This is what the Lord Almighty says:
+
+“Consider now! Call for the wailing women to come;
+    send for the most skillful of them.
+18 Let them come quickly
+    and wail over us
+till our eyes overflow with tears
+    and water streams from our eyelids.
+19 The sound of wailing is heard from Zion:
+    ‘How ruined we are!
+    How great is our shame!
+We must leave our land
+    because our houses are in ruins.’”
+
+20 Now, you women, hear the word of the Lord;
+    open your ears to the words of his mouth.
+Teach your daughters how to wail;
+    teach one another a lament.
+21 Death has climbed in through our windows
+    and has entered our fortresses;
+it has removed the children from the streets
+    and the young men from the public squares.
+
+22 Say, “This is what the Lord declares:
+
+“‘Dead bodies will lie
+    like dung on the open field,
+like cut grain behind the reaper,
+    with no one to gather them.’”
+
+23 This is what the Lord says:
+
+“Let not the wise boast of their wisdom
+    or the strong boast of their strength
+    or the rich boast of their riches,
+24 but let the one who boasts boast about this:
+    that they have the understanding to know me,
+that I am the Lord, who exercises kindness,
+    justice and righteousness on earth,
+    for in these I delight,”
+declares the Lord.
+
+25 “The days are coming,” declares the Lord, “when I will punish all who are circumcised only in the flesh— 
+  26 Egypt, Judah, Edom, Ammon, Moab and all who live in the wilderness in distant places.[e] For all these nations are really uncircumcised, and even the whole house of Israel is uncircumcised in heart.”
 
 
             </p>
@@ -606,9 +1101,111 @@ the cry of Daughter Zion gasping for breath,
              <h2  className={styles.chapter}>Jeremiah Chapter X</h2>
             <p>
             
-<h4 className={styles.h4}>                   </h4>
+<h4 className={styles.h4}>God and Idols</h4>
 
   
+10 Hear what the Lord says to you, people of Israel. 2 This is what the Lord says:
+
+“Do not learn the ways of the nations
+    or be terrified by signs in the heavens,
+    though the nations are terrified by them.
+3 For the practices of the peoples are worthless;
+    they cut a tree out of the forest,
+    and a craftsman shapes it with his chisel.
+4 They adorn it with silver and gold;
+    they fasten it with hammer and nails
+    so it will not totter.
+5 Like a scarecrow in a cucumber field,
+    their idols cannot speak;
+they must be carried
+    because they cannot walk.
+Do not fear them;
+    they can do no harm
+    nor can they do any good.”
+
+6 No one is like you, Lord;
+    you are great,
+    and your name is mighty in power.
+7 Who should not fear you,
+    King of the nations?
+    This is your due.
+Among all the wise leaders of the nations
+    and in all their kingdoms,
+    there is no one like you.
+
+8 They are all senseless and foolish;
+    they are taught by worthless wooden idols.
+9 Hammered silver is brought from Tarshish
+    and gold from Uphaz.
+What the craftsman and goldsmith have made
+    is then dressed in blue and purple—
+    all made by skilled workers.
+10 But the Lord is the true God;
+    he is the living God, the eternal King.
+When he is angry, the earth trembles;
+    the nations cannot endure his wrath.
+
+11 “Tell them this: ‘These gods, who did not make the heavens and the earth, will perish from the earth and from under the heavens.’”[a]
+
+12 But God made the earth by his power;
+    he founded the world by his wisdom
+    and stretched out the heavens by his understanding.
+13 When he thunders, the waters in the heavens roar;
+    he makes clouds rise from the ends of the earth.
+He sends lightning with the rain
+    and brings out the wind from his storehouses.
+
+14 Everyone is senseless and without knowledge;
+    every goldsmith is shamed by his idols.
+The images he makes are a fraud;
+    they have no breath in them.
+15 They are worthless, the objects of mockery;
+    when their judgment comes, they will perish.
+16 He who is the Portion of Jacob is not like these,
+    for he is the Maker of all things,
+including Israel, the people of his inheritance—
+    the Lord Almighty is his name.
+
+Coming Destruction
+17 Gather up your belongings to leave the land,
+    you who live under siege.
+18 For this is what the Lord says:
+    “At this time I will hurl out
+    those who live in this land;
+I will bring distress on them
+    so that they may be captured.”
+
+19 Woe to me because of my injury!
+    My wound is incurable!
+Yet I said to myself,
+    “This is my sickness, and I must endure it.”
+20 My tent is destroyed;
+    all its ropes are snapped.
+My children are gone from me and are no more;
+    no one is left now to pitch my tent
+    or to set up my shelter.
+21 The shepherds are senseless
+    and do not inquire of the Lord;
+so they do not prosper
+    and all their flock is scattered.
+22 Listen! The report is coming—
+    a great commotion from the land of the north!
+It will make the towns of Judah desolate,
+    a haunt of jackals.
+
+Jeremiah’s Prayer
+23 Lord, I know that people’s lives are not their own;
+    it is not for them to direct their steps.
+24 Discipline me, Lord, but only in due measure—
+    not in your anger,
+    or you will reduce me to nothing.
+25 Pour out your wrath on the nations
+    that do not acknowledge you,
+    on the peoples who do not call on your name.
+For they have devoured Jacob;
+    they have devoured him completely
+    and destroyed his homeland.
+
             </p>
           </div>
 
@@ -618,9 +1215,46 @@ the cry of Daughter Zion gasping for breath,
              <h2  className={styles.chapter}>Jeremiah Chapter XI</h2>
             <p>
             
-<h4 className={styles.h4}>                </h4>
+<h4 className={styles.h4}>The Covenant Is Broken</h4>
 
-  
+
+11 This is the word that came to Jeremiah from the Lord: 2 “Listen to the terms of this covenant and tell them to the people of Judah and to those who live in Jerusalem. 3 Tell them that this is what the Lord, the God of Israel, says: ‘Cursed is the one who does not obey the terms of this covenant— 4 the terms I commanded your ancestors when I brought them out of Egypt, out of the iron-smelting furnace.’ I said, ‘Obey me and do everything I command you, and you will be my people, and I will be your God. 5 Then I will fulfill the oath I swore to your ancestors, to give them a land flowing with milk and honey’—the land you possess today.”
+
+I answered, “Amen, Lord.”
+
+6 The Lord said to me, “Proclaim all these words in the towns of Judah and in the streets of Jerusalem: ‘Listen to the terms of this covenant and follow them. 7 From the time I brought your ancestors up from Egypt until today, I warned them again and again, saying, “Obey me.” 8 But they did not listen or pay attention; instead, they followed the stubbornness of their evil hearts. So I brought on them all the curses of the covenant I had commanded them to follow but that they did not keep.’”
+
+9 Then the Lord said to me, “There is a conspiracy among the people of Judah and those who live in Jerusalem. 10 They have returned to the sins of their ancestors, who refused to listen to my words. They have followed other gods to serve them. Both Israel and Judah have broken the covenant I made with their ancestors. 11 Therefore this is what the Lord says: ‘I will bring on them a disaster they cannot escape. Although they cry out to me, I will not listen to them. 12 The towns of Judah and the people of Jerusalem will go and cry out to the gods to whom they burn incense, but they will not help them at all when disaster strikes. 13 You, Judah, have as many gods as you have towns; and the altars you have set up to burn incense to that shameful god Baal are as many as the streets of Jerusalem.’
+
+14 “Do not pray for this people or offer any plea or petition for them, because I will not listen when they call to me in the time of their distress.
+
+15 “What is my beloved doing in my temple
+    as she, with many others, works out her evil schemes?
+    Can consecrated meat avert your punishment?
+When you engage in your wickedness,
+    then you rejoice.[a]”
+
+16 The Lord called you a thriving olive tree
+    with fruit beautiful in form.
+But with the roar of a mighty storm
+    he will set it on fire,
+    and its branches will be broken.
+
+17 The Lord Almighty, who planted you, has decreed disaster for you, because the people of both Israel and Judah have done evil and aroused my anger by burning incense to Baal.
+
+Plot Against Jeremiah
+18 Because the Lord revealed their plot to me, I knew it, for at that time he showed me what they were doing. 19 I had been like a gentle lamb led to the slaughter; I did not realize that they had plotted against me, saying,
+
+“Let us destroy the tree and its fruit;
+    let us cut him off from the land of the living,
+    that his name be remembered no more.”
+20 But you, Lord Almighty, who judge righteously
+    and test the heart and mind,
+let me see your vengeance on them,
+    for to you I have committed my cause.
+
+21 Therefore this is what the Lord says about the people of Anathoth who are threatening to kill you, saying, “Do not prophesy in the name of the Lord or you will die by our hands”— 22 therefore this is what the Lord Almighty says: “I will punish them. Their young men will die by the sword, their sons and daughters by famine. 23 Not even a remnant will be left to them, because I will bring disaster on the people of Anathoth in the year of their punishment.”
+              
             </p>
           </div>
 
@@ -630,8 +1264,74 @@ the cry of Daughter Zion gasping for breath,
              <h2  className={styles.chapter}>Jeremiah Chapter XII</h2>
             <p>
            
-<h4 className={styles.h4}>            </h4>
-    
+<h4 className={styles.h4}>Jeremiah’s Complaint</h4>
+
+
+12 You are always righteous, Lord,
+    when I bring a case before you.
+Yet I would speak with you about your justice:
+    Why does the way of the wicked prosper?
+    Why do all the faithless live at ease?
+2 You have planted them, and they have taken root;
+    they grow and bear fruit.
+You are always on their lips
+    but far from their hearts.
+3 Yet you know me, Lord;
+    you see me and test my thoughts about you.
+Drag them off like sheep to be butchered!
+    Set them apart for the day of slaughter!
+4 How long will the land lie parched
+    and the grass in every field be withered?
+Because those who live in it are wicked,
+    the animals and birds have perished.
+Moreover, the people are saying,
+    “He will not see what happens to us.”
+
+God’s Answer
+5 “If you have raced with men on foot
+    and they have worn you out,
+    how can you compete with horses?
+If you stumble in safe country,
+    how will you manage in the thickets by[b] the Jordan?
+6 Your relatives, members of your own family—
+    even they have betrayed you;
+    they have raised a loud cry against you.
+Do not trust them,
+    though they speak well of you.
+
+7 “I will forsake my house,
+    abandon my inheritance;
+I will give the one I love
+    into the hands of her enemies.
+8 My inheritance has become to me
+    like a lion in the forest.
+She roars at me;
+    therefore I hate her.
+9 Has not my inheritance become to me
+    like a speckled bird of prey
+    that other birds of prey surround and attack?
+Go and gather all the wild beasts;
+    bring them to devour.
+10 Many shepherds will ruin my vineyard
+    and trample down my field;
+they will turn my pleasant field
+    into a desolate wasteland.
+11 It will be made a wasteland,
+    parched and desolate before me;
+the whole land will be laid waste
+    because there is no one who cares.
+12 Over all the barren heights in the desert
+    destroyers will swarm,
+for the sword of the Lord will devour
+    from one end of the land to the other;
+    no one will be safe.
+13 They will sow wheat but reap thorns;
+    they will wear themselves out but gain nothing.
+They will bear the shame of their harvest
+    because of the Lord’s fierce anger.”
+
+14 This is what the Lord says: “As for all my wicked neighbors who seize the inheritance I gave my people Israel, I will uproot them from their lands and I will uproot the people of Judah from among them. 15 But after I uproot them, I will again have compassion and will bring each of them back to their own inheritance and their own country. 16 And if they learn well the ways of my people and swear by my name, saying, ‘As surely as the Lord lives’—even as they once taught my people to swear by Baal—then they will be established among my people. 17 But if any nation does not listen, I will completely uproot and destroy it,” declares the Lord.
+              
             </p>
           </div>
 
@@ -641,10 +1341,80 @@ the cry of Daughter Zion gasping for breath,
            <h2  className={styles.chapter}>Jeremiah Chapter XIII</h2>
             <p>
             
-<h4 className={styles.h4}>               </h4>
+<h4 className={styles.h4}>A Linen Belt</h4>
      
 
-            </p>
+13 This is what the Lord said to me: “Go and buy a linen belt and put it around your waist, but do not let it touch water.” 2 So I bought a belt, as the Lord directed, and put it around my waist.
+
+3 Then the word of the Lord came to me a second time: 4 “Take the belt you bought and are wearing around your waist, and go now to Perath[a] and hide it there in a crevice in the rocks.” 5 So I went and hid it at Perath, as the Lord told me.
+
+6 Many days later the Lord said to me, “Go now to Perath and get the belt I told you to hide there.” 7 So I went to Perath and dug up the belt and took it from the place where I had hidden it, but now it was ruined and completely useless.
+
+8 Then the word of the Lord came to me: 9 “This is what the Lord says: ‘In the same way I will ruin the pride of Judah and the great pride of Jerusalem. 10 These wicked people, who refuse to listen to my words, who follow the stubbornness of their hearts and go after other gods to serve and worship them, will be like this belt—completely useless! 11 For as a belt is bound around the waist, so I bound all the people of Israel and all the people of Judah to me,’ declares the Lord, ‘to be my people for my renown and praise and honor. But they have not listened.’
+
+Wineskins
+12 “Say to them: ‘This is what the Lord, the God of Israel, says: Every wineskin should be filled with wine.’ And if they say to you, ‘Don’t we know that every wineskin should be filled with wine?’ 13 then tell them, ‘This is what the Lord says: I am going to fill with drunkenness all who live in this land, including the kings who sit on David’s throne, the priests, the prophets and all those living in Jerusalem. 14 I will smash them one against the other, parents and children alike, declares the Lord. I will allow no pity or mercy or compassion to keep me from destroying them.’”
+
+Threat of Captivity
+15 Hear and pay attention,
+    do not be arrogant,
+    for the Lord has spoken.
+16 Give glory to the Lord your God
+    before he brings the darkness,
+before your feet stumble
+    on the darkening hills.
+You hope for light,
+    but he will turn it to utter darkness
+    and change it to deep gloom.
+17 If you do not listen,
+    I will weep in secret
+    because of your pride;
+my eyes will weep bitterly,
+    overflowing with tears,
+    because the Lord’s flock will be taken captive.
+
+18 Say to the king and to the queen mother,
+    “Come down from your thrones,
+for your glorious crowns
+    will fall from your heads.”
+19 The cities in the Negev will be shut up,
+    and there will be no one to open them.
+All Judah will be carried into exile,
+    carried completely away.
+
+20 Look up and see
+    those who are coming from the north.
+Where is the flock that was entrusted to you,
+    the sheep of which you boasted?
+21 What will you say when the Lord sets over you
+    those you cultivated as your special allies?
+Will not pain grip you
+    like that of a woman in labor?
+22 And if you ask yourself,
+    “Why has this happened to me?”—
+it is because of your many sins
+    that your skirts have been torn off
+    and your body mistreated.
+23 Can an Ethiopian[b] change his skin
+    or a leopard its spots?
+Neither can you do good
+    who are accustomed to doing evil.
+
+24 “I will scatter you like chaff
+    driven by the desert wind.
+25 This is your lot,
+    the portion I have decreed for you,”
+declares the Lord,
+“because you have forgotten me
+    and trusted in false gods.
+26 I will pull up your skirts over your face
+    that your shame may be seen—
+27 your adulteries and lustful neighings,
+    your shameless prostitution!
+I have seen your detestable acts
+    on the hills and in the fields.
+Woe to you, Jerusalem!
+    How long will you be unclean?”            </p>
           </div>
 
           <div
@@ -653,9 +1423,94 @@ the cry of Daughter Zion gasping for breath,
              <h2  className={styles.chapter}>Jeremiah Chapter XIV</h2>
             <p>
             
-<h4 className={styles.h4}>              </h4>
+<h4 className={styles.h4}>Drought, Famine, Sword</h4>
               
-              
+14 This is the word of the Lord that came to Jeremiah concerning the drought:
+
+2 “Judah mourns,
+    her cities languish;
+they wail for the land,
+    and a cry goes up from Jerusalem.
+3 The nobles send their servants for water;
+    they go to the cisterns
+    but find no water.
+They return with their jars unfilled;
+    dismayed and despairing,
+    they cover their heads.
+4 The ground is cracked
+    because there is no rain in the land;
+the farmers are dismayed
+    and cover their heads.
+5 Even the doe in the field
+    deserts her newborn fawn
+    because there is no grass.
+6 Wild donkeys stand on the barren heights
+    and pant like jackals;
+their eyes fail
+    for lack of food.”
+
+7 Although our sins testify against us,
+    do something, Lord, for the sake of your name.
+For we have often rebelled;
+    we have sinned against you.
+8 You who are the hope of Israel,
+    its Savior in times of distress,
+why are you like a stranger in the land,
+    like a traveler who stays only a night?
+9 Why are you like a man taken by surprise,
+    like a warrior powerless to save?
+You are among us, Lord,
+    and we bear your name;
+    do not forsake us!
+
+10 This is what the Lord says about this people:
+
+“They greatly love to wander;
+    they do not restrain their feet.
+So the Lord does not accept them;
+    he will now remember their wickedness
+    and punish them for their sins.”
+
+11 Then the Lord said to me, “Do not pray for the well-being of this people. 12 Although they fast, I will not listen to their cry; though they offer burnt offerings and grain offerings, I will not accept them. Instead, I will destroy them with the sword, famine and plague.”
+
+13 But I said, “Alas, Sovereign Lord! The prophets keep telling them, ‘You will not see the sword or suffer famine. Indeed, I will give you lasting peace in this place.’”
+
+14 Then the Lord said to me, “The prophets are prophesying lies in my name. I have not sent them or appointed them or spoken to them. They are prophesying to you false visions, divinations, idolatries[a] and the delusions of their own minds. 15 Therefore this is what the Lord says about the prophets who are prophesying in my name: I did not send them, yet they are saying, ‘No sword or famine will touch this land.’ Those same prophets will perish by sword and famine. 16 And the people they are prophesying to will be thrown out into the streets of Jerusalem because of the famine and sword. There will be no one to bury them, their wives, their sons and their daughters. I will pour out on them the calamity they deserve.
+
+17 “Speak this word to them:
+
+“‘Let my eyes overflow with tears
+    night and day without ceasing;
+for the Virgin Daughter, my people,
+    has suffered a grievous wound,
+    a crushing blow.
+18 If I go into the country,
+    I see those slain by the sword;
+if I go into the city,
+    I see the ravages of famine.
+Both prophet and priest
+    have gone to a land they know not.’”
+
+19 Have you rejected Judah completely?
+    Do you despise Zion?
+Why have you afflicted us
+    so that we cannot be healed?
+We hoped for peace
+    but no good has come,
+for a time of healing
+    but there is only terror.
+20 We acknowledge our wickedness, Lord,
+    and the guilt of our ancestors;
+    we have indeed sinned against you.
+21 For the sake of your name do not despise us;
+    do not dishonor your glorious throne.
+Remember your covenant with us
+    and do not break it.
+22 Do any of the worthless idols of the nations bring rain?
+    Do the skies themselves send down showers?
+No, it is you, Lord our God.
+    Therefore our hope is in you,
+    for you are the one who does all this.              
               </p>
           </div>
 
@@ -665,10 +1520,104 @@ the cry of Daughter Zion gasping for breath,
              <h2  className={styles.chapter}>Jeremiah Chapter XV</h2>
             <p>
            
-<h4 className={styles.h4}>                 </h4>
+<h4 className={styles.h4}>“‘Those destined for death, to death;
+those for the sword, to the sword;
+those for starvation, to starvation;
+those for captivity, to captivity.’
+</h4>
  
+15 Then the Lord said to me: “Even if Moses and Samuel were to stand before me, my heart would not go out to this people. Send them away from my presence! Let them go! 2 And if they ask you, ‘Where shall we go?’ tell them, ‘This is what the Lord says:
 
-             </p>
+“‘Those destined for death, to death;
+those for the sword, to the sword;
+those for starvation, to starvation;
+those for captivity, to captivity.’
+
+3 “I will send four kinds of destroyers against them,” declares the Lord, “the sword to kill and the dogs to drag away and the birds and the wild animals to devour and destroy. 4 I will make them abhorrent to all the kingdoms of the earth because of what Manasseh son of Hezekiah king of Judah did in Jerusalem.
+
+5 “Who will have pity on you, Jerusalem?
+    Who will mourn for you?
+    Who will stop to ask how you are?
+6 You have rejected me,” declares the Lord.
+    “You keep on backsliding.
+So I will reach out and destroy you;
+    I am tired of holding back.
+7 I will winnow them with a winnowing fork
+    at the city gates of the land.
+I will bring bereavement and destruction on my people,
+    for they have not changed their ways.
+8 I will make their widows more numerous
+    than the sand of the sea.
+At midday I will bring a destroyer
+    against the mothers of their young men;
+suddenly I will bring down on them
+    anguish and terror.
+9 The mother of seven will grow faint
+    and breathe her last.
+Her sun will set while it is still day;
+    she will be disgraced and humiliated.
+I will put the survivors to the sword
+    before their enemies,”
+declares the Lord.
+
+10 Alas, my mother, that you gave me birth,
+    a man with whom the whole land strives and contends!
+I have neither lent nor borrowed,
+    yet everyone curses me.
+
+11 The Lord said,
+
+“Surely I will deliver you for a good purpose;
+    surely I will make your enemies plead with you
+    in times of disaster and times of distress.
+
+12 “Can a man break iron—
+    iron from the north—or bronze?
+
+13 “Your wealth and your treasures
+    I will give as plunder, without charge,
+because of all your sins
+    throughout your country.
+14 I will enslave you to your enemies
+    in[a] a land you do not know,
+for my anger will kindle a fire
+    that will burn against you.”
+
+15 Lord, you understand;
+    remember me and care for me.
+    Avenge me on my persecutors.
+You are long-suffering—do not take me away;
+    think of how I suffer reproach for your sake.
+16 When your words came, I ate them;
+    they were my joy and my heart’s delight,
+for I bear your name,
+    Lord God Almighty.
+17 I never sat in the company of revelers,
+    never made merry with them;
+I sat alone because your hand was on me
+    and you had filled me with indignation.
+18 Why is my pain unending
+    and my wound grievous and incurable?
+You are to me like a deceptive brook,
+    like a spring that fails.
+
+19 Therefore this is what the Lord says:
+
+“If you repent, I will restore you
+    that you may serve me;
+if you utter worthy, not worthless, words,
+    you will be my spokesman.
+Let this people turn to you,
+    but you must not turn to them.
+20 I will make you a wall to this people,
+    a fortified wall of bronze;
+they will fight against you
+    but will not overcome you,
+for I am with you
+    to rescue and save you,”
+declares the Lord.
+21 “I will save you from the hands of the wicked
+    and deliver you from the grasp of the cruel.”             </p>
           </div>
 
           <div
