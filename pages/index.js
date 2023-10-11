@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>The old Testament NIV</title>
+        <title>The Prophets, Jeremiah - Malachi</title>
         <meta name="description" content="Ezekiel" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
