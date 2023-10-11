@@ -1814,7 +1814,7 @@ Let them be overthrown before you;
           >
             <h2  className={styles.chapter}>Jeremiah Chapter XIX</h2>
                     <p>
-                            <h4 className={styles.h4}>This is what the Lord says :/h4>
+                            <h4 className={styles.h4}>This is what the Lord says :</h4>
 
  “Go and buy a clay jar from a potter. Take along some of the elders of the people and of the priests 2 and go out to the Valley of Ben Hinnom, near the entrance of the Potsherd Gate. There proclaim the words I tell you, 3 and say, ‘Hear the word of the Lord, you kings of Judah and people of Jerusalem. This is what the Lord Almighty, the God of Israel, says: Listen! I am going to bring a disaster on this place that will make the ears of everyone who hears of it tingle. 4 For they have forsaken me and made this a place of foreign gods; they have burned incense in it to gods that neither they nor their ancestors nor the kings of Judah ever knew, and they have filled this place with the blood of the innocent. 5 They have built the high places of Baal to burn their children in the fire as offerings to Baal—something I did not command or mention, nor did it enter my mind. 6 So beware, the days are coming, declares the Lord, when people will no longer call this place Topheth or the Valley of Ben Hinnom, but the Valley of Slaughter.
 
@@ -2146,8 +2146,20 @@ False Prophecy
           >
             <h2  className={styles.chapter}>Jeremiah Chapter XXIV</h2>
                         <p>
-                     <h4 className={styles.h4}>            </h4>
+                     <h4 className={styles.h4}>Two Baskets of Figs</h4>
 
+
+24 After Jehoiachin[a] son of Jehoiakim king of Judah and the officials, the skilled workers and the artisans of Judah were carried into exile from Jerusalem to Babylon by Nebuchadnezzar king of Babylon, the Lord showed me two baskets of figs placed in front of the temple of the Lord. 2 One basket had very good figs, like those that ripen early; the other basket had very bad figs, so bad they could not be eaten.
+
+3 Then the Lord asked me, “What do you see, Jeremiah?”
+
+“Figs,” I answered. “The good ones are very good, but the bad ones are so bad they cannot be eaten.”
+
+4 Then the word of the Lord came to me: 5 “This is what the Lord, the God of Israel, says: ‘Like these good figs, I regard as good the exiles from Judah, whom I sent away from this place to the land of the Babylonians.[b] 6 My eyes will watch over them for their good, and I will bring them back to this land. I will build them up and not tear them down; I will plant them and not uproot them. 7 I will give them a heart to know me, that I am the Lord. They will be my people, and I will be their God, for they will return to me with all their heart.
+
+8 “‘But like the bad figs, which are so bad they cannot be eaten,’ says the Lord, ‘so will I deal with Zedekiah king of Judah, his officials and the survivors from Jerusalem, whether they remain in this land or live in Egypt. 9 I will make them abhorrent and an offense to all the kingdoms of the earth, a reproach and a byword, a curse[c] and an object of ridicule, wherever I banish them. 10 I will send the sword, famine and plague against them until they are destroyed from the land I gave to them and their ancestors.’”
+
+              
                             </p>
           </div>
 
@@ -2157,9 +2169,65 @@ False Prophecy
            <h2  className={styles.chapter}>Jeremiah Chapter XXV</h2>
             <p>
             
-<h4 className={styles.h4}>              </h4>
+<h4 className={styles.h4}>Seventy Years of Captivity</h4>
 
-           
+
+25 The word came to Jeremiah concerning all the people of Judah in the fourth year of Jehoiakim son of Josiah king of Judah, which was the first year of Nebuchadnezzar king of Babylon. 2 So Jeremiah the prophet said to all the people of Judah and to all those living in Jerusalem: 3 For twenty-three years—from the thirteenth year of Josiah son of Amon king of Judah until this very day—the word of the Lord has come to me and I have spoken to you again and again, but you have not listened.
+
+4 And though the Lord has sent all his servants the prophets to you again and again, you have not listened or paid any attention. 5 They said, “Turn now, each of you, from your evil ways and your evil practices, and you can stay in the land the Lord gave to you and your ancestors for ever and ever. 6 Do not follow other gods to serve and worship them; do not arouse my anger with what your hands have made. Then I will not harm you.”
+
+7 “But you did not listen to me,” declares the Lord, “and you have aroused my anger with what your hands have made, and you have brought harm to yourselves.”
+
+8 Therefore the Lord Almighty says this: “Because you have not listened to my words, 9 I will summon all the peoples of the north and my servant Nebuchadnezzar king of Babylon,” declares the Lord, “and I will bring them against this land and its inhabitants and against all the surrounding nations. I will completely destroy[a] them and make them an object of horror and scorn, and an everlasting ruin. 10 I will banish from them the sounds of joy and gladness, the voices of bride and bridegroom, the sound of millstones and the light of the lamp. 11 This whole country will become a desolate wasteland, and these nations will serve the king of Babylon seventy years.
+
+12 “But when the seventy years are fulfilled, I will punish the king of Babylon and his nation, the land of the Babylonians,[b] for their guilt,” declares the Lord, “and will make it desolate forever. 13 I will bring on that land all the things I have spoken against it, all that are written in this book and prophesied by Jeremiah against all the nations. 14 They themselves will be enslaved by many nations and great kings; I will repay them according to their deeds and the work of their hands.”
+
+The Cup of God’s Wrath
+15 This is what the Lord, the God of Israel, said to me: “Take from my hand this cup filled with the wine of my wrath and make all the nations to whom I send you drink it. 16 When they drink it, they will stagger and go mad because of the sword I will send among them.”
+
+17 So I took the cup from the Lord’s hand and made all the nations to whom he sent me drink it: 18 Jerusalem and the towns of Judah, its kings and officials, to make them a ruin and an object of horror and scorn, a curse[c]—as they are today; 19 Pharaoh king of Egypt, his attendants, his officials and all his people, 20 and all the foreign people there; all the kings of Uz; all the kings of the Philistines (those of Ashkelon, Gaza, Ekron, and the people left at Ashdod); 21 Edom, Moab and Ammon; 22 all the kings of Tyre and Sidon; the kings of the coastlands across the sea; 23 Dedan, Tema, Buz and all who are in distant places[d]; 24 all the kings of Arabia and all the kings of the foreign people who live in the wilderness; 25 all the kings of Zimri, Elam and Media; 26 and all the kings of the north, near and far, one after the other—all the kingdoms on the face of the earth. And after all of them, the king of Sheshak[e] will drink it too.
+
+27 “Then tell them, ‘This is what the Lord Almighty, the God of Israel, says: Drink, get drunk and vomit, and fall to rise no more because of the sword I will send among you.’ 28 But if they refuse to take the cup from your hand and drink, tell them, ‘This is what the Lord Almighty says: You must drink it! 29 See, I am beginning to bring disaster on the city that bears my Name, and will you indeed go unpunished? You will not go unpunished, for I am calling down a sword on all who live on the earth, declares the Lord Almighty.’
+
+30 “Now prophesy all these words against them and say to them:
+
+“‘The Lord will roar from on high;
+    he will thunder from his holy dwelling
+    and roar mightily against his land.
+He will shout like those who tread the grapes,
+    shout against all who live on the earth.
+31 The tumult will resound to the ends of the earth,
+    for the Lord will bring charges against the nations;
+he will bring judgment on all mankind
+    and put the wicked to the sword,’”
+declares the Lord.
+
+32 This is what the Lord Almighty says:
+
+“Look! Disaster is spreading
+    from nation to nation;
+a mighty storm is rising
+    from the ends of the earth.”
+
+33 At that time those slain by the Lord will be everywhere—from one end of the earth to the other. They will not be mourned or gathered up or buried, but will be like dung lying on the ground.
+
+34 Weep and wail, you shepherds;
+    roll in the dust, you leaders of the flock.
+For your time to be slaughtered has come;
+    you will fall like the best of the rams.[f]
+35 The shepherds will have nowhere to flee,
+    the leaders of the flock no place to escape.
+36 Hear the cry of the shepherds,
+    the wailing of the leaders of the flock,
+    for the Lord is destroying their pasture.
+37 The peaceful meadows will be laid waste
+    because of the fierce anger of the Lord.
+38 Like a lion he will leave his lair,
+    and their land will become desolate
+because of the sword[g] of the oppressor
+    and because of the Lord’s fierce anger.
+
+
             </p>
           </div>
 
@@ -2169,8 +2237,32 @@ False Prophecy
             <h2  className={styles.chapter}>Jeremiah Chapter XXVI</h2>
                           <p>
                          
-             <h4 className={styles.h4}>             </h4>
+             <h4 className={styles.h4}>Jeremiah Threatened With Death</h4>
 
+
+26 Early in the reign of Jehoiakim son of Josiah king of Judah, this word came from the Lord: 2 “This is what the Lord says: Stand in the courtyard of the Lord’s house and speak to all the people of the towns of Judah who come to worship in the house of the Lord. Tell them everything I command you; do not omit a word. 3 Perhaps they will listen and each will turn from their evil ways. Then I will relent and not inflict on them the disaster I was planning because of the evil they have done. 4 Say to them, ‘This is what the Lord says: If you do not listen to me and follow my law, which I have set before you, 5 and if you do not listen to the words of my servants the prophets, whom I have sent to you again and again (though you have not listened), 6 then I will make this house like Shiloh and this city a curse[a] among all the nations of the earth.’”
+
+7 The priests, the prophets and all the people heard Jeremiah speak these words in the house of the Lord. 8 But as soon as Jeremiah finished telling all the people everything the Lord had commanded him to say, the priests, the prophets and all the people seized him and said, “You must die! 9 Why do you prophesy in the Lord’s name that this house will be like Shiloh and this city will be desolate and deserted?” And all the people crowded around Jeremiah in the house of the Lord.
+
+10 When the officials of Judah heard about these things, they went up from the royal palace to the house of the Lord and took their places at the entrance of the New Gate of the Lord’s house. 11 Then the priests and the prophets said to the officials and all the people, “This man should be sentenced to death because he has prophesied against this city. You have heard it with your own ears!”
+
+12 Then Jeremiah said to all the officials and all the people: “The Lord sent me to prophesy against this house and this city all the things you have heard. 13 Now reform your ways and your actions and obey the Lord your God. Then the Lord will relent and not bring the disaster he has pronounced against you. 14 As for me, I am in your hands; do with me whatever you think is good and right. 15 Be assured, however, that if you put me to death, you will bring the guilt of innocent blood on yourselves and on this city and on those who live in it, for in truth the Lord has sent me to you to speak all these words in your hearing.”
+
+16 Then the officials and all the people said to the priests and the prophets, “This man should not be sentenced to death! He has spoken to us in the name of the Lord our God.”
+
+17 Some of the elders of the land stepped forward and said to the entire assembly of people, 18 “Micah of Moresheth prophesied in the days of Hezekiah king of Judah. He told all the people of Judah, ‘This is what the Lord Almighty says:
+
+“‘Zion will be plowed like a field,
+    Jerusalem will become a heap of rubble,
+    the temple hill a mound overgrown with thickets.’[b]
+
+19 “Did Hezekiah king of Judah or anyone else in Judah put him to death? Did not Hezekiah fear the Lord and seek his favor? And did not the Lord relent, so that he did not bring the disaster he pronounced against them? We are about to bring a terrible disaster on ourselves!”
+
+20 (Now Uriah son of Shemaiah from Kiriath Jearim was another man who prophesied in the name of the Lord; he prophesied the same things against this city and this land as Jeremiah did. 21 When King Jehoiakim and all his officers and officials heard his words, the king was determined to put him to death. But Uriah heard of it and fled in fear to Egypt. 22 King Jehoiakim, however, sent Elnathan son of Akbor to Egypt, along with some other men. 23 They brought Uriah out of Egypt and took him to King Jehoiakim, who had him struck down with a sword and his body thrown into the burial place of the common people.)
+
+24 Furthermore, Ahikam son of Shaphan supported Jeremiah, and so he was not handed over to the people to be put to death.
+
+              
                             </p>
           </div>
 
@@ -2180,8 +2272,18 @@ False Prophecy
            <h2  className={styles.chapter}>Jeremiah Chapter XXVII</h2>
                                 <p>
                                
-<h4 className={styles.h4}>               </h4>
+<h4 className={styles.h4}>Judah to Serve Nebuchadnezzar</h4>
+
+
               
+27 Early in the reign of Zedekiah[a] son of Josiah king of Judah, this word came to Jeremiah from the Lord: 2 This is what the Lord said to me: “Make a yoke out of straps and crossbars and put it on your neck. 3 Then send word to the kings of Edom, Moab, Ammon, Tyre and Sidon through the envoys who have come to Jerusalem to Zedekiah king of Judah. 4 Give them a message for their masters and say, ‘This is what the Lord Almighty, the God of Israel, says: “Tell this to your masters: 5 With my great power and outstretched arm I made the earth and its people and the animals that are on it, and I give it to anyone I please. 6 Now I will give all your countries into the hands of my servant Nebuchadnezzar king of Babylon; I will make even the wild animals subject to him. 7 All nations will serve him and his son and his grandson until the time for his land comes; then many nations and great kings will subjugate him.
+
+8 “‘“If, however, any nation or kingdom will not serve Nebuchadnezzar king of Babylon or bow its neck under his yoke, I will punish that nation with the sword, famine and plague, declares the Lord, until I destroy it by his hand. 9 So do not listen to your prophets, your diviners, your interpreters of dreams, your mediums or your sorcerers who tell you, ‘You will not serve the king of Babylon.’ 10 They prophesy lies to you that will only serve to remove you far from your lands; I will banish you and you will perish. 11 But if any nation will bow its neck under the yoke of the king of Babylon and serve him, I will let that nation remain in its own land to till it and to live there, declares the Lord.”’”
+
+12 I gave the same message to Zedekiah king of Judah. I said, “Bow your neck under the yoke of the king of Babylon; serve him and his people, and you will live. 13 Why will you and your people die by the sword, famine and plague with which the Lord has threatened any nation that will not serve the king of Babylon? 14 Do not listen to the words of the prophets who say to you, ‘You will not serve the king of Babylon,’ for they are prophesying lies to you. 15 ‘I have not sent them,’ declares the Lord. ‘They are prophesying lies in my name. Therefore, I will banish you and you will perish, both you and the prophets who prophesy to you.’”
+
+16 Then I said to the priests and all these people, “This is what the Lord says: Do not listen to the prophets who say, ‘Very soon now the articles from the Lord’s house will be brought back from Babylon.’ They are prophesying lies to you. 17 Do not listen to them. Serve the king of Babylon, and you will live. Why should this city become a ruin? 18 If they are prophets and have the word of the Lord, let them plead with the Lord Almighty that the articles remaining in the house of the Lord and in the palace of the king of Judah and in Jerusalem not be taken to Babylon. 19 For this is what the Lord Almighty says about the pillars, the bronze Sea, the movable stands and the other articles that are left in this city, 20 which Nebuchadnezzar king of Babylon did not take away when he carried Jehoiachin[b] son of Jehoiakim king of Judah into exile from Jerusalem to Babylon, along with all the nobles of Judah and Jerusalem— 21 yes, this is what the Lord Almighty, the God of Israel, says about the things that are left in the house of the Lord and in the palace of the king of Judah and in Jerusalem: 22 ‘They will be taken to Babylon and there they will remain until the day I come for them,’ declares the Lord. ‘Then I will bring them back and restore them to this place.’”
+
               
               </p>
           </div>
@@ -2192,7 +2294,20 @@ False Prophecy
           <h2  className={styles.chapter}>Jeremiah Chapter XXVIII</h2>
                                           <p>
                                          
-                             <h4 className={styles.h4}>                </h4> 
+                             <h4 className={styles.h4}> The False Prophet Hananiah</h4> 
+
+             
+28 In the fifth month of that same year, the fourth year, early in the reign of Zedekiah king of Judah, the prophet Hananiah son of Azzur, who was from Gibeon, said to me in the house of the Lord in the presence of the priests and all the people: 2 “This is what the Lord Almighty, the God of Israel, says: ‘I will break the yoke of the king of Babylon. 3 Within two years I will bring back to this place all the articles of the Lord’s house that Nebuchadnezzar king of Babylon removed from here and took to Babylon. 4 I will also bring back to this place Jehoiachin[a] son of Jehoiakim king of Judah and all the other exiles from Judah who went to Babylon,’ declares the Lord, ‘for I will break the yoke of the king of Babylon.’”
+
+5 Then the prophet Jeremiah replied to the prophet Hananiah before the priests and all the people who were standing in the house of the Lord. 6 He said, “Amen! May the Lord do so! May the Lord fulfill the words you have prophesied by bringing the articles of the Lord’s house and all the exiles back to this place from Babylon. 7 Nevertheless, listen to what I have to say in your hearing and in the hearing of all the people: 8 From early times the prophets who preceded you and me have prophesied war, disaster and plague against many countries and great kingdoms. 9 But the prophet who prophesies peace will be recognized as one truly sent by the Lord only if his prediction comes true.”
+
+10 Then the prophet Hananiah took the yoke off the neck of the prophet Jeremiah and broke it, 11 and he said before all the people, “This is what the Lord says: ‘In the same way I will break the yoke of Nebuchadnezzar king of Babylon off the neck of all the nations within two years.’” At this, the prophet Jeremiah went on his way.
+
+12 After the prophet Hananiah had broken the yoke off the neck of the prophet Jeremiah, the word of the Lord came to Jeremiah: 13 “Go and tell Hananiah, ‘This is what the Lord says: You have broken a wooden yoke, but in its place you will get a yoke of iron. 14 This is what the Lord Almighty, the God of Israel, says: I will put an iron yoke on the necks of all these nations to make them serve Nebuchadnezzar king of Babylon, and they will serve him. I will even give him control over the wild animals.’”
+
+15 Then the prophet Jeremiah said to Hananiah the prophet, “Listen, Hananiah! The Lord has not sent you, yet you have persuaded this nation to trust in lies. 16 Therefore this is what the Lord says: ‘I am about to remove you from the face of the earth. This very year you are going to die, because you have preached rebellion against the Lord.’”
+
+17 In the seventh month of that same year, Hananiah the prophet died.
 
               
                                       </p>
@@ -2204,10 +2319,23 @@ False Prophecy
           <h2  className={styles.chapter}>Jeremiah Chapter XXIX</h2>
                                           <p>
                                          
-                            <h4 className={styles.h4}>            </h4>
+                            <h4 className={styles.h4}>A Letter to the Exiles</h4>
 
 
-  </p>
+29 This is the text of the letter that the prophet Jeremiah sent from Jerusalem to the surviving elders among the exiles and to the priests, the prophets and all the other people Nebuchadnezzar had carried into exile from Jerusalem to Babylon. 2 (This was after King Jehoiachin[a] and the queen mother, the court officials and the leaders of Judah and Jerusalem, the skilled workers and the artisans had gone into exile from Jerusalem.) 3 He entrusted the letter to Elasah son of Shaphan and to Gemariah son of Hilkiah, whom Zedekiah king of Judah sent to King Nebuchadnezzar in Babylon. It said:
+
+4 This is what the Lord Almighty, the God of Israel, says to all those I carried into exile from Jerusalem to Babylon: 5 “Build houses and settle down; plant gardens and eat what they produce. 6 Marry and have sons and daughters; find wives for your sons and give your daughters in marriage, so that they too may have sons and daughters. Increase in number there; do not decrease. 7 Also, seek the peace and prosperity of the city to which I have carried you into exile. Pray to the Lord for it, because if it prospers, you too will prosper.” 8 Yes, this is what the Lord Almighty, the God of Israel, says: “Do not let the prophets and diviners among you deceive you. Do not listen to the dreams you encourage them to have. 9 They are prophesying lies to you in my name. I have not sent them,” declares the Lord.
+
+10 This is what the Lord says: “When seventy years are completed for Babylon, I will come to you and fulfill my good promise to bring you back to this place. 11 For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future. 12 Then you will call on me and come and pray to me, and I will listen to you. 13 You will seek me and find me when you seek me with all your heart. 14 I will be found by you,” declares the Lord, “and will bring you back from captivity.[b] I will gather you from all the nations and places where I have banished you,” declares the Lord, “and will bring you back to the place from which I carried you into exile.”
+
+15 You may say, “The Lord has raised up prophets for us in Babylon,” 16 but this is what the Lord says about the king who sits on David’s throne and all the people who remain in this city, your fellow citizens who did not go with you into exile— 17 yes, this is what the Lord Almighty says: “I will send the sword, famine and plague against them and I will make them like figs that are so bad they cannot be eaten. 18 I will pursue them with the sword, famine and plague and will make them abhorrent to all the kingdoms of the earth, a curse[c] and an object of horror, of scorn and reproach, among all the nations where I drive them. 19 For they have not listened to my words,” declares the Lord, “words that I sent to them again and again by my servants the prophets. And you exiles have not listened either,” declares the Lord.
+
+20 Therefore, hear the word of the Lord, all you exiles whom I have sent away from Jerusalem to Babylon. 21 This is what the Lord Almighty, the God of Israel, says about Ahab son of Kolaiah and Zedekiah son of Maaseiah, who are prophesying lies to you in my name: “I will deliver them into the hands of Nebuchadnezzar king of Babylon, and he will put them to death before your very eyes. 22 Because of them, all the exiles from Judah who are in Babylon will use this curse: ‘May the Lord treat you like Zedekiah and Ahab, whom the king of Babylon burned in the fire.’ 23 For they have done outrageous things in Israel; they have committed adultery with their neighbors’ wives, and in my name they have uttered lies—which I did not authorize. I know it and am a witness to it,” declares the Lord.
+
+Message to Shemaiah
+24 Tell Shemaiah the Nehelamite, 25 “This is what the Lord Almighty, the God of Israel, says: You sent letters in your own name to all the people in Jerusalem, to the priest Zephaniah son of Maaseiah, and to all the other priests. You said to Zephaniah, 26 ‘The Lord has appointed you priest in place of Jehoiada to be in charge of the house of the Lord; you should put any maniac who acts like a prophet into the stocks and neck-irons. 27 So why have you not reprimanded Jeremiah from Anathoth, who poses as a prophet among you? 28 He has sent this message to us in Babylon: It will be a long time. Therefore build houses and settle down; plant gardens and eat what they produce.’”
+
+29 Zephaniah the priest, however, read the letter to Jeremiah the prophet. 30 Then the word of the Lord came to Jeremiah: 31 “Send this message to all the exiles: ‘This is what the Lord says about Shemaiah the Nehelamite: Because Shemaiah has prophesied to you, even though I did not send him, and has persuaded you to trust in lies, 32 this is what the Lord says: I will surely punish Shemaiah the Nehelamite and his descendants. He will have no one left among this people, nor will he see the good things I will do for my people, declares the Lord, because he has preached rebellion against me.’”  </p>
           </div>
 
 
@@ -2216,7 +2344,109 @@ False Prophecy
           >
           <h2  className={styles.chapter}>Jeremiah Chapter XXX</h2>
                                           <p>
-                                         
+<h4 className={styles.h4}>Restoration of Israel</h4>
+
+
+30 This is the word that came to Jeremiah from the Lord: 2 “This is what the Lord, the God of Israel, says: ‘Write in a book all the words I have spoken to you. 3 The days are coming,’ declares the Lord, ‘when I will bring my people Israel and Judah back from captivity[a] and restore them to the land I gave their ancestors to possess,’ says the Lord.”
+
+4 These are the words the Lord spoke concerning Israel and Judah: 5 “This is what the Lord says:
+
+“‘Cries of fear are heard—
+    terror, not peace.
+6 Ask and see:
+    Can a man bear children?
+Then why do I see every strong man
+    with his hands on his stomach like a woman in labor,
+    every face turned deathly pale?
+7 How awful that day will be!
+    No other will be like it.
+It will be a time of trouble for Jacob,
+    but he will be saved out of it.
+
+8 “‘In that day,’ declares the Lord Almighty,
+    ‘I will break the yoke off their necks
+and will tear off their bonds;
+    no longer will foreigners enslave them.
+9 Instead, they will serve the Lord their God
+    and David their king,
+    whom I will raise up for them.
+
+10 “‘So do not be afraid, Jacob my servant;
+    do not be dismayed, Israel,’
+declares the Lord.
+‘I will surely save you out of a distant place,
+    your descendants from the land of their exile.
+Jacob will again have peace and security,
+    and no one will make him afraid.
+11 I am with you and will save you,’
+    declares the Lord.
+‘Though I completely destroy all the nations
+    among which I scatter you,
+    I will not completely destroy you.
+I will discipline you but only in due measure;
+    I will not let you go entirely unpunished.’
+
+12 “This is what the Lord says:
+
+“‘Your wound is incurable,
+    your injury beyond healing.
+13 There is no one to plead your cause,
+    no remedy for your sore,
+    no healing for you.
+14 All your allies have forgotten you;
+    they care nothing for you.
+I have struck you as an enemy would
+    and punished you as would the cruel,
+because your guilt is so great
+    and your sins so many.
+15 Why do you cry out over your wound,
+    your pain that has no cure?
+Because of your great guilt and many sins
+    I have done these things to you.
+
+16 “‘But all who devour you will be devoured;
+    all your enemies will go into exile.
+Those who plunder you will be plundered;
+    all who make spoil of you I will despoil.
+17 But I will restore you to health
+    and heal your wounds,’
+declares the Lord,
+‘because you are called an outcast,
+    Zion for whom no one cares.’
+
+18 “This is what the Lord says:
+
+“‘I will restore the fortunes of Jacob’s tents
+    and have compassion on his dwellings;
+the city will be rebuilt on her ruins,
+    and the palace will stand in its proper place.
+19 From them will come songs of thanksgiving
+    and the sound of rejoicing.
+I will add to their numbers,
+    and they will not be decreased;
+I will bring them honor,
+    and they will not be disdained.
+20 Their children will be as in days of old,
+    and their community will be established before me;
+    I will punish all who oppress them.
+21 Their leader will be one of their own;
+    their ruler will arise from among them.
+I will bring him near and he will come close to me—
+    for who is he who will devote himself
+    to be close to me?’
+declares the Lord.
+22 “‘So you will be my people,
+    and I will be your God.’”
+
+23 See, the storm of the Lord
+    will burst out in wrath,
+a driving wind swirling down
+    on the heads of the wicked.
+24 The fierce anger of the Lord will not turn back
+    until he fully accomplishes
+    the purposes of his heart.
+In days to come
+    you will understand this.
 
 
   
@@ -2230,8 +2460,181 @@ False Prophecy
           <h2  className={styles.chapter}>Jeremiah Chapter XXXI</h2>
                                           <p>
                                          
-<h4 className={styles.h4}>             </h4>
+<h4 className={styles.h4}>“At that time,” declares the Lord, “I will be the God of all the families of Israel, and they will be my people.”
+</h4>
+31 “At that time,” declares the Lord, “I will be the God of all the families of Israel, and they will be my people.”
 
+2 This is what the Lord says:
+
+“The people who survive the sword
+    will find favor in the wilderness;
+    I will come to give rest to Israel.”
+
+3 The Lord appeared to us in the past,[a] saying:
+
+“I have loved you with an everlasting love;
+    I have drawn you with unfailing kindness.
+4 I will build you up again,
+    and you, Virgin Israel, will be rebuilt.
+Again you will take up your timbrels
+    and go out to dance with the joyful.
+5 Again you will plant vineyards
+    on the hills of Samaria;
+the farmers will plant them
+    and enjoy their fruit.
+6 There will be a day when watchmen cry out
+    on the hills of Ephraim,
+‘Come, let us go up to Zion,
+    to the Lord our God.’”
+
+7 This is what the Lord says:
+
+“Sing with joy for Jacob;
+    shout for the foremost of the nations.
+Make your praises heard, and say,
+    ‘Lord, save your people,
+    the remnant of Israel.’
+8 See, I will bring them from the land of the north
+    and gather them from the ends of the earth.
+Among them will be the blind and the lame,
+    expectant mothers and women in labor;
+    a great throng will return.
+9 They will come with weeping;
+    they will pray as I bring them back.
+I will lead them beside streams of water
+    on a level path where they will not stumble,
+because I am Israel’s father,
+    and Ephraim is my firstborn son.
+
+10 “Hear the word of the Lord, you nations;
+    proclaim it in distant coastlands:
+‘He who scattered Israel will gather them
+    and will watch over his flock like a shepherd.’
+11 For the Lord will deliver Jacob
+    and redeem them from the hand of those stronger than they.
+12 They will come and shout for joy on the heights of Zion;
+    they will rejoice in the bounty of the Lord—
+the grain, the new wine and the olive oil,
+    the young of the flocks and herds.
+They will be like a well-watered garden,
+    and they will sorrow no more.
+13 Then young women will dance and be glad,
+    young men and old as well.
+I will turn their mourning into gladness;
+    I will give them comfort and joy instead of sorrow.
+14 I will satisfy the priests with abundance,
+    and my people will be filled with my bounty,”
+declares the Lord.
+
+15 This is what the Lord says:
+
+“A voice is heard in Ramah,
+    mourning and great weeping,
+Rachel weeping for her children
+    and refusing to be comforted,
+    because they are no more.”
+
+16 This is what the Lord says:
+
+“Restrain your voice from weeping
+    and your eyes from tears,
+for your work will be rewarded,”
+declares the Lord.
+    “They will return from the land of the enemy.
+17 So there is hope for your descendants,”
+declares the Lord.
+    “Your children will return to their own land.
+
+18 “I have surely heard Ephraim’s moaning:
+    ‘You disciplined me like an unruly calf,
+    and I have been disciplined.
+Restore me, and I will return,
+    because you are the Lord my God.
+19 After I strayed,
+    I repented;
+after I came to understand,
+    I beat my breast.
+I was ashamed and humiliated
+    because I bore the disgrace of my youth.’
+20 Is not Ephraim my dear son,
+    the child in whom I delight?
+Though I often speak against him,
+    I still remember him.
+Therefore my heart yearns for him;
+    I have great compassion for him,”
+declares the Lord.
+
+21 “Set up road signs;
+    put up guideposts.
+Take note of the highway,
+    the road that you take.
+Return, Virgin Israel,
+    return to your towns.
+22 How long will you wander,
+    unfaithful Daughter Israel?
+The Lord will create a new thing on earth—
+    the woman will return to[b] the man.”
+
+23 This is what the Lord Almighty, the God of Israel, says: “When I bring them back from captivity,[c] the people in the land of Judah and in its towns will once again use these words: ‘The Lord bless you, you prosperous city, you sacred mountain.’ 24 People will live together in Judah and all its towns—farmers and those who move about with their flocks. 25 I will refresh the weary and satisfy the faint.”
+
+26 At this I awoke and looked around. My sleep had been pleasant to me.
+
+27 “The days are coming,” declares the Lord, “when I will plant the kingdoms of Israel and Judah with the offspring of people and of animals. 28 Just as I watched over them to uproot and tear down, and to overthrow, destroy and bring disaster, so I will watch over them to build and to plant,” declares the Lord. 29 “In those days people will no longer say,
+
+‘The parents have eaten sour grapes,
+    and the children’s teeth are set on edge.’
+
+30 Instead, everyone will die for their own sin; whoever eats sour grapes—their own teeth will be set on edge.
+
+31 “The days are coming,” declares the Lord,
+    “when I will make a new covenant
+with the people of Israel
+    and with the people of Judah.
+32 It will not be like the covenant
+    I made with their ancestors
+when I took them by the hand
+    to lead them out of Egypt,
+because they broke my covenant,
+    though I was a husband to[d] them,[e]”
+declares the Lord.
+33 “This is the covenant I will make with the people of Israel
+    after that time,” declares the Lord.
+“I will put my law in their minds
+    and write it on their hearts.
+I will be their God,
+    and they will be my people.
+34 No longer will they teach their neighbor,
+    or say to one another, ‘Know the Lord,’
+because they will all know me,
+    from the least of them to the greatest,”
+declares the Lord.
+“For I will forgive their wickedness
+    and will remember their sins no more.”
+
+35 This is what the Lord says,
+
+he who appoints the sun
+    to shine by day,
+who decrees the moon and stars
+    to shine by night,
+who stirs up the sea
+    so that its waves roar—
+    the Lord Almighty is his name:
+36 “Only if these decrees vanish from my sight,”
+    declares the Lord,
+“will Israel ever cease
+    being a nation before me.”
+
+37 This is what the Lord says:
+
+“Only if the heavens above can be measured
+    and the foundations of the earth below be searched out
+will I reject all the descendants of Israel
+    because of all they have done,”
+declares the Lord.
+
+38 “The days are coming,” declares the Lord, “when this city will be rebuilt for me from the Tower of Hananel to the Corner Gate. 39 The measuring line will stretch from there straight to the hill of Gareb and then turn to Goah. 40 The whole valley where dead bodies and ashes are thrown, and all the terraces out to the Kidron Valley on the east as far as the corner of the Horse Gate, will be holy to the Lord. The city will never again be uprooted or demolished.”
+              
                                           </p>
           </div>
 
@@ -2241,8 +2644,36 @@ False Prophecy
           <h2  className={styles.chapter}>Jeremiah Chapter XXXII</h2>
                                           <p>
                                          
-<h4 className={styles.h4}>             </h4>
-                            
+<h4 className={styles.h4}>Jeremiah Buys a Field</h4>
+
+
+32 This is the word that came to Jeremiah from the Lord in the tenth year of Zedekiah king of Judah, which was the eighteenth year of Nebuchadnezzar. 2 The army of the king of Babylon was then besieging Jerusalem, and Jeremiah the prophet was confined in the courtyard of the guard in the royal palace of Judah.
+
+3 Now Zedekiah king of Judah had imprisoned him there, saying, “Why do you prophesy as you do? You say, ‘This is what the Lord says: I am about to give this city into the hands of the king of Babylon, and he will capture it. 4 Zedekiah king of Judah will not escape the Babylonians[a] but will certainly be given into the hands of the king of Babylon, and will speak with him face to face and see him with his own eyes. 5 He will take Zedekiah to Babylon, where he will remain until I deal with him, declares the Lord. If you fight against the Babylonians, you will not succeed.’”
+
+6 Jeremiah said, “The word of the Lord came to me: 7 Hanamel son of Shallum your uncle is going to come to you and say, ‘Buy my field at Anathoth, because as nearest relative it is your right and duty to buy it.’
+
+8 “Then, just as the Lord had said, my cousin Hanamel came to me in the courtyard of the guard and said, ‘Buy my field at Anathoth in the territory of Benjamin. Since it is your right to redeem it and possess it, buy it for yourself.’
+
+“I knew that this was the word of the Lord; 9 so I bought the field at Anathoth from my cousin Hanamel and weighed out for him seventeen shekels[b] of silver. 10 I signed and sealed the deed, had it witnessed, and weighed out the silver on the scales. 11 I took the deed of purchase—the sealed copy containing the terms and conditions, as well as the unsealed copy— 12 and I gave this deed to Baruch son of Neriah, the son of Mahseiah, in the presence of my cousin Hanamel and of the witnesses who had signed the deed and of all the Jews sitting in the courtyard of the guard.
+
+13 “In their presence I gave Baruch these instructions: 14 ‘This is what the Lord Almighty, the God of Israel, says: Take these documents, both the sealed and unsealed copies of the deed of purchase, and put them in a clay jar so they will last a long time. 15 For this is what the Lord Almighty, the God of Israel, says: Houses, fields and vineyards will again be bought in this land.’
+
+16 “After I had given the deed of purchase to Baruch son of Neriah, I prayed to the Lord:
+
+17 “Ah, Sovereign Lord, you have made the heavens and the earth by your great power and outstretched arm. Nothing is too hard for you. 18 You show love to thousands but bring the punishment for the parents’ sins into the laps of their children after them. Great and mighty God, whose name is the Lord Almighty, 19 great are your purposes and mighty are your deeds. Your eyes are open to the ways of all mankind; you reward each person according to their conduct and as their deeds deserve. 20 You performed signs and wonders in Egypt and have continued them to this day, in Israel and among all mankind, and have gained the renown that is still yours. 21 You brought your people Israel out of Egypt with signs and wonders, by a mighty hand and an outstretched arm and with great terror. 22 You gave them this land you had sworn to give their ancestors, a land flowing with milk and honey. 23 They came in and took possession of it, but they did not obey you or follow your law; they did not do what you commanded them to do. So you brought all this disaster on them.
+
+24 “See how the siege ramps are built up to take the city. Because of the sword, famine and plague, the city will be given into the hands of the Babylonians who are attacking it. What you said has happened, as you now see. 25 And though the city will be given into the hands of the Babylonians, you, Sovereign Lord, say to me, ‘Buy the field with silver and have the transaction witnessed.’”
+
+26 Then the word of the Lord came to Jeremiah: 27 “I am the Lord, the God of all mankind. Is anything too hard for me? 28 Therefore this is what the Lord says: I am about to give this city into the hands of the Babylonians and to Nebuchadnezzar king of Babylon, who will capture it. 29 The Babylonians who are attacking this city will come in and set it on fire; they will burn it down, along with the houses where the people aroused my anger by burning incense on the roofs to Baal and by pouring out drink offerings to other gods.
+
+30 “The people of Israel and Judah have done nothing but evil in my sight from their youth; indeed, the people of Israel have done nothing but arouse my anger with what their hands have made, declares the Lord. 31 From the day it was built until now, this city has so aroused my anger and wrath that I must remove it from my sight. 32 The people of Israel and Judah have provoked me by all the evil they have done—they, their kings and officials, their priests and prophets, the people of Judah and those living in Jerusalem. 33 They turned their backs to me and not their faces; though I taught them again and again, they would not listen or respond to discipline. 34 They set up their vile images in the house that bears my Name and defiled it. 35 They built high places for Baal in the Valley of Ben Hinnom to sacrifice their sons and daughters to Molek, though I never commanded—nor did it enter my mind—that they should do such a detestable thing and so make Judah sin.
+
+36 “You are saying about this city, ‘By the sword, famine and plague it will be given into the hands of the king of Babylon’; but this is what the Lord, the God of Israel, says: 37 I will surely gather them from all the lands where I banish them in my furious anger and great wrath; I will bring them back to this place and let them live in safety. 38 They will be my people, and I will be their God. 39 I will give them singleness of heart and action, so that they will always fear me and that all will then go well for them and for their children after them. 40 I will make an everlasting covenant with them: I will never stop doing good to them, and I will inspire them to fear me, so that they will never turn away from me. 41 I will rejoice in doing them good and will assuredly plant them in this land with all my heart and soul.
+
+42 “This is what the Lord says: As I have brought all this great calamity on this people, so I will give them all the prosperity I have promised them. 43 Once more fields will be bought in this land of which you say, ‘It is a desolate waste, without people or animals, for it has been given into the hands of the Babylonians.’ 44 Fields will be bought for silver, and deeds will be signed, sealed and witnessed in the territory of Benjamin, in the villages around Jerusalem, in the towns of Judah and in the towns of the hill country, of the western foothills and of the Negev, because I will restore their fortunes,[c] declares the Lord.”
+
+              
   </p>
           </div>
 
@@ -2253,8 +2684,41 @@ False Prophecy
           <h2  className={styles.chapter}>Jeremiah Chapter XXXIII</h2>
                                           <p>
                                          
-                                         <h4 className={styles.h4}>           </h4>
-                                    
+                                         <h4 className={styles.h4}>Promise of Restoration</h4>
+
+
+33 While Jeremiah was still confined in the courtyard of the guard, the word of the Lord came to him a second time: 2 “This is what the Lord says, he who made the earth, the Lord who formed it and established it—the Lord is his name: 3 ‘Call to me and I will answer you and tell you great and unsearchable things you do not know.’ 4 For this is what the Lord, the God of Israel, says about the houses in this city and the royal palaces of Judah that have been torn down to be used against the siege ramps and the sword 5 in the fight with the Babylonians[a]: ‘They will be filled with the dead bodies of the people I will slay in my anger and wrath. I will hide my face from this city because of all its wickedness.
+
+6 “‘Nevertheless, I will bring health and healing to it; I will heal my people and will let them enjoy abundant peace and security. 7 I will bring Judah and Israel back from captivity[b] and will rebuild them as they were before. 8 I will cleanse them from all the sin they have committed against me and will forgive all their sins of rebellion against me. 9 Then this city will bring me renown, joy, praise and honor before all nations on earth that hear of all the good things I do for it; and they will be in awe and will tremble at the abundant prosperity and peace I provide for it.’
+
+10 “This is what the Lord says: ‘You say about this place, “It is a desolate waste, without people or animals.” Yet in the towns of Judah and the streets of Jerusalem that are deserted, inhabited by neither people nor animals, there will be heard once more 11 the sounds of joy and gladness, the voices of bride and bridegroom, and the voices of those who bring thank offerings to the house of the Lord, saying,
+
+“Give thanks to the Lord Almighty,
+    for the Lord is good;
+    his love endures forever.”
+
+For I will restore the fortunes of the land as they were before,’ says the Lord.
+
+12 “This is what the Lord Almighty says: ‘In this place, desolate and without people or animals—in all its towns there will again be pastures for shepherds to rest their flocks. 13 In the towns of the hill country, of the western foothills and of the Negev, in the territory of Benjamin, in the villages around Jerusalem and in the towns of Judah, flocks will again pass under the hand of the one who counts them,’ says the Lord.
+
+14 “‘The days are coming,’ declares the Lord, ‘when I will fulfill the good promise I made to the people of Israel and Judah.
+
+15 “‘In those days and at that time
+    I will make a righteous Branch sprout from David’s line;
+    he will do what is just and right in the land.
+16 In those days Judah will be saved
+    and Jerusalem will live in safety.
+This is the name by which it[c] will be called:
+    The Lord Our Righteous Savior.’
+
+17 For this is what the Lord says: ‘David will never fail to have a man to sit on the throne of Israel, 18 nor will the Levitical priests ever fail to have a man to stand before me continually to offer burnt offerings, to burn grain offerings and to present sacrifices.’”
+
+19 The word of the Lord came to Jeremiah: 20 “This is what the Lord says: ‘If you can break my covenant with the day and my covenant with the night, so that day and night no longer come at their appointed time, 21 then my covenant with David my servant—and my covenant with the Levites who are priests ministering before me—can be broken and David will no longer have a descendant to reign on his throne. 22 I will make the descendants of David my servant and the Levites who minister before me as countless as the stars in the sky and as measureless as the sand on the seashore.’”
+
+23 The word of the Lord came to Jeremiah: 24 “Have you not noticed that these people are saying, ‘The Lord has rejected the two kingdoms[d] he chose’? So they despise my people and no longer regard them as a nation. 25 This is what the Lord says: ‘If I have not made my covenant with day and night and established the laws of heaven and earth, 26 then I will reject the descendants of Jacob and David my servant and will not choose one of his sons to rule over the descendants of Abraham, Isaac and Jacob. For I will restore their fortunes[e] and have compassion on them.’”
+
+
+              
                                           </p>
           </div>
 
@@ -2264,10 +2728,23 @@ False Prophecy
           >
           <h2  className={styles.chapter}>Jeremiah Chapter XXXIV</h2>
                                           <p>
-                     <h4 className={styles.h4}>               </h4>
+                     <h4 className={styles.h4}>Warning to Zedekiah</h4>
                             
 
+34 While Nebuchadnezzar king of Babylon and all his army and all the kingdoms and peoples in the empire he ruled were fighting against Jerusalem and all its surrounding towns, this word came to Jeremiah from the Lord: 2 “This is what the Lord, the God of Israel, says: Go to Zedekiah king of Judah and tell him, ‘This is what the Lord says: I am about to give this city into the hands of the king of Babylon, and he will burn it down. 3 You will not escape from his grasp but will surely be captured and given into his hands. You will see the king of Babylon with your own eyes, and he will speak with you face to face. And you will go to Babylon.
 
+4 “‘Yet hear the Lord’s promise to you, Zedekiah king of Judah. This is what the Lord says concerning you: You will not die by the sword; 5 you will die peacefully. As people made a funeral fire in honor of your predecessors, the kings who ruled before you, so they will make a fire in your honor and lament, “Alas, master!” I myself make this promise, declares the Lord.’”
+
+6 Then Jeremiah the prophet told all this to Zedekiah king of Judah, in Jerusalem, 7 while the army of the king of Babylon was fighting against Jerusalem and the other cities of Judah that were still holding out—Lachish and Azekah. These were the only fortified cities left in Judah.
+
+Freedom for Slaves
+8 The word came to Jeremiah from the Lord after King Zedekiah had made a covenant with all the people in Jerusalem to proclaim freedom for the slaves. 9 Everyone was to free their Hebrew slaves, both male and female; no one was to hold a fellow Hebrew in bondage. 10 So all the officials and people who entered into this covenant agreed that they would free their male and female slaves and no longer hold them in bondage. They agreed, and set them free. 11 But afterward they changed their minds and took back the slaves they had freed and enslaved them again.
+
+12 Then the word of the Lord came to Jeremiah: 13 “This is what the Lord, the God of Israel, says: I made a covenant with your ancestors when I brought them out of Egypt, out of the land of slavery. I said, 14 ‘Every seventh year each of you must free any fellow Hebrews who have sold themselves to you. After they have served you six years, you must let them go free.’[a] Your ancestors, however, did not listen to me or pay attention to me. 15 Recently you repented and did what is right in my sight: Each of you proclaimed freedom to your own people. You even made a covenant before me in the house that bears my Name. 16 But now you have turned around and profaned my name; each of you has taken back the male and female slaves you had set free to go where they wished. You have forced them to become your slaves again.
+
+17 “Therefore this is what the Lord says: You have not obeyed me; you have not proclaimed freedom to your own people. So I now proclaim ‘freedom’ for you, declares the Lord—‘freedom’ to fall by the sword, plague and famine. I will make you abhorrent to all the kingdoms of the earth. 18 Those who have violated my covenant and have not fulfilled the terms of the covenant they made before me, I will treat like the calf they cut in two and then walked between its pieces. 19 The leaders of Judah and Jerusalem, the court officials, the priests and all the people of the land who walked between the pieces of the calf, 20 I will deliver into the hands of their enemies who want to kill them. Their dead bodies will become food for the birds and the wild animals.
+
+21 “I will deliver Zedekiah king of Judah and his officials into the hands of their enemies who want to kill them, to the army of the king of Babylon, which has withdrawn from you. 22 I am going to give the order, declares the Lord, and I will bring them back to this city. They will fight against it, take it and burn it down. And I will lay waste the towns of Judah so no one can live there.”
 
                                           </p>
           </div>
